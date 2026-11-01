@@ -1,9 +1,21 @@
 # Nouha English — site d'apprentissage de l'anglais (A1 → A2) expliqué en darija
 
-Site **100 % local** : aucun compte, aucun serveur obligatoire, aucune donnée envoyée (sauf la
-reconnaissance vocale de Chrome/Edge, qui utilise le service de Google/Microsoft).
+**Site en ligne : https://yasbou2001-source.github.io/nouha-english/** (fonctionne sur n'importe quel PC avec Chrome ou Edge — à mettre en favori).
+Dépôt : https://github.com/yasbou2001-source/nouha-english
 
-## Lancer le site
+Site **100 % statique** : aucun compte, aucune donnée envoyée (sauf la reconnaissance vocale de
+Chrome/Edge, qui utilise le service de Google/Microsoft). La progression est enregistrée dans le navigateur
+de chaque PC ; pour la transférer d'un PC à l'autre : page *Ttaqaddom* → « Sawbi noskha » (export) puis
+« Rje3i noskha » (import) sur l'autre PC.
+
+## Mettre à jour le site en ligne
+
+- Depuis ce dossier : modifier → `python tools/build.py` → `git add -A && git commit -m "..." && git push`.
+  GitHub Pages republie en 1 à 2 minutes.
+- Ou directement sur GitHub (éditer un `content/lessons_XX.json` dans le navigateur) : l'action
+  `.github/workflows/build-content.yml` valide le contenu et régénère `data/content.js` toute seule.
+
+## Lancer le site en local (sans internet)
 
 - **Option simple** : double-cliquer sur `index.html` (Chrome ou Edge recommandés).
 - **Option conseillée** : double-cliquer sur `Nouha English.bat` → ouvre `http://localhost:8765`
