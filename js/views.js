@@ -550,7 +550,7 @@ function viewHelp(root) {
     ['4. Lmicro (klam)', 'Bach ttkellmi khassek Google Chrome wla Microsoft Edge, w l\'internet. L\'awwal merra lmota9affi7 ghadi ytleb mennek l\'idn dyal lmicro: khtari "Allow" (Autoriser). Ila sta3melti lmaw9i3 men fichier (file://), lmota9affi7 ymken ytleb l\'idn kol merra — 3adi.'],
     ['5. Lmostawa kaytbeddel bou7do', 'Lmaw9i3 kaytbe3 akhir 30 jawab dyalek. Ila kenti kat jawbi mzyan (85%+) lmostawa kaytla3, ila kan s3ib bzzaf (a9al men 45%) kaynzel chwiya bach trakkzi 3la l\'assassiyat.'],
     ['6. Lkelmat (tikrar mbe33ed)', 'Lkelmat li kat3rfihom kayrej3o lik men ba3d 1, 3, 7, 14 w 30 yom. Diri lkart kol nhar 5 d9ay9 — hadi a7sen tari9a bach lkelmat yb9aw f rassek.'],
-    ['7. Ttaqaddom dyalek', 'Kolchi msejjel f had lpc (f lmota9affi7). F "Ttaqaddom" t9edri tsawbi noskha (fichier) bach ma ydi3ch.'],
+    ['7. Ttaqaddom dyalek w PC akhor', 'Kolchi msejjel f had lpc (f lmota9affi7). Bach tkhedmi men PC akhor: 7elli nefs l\'adresse `https://yasbou2001-source.github.io/nouha-english/` w diri "Sawbi noskha" (export) f "Ttaqaddom" hna, w "Rje3i noskha" (import) f lpc l\'akhor — hakka ttaqaddom dyalek kaymchi m3ak.'],
   ];
   H.forEach(([t, b]) => root.append(el('div', { class: 'card explain' }, el('h3', {}, t), el('div', { html: renderDa(b) }))));
 }
