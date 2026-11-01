@@ -1,0 +1,36 @@
+name: Validate & build content
+
+# Si on modifie content/*.json directement sur GitHub, ce workflow vérifie le contenu
+# et régénère data/content.js automatiquement (puis le commite).
+on:
+  push:
+    branches: [main]
+    paths: ["content/**", "tools/**", ".github/workflows/build-content.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate lessons
+        run: python tools/validate.py content/lessons_*.json
+      - name: Build data/content.js
+        run: python tools/build.py
+      - name: Commit rebuilt content if it changed
+        run: |
+          if ! git diff --quiet -- data/content.js; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/content.js
+            git commit -m "build: regenerate data/content.js"
+            git push
+          else
+            echo "data/content.js already up to date"
+          fi

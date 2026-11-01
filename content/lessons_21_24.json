@@ -1,0 +1,3409 @@
+[
+  {
+    "id": "l21",
+    "order": 21,
+    "level": "A2.2",
+    "emoji": "💼",
+    "title_en": "Jobs & work",
+    "title_da": "Lkhedma",
+    "goals_da": [
+      "Tsewli w tjawbi 3la `What do you do?` w t9oli fin w kifach katkhdmi",
+      "Tsta3mli `have to`, `don't have to`, `must` w `mustn't` bach thedri 3la lwajibat dyal lkhedma",
+      "Tjawbi 3la l'as2ila dyal `job interview` (lmo9abala dyal lkhedma)",
+      "T3erfi lkelmat dyal `CV`: `experience`, `skills`, `diploma`, `full-time`, `part-time`, `salary`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "What do you do? — Chno katkhdmi?",
+        "body_da": "Bach tsewli chi wa7ed 3la khedmto, l'ingliz kay9oulo `What do you do?` — 7arfiyan \"chno katdir?\", walakin lma3na: chno katkhdem? Kayn 7ta `What's your job?`, nefs lma3na.\n\nLjawab: `I'm a` + lkhedma. Dima m3a `a` wla `an` (bhal dars 6): `I'm a nurse.`, `I'm an engineer.` — machi \"I'm nurse\".\n\nBach t9oli fin w kifach katkhdmi:\n\n- `I work in` + lblassa: `I work in a hospital.` = kankhdem f sbitar.\n- `I work for` + cherika wla chkhss: `I work for a big company.` = kankhdem 3nd cherika kbira.\n- `I work as` + lkhedma: `I work as a cashier.` = kankhdem kaysiya.\n\nW ila makatkhdmich daba: `I'm unemployed.` = makhddamach, wla `I'm looking for a job.` = kan9elleb 3la khedma. `I'm self-employed.` = kankhdem l rassi.\n\n**Nasi7a:** `What do you do?` (lkhedma) machi bhal `What are you doing?` (chno katdiri daba — dars 13). Farra9i binathom!",
+        "examples": [
+          {
+            "en": "What do you do?",
+            "da": "Chno katkhdmi?",
+            "pron": "wat dou you dou"
+          },
+          {
+            "en": "I'm a nurse. I work in a hospital in Rabat.",
+            "da": "Ana fermliya. Kankhdem f sbitar f Rabat.",
+            "pron": "aïm a neurs. aï weurk in a hos-pi-teul in ra-bat"
+          },
+          {
+            "en": "My brother works for a big company.",
+            "da": "Khouya kaykhdem 3nd wa7ed cherika kbira.",
+            "pron": "maï bra-theur weurks for a big keum-pa-ni"
+          },
+          {
+            "en": "She works as a cashier in a shop.",
+            "da": "Hiya katkhdem kaysiya f wa7ed l7anout.",
+            "pron": "chi weurks az a ka-chir in a chop"
+          },
+          {
+            "en": "I'm looking for a job.",
+            "da": "Kan9elleb 3la khedma.",
+            "pron": "aïm lou-king for a djob"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "have to / don't have to — khassni / machi daroori",
+        "body_da": "`have to` + lfi3l = khass + lfi3l: 7aja wajiba, lazem tdiriha (l9anoun, lkhedma, lmoudir…).\n\n- `I have to work on Saturday.` = khassni nkhdem nhar ssebt.\n- M3a `he/she/it`: `has to` → `She has to wear a uniform.` = khassha tlbes lebsa dyal lkhedma.\n- So2al: `Do you have to…?` / `Does she have to…?` → `Yes, I do.` / `No, she doesn't.`\n- Lmadi (dars 16): `had to` → `Yesterday I had to stay late.` = lbare7 kan khassni nb9a 7ta l m3ettel.\n\nNnafi: `don't have to` / `doesn't have to` = **machi daroori** — 3ndek lkhtiyar, ila ma dertihach 3adi.\n\n- `We don't have to work on Sundays.` = makhassnach nkhdmo nhar l7edd (3ndna rra7a).\n- `He doesn't have to wear a suit.` = machi daroori ylbes kostim.\n\nBhal f darija: \"khassni\" = `I have to`, \"machi daroori\" = `I don't have to`. Redi lbal: `don't have to` **machi** mamnou3! Mamnou3 ghadi nchoufouh f l9ism jjay m3a `mustn't`.",
+        "examples": [
+          {
+            "en": "I have to get up at six every day.",
+            "da": "Khassni nfi9 m3a ssetta kol nhar.",
+            "pron": "aï hav tou guèt eup at siks év-ri déy"
+          },
+          {
+            "en": "She has to speak English at work.",
+            "da": "Khassha thder b lingliziya f lkhedma.",
+            "pron": "chi haz tou spik in-glich at weurk"
+          },
+          {
+            "en": "We don't have to work on Sundays.",
+            "da": "Makhassnach nkhdmo nhar l7edd — machi daroori.",
+            "pron": "wi dont hav tou weurk on seun-déyz"
+          },
+          {
+            "en": "Do you have to wear a uniform?",
+            "da": "Wach khassek tlebsi lebsa dyal lkhedma?",
+            "pron": "dou you hav tou wér a you-ni-form"
+          },
+          {
+            "en": "Yesterday I had to finish a report.",
+            "da": "Lbare7 kan khassni nkemmel wa7ed tta9rir.",
+            "pron": "yès-teur-déy aï had tou fi-nich a ri-port"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "must / mustn't — lazem / mamnou3",
+        "body_da": "`must` = lazem — 9awiya chwiya kter men `have to`, kat9al f l9awanin, l'ichharat w l'awamir. `must` ma katbeddelch: `I must`, `she must` (bla `-s`), w men ba3dha lfi3l direct, bla `to`: `You must wear a helmet.` (machi \"must to wear\").\n\n`mustn't` (= `must not`) = **mamnou3**: `You mustn't smoke here.` = mamnou3 tkemmi hna.\n\nLfar9 lmohimm:\n\n- `You don't have to come.` = machi daroori tji (ila bghiti tji, mer7ba; ila la, 3adi).\n- `You mustn't come.` = mamnou3 tji!\n\nF lhadra l3adiya, l'ingliz kaysta3mlo `have to` kter men `must`. `must` kat9rayha bzzaf f lwra9 w l'ichharat: `Visitors must sign here.`",
+        "examples": [
+          {
+            "en": "You must be on time.",
+            "da": "Lazem tkouni f lwa9t.",
+            "pron": "you meust bi on taïm"
+          },
+          {
+            "en": "Employees must wear a badge.",
+            "da": "Lkhddama lazem ylebso lbita9a dyal lkhedma.",
+            "pron": "èm-ploï-iz meust wér a badj"
+          },
+          {
+            "en": "You mustn't use your phone in the meeting.",
+            "da": "Mamnou3 tsta3mli ttilifoun dyalek f l'ijtima3.",
+            "pron": "you meus-ent youz your fon in the mi-ting"
+          },
+          {
+            "en": "You don't have to wear a suit, but you mustn't wear jeans.",
+            "da": "Machi daroori tlebsi kostim, walakin mamnou3 tlebsi ddjin.",
+            "pron": "you dont hav tou wér a sout, beut you meus-ent wér djinz"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Lmo9abala dyal lkhedma — the job interview",
+        "body_da": "F `job interview` (lmo9abala dyal lkhedma), kaynin as2ila kaytsewlo dima. Wejjdi ljawab dyalek men 9bel!\n\n- `Tell me about yourself.` = hder liya 3la rassek. → smiytek, l3mer, mnin nti, chno 9riti, fin khdemti: `My name is Nouha, I'm 28. I studied tourism and I worked as a receptionist for two years.`\n- `Why do you want this job?` = 3lach bghiti had lkhedma? → `Because I like working with people.` / `Because I want to learn new things.`\n- `What are your strengths?` = chno hiya no9at l9owwa dyalek? → `I'm organized, I'm patient and I work well in a team.`\n- `Do you have experience?` = wach 3ndek tajriba? → `Yes, I have three years of experience as a receptionist.` / `No, but I learn fast.`\n\nLkelmat dyal `CV`: `experience` = ttajriba, `skills` = lmaharat (chno kat3rfi ddiri), `diploma` = ddiplom / chhada, `full-time` = b lwa9t kaml, `part-time` = b nos lwa9t, `salary` = chhriya.\n\nRedi lbal: 3la lkhedma li fatet, sta3mli lmadi (dars 16): `I worked`, `I studied`. 3la daba: `I work`, `I'm working`.",
+        "examples": [
+          {
+            "en": "Tell me about yourself.",
+            "da": "Hder liya 3la rassek.",
+            "pron": "tèl mi a-bawt your-sèlf"
+          },
+          {
+            "en": "Why do you want this job?",
+            "da": "3lach bghiti had lkhedma?",
+            "pron": "waï dou you wont this djob"
+          },
+          {
+            "en": "I have three years of experience as a receptionist.",
+            "da": "3ndi tlata dyal ssnin dyal ttajriba f l'isti9bal.",
+            "pron": "aï hav thri yirz ov ik-spi-ri-èns az a ri-sèp-cheu-nist"
+          },
+          {
+            "en": "My strengths? I'm organized and I work well in a team.",
+            "da": "No9at l9owwa dyali? Ana mnaddma w kankhdem mzyan m3a lmajmou3a.",
+            "pron": "maï strèngths? aïm or-ga-naïzd and aï weurk wèl in a tim"
+          },
+          {
+            "en": "Is it a full-time or a part-time job?",
+            "da": "Wach hadi khedma b lwa9t kaml wla b nos lwa9t?",
+            "pron": "iz it a foul-taïm or a part-taïm djob"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "job",
+            "da": "khedma",
+            "emoji": "💼",
+            "pron": "djob",
+            "example_en": "I'm looking for a new job.",
+            "example_da": "Kan9elleb 3la khedma jdida."
+          },
+          {
+            "en": "office",
+            "da": "lbiro / lmekteb",
+            "emoji": "🏢",
+            "pron": "o-fis",
+            "example_en": "I work in an office in Casablanca.",
+            "example_da": "Kankhdem f biro f Casa."
+          },
+          {
+            "en": "factory",
+            "da": "lma3mel",
+            "emoji": "🏭",
+            "pron": "fak-teu-ri",
+            "example_en": "My father worked in a factory.",
+            "example_da": "Bba kan khddam f lma3mel."
+          },
+          {
+            "en": "shop",
+            "da": "7anout",
+            "emoji": "🏪",
+            "pron": "chop",
+            "example_en": "She works in a shop.",
+            "example_da": "Hiya katkhdem f 7anout."
+          },
+          {
+            "en": "hospital",
+            "da": "sbitar",
+            "emoji": "🏥",
+            "pron": "hos-pi-teul",
+            "example_en": "Nurses work in a hospital.",
+            "example_da": "Lfermliyat kaykhdmo f sbitar."
+          },
+          {
+            "en": "boss",
+            "da": "lmoudir / lpatron",
+            "emoji": "👔",
+            "pron": "bos",
+            "example_en": "My boss is very kind.",
+            "example_da": "Lmoudir dyali dérif bzzaf."
+          },
+          {
+            "en": "colleague",
+            "da": "zmil f lkhedma",
+            "emoji": "👩‍💼",
+            "pron": "ko-lig",
+            "example_en": "My colleagues are friendly.",
+            "example_da": "Zmlani f lkhedma dérifin."
+          },
+          {
+            "en": "experience",
+            "da": "ttajriba",
+            "emoji": "📋",
+            "pron": "ik-spi-ri-èns",
+            "example_en": "I have two years of experience.",
+            "example_da": "3ndi 3amayn dyal ttajriba."
+          },
+          {
+            "en": "skills",
+            "da": "lmaharat (chno kat3rfi ddiri)",
+            "emoji": "🛠️",
+            "pron": "skilz",
+            "example_en": "Computer skills are important.",
+            "example_da": "Lmaharat dyal lpc mohimmin."
+          },
+          {
+            "en": "diploma",
+            "da": "ddiplom / chhada",
+            "emoji": "🎓",
+            "pron": "di-plo-ma",
+            "example_en": "I have a diploma in accounting.",
+            "example_da": "3ndi diplom f lmo7asaba."
+          },
+          {
+            "en": "full-time",
+            "da": "b lwa9t kaml",
+            "emoji": "🕘",
+            "pron": "foul-taïm",
+            "example_en": "It's a full-time job.",
+            "example_da": "Hadi khedma b lwa9t kaml."
+          },
+          {
+            "en": "part-time",
+            "da": "b nos lwa9t",
+            "emoji": "🕒",
+            "pron": "part-taïm",
+            "example_en": "She works part-time in a café.",
+            "example_da": "Hiya katkhdem b nos lwa9t f 9ehwa."
+          },
+          {
+            "en": "salary",
+            "da": "chhriya / l'oujra",
+            "emoji": "💰",
+            "pron": "sa-la-ri",
+            "example_en": "The salary is 5,000 dirhams a month.",
+            "example_da": "Chhriya hiya 5000 derhem f chhar."
+          },
+          {
+            "en": "interview",
+            "da": "lmo9abala",
+            "emoji": "🗣️",
+            "pron": "in-teur-vyou",
+            "example_en": "I have a job interview tomorrow.",
+            "example_da": "3ndi mo9abala dyal khedma ghedda."
+          },
+          {
+            "en": "uniform",
+            "da": "lebsa dyal lkhedma",
+            "emoji": "👕",
+            "pron": "you-ni-form",
+            "example_en": "I have to wear a uniform.",
+            "example_da": "Khassni nlbes lebsa dyal lkhedma."
+          },
+          {
+            "en": "meeting",
+            "da": "l'ijtima3",
+            "emoji": "👥",
+            "pron": "mi-ting",
+            "example_en": "We have a meeting at ten.",
+            "example_da": "3ndna ijtima3 m3a l3echra."
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "Mo9abala dyal khedma f lotil",
+        "context_da": "Nouha 3ndha mo9abala dyal khedma f l'isti9bal dyal wa7ed lotil f Marrakech. Lmoudir, ssi Brown, kaysewwelha.",
+        "lines": [
+          {
+            "speaker": "Mr. Brown",
+            "en": "Good morning, Nouha. Please, sit down. Tell me about yourself.",
+            "da": "Sbah lkhir, Nouha. Glsi 3afak. Hder liya 3la rassek."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Thank you. I'm 28 years old and I'm from Casablanca. I studied tourism for two years.",
+            "da": "Choukran. 3ndi 28 3am w ana men Casa. 9rit ssiya7a 3amayn."
+          },
+          {
+            "speaker": "Mr. Brown",
+            "en": "Do you have experience?",
+            "da": "Wach 3ndek chi tajriba?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes. I worked as a receptionist in a small hotel for three years.",
+            "da": "Ah. Khdemt f l'isti9bal dyal wa7ed lotil sghir tlata dyal ssnin."
+          },
+          {
+            "speaker": "Mr. Brown",
+            "en": "Why do you want this job?",
+            "da": "3lach bghiti had lkhedma?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Because I like working with people, and I want to use my English.",
+            "da": "7it kan3jebni nkhdem m3a nnas, w bghit nsta3mel lingliziya dyali."
+          },
+          {
+            "speaker": "Mr. Brown",
+            "en": "What are your strengths?",
+            "da": "Chno hiya no9at l9owwa dyalek?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "I'm organized and patient. I'm never late.",
+            "da": "Ana mnaddma w sbbara. 3emmerni makant3ettel."
+          },
+          {
+            "speaker": "Mr. Brown",
+            "en": "Great. You have to work some weekends. Is that OK?",
+            "da": "Mzyan. Khassek tkhdmi chi iyam dyal ssebt w l7edd. Wach hadchi wakha?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes, no problem. When can I start?",
+            "da": "Ah, machi mochkil. Fo9ach n9der nbda?"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "F lmo9abala, l'ingliz kaybghiw ljawab l9sir w lwade7. Ma t9olich ghir `yes` wla `no` — zidi jomla: `Yes, I have two years of experience.` W ila mafhemtich so2al, 9oli b kol thi9a: `Sorry, could you repeat the question, please?` — hadchi 3adi w kaybyen annaki mo2addaba."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "question_da": "Kifach tsewli chi wa7ed 3la khedmto?",
+        "options": [
+          "What do you do?",
+          "How do you do?",
+          "What are you doing?",
+          "Where do you go?"
+        ],
+        "answer": 0,
+        "explain_da": "`What do you do?` = chno katkhdem? `What are you doing?` = chno katdir daba (dars 13). `How do you do?` = ta7iya rasmiya 9dima, machi so2al 3la lkhedma."
+      },
+      {
+        "type": "match",
+        "instruction_da": "Wessli lblassa dyal lkhedma m3a lma3na dyalha.",
+        "pairs": [
+          {
+            "en": "office",
+            "da": "lbiro",
+            "emoji": "🏢"
+          },
+          {
+            "en": "factory",
+            "da": "lma3mel",
+            "emoji": "🏭"
+          },
+          {
+            "en": "hospital",
+            "da": "sbitar",
+            "emoji": "🏥"
+          },
+          {
+            "en": "shop",
+            "da": "7anout",
+            "emoji": "🏪"
+          },
+          {
+            "en": "school",
+            "da": "lmedrasa",
+            "emoji": "🏫"
+          }
+        ]
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "I work in a hospital.",
+        "question_da": "Sem3i. Fin katkhdem had lmra?",
+        "options": [
+          "F sbitar",
+          "F lma3mel",
+          "F 7anout",
+          "F lmedrasa"
+        ],
+        "answer": 0,
+        "explain_da": "`I work in a hospital.` = kankhdem f sbitar. `in` + lblassa."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "She ___ as a cashier in a shop.",
+        "options": [
+          "works",
+          "work",
+          "working"
+        ],
+        "answer": "works",
+        "hint_da": "Hiya → fekkri f dars 8: `he/she` + `-s`.",
+        "explain_da": "`She works` — m3a `he/she/it` kanzido `-s` l lfi3l f l7adir lbassit."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "I ___ to get up at six every day.",
+        "options": [
+          "have",
+          "has",
+          "must"
+        ],
+        "answer": "have",
+        "hint_da": "Khassni nfi9… ana = `I`.",
+        "explain_da": "`I have to` = khassni. `has to` ghir m3a `he/she/it`. `must` ma kayjich m3a `to`."
+      },
+      {
+        "type": "order",
+        "words": [
+          "I",
+          "work",
+          "in",
+          "an",
+          "office",
+          "in",
+          "Rabat."
+        ],
+        "answer": "I work in an office in Rabat.",
+        "da": "Kankhdem f biro f Rabat.",
+        "explain_da": "`I work in` + lblassa. `office` kaybda b 7arf motaharrik (vowel) → `an office`."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Khtari ljomla s7i7a:",
+        "options": [
+          "She must wear a uniform.",
+          "She must to wear a uniform.",
+          "She musts wear a uniform.",
+          "She must wears a uniform."
+        ],
+        "answer": 0,
+        "explain_da": "`must` ma kaytbeddelch w ma kayjich men ba3do `to`: `she must wear`."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "You don't have to work on Sunday.",
+        "question_da": "Sem3i mzyan. Chno lma3na?",
+        "options": [
+          "Machi daroori tkhdmi nhar l7edd",
+          "Mamnou3 tkhdmi nhar l7edd",
+          "Khassek tkhdmi nhar l7edd",
+          "Lazem tkhdmi nhar l7edd"
+        ],
+        "answer": 0,
+        "explain_da": "`don't have to` = machi daroori. `mustn't` = mamnou3. Farra9i binathom!"
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "\"You mustn't smoke here\" means you can smoke if you want.",
+        "statement_da": "`You mustn't smoke here` kat3ni t9edri tkemmi ila bghiti.",
+        "answer": false,
+        "explain_da": "Ghalet! `mustn't` = mamnou3. Li kat3ni \"ila bghiti\" hiya `don't have to`."
+      },
+      {
+        "type": "translate",
+        "da": "Khassha thder b lingliziya f lkhedma.",
+        "answers": [
+          "She has to speak English at work.",
+          "She must speak English at work.",
+          "She needs to speak English at work."
+        ],
+        "hint_en": "She ... to speak ... at ...",
+        "explain_da": "`She has to` = khassha. M3a `she` kan9oulo `has to`, machi `have to`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "Do you have experience?",
+        "da": "Wach 3ndek tajriba?",
+        "explain_da": "Sem3i: `Do` – `you` – `have` – `experience`. `experience` = ttajriba."
+      },
+      {
+        "type": "order",
+        "words": [
+          "Why",
+          "do",
+          "you",
+          "want",
+          "this",
+          "job?"
+        ],
+        "answer": "Why do you want this job?",
+        "da": "3lach bghiti had lkhedma?",
+        "explain_da": "So2al b `Why` + `do` + `you` + lfi3l: `Why do you want…?`"
+      },
+      {
+        "type": "mcq",
+        "question_en": "What are your strengths?",
+        "question_da": "Nti f lmo9abala. Achmen jawab mnassb l had so2al?",
+        "options": [
+          "I'm organized and I work well in a team.",
+          "I'm 28 years old.",
+          "The salary is 5,000 dirhams.",
+          "I live in Casablanca."
+        ],
+        "answer": 0,
+        "explain_da": "`strengths` = no9at l9owwa. Ljawab: ssifat dyalek lmzyanin f lkhedma: `organized`, `patient`, `I work well in a team`."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "She works ___ in a café, only in the mornings.",
+        "answers": [
+          "part-time",
+          "part time",
+          "parttime"
+        ],
+        "hint_da": "B nos lwa9t = …",
+        "explain_da": "`part-time` = b nos lwa9t. `full-time` = b lwa9t kaml."
+      },
+      {
+        "type": "translate",
+        "da": "Ana fermliya. Kankhdem f sbitar f Casablanca.",
+        "answers": [
+          "I am a nurse. I work in a hospital in Casablanca.",
+          "I'm a nurse. I work in a hospital in Casablanca.",
+          "I'm a nurse and I work in a hospital in Casablanca.",
+          "I am a nurse and I work in a hospital in Casablanca."
+        ],
+        "hint_en": "I ... a nurse. I ... in a ... in ...",
+        "explain_da": "Lkhedma dima m3a `a`/`an`: `a nurse`. `in a hospital` = f sbitar."
+      },
+      {
+        "type": "speak",
+        "target_en": "I'm organized and patient, and I have three years of experience.",
+        "da": "Ana mnaddma w sbbara, w 3ndi tlata dyal ssnin dyal ttajriba.",
+        "pron": "aïm or-ga-naïzd and péy-chènt, and aï hav thri yirz ov ik-spi-ri-èns"
+      }
+    ],
+    "reading": {
+      "title_en": "Two jobs, two lives",
+      "title_da": "Jouj khedmat, jouj 7ayawat",
+      "emoji": "👷‍♂️",
+      "text_en": "Omar is 30 years old and he lives in Tangier. He works in a big car factory. He has to start work at seven o'clock in the morning, so he gets up at half past five. He must wear a uniform, a helmet and special shoes, because the factory can be dangerous. Omar works full-time, from Monday to Friday. He doesn't have to work at the weekend. He likes his colleagues, but the work is hard and the salary is not very high.\n\nHis sister Laila is a teacher. She works part-time in a primary school in Tetouan. She has to prepare her lessons at home, but she doesn't have to wear a uniform. Her students are small children, so she must be patient. Laila loves her job. Next month, she has an interview for a full-time job in a bigger school. She is a little nervous, but she has a diploma and five years of experience.",
+      "text_da": "Omar 3ndo 30 3am w kayskon f Tanja. Kaykhdem f wa7ed lma3mel kbir dyal ttomobilat. Khasso ybda lkhedma m3a ssb3a dyal sbah, 3la hadak kayfi9 m3a lkhemsa w nos. Lazem ylbes lebsa dyal lkhedma, lkask w sbbat khass, 7it lma3mel y9der ykoun khatir. Omar kaykhdem b lwa9t kaml, men ttnin 7ta l jem3a. Makhassouch ykhdem f ssebt w l7edd. Kay3jbouh zmlano, walakin lkhedma s3iba w chhriya machi 3alya bzzaf.\n\nKhto Laila oustada. Katkhdem b nos lwa9t f wa7ed lmedrasa ibtida2iya f Titwan. Khassha twejjed ddorous dyalha f ddar, walakin makhasshach tlbes lebsa dyal lkhedma. Ttlamed dyalha drari sghar, 3la hadak lazem tkoun sbbara. Laila kat3chi9 khdemtha. Chhar jjay, 3ndha mo9abala l khedma b lwa9t kaml f medrasa kber. Hiya mkhel3a chwiya, walakin 3ndha ddiplom w khemsa dyal ssnin dyal ttajriba.",
+      "glossary": [
+        {
+          "en": "factory",
+          "da": "lma3mel"
+        },
+        {
+          "en": "helmet",
+          "da": "lkask"
+        },
+        {
+          "en": "dangerous",
+          "da": "khatir"
+        },
+        {
+          "en": "colleagues",
+          "da": "zmlan f lkhedma"
+        },
+        {
+          "en": "salary",
+          "da": "chhriya"
+        },
+        {
+          "en": "primary school",
+          "da": "lmedrasa l'ibtida2iya"
+        },
+        {
+          "en": "to prepare",
+          "da": "twejjed"
+        },
+        {
+          "en": "patient",
+          "da": "sbbar / sbbara"
+        },
+        {
+          "en": "nervous",
+          "da": "mkhel3 / mkhel3a chwiya"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach khass Omar ybda lkhedma?",
+          "options": [
+            "M3a ssb3a dyal sbah",
+            "M3a lkhemsa w nos",
+            "M3a ttmenya",
+            "M3a ssetta"
+          ],
+          "answer": 0,
+          "explain_da": "\"He has to start work at seven o'clock.\" Kayfi9 m3a lkhemsa w nos, walakin kaybda lkhedma m3a ssb3a."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Omar has to work at the weekend.",
+          "answer": false,
+          "explain_da": "Ghalet: \"He doesn't have to work at the weekend.\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "3lach lazem Laila tkoun sbbara?",
+          "options": [
+            "7it ttlamed dyalha drari sghar",
+            "7it lkhedma f lma3mel khatira",
+            "7it chhriya 9lila",
+            "7it katkhdem f ssebt w l7edd"
+          ],
+          "answer": 0,
+          "explain_da": "\"Her students are small children, so she must be patient.\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Laila has a diploma and five years of experience.",
+          "answer": true,
+          "explain_da": "S7i7: \"she has a diploma and five years of experience.\""
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "Khedma jdida",
+      "emoji": "🎧",
+      "pre_da": "Sem3i l7iwar. Rekkzi 3la: fin kaykhdem Omar daba? w chno khasso ydir f lkhedma?",
+      "lines": [
+        {
+          "speaker": "Sarah",
+          "en": "Hi, Omar! I heard you have a new job. What do you do now?",
+          "da": "Ahlan, Omar! Sme3t belli 3ndek khedma jdida. Chno katkhdem daba?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Hi, Sarah! Yes, I'm a waiter. I work in a restaurant in Agadir.",
+          "da": "Ahlan, Sarah! Ah, ana serbay. Kankhdem f restaurant f Agadir."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Nice! Is it full-time?",
+          "da": "Zwin! Wach b lwa9t kaml?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "No, it's part-time. I work from six to eleven in the evening.",
+          "da": "La, b nos lwa9t. Kankhdem men ssetta 7ta l 7dach f lil."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Do you have to wear a uniform?",
+          "da": "Wach khassek tlbes lebsa dyal lkhedma?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Yes, a white shirt and black trousers. And I mustn't use my phone at work.",
+          "da": "Ah, 9amija byda w serwal k7el. W mamnou3 nsta3mel ttilifoun dyali f lkhedma."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "What about the salary?",
+          "da": "W chhriya?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "It's not bad: 3,000 dirhams a month, plus tips. My boss is nice, but I have to work every Saturday.",
+          "da": "Machi khayba: 3000 derhem f chhar, zayd lbakhchich. Lmoudir dyali dérif, walakin khassni nkhdem kol sebt."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Well, good luck with the new job!",
+          "da": "Yallah, bttawfi9 f lkhedma jdida!"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Chno khedmet Omar daba?",
+          "options": [
+            "Serbay f restaurant",
+            "Fermli f sbitar",
+            "Oustad f medrasa",
+            "Khddam f ma3mel"
+          ],
+          "answer": 0,
+          "explain_da": "\"I'm a waiter. I work in a restaurant in Agadir.\" `waiter` = serbay."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Omar works full-time.",
+          "answer": false,
+          "explain_da": "Ghalet: \"No, it's part-time.\""
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "I mustn't use my phone at work.",
+          "question_da": "Sem3i. Chno kat3ni had ljomla?",
+          "options": [
+            "Mamnou3 nsta3mel ttilifoun f lkhedma",
+            "Machi daroori nsta3mel ttilifoun f lkhedma",
+            "Khassni nsta3mel ttilifoun f lkhedma",
+            "N9der nsta3mel ttilifoun f lkhedma"
+          ],
+          "answer": 0,
+          "explain_da": "`mustn't` = mamnou3."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al chhriya dyal Omar?",
+          "options": [
+            "3000 derhem f chhar",
+            "5000 derhem f chhar",
+            "2000 derhem f chhar",
+            "6000 derhem f chhar"
+          ],
+          "answer": 0,
+          "explain_da": "\"3,000 dirhams a month, plus tips.\" `tips` = lbakhchich."
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "What do you do?",
+          "da": "Chno katkhdem?",
+          "pron": "wat dou you dou"
+        },
+        {
+          "target_en": "I'm a teacher. I work in a school.",
+          "da": "Ana oustada. Kankhdem f medrasa.",
+          "pron": "aïm a ti-tcheur. aï weurk in a skoul"
+        },
+        {
+          "target_en": "I have to work on Saturday.",
+          "da": "Khassni nkhdem nhar ssebt.",
+          "pron": "aï hav tou weurk on sa-teur-déy"
+        },
+        {
+          "target_en": "You mustn't be late.",
+          "da": "Mamnou3 tt3ettli.",
+          "pron": "you meus-ent bi léyt"
+        },
+        {
+          "target_en": "Tell me about yourself.",
+          "da": "Hder liya 3la rassek.",
+          "pron": "tèl mi a-bawt your-sèlf"
+        },
+        {
+          "target_en": "I have two years of experience.",
+          "da": "3ndi 3amayn dyal ttajriba.",
+          "pron": "aï hav tou yirz ov ik-spi-ri-èns"
+        }
+      ],
+      "roleplay": {
+        "title_da": "Mo9abala dyal khedma",
+        "context_da": "Nti f mo9abala l khedma f l'isti9bal dyal wa7ed lotil f Marrakech. Lmoudir ghadi ysewlek. Jawbi b jomal kamlin, machi ghir `yes` wla `no`!",
+        "turns": [
+          {
+            "bot_en": "Good morning. Please sit down. Tell me about yourself.",
+            "bot_da": "Sbah lkhir. Glsi 3afak. Hder liya 3la rassek.",
+            "expect_keywords": [
+              "my name",
+              "i'm",
+              "i am",
+              "years old",
+              "from",
+              "i live",
+              "i studied"
+            ],
+            "sample_en": "My name is Nouha. I'm from Casablanca and I studied tourism."
+          },
+          {
+            "bot_en": "Do you have any experience?",
+            "bot_da": "Wach 3ndek chi tajriba?",
+            "expect_keywords": [
+              "yes",
+              "experience",
+              "i worked",
+              "years",
+              "no, but"
+            ],
+            "sample_en": "Yes, I worked as a receptionist for two years."
+          },
+          {
+            "bot_en": "Why do you want this job?",
+            "bot_da": "3lach bghiti had lkhedma?",
+            "expect_keywords": [
+              "because",
+              "i like",
+              "i love",
+              "i want",
+              "people",
+              "english"
+            ],
+            "sample_en": "Because I like working with people and I want to use my English."
+          },
+          {
+            "bot_en": "What are your strengths?",
+            "bot_da": "Chno hiya no9at l9owwa dyalek?",
+            "expect_keywords": [
+              "organized",
+              "organised",
+              "patient",
+              "hard",
+              "team",
+              "friendly",
+              "never late",
+              "i'm",
+              "i am"
+            ],
+            "sample_en": "I'm organized and patient, and I work well in a team."
+          },
+          {
+            "bot_en": "You have to work some Saturdays. Is that OK for you?",
+            "bot_da": "Khassek tkhdmi chi iyam dyal ssebt. Wach hadchi wakha?",
+            "expect_keywords": [
+              "yes",
+              "no problem",
+              "ok",
+              "okay",
+              "fine",
+              "of course",
+              "sure"
+            ],
+            "sample_en": "Yes, no problem."
+          },
+          {
+            "bot_en": "Great. Do you have any questions for me?",
+            "bot_da": "Mzyan. Wach 3ndek chi so2al liya?",
+            "expect_keywords": [
+              "salary",
+              "when",
+              "start",
+              "full-time",
+              "part-time",
+              "hours",
+              "what time",
+              "no, thank you",
+              "yes"
+            ],
+            "sample_en": "Yes. Is it a full-time job? And when can I start?"
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Khedmti wla lkhedma li kanbghi",
+      "prompt_da": "Ktbi 50 kelma 3la khedma (dyalek wla li katbghi tkhdmiha): chno katkhdmi (wla chno bghiti tkhdmi), fin, chno khassek tdiri f had lkhedma (`have to`), chno machi daroori (`don't have to`), w chno mamnou3 (`mustn't`). Zidi 3lach kat3jbek.",
+      "helper_en": [
+        "I'm a ... / I want to be a ...",
+        "I work in a ...",
+        "I have to ...",
+        "I don't have to ...",
+        "I mustn't ..."
+      ],
+      "min_words": 50,
+      "keywords": [
+        "work",
+        "have to"
+      ],
+      "model_en": "I'm a receptionist. I work in a small hotel in Casablanca. I work full-time, from Monday to Friday. I have to speak with tourists in English, so my English is very important. I have to wear a uniform and I must be polite and patient. I don't have to work at night, but I have to work some Saturdays. I mustn't use my phone at the reception desk. I like my job because I meet new people every day, and my colleagues are very friendly."
+    }
+  },
+  {
+    "id": "l22",
+    "order": 22,
+    "level": "A2.2",
+    "emoji": "✈️",
+    "title_en": "Travel: at the airport & the hotel",
+    "title_da": "Ssafar: lmatar w lotil",
+    "goals_da": [
+      "T7ejzi bit wla tikiya b `I'd like to book…`",
+      "Tfehmi lkelmat dyal lmatar: `check-in`, `boarding pass`, `gate`, `luggage`, `delayed`",
+      "Tsewli b 'adab f lotil: `Could I have…?`, `Is breakfast included?`, `What time is check-out?`",
+      "Tchekiwi mochkil f lotil: `The Wi-Fi doesn't work`, `There's no hot water`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "I'd like to… — bghit… b 'adab",
+        "body_da": "`would like` = bghit, walakin b 'adab kter men `want`. `I would like` kat9esser dima w katwelli `I'd like`.\n\nKaynin jouj tari9at:\n\n- `I'd like` + ism: `I'd like a ticket to London.` = bghit tikiya l London.\n- `I'd like to` + fi3l: `I'd like to book a room.` = bghit n7jez bit.\n\nSo2al: `Would you like…?` = wach bghiti…? Ljawab: `Yes, please.` / `No, thank you.`\n\nKatkhdem m3a ga3 nnas: `She'd like`, `We'd like`, `They'd like` — nefs lforma, bla `-s`.\n\nF darija kan9oulo \"bghit\" f kolchi, walakin f lingliziya `I want a room` kat'ban 9ass7a chwiya m3a nnas li makat3rfihomch. F lotil, f lmatar, f restaurant → dima `I'd like`. (Chefti `I'd like` 9bel f dars 9, f l9ehwa — hna nefs chi, walakin f ssafar.)",
+        "examples": [
+          {
+            "en": "I'd like to book a room for two nights.",
+            "da": "Bghit n7jez bit l jouj lyali.",
+            "pron": "aïd laïk tou bouk a roum for tou naïts"
+          },
+          {
+            "en": "I'd like a ticket to Madrid, please.",
+            "da": "Bghit tikiya l Madrid, 3afak.",
+            "pron": "aïd laïk a ti-kit tou ma-drid, pliz"
+          },
+          {
+            "en": "Would you like a single or a double room?",
+            "da": "Wach bghiti bit l wa7ed wla bit l jouj?",
+            "pron": "woud you laïk a sin-gueul or a deu-beul roum"
+          },
+          {
+            "en": "We'd like to check in, please.",
+            "da": "Bghina nsejjlo lwsoul dyalna, 3afak.",
+            "pron": "wid laïk tou tchèk in, pliz"
+          },
+          {
+            "en": "I'd like to pay by card.",
+            "da": "Bghit nkhelles b lkart.",
+            "pron": "aïd laïk tou péy baï kard"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "F lmatar — at the airport",
+        "body_da": "F lmatar kaynin mara7il, w kol wa7da 3ndha lkelmat dyalha:\n\n- `check-in desk`: lbiro fin kat3ti lbagaj w kat'akhdi `boarding pass` (lwer9a li kadkhli biha l ttiyara). Kay9oulo lik: `Passport, please.` → `Here's my passport.` = hak lpasspor dyali.\n- `Window or aisle?` = blassa 7da cherjem (`window seat`) wla 7da lmemcha (`aisle seat`)? Redi lbal: `aisle` kat9ra \"aïl\" — l `s` ma kat9rach!\n- `security` = lmora9aba. `passport control` = lmora9aba dyal lpasspor.\n- `gate` = lbab fin katrekbi ttiyara: `Gate 12`. `boarding` = rrkoub.\n- `flight` = rri7la / ttiyara: `Is the flight on time?` = wach ttiyara f lwa9t? `The flight is delayed.` = ttiyara mt3ettla.\n\n`luggage` (wla `baggage`) = lbagaj — ism ma kayt3eddch, bhal `water`: `my luggage is heavy` (machi \"luggages\"). Bach t3eddi: `one bag`, `two suitcases`. `hand luggage` = ssak sghir li kaydkhol m3ak f ttiyara.",
+        "examples": [
+          {
+            "en": "Here's my passport and my ticket.",
+            "da": "Hak lpasspor dyali w ttikiya dyali.",
+            "pron": "hirz maï pas-port and maï ti-kit"
+          },
+          {
+            "en": "Would you like a window seat or an aisle seat?",
+            "da": "Wach bghiti blassa 7da cherjem wla 7da lmemcha?",
+            "pron": "woud you laïk a win-do sit or an aïl sit"
+          },
+          {
+            "en": "Your flight leaves from gate 12.",
+            "da": "Ttiyara dyalek ghadi tkhrej men lbab 12.",
+            "pron": "your flaït livz from guéyt twèlv"
+          },
+          {
+            "en": "The flight to Paris is delayed.",
+            "da": "Ttiyara dyal Paris mt3ettla.",
+            "pron": "the flaït tou pa-ris iz di-léyd"
+          },
+          {
+            "en": "How many bags do you have?",
+            "da": "Ch7al men chanta 3ndek?",
+            "pron": "haw mé-ni bagz dou you hav"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "F lotil — at the hotel",
+        "body_da": "Melli katwesli l lotil, kat9oli: `Hello, I have a reservation.` = 3ndi 7ajz, wla `I'd like to check in.`\n\n- `check in` = kat'akhdi ssarout melli katwesli. `check out` = katkhelsi w katkhelli lbit melli katmchi. So2al mohimm: `What time is check-out?` (3adatan m3a l7dach wla ttnach).\n- Nnaw3 dyal lbit: `single room` = bit l wa7ed, `double room` = bit l jouj (nmousiya kbira), `twin room` = bit b jouj nmousiyat.\n- `Is breakfast included?` = wach lftor dakhel f ttaman?\n- `key` / `key card` = ssarout / lkart dyal lbit. `floor` = ttab9a: `Your room is on the third floor.` (l'ar9am ttartibiya men dars 11: `first`, `second`, `third`).\n\nBach ttelbi chi 7aja b 'adab: `Could I have…, please?` → `Could I have the Wi-Fi password, please?`, `Could I have another towel?`. `Could I have` 'adab kter men `Can I have` (dars 9 w 14).",
+        "examples": [
+          {
+            "en": "Hello, I have a reservation. My name is Nouha Alami.",
+            "da": "Salam, 3ndi 7ajz. Smiyti Nouha Alami.",
+            "pron": "hé-lo, aï hav a ré-zeur-véy-cheun. maï néym iz nou-ha a-la-mi"
+          },
+          {
+            "en": "Is breakfast included?",
+            "da": "Wach lftor dakhel f ttaman?",
+            "pron": "iz brèk-feust in-klou-did"
+          },
+          {
+            "en": "What time is check-out?",
+            "da": "Fo9ach khassni nkhelli lbit?",
+            "pron": "wat taïm iz tchèk-awt"
+          },
+          {
+            "en": "Could I have the Wi-Fi password, please?",
+            "da": "Wach ymken t3tini lkod dyal lWi-Fi, 3afak?",
+            "pron": "koud aï hav the waï-faï pass-weurd, pliz"
+          },
+          {
+            "en": "Your room is on the second floor. Here's your key.",
+            "da": "Lbit dyalek f ttab9a ttanya. Hak ssarout dyalek.",
+            "pron": "your roum iz on the sé-keund flor. hirz your ki"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Lmachakil f lotil — problems",
+        "body_da": "Ila kan chi mochkil, bdaï dima b 'adab: `Excuse me, there's a problem with my room.` Men ba3d 9oli chno lmochkil:\n\n- `The Wi-Fi doesn't work.` = lWi-Fi makhddamch. (`doesn't work` = nnafi dyal l7adir lbassit, dars 8.) `The air conditioning doesn't work.` = lklimatizasyon makhddamach.\n- `There's no hot water.` = makaynch lma skhoun. `There are no towels.` = makaynch lfwat. (`There's no` / `There are no` = dars 10.)\n- `The room is too noisy.` = lbit fih ssda3 bzzaf. `It's too cold.` (`too` = bzzaf, kter men lma39oul — dars 12.)\n\nMen ba3d, tlbi l7ell: `Could you send someone to fix it?` = wach ymken tsift chi wa7ed ysle7ha? wla `Could I change rooms?` = wach n9der nbeddel lbit?\n\nLmowaddaf ghadi yjawbek: `I'm sorry about that. I'll send someone right away.` = sme7 liya, ghadi nsift chi wa7ed daba daba. (`I'll` = 9arar f lwa9t, dars 19.)",
+        "examples": [
+          {
+            "en": "Excuse me, the Wi-Fi in my room doesn't work.",
+            "da": "Sme7 liya, lWi-Fi f lbit dyali makhddamch.",
+            "pron": "ik-skiouz mi, the waï-faï in maï roum deu-zent weurk"
+          },
+          {
+            "en": "There's no hot water in the bathroom.",
+            "da": "Makaynch lma skhoun f ddouch.",
+            "pron": "thérz no hot wo-teur in the bath-roum"
+          },
+          {
+            "en": "The room is too noisy. Could I change rooms?",
+            "da": "Lbit fih ssda3 bzzaf. Wach n9der nbeddel lbit?",
+            "pron": "the roum iz tou noï-zi. koud aï tchéyndj roumz"
+          },
+          {
+            "en": "I'm sorry about that. I'll send someone right away.",
+            "da": "Sme7 liya 3la hadchi. Ghadi nsift chi wa7ed daba daba.",
+            "pron": "aïm so-ri a-bawt that. aïl sènd seum-wan raït a-wéy"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "airport",
+            "da": "lmatar",
+            "emoji": "✈️",
+            "pron": "ér-port",
+            "example_en": "We're at the airport.",
+            "example_da": "7na f lmatar."
+          },
+          {
+            "en": "flight",
+            "da": "rri7la (ttiyara)",
+            "emoji": "🛫",
+            "pron": "flaït",
+            "example_en": "My flight is at 9 a.m.",
+            "example_da": "Rri7la dyali m3a tts3oud dyal sbah."
+          },
+          {
+            "en": "ticket",
+            "da": "ttikiya / lbiyi",
+            "emoji": "🎫",
+            "pron": "ti-kit",
+            "example_en": "I'd like a ticket to Madrid.",
+            "example_da": "Bghit tikiya l Madrid."
+          },
+          {
+            "en": "passport",
+            "da": "lpasspor",
+            "emoji": "🛂",
+            "pron": "pas-port",
+            "example_en": "Here's my passport.",
+            "example_da": "Hak lpasspor dyali."
+          },
+          {
+            "en": "boarding pass",
+            "da": "lwer9a dyal rrkoub f ttiyara",
+            "emoji": "🎟️",
+            "pron": "bor-ding pass",
+            "example_en": "Here's your boarding pass.",
+            "example_da": "Hak lwer9a dyal rrkoub dyalek."
+          },
+          {
+            "en": "gate",
+            "da": "lbab dyal rrkoub",
+            "emoji": "🚪",
+            "pron": "guéyt",
+            "example_en": "Go to gate 7.",
+            "example_da": "Siri l lbab 7."
+          },
+          {
+            "en": "luggage",
+            "da": "lbagaj / chwanet",
+            "emoji": "🧳",
+            "pron": "leu-guidj",
+            "example_en": "My luggage is very heavy.",
+            "example_da": "Lbagaj dyali t9il bzzaf."
+          },
+          {
+            "en": "delayed",
+            "da": "mt3ettel / mt3ettla",
+            "emoji": "⏳",
+            "pron": "di-léyd",
+            "example_en": "The flight is delayed.",
+            "example_da": "Ttiyara mt3ettla."
+          },
+          {
+            "en": "reservation",
+            "da": "l7ajz",
+            "emoji": "📅",
+            "pron": "ré-zeur-véy-cheun",
+            "example_en": "I have a reservation for tonight.",
+            "example_da": "3ndi 7ajz l had llila."
+          },
+          {
+            "en": "single room",
+            "da": "bit l wa7ed",
+            "emoji": "🛏️",
+            "pron": "sin-gueul roum",
+            "example_en": "I'd like a single room.",
+            "example_da": "Bghit bit l wa7ed."
+          },
+          {
+            "en": "double room",
+            "da": "bit l jouj",
+            "emoji": "🛌",
+            "pron": "deu-beul roum",
+            "example_en": "A double room for two nights, please.",
+            "example_da": "Bit l jouj l jouj lyali, 3afak."
+          },
+          {
+            "en": "key",
+            "da": "ssarout",
+            "emoji": "🔑",
+            "pron": "ki",
+            "example_en": "Here's your key.",
+            "example_da": "Hak ssarout dyalek."
+          },
+          {
+            "en": "breakfast included",
+            "da": "lftor dakhel f ttaman",
+            "emoji": "🥐",
+            "pron": "brèk-feust in-klou-did",
+            "example_en": "Is breakfast included?",
+            "example_da": "Wach lftor dakhel f ttaman?"
+          },
+          {
+            "en": "to check in",
+            "da": "tsejjli lwsoul (f lotil wla f lmatar)",
+            "emoji": "🛎️",
+            "pron": "tou tchèk in",
+            "example_en": "We can check in at 2 p.m.",
+            "example_da": "N9dro nsejjlo lwsoul m3a jjouj dyal l3chiya."
+          },
+          {
+            "en": "to check out",
+            "da": "tkhelsi w tkhelli lbit",
+            "emoji": "🧾",
+            "pron": "tou tchèk awt",
+            "example_en": "Check-out is at 11 a.m.",
+            "example_da": "Lkhrouj men lbit m3a l7dach dyal sbah."
+          },
+          {
+            "en": "to book",
+            "da": "t7ejzi",
+            "emoji": "📲",
+            "pron": "tou bouk",
+            "example_en": "I'd like to book a room.",
+            "example_da": "Bghit n7jez bit."
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "F l'isti9bal dyal lotil",
+        "context_da": "Nouha weslat l wa7ed lotil f London. Kathder m3a Tom, li khddam f l'isti9bal.",
+        "lines": [
+          {
+            "speaker": "Tom",
+            "en": "Good evening! Welcome to the Park Hotel. How can I help you?",
+            "da": "Msa lkhir! Mer7ba bik f Park Hotel. Kifach n9der n3awnek?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Good evening. I have a reservation. My name is Nouha Alami.",
+            "da": "Msa lkhir. 3ndi 7ajz. Smiyti Nouha Alami."
+          },
+          {
+            "speaker": "Tom",
+            "en": "Let me check… Yes, a single room for three nights. Could I see your passport, please?",
+            "da": "Khellini nchouf… Ah, bit l wa7ed l tlata dyal lyali. Wach ymken nchouf lpasspor dyalek, 3afak?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Of course. Here you are. Is breakfast included?",
+            "da": "Wakha. Hak. Wach lftor dakhel f ttaman?"
+          },
+          {
+            "speaker": "Tom",
+            "en": "Yes, it is. Breakfast is from seven to ten in the restaurant on the ground floor.",
+            "da": "Ah. Lftor men ssb3a 7ta l l3echra f restaurant f ttab9a l'ardiya."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Great. And what time is check-out?",
+            "da": "Mzyan. W fo9ach khassni nkhelli lbit?"
+          },
+          {
+            "speaker": "Tom",
+            "en": "Check-out is at eleven. Here's your key card. Your room is 305, on the third floor.",
+            "da": "Lkhrouj m3a l7dach. Hak lkart dyal lbit. Lbit dyalek howa 305, f ttab9a ttalta."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Thank you. Could I have the Wi-Fi password, please?",
+            "da": "Choukran. Wach ymken t3tini lkod dyal lWi-Fi, 3afak?"
+          },
+          {
+            "speaker": "Tom",
+            "en": "Sure, it's on this card. The lift is on your left. Enjoy your stay!",
+            "da": "Wakha, rah mektoub f had lkart. L'assanseur 3la lissr dyalek. Tmetta3i b l'i9ama dyalek!"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Thank you very much!",
+            "da": "Choukran bzzaf!"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "F lmatar w f lotil, kolchi kaymchi b 'adab. Bdaï dima b `Excuse me` wla `Hello`, w sta3mli `Could I…?` / `I'd like…` 3la 9bel `I want`. W ila chi 7aja makhddamach, ma t3eyytich — 9oli b hdou2: `Excuse me, there's a problem with my room.` Hakka ghadi y3awnouk dghya. W 7di lpasspor dyalek dima m3ak — kaytlbouh f kol blassa!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "match",
+        "instruction_da": "Wessli lkelma dyal ssafar m3a lma3na dyalha.",
+        "pairs": [
+          {
+            "en": "passport",
+            "da": "lpasspor",
+            "emoji": "🛂"
+          },
+          {
+            "en": "luggage",
+            "da": "lbagaj",
+            "emoji": "🧳"
+          },
+          {
+            "en": "gate",
+            "da": "lbab dyal rrkoub",
+            "emoji": "🚪"
+          },
+          {
+            "en": "ticket",
+            "da": "ttikiya",
+            "emoji": "🎫"
+          },
+          {
+            "en": "key",
+            "da": "ssarout",
+            "emoji": "🔑"
+          }
+        ]
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "The flight is delayed.",
+        "question_da": "Sem3i. Chno w9e3 l ttiyara?",
+        "options": [
+          "T3ettlat",
+          "Khrjat f lwa9t",
+          "Tlghat",
+          "Weslat"
+        ],
+        "answer": 0,
+        "explain_da": "`delayed` = mt3ettla. `on time` = f lwa9t. `cancelled` = tlghat."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Kifach t9oli \"bghit\" b 'adab f lotil?",
+        "options": [
+          "I'd like",
+          "I want",
+          "I have",
+          "I need"
+        ],
+        "answer": 0,
+        "explain_da": "`I'd like` = `I would like` = bghit (b 'adab). `I want` kat'ban 9ass7a chwiya m3a nnas li makat3rfihomch."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "I'd like ___ book a double room, please.",
+        "options": [
+          "to",
+          "for",
+          "at"
+        ],
+        "answer": "to",
+        "hint_da": "`I'd like` + ? + fi3l (`book`).",
+        "explain_da": "`I'd like to` + fi3l: `I'd like to book`. `I'd like` + ism direct: `I'd like a room`."
+      },
+      {
+        "type": "order",
+        "words": [
+          "Is",
+          "breakfast",
+          "included",
+          "in",
+          "the",
+          "price?"
+        ],
+        "answer": "Is breakfast included in the price?",
+        "da": "Wach lftor dakhel f ttaman?",
+        "explain_da": "`Is` + `breakfast` + `included` — so2al b `to be`."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "Your room is on the third floor.",
+        "question_da": "Sem3i. Fin lbit?",
+        "options": [
+          "F ttab9a ttalta",
+          "F ttab9a ttanya",
+          "F ttab9a l'oula",
+          "F ttab9a rrab3a"
+        ],
+        "answer": 0,
+        "explain_da": "`third` = ttalt / ttalta (3). `second` = ttani, `first` = l'ewwel, `fourth` = rrabe3 — dars 11."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "There ___ no hot water in my room.",
+        "options": [
+          "is",
+          "are",
+          "have"
+        ],
+        "answer": "is",
+        "hint_da": "`water` ma kayt3eddch → mofrad.",
+        "explain_da": "`There is no hot water` — `water` ism ma kayt3eddch, 3la hadak `is`. `There are no towels` m3a ljam3."
+      },
+      {
+        "type": "mcq",
+        "question_en": "What time is check-out?",
+        "question_da": "Achmen jawab mnassb l had so2al?",
+        "options": [
+          "At eleven in the morning.",
+          "Breakfast is included.",
+          "It's on the second floor.",
+          "Two nights, please."
+        ],
+        "answer": 0,
+        "explain_da": "`What time…?` kaysewwel 3la lwa9t → `At eleven`."
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "\"Luggage\" is a countable noun, so you can say \"three luggages\".",
+        "statement_da": "`luggage` kayt3edd, 3la hadak n9dro n9oulo `three luggages`.",
+        "answer": false,
+        "explain_da": "Ghalet! `luggage` ma kayt3eddch (bhal `water`). Kan9oulo `my luggage` wla `three bags` / `three suitcases`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "Could I have the Wi-Fi password, please?",
+        "da": "Wach ymken t3tini lkod dyal lWi-Fi, 3afak?",
+        "explain_da": "`Could I have…?` = talab b 'adab. `password` = lkod ssirri."
+      },
+      {
+        "type": "translate",
+        "da": "Bghit n7jez bit l wa7ed l jouj lyali.",
+        "answers": [
+          "I'd like to book a single room for two nights.",
+          "I would like to book a single room for two nights.",
+          "I'd like to reserve a single room for two nights.",
+          "I would like to reserve a single room for two nights."
+        ],
+        "hint_en": "I'd like to ... a ... room for ... nights.",
+        "explain_da": "`book` = 7jez. `single room` = bit l wa7ed. `for two nights` = l jouj lyali."
+      },
+      {
+        "type": "order",
+        "words": [
+          "Excuse",
+          "me,",
+          "the",
+          "Wi-Fi",
+          "doesn't",
+          "work."
+        ],
+        "answer": "Excuse me, the Wi-Fi doesn't work.",
+        "da": "Sme7 liya, lWi-Fi makhddamch.",
+        "explain_da": "Bdaï b `Excuse me`, men ba3d lmochkil: `the Wi-Fi doesn't work`."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Nti f lmatar. Lmowaddaf kay9oul: `Window or aisle?` — 3la ach kaysewwel?",
+        "options": [
+          "3la lblassa fin bghiti tglsi f ttiyara",
+          "3la lbagaj dyalek",
+          "3la lpasspor dyalek",
+          "3la lwa9t dyal rri7la"
+        ],
+        "answer": 0,
+        "explain_da": "`window seat` = blassa 7da cherjem, `aisle seat` = blassa 7da lmemcha. `aisle` kat9ra \"aïl\" — l `s` ma kat9rach!"
+      },
+      {
+        "type": "translate",
+        "da": "Sme7 liya, makaynch lma skhoun f lbit dyali.",
+        "answers": [
+          "Excuse me, there is no hot water in my room.",
+          "Excuse me, there's no hot water in my room.",
+          "Sorry, there is no hot water in my room.",
+          "Sorry, there's no hot water in my room."
+        ],
+        "hint_en": "Excuse me, there ... no ... water in my room.",
+        "explain_da": "`There's no hot water` = makaynch lma skhoun. Mochkil → bdaï b `Excuse me`."
+      },
+      {
+        "type": "speak",
+        "target_en": "Hello, I have a reservation for two nights. Is breakfast included?",
+        "da": "Salam, 3ndi 7ajz l jouj lyali. Wach lftor dakhel f ttaman?",
+        "pron": "hé-lo, aï hav a ré-zeur-véy-cheun for tou naïts. iz brèk-feust in-klou-did"
+      }
+    ],
+    "reading": {
+      "title_en": "Amina's trip to Istanbul",
+      "title_da": "Ssafar dyal Amina l Istanbul",
+      "emoji": "🕌",
+      "text_en": "Last month, Amina travelled to Istanbul for the first time. She booked her flight and her hotel online, two months before the trip. At Casablanca airport, she went to the check-in desk, showed her passport and got her boarding pass. She asked for a window seat because she wanted to see the sea. The flight was delayed for one hour, so she drank a coffee and read a book. In Istanbul, she took a taxi to the hotel. She had a reservation for a single room for four nights, with breakfast included. The room was small but clean, and it was on the fifth floor, with a beautiful view of the city. On the first night, the Wi-Fi didn't work, so she went to the reception and asked politely for help. The receptionist was very kind and fixed the problem in ten minutes. Amina says it was the best trip of her life.",
+      "text_da": "Chhar li fat, Amina saffrat l Istanbul l'awwal merra. 7ejzat rri7la dyalha w lotil dyalha 3la l'internet, jouj chhour 9bel ssafar. F lmatar dyal Casa, mchat l lbiro dyal ttasjil, werrat lpasspor dyalha w khdat lwer9a dyal rrkoub. Tlbat blassa 7da cherjem 7it bghat tchouf lb7er. Ttiyara t3ettlat b sa3a, 3la hadak chrbat 9ehwa w 9rat ktab. F Istanbul, khdat taxi l lotil. Kan 3ndha 7ajz dyal bit l wa7ed l rb3a dyal lyali, w lftor dakhel f ttaman. Lbit kan sghir walakin n9i, w kan f ttab9a lkhamsa, b mandar zwin 3la lmdina. F llila l'oula, lWi-Fi makhdemch, 3la hadak mchat l l'isti9bal w tlbat lmosa3ada b 'adab. Lmowaddaf dyal l'isti9bal kan dérif bzzaf w sle7 lmochkil f 3echra d d9ay9. Amina kat9oul belli kanet a7san ri7la f 7yatha.",
+      "glossary": [
+        {
+          "en": "travelled",
+          "da": "saffrat"
+        },
+        {
+          "en": "online",
+          "da": "3la l'internet"
+        },
+        {
+          "en": "showed",
+          "da": "werrat"
+        },
+        {
+          "en": "clean",
+          "da": "n9i"
+        },
+        {
+          "en": "view",
+          "da": "lmandar"
+        },
+        {
+          "en": "politely",
+          "da": "b 'adab"
+        },
+        {
+          "en": "fixed",
+          "da": "sle7"
+        },
+        {
+          "en": "trip",
+          "da": "rri7la / ssafar"
+        },
+        {
+          "en": "for the first time",
+          "da": "l'awwal merra"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach 7ejzat Amina rri7la w lotil?",
+          "options": [
+            "Jouj chhour 9bel ssafar",
+            "Nhar ssafar",
+            "F lmatar",
+            "Simana 9bel ssafar"
+          ],
+          "answer": 0,
+          "explain_da": "\"She booked her flight and her hotel online, two months before the trip.\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "The flight was on time.",
+          "answer": false,
+          "explain_da": "Ghalet: \"The flight was delayed for one hour.\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "3lach tlbat Amina blassa 7da cherjem?",
+          "options": [
+            "7it bghat tchouf lb7er",
+            "7it bghat tn3es",
+            "7it kanet khayfa",
+            "7it bghat t9ra ktab"
+          ],
+          "answer": 0,
+          "explain_da": "\"She asked for a window seat because she wanted to see the sea.\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "The receptionist fixed the Wi-Fi problem in ten minutes.",
+          "answer": true,
+          "explain_da": "S7i7: \"The receptionist was very kind and fixed the problem in ten minutes.\""
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "F lbiro dyal ttasjil f lmatar",
+      "emoji": "🎧",
+      "pre_da": "Sem3i l7iwar f lmatar. Rekkzi 3la: ch7al men chanta 3nd Omar? w men achmen bab ghadi yrkeb?",
+      "lines": [
+        {
+          "speaker": "Sarah",
+          "en": "Good morning. Where are you flying to today?",
+          "da": "Sbah lkhir. L fin ghadi tsafer lyouma?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Good morning. To London. Here's my passport and my ticket.",
+          "da": "Sbah lkhir. L London. Hak lpasspor dyali w ttikiya dyali."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Thank you. How many bags do you have?",
+          "da": "Choukran. Ch7al men chanta 3ndek?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Two. One big suitcase and one small bag for hand luggage.",
+          "da": "Jouj. Wa7ed chanta kbira w wa7ed ssak sghir ndkhlo m3aya f ttiyara."
+        },
+        {
+          "speaker": "Sarah",
+          "en": "OK. Would you like a window seat or an aisle seat?",
+          "da": "Wakha. Wach bghiti blassa 7da cherjem wla 7da lmemcha?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "An aisle seat, please. Is the flight on time?",
+          "da": "7da lmemcha, 3afak. Wach ttiyara f lwa9t?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "I'm afraid it's delayed by thirty minutes. Here's your boarding pass. Your gate is B4, and boarding starts at 10:20.",
+          "da": "M3a l'asaf mt3ettla b tlatin d9i9a. Hak lwer9a dyal rrkoub dyalek. Lbab dyalek howa B4, w rrkoub kaybda m3a l3echra w 3echrin."
+        },
+        {
+          "speaker": "Omar",
+          "en": "Thank you. Where is gate B4?",
+          "da": "Choukran. Fin lbab B4?"
+        },
+        {
+          "speaker": "Sarah",
+          "en": "Go through security, then turn right. It's at the end. Have a good flight!",
+          "da": "Douz men lmora9aba, 3ad dor 3la limen. Rah f l'akhir. Ri7la sa3ida!"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "L fin ghadi ysafer Omar?",
+          "options": [
+            "L London",
+            "L Paris",
+            "L Madrid",
+            "L Istanbul"
+          ],
+          "answer": 0,
+          "explain_da": "\"To London.\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al men chanta 3ndo?",
+          "options": [
+            "Jouj",
+            "Wa7da",
+            "Tlata",
+            "Walou"
+          ],
+          "answer": 0,
+          "explain_da": "\"Two. One big suitcase and one small bag.\""
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "I'm afraid it's delayed by thirty minutes.",
+          "question_da": "Sem3i. Chno kat9oul lmowaddafa?",
+          "options": [
+            "Ttiyara mt3ettla b tlatin d9i9a",
+            "Ttiyara f lwa9t",
+            "Ttiyara khrjat",
+            "Ttiyara mt3ettla b sa3a"
+          ],
+          "answer": 0,
+          "explain_da": "`I'm afraid…` = m3a l'asaf (machi \"khayfa\"!). `delayed by thirty minutes` = mt3ettla b 30 d9i9a."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Omar wants a window seat.",
+          "answer": false,
+          "explain_da": "Ghalet: \"An aisle seat, please.\""
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "I'd like to book a room, please.",
+          "da": "Bghit n7jez bit, 3afak.",
+          "pron": "aïd laïk tou bouk a roum, pliz"
+        },
+        {
+          "target_en": "Here's my passport.",
+          "da": "Hak lpasspor dyali.",
+          "pron": "hirz maï pas-port"
+        },
+        {
+          "target_en": "Is breakfast included?",
+          "da": "Wach lftor dakhel f ttaman?",
+          "pron": "iz brèk-feust in-klou-did"
+        },
+        {
+          "target_en": "What time is check-out?",
+          "da": "Fo9ach khassni nkhelli lbit?",
+          "pron": "wat taïm iz tchèk-awt"
+        },
+        {
+          "target_en": "Could I have another towel, please?",
+          "da": "Wach ymken t3tini fouta khra, 3afak?",
+          "pron": "koud aï hav a-neu-theur ta-weul, pliz"
+        },
+        {
+          "target_en": "The flight is delayed.",
+          "da": "Ttiyara mt3ettla.",
+          "pron": "the flaït iz di-léyd"
+        }
+      ],
+      "roleplay": {
+        "title_da": "F l'isti9bal dyal lotil",
+        "context_da": "Weslti l wa7ed lotil f Agadir. Lmowaddaf dyal l'isti9bal ghadi yhder m3ak. Jawbi b 'adab, w f l'akhir chekiwi mochkil f lbit!",
+        "turns": [
+          {
+            "bot_en": "Good evening! Welcome. How can I help you?",
+            "bot_da": "Msa lkhir! Mer7ba. Kifach n9der n3awnek?",
+            "expect_keywords": [
+              "reservation",
+              "booked",
+              "i'd like",
+              "i would like",
+              "a room",
+              "check in",
+              "my name"
+            ],
+            "sample_en": "Good evening. I have a reservation. My name is Nouha."
+          },
+          {
+            "bot_en": "Let me see… Yes. A single room for two nights. Could I see your passport, please?",
+            "bot_da": "Khellini nchouf… Ah. Bit l wa7ed l jouj lyali. Wach ymken nchouf lpasspor dyalek, 3afak?",
+            "expect_keywords": [
+              "here",
+              "of course",
+              "sure",
+              "yes",
+              "passport"
+            ],
+            "sample_en": "Of course. Here you are."
+          },
+          {
+            "bot_en": "Thank you. Do you have any questions?",
+            "bot_da": "Choukran. Wach 3ndek chi so2al?",
+            "expect_keywords": [
+              "breakfast",
+              "included",
+              "check-out",
+              "check out",
+              "what time",
+              "wi-fi",
+              "wifi",
+              "password",
+              "could i"
+            ],
+            "sample_en": "Yes. Is breakfast included? And what time is check-out?"
+          },
+          {
+            "bot_en": "Breakfast is included, from seven to ten, and check-out is at eleven. Here's your key.",
+            "bot_da": "Lftor dakhel f ttaman, men ssb3a 7ta l l3echra, w lkhrouj m3a l7dach. Hak ssarout dyalek.",
+            "expect_keywords": [
+              "thank",
+              "thanks",
+              "great",
+              "ok",
+              "okay",
+              "perfect"
+            ],
+            "sample_en": "Great, thank you."
+          },
+          {
+            "bot_en": "Is everything OK with your room?",
+            "bot_da": "Wach kolchi mzyan f lbit dyalek?",
+            "expect_keywords": [
+              "doesn't work",
+              "no hot water",
+              "problem",
+              "too noisy",
+              "too cold",
+              "wi-fi",
+              "wifi",
+              "excuse me",
+              "there's no",
+              "there is no"
+            ],
+            "sample_en": "Excuse me, there's a problem. The Wi-Fi doesn't work."
+          },
+          {
+            "bot_en": "I'm very sorry about that. I'll send someone right away.",
+            "bot_da": "Sme7 liya bzzaf 3la hadchi. Ghadi nsift chi wa7ed daba daba.",
+            "expect_keywords": [
+              "thank",
+              "thanks",
+              "ok",
+              "okay",
+              "no problem"
+            ],
+            "sample_en": "Thank you very much."
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Ssafar dyali",
+      "prompt_da": "Ktbi 50 kelma 3la wa7ed ssafar (7a9i9i wla khayali): fin mchiti w m3a men, kifach daz lmatar (`check-in`, `flight`), kifach kan lotil (`room`, `breakfast`), w wach kan chi mochkil. Sta3mli lmadi (`went`, `was`, `booked`) w lkelmat dyal had dars.",
+      "helper_en": [
+        "Last year, I went to ...",
+        "I booked a ... room for ... nights.",
+        "At the airport, ...",
+        "The hotel was ...",
+        "There was a problem: ..."
+      ],
+      "min_words": 50,
+      "keywords": [
+        "hotel",
+        "room"
+      ],
+      "model_en": "Last summer, I went to Istanbul with my sister. We booked our flight and a double room for five nights online. At the airport, we checked in and got our boarding passes. The flight was delayed by one hour, but it was OK. The hotel was small and clean, and breakfast was included. On the first day, there was a problem: the air conditioning in our room didn't work. We went to the reception and the receptionist changed our room. The new room was bigger and quieter. It was a wonderful trip!"
+    }
+  },
+  {
+    "id": "l23",
+    "order": 23,
+    "level": "A2.2",
+    "emoji": "📱",
+    "title_en": "Phone calls, messages & emails",
+    "title_da": "Ttilifoun, lmessajat w l'emails",
+    "goals_da": [
+      "Tjawbi 3la ttilifoun w t9eddmi rassek: `Hello, this is Nouha`",
+      "Ttelbi chi wa7ed f ttilifoun: `Can I speak to…?`, `Hold on, please`, `Can I take a message?`",
+      "Tsewli b 'adab b `Could you tell me…?` w `Do you know…?`",
+      "Tktbi `message` wla `email` 9sir: `Hi…` / `Dear…`, `I'm writing to…`, `Best regards`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "F ttilifoun — kifach njawbo w n9eddmo rassna",
+        "body_da": "F ttilifoun, lingliziya kattbeddel chwiya. Bach t9oli chkoun nti, **ma t9olich** `I'm Nouha` — 9oli: `Hello, this is Nouha.` wla `It's Nouha.` (`this is` hna = ana / hadi).\n\nBach tsewli chkoun kay3eyyet: `Who's calling, please?` = chkoun m3aya, 3afak?\n\nBach ttelbi chi wa7ed:\n\n- `Can I speak to Sarah, please?` = wach ymken nhder m3a Sarah?\n- `Could I speak to Mr. Brown, please?` — `Could` 'adab kter (f lkhedma, m3a nnas li makat3rfihomch).\n\nLjawab:\n\n- `Speaking.` = ana hiya / ana howa (7arfiyan: \"kanhder\"). Kat9al melli nti bnefsek li kaytleb lik.\n- `Hold on, please.` / `Just a moment, please.` = tsenna chwiya, 3afak.\n- `I'll put you through.` = ghadi nwesslek (lih / liha).\n- `Sorry, she's not here right now.` = sme7 liya, hiya makaynach daba. `He's in a meeting.` = rah f ijtima3.\n\nBhal f darija: \"Allo, chkoun m3aya?\" → `Hello, who's calling?`",
+        "examples": [
+          {
+            "en": "Hello, this is Nouha. Can I speak to Sarah, please?",
+            "da": "Allo, ana Nouha. Wach ymken nhder m3a Sarah, 3afak?",
+            "pron": "hé-lo, this iz nou-ha. kan aï spik tou sé-ra, pliz"
+          },
+          {
+            "en": "Speaking!",
+            "da": "Ana hiya! (ana li kanhder)",
+            "pron": "spi-king"
+          },
+          {
+            "en": "Hold on, please. I'll put you through.",
+            "da": "Tsenna chwiya, 3afak. Ghadi nwesslek.",
+            "pron": "hold on, pliz. aïl pout you throu"
+          },
+          {
+            "en": "Who's calling, please?",
+            "da": "Chkoun m3aya, 3afak?",
+            "pron": "houz ko-ling, pliz"
+          },
+          {
+            "en": "Sorry, she's not here right now.",
+            "da": "Sme7 liya, hiya makaynach daba.",
+            "pron": "so-ri, chiz not hir raït naw"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Khelli message, 3awdi 3eyyti, wla… nnemra ghalta!",
+        "body_da": "Ila chkhss makaynch:\n\n- Li jaweb kay9oul: `Can I take a message?` = wach bghiti tkhelli `message`?\n- Nti kat9oli: `Can I leave a message?` = wach n9der nkhelli `message`? wla `Could you ask her to call me back?` = wach ymken t9oul liha t3awed t3eyyet liya?\n- Wla: `No, thank you. I'll call back later.` = la, choukran, ghadi n3awed n3eyyet men ba3d. (`call back` = 3awed 3eyyet.)\n\nIla ghlti f nnemra: `Sorry, I think you have the wrong number.` wla b 9sar: `Sorry, wrong number.`\n\nLmachakil f lkhett:\n\n- `Sorry, I can't hear you.` = sme7 liya, ma kansme3kch.\n- `The line is bad.` = rrizo khayb.\n- `Could you speak up, please?` = wach ymken t3elli sotek? / `Could you repeat that, please?` (dars 2).\n\nBach tsaliw: `Thanks for calling. Bye!` = choukran 3la l'ittisal. Bslama!",
+        "examples": [
+          {
+            "en": "She's not here. Can I take a message?",
+            "da": "Hiya makaynach. Wach bghiti tkhelli message?",
+            "pron": "chiz not hir. kan aï téyk a mè-sidj"
+          },
+          {
+            "en": "No, thank you. I'll call back later.",
+            "da": "La, choukran. Ghadi n3awed n3eyyet men ba3d.",
+            "pron": "no, thank you. aïl kol bak léy-teur"
+          },
+          {
+            "en": "Could you ask him to call me back?",
+            "da": "Wach ymken t9oul lih y3awed y3eyyet liya?",
+            "pron": "koud you ask him tou kol mi bak"
+          },
+          {
+            "en": "Sorry, I think you have the wrong number.",
+            "da": "Sme7 liya, kandenn ghlti f nnemra.",
+            "pron": "so-ri, aï think you hav the rong neum-beur"
+          },
+          {
+            "en": "Sorry, I can't hear you. The line is bad.",
+            "da": "Sme7 liya, ma kansme3kch. Rrizo khayb.",
+            "pron": "so-ri, aï kant hir you. the laïn iz bad"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Could you tell me…? / Do you know…? — so2al b 'adab",
+        "body_da": "Bach tsewli chi wa7ed makat3rfihch b 'adab, l'ingliz kaydiro so2al dakhel so2al:\n\n- `Where is the bank?` → `Could you tell me where the bank is?` = wach ymken t9oul liya fin kayna lbanka?\n- `Where is the bank?` → `Do you know where the bank is?` = wach kat3ref fin kayna lbanka?\n\n**Redi lbal l ttartib:** men ba3d `Could you tell me…` / `Do you know…`, lfi3l kaymchi l **l'akhir**, bhal jomla 3adiya, machi bhal so2al: `where the bank is` (machi \"where is the bank\").\n\nM3a l7adir lbassit, `do` / `does` kaytmse7: `What time does the shop open?` → `Do you know what time the shop opens?` (lfi3l kayakhod `-s`).\n\nSo2al dyal `wach` (`yes` / `no`) → kanzido `if`: `Is Sarah there?` → `Could you tell me if Sarah is there?`\n\nF darija 3ndna nefs lfikra: \"Wach t9der t9oul liya fin kayna lbanka?\" — sahla 3lik!",
+        "examples": [
+          {
+            "en": "Could you tell me where the bank is?",
+            "da": "Wach ymken t9oul liya fin kayna lbanka?",
+            "pron": "koud you tèl mi wér the bank iz"
+          },
+          {
+            "en": "Do you know what time the shop opens?",
+            "da": "Wach kat3ref fo9ach kay7el l7anout?",
+            "pron": "dou you no wat taïm the chop o-peunz"
+          },
+          {
+            "en": "Could you tell me when she'll be back?",
+            "da": "Wach ymken t9oul liya fo9ach ghadi trje3?",
+            "pron": "koud you tèl mi wèn chil bi bak"
+          },
+          {
+            "en": "Do you know if Mr. Brown is in the office today?",
+            "da": "Wach kat3ref wach ssi Brown kayn f lbiro lyouma?",
+            "pron": "dou you no if mis-teur brawn iz in the o-fis tou-déy"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Kifach tktbi message wla email 9sir",
+        "body_da": "`email` wla `message` 9sir 3ndo 4 ajza2:\n\n**1. Tta7iya:** m3a s7ab: `Hi Sarah,` / `Hello Omar,`. Rasmi (lkhedma, l'idara): `Dear Mr. Brown,` / `Dear Ms. Alami,`. Ila makat3rfich smiyt chkhss: `Dear Sir or Madam,`.\n\n**2. 3lach katktbi:** rasmi: `I'm writing to ask about…` = kanktb lik bach nsewwel 3la…, `I'm writing to confirm…` = bach n'akked… M3a s7ab: `Just a quick message to say…` = ghir `message` 9sir bach n9oul… W bach tchekri: `Thank you for your email / your help.`\n\n**3. Ttalab:** `Could you send me…?` = wach ymken tsift liya…? / `Could you tell me if…?`\n\n**4. Lkhtam:** rasmi: `Best regards,` / `Kind regards,` + smiytek. M3a s7ab: `See you soon!` / `Take care!` / `Love,` (ghir m3a l3a2ila w s7ab 9rab bzzaf).\n\nF lmessajat m3a s7ab, kaynin ikhtisarat: `thx` = `thanks`, `pls` = `please`, `u` = `you`, `CU` = `see you`, `ASAP` = `as soon as possible` (f a9rab wa9t), `btw` = `by the way` (bilmonassaba). **Ma tsta3mlihomch f `email` rasmi!**",
+        "examples": [
+          {
+            "en": "Dear Mr. Brown, I'm writing to ask about the English course.",
+            "da": "Ssi Brown lmo7taram, kanktb lik bach nsewwel 3la dawra dyal lingliziya.",
+            "pron": "dir mis-teur brawn, aïm raï-ting tou ask a-bawt the in-glich kors"
+          },
+          {
+            "en": "Thank you for your help. Best regards, Nouha",
+            "da": "Choukran 3la lmosa3ada dyalek. M3a a7san tta7iyat, Nouha",
+            "pron": "thank you for your hèlp. bèst ri-gardz, nou-ha"
+          },
+          {
+            "en": "Hi Sarah, just a quick message to say thank you for yesterday. See you soon!",
+            "da": "Ahlan Sarah, ghir message 9sir bach n9oul lik choukran 3la lbare7. Nchoufouk 9rib!",
+            "pron": "haï sé-ra, djeust a kwik mè-sidj tou séy thank you for yès-teur-déy. si you soun"
+          },
+          {
+            "en": "Could you send me the address, please?",
+            "da": "Wach ymken tsift liya l3onwan, 3afak?",
+            "pron": "koud you sènd mi the a-drès, pliz"
+          },
+          {
+            "en": "Thx! CU tomorrow :)",
+            "da": "Choukran! Nchoufouk ghedda :) (ghir m3a s7ab)",
+            "pron": "thanks! si you tou-mo-ro"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "phone call",
+            "da": "mokalama (f ttilifoun)",
+            "emoji": "📞",
+            "pron": "fon kol",
+            "example_en": "I have to make a phone call.",
+            "example_da": "Khassni ndir mokalama."
+          },
+          {
+            "en": "to call",
+            "da": "t3eyyti (f ttilifoun)",
+            "emoji": "📲",
+            "pron": "tou kol",
+            "example_en": "Call me tomorrow.",
+            "example_da": "3eyyet liya ghedda."
+          },
+          {
+            "en": "to call back",
+            "da": "t3awdi t3eyyti",
+            "emoji": "🔁",
+            "pron": "tou kol bak",
+            "example_en": "I'll call back later.",
+            "example_da": "Ghadi n3awed n3eyyet men ba3d."
+          },
+          {
+            "en": "message",
+            "da": "message / risala",
+            "emoji": "💬",
+            "pron": "mè-sidj",
+            "example_en": "Can I take a message?",
+            "example_da": "Wach bghiti tkhelli message?"
+          },
+          {
+            "en": "text message",
+            "da": "SMS / message mektoub",
+            "emoji": "✉️",
+            "pron": "tèkst mè-sidj",
+            "example_en": "Send me a text message.",
+            "example_da": "Sift liya SMS."
+          },
+          {
+            "en": "to hold on",
+            "da": "ttsennay chwiya (f lkhett)",
+            "emoji": "⏸️",
+            "pron": "tou hold on",
+            "example_en": "Hold on, please.",
+            "example_da": "Tsenna chwiya, 3afak."
+          },
+          {
+            "en": "wrong number",
+            "da": "nnemra ghalta",
+            "emoji": "❌",
+            "pron": "rong neum-beur",
+            "example_en": "Sorry, wrong number.",
+            "example_da": "Sme7 liya, nnemra ghalta."
+          },
+          {
+            "en": "line",
+            "da": "lkhett / rrizo",
+            "emoji": "📶",
+            "pron": "laïn",
+            "example_en": "The line is bad.",
+            "example_da": "Rrizo khayb."
+          },
+          {
+            "en": "busy",
+            "da": "mechghoul (lkhett wla chkhss)",
+            "emoji": "🔴",
+            "pron": "bi-zi",
+            "example_en": "The line is busy.",
+            "example_da": "Lkhett mechghoul."
+          },
+          {
+            "en": "to speak to",
+            "da": "thedri m3a",
+            "emoji": "🗣️",
+            "pron": "tou spik tou",
+            "example_en": "Can I speak to Sarah?",
+            "example_da": "Wach ymken nhder m3a Sarah?"
+          },
+          {
+            "en": "email",
+            "da": "email",
+            "emoji": "📧",
+            "pron": "i-méyl",
+            "example_en": "Send me an email.",
+            "example_da": "Sift liya email."
+          },
+          {
+            "en": "to send",
+            "da": "tsifti",
+            "emoji": "📤",
+            "pron": "tou sènd",
+            "example_en": "Could you send me the photo?",
+            "example_da": "Wach ymken tsift liya ttaswira?"
+          },
+          {
+            "en": "to reply",
+            "da": "tjawbi (3la message wla email)",
+            "emoji": "↩️",
+            "pron": "tou ri-plaï",
+            "example_en": "Please reply before Friday.",
+            "example_da": "3afak jawbi 9bel ljem3a."
+          },
+          {
+            "en": "Dear…",
+            "da": "(bdaya dyal email rasmi) … lmo7taram / lmo7tarama",
+            "emoji": "📝",
+            "pron": "dir",
+            "example_en": "Dear Mr. Brown,",
+            "example_da": "Ssi Brown lmo7taram,"
+          },
+          {
+            "en": "Best regards",
+            "da": "m3a a7san tta7iyat (khtam dyal email rasmi)",
+            "emoji": "🙏",
+            "pron": "bèst ri-gardz",
+            "example_en": "Best regards, Nouha",
+            "example_da": "M3a a7san tta7iyat, Nouha"
+          },
+          {
+            "en": "See you soon",
+            "da": "nchoufouk 9rib (khtam m3a s7ab)",
+            "emoji": "👋",
+            "pron": "si you soun",
+            "example_en": "Bye! See you soon!",
+            "example_da": "Bslama! Nchoufouk 9rib!"
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "Mokalama l lmedrasa dyal lloghat",
+        "context_da": "Nouha kat3eyyet l lmedrasa dyal lloghat bach thder m3a l'oustad dyalha, ssi Brown. Laila, lmowaddafa dyal l'isti9bal, hiya li jawbat.",
+        "lines": [
+          {
+            "speaker": "Laila",
+            "en": "Good morning, Atlas Language School. Laila speaking. How can I help you?",
+            "da": "Sbah lkhir, Atlas Language School. Laila m3ak. Kifach n9der n3awnek?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Good morning. This is Nouha Alami. Could I speak to Mr. Brown, please?",
+            "da": "Sbah lkhir. Ana Nouha Alami. Wach ymken nhder m3a ssi Brown, 3afak?"
+          },
+          {
+            "speaker": "Laila",
+            "en": "I'm sorry, he's in a meeting right now. Can I take a message?",
+            "da": "Sme7 liya, rah f ijtima3 daba. Wach bghiti tkhelli message?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes, please. Could you ask him to call me back? It's about the exam on Friday.",
+            "da": "Ah, 3afak. Wach ymken t9oli lih y3awed y3eyyet liya? Lmawdou3 howa l'imti7an dyal ljem3a."
+          },
+          {
+            "speaker": "Laila",
+            "en": "Of course. Could you give me your phone number, please?",
+            "da": "Wakha. Wach ymken t3tini nnemra dyalek, 3afak?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes, it's 06 61 23 45 78.",
+            "da": "Ah, hiya 06 61 23 45 78."
+          },
+          {
+            "speaker": "Laila",
+            "en": "Sorry, I didn't hear the last part. Could you repeat that, please?",
+            "da": "Sme7 liya, masme3tch l'akhir. Wach ymken t3awdi, 3afak?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Sure. 06 61 23 45 78.",
+            "da": "Wakha. 06 61 23 45 78."
+          },
+          {
+            "speaker": "Laila",
+            "en": "Thank you, Nouha. He'll call you back this afternoon.",
+            "da": "Choukran, Nouha. Ghadi y3awed y3eyyet lik had l3chiya."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Great, thank you very much. Goodbye!",
+            "da": "Mzyan, choukran bzzaf. Bslama!"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "F ttilifoun ma kanchoufouch lwjeh, 3la hadak l'adab kaybyen f lkelmat: `please`, `Could you…?`, `Thanks for calling`. W ila ma fhemtich, 9oli bla 7chouma: `Sorry, could you speak more slowly, please?` — 7ta l'ingliz kay9oulouha! W f lmessajat m3a s7ab, `thx`, `pls`, `CU` 3adi, walakin f `email` rasmi ktbi lkelmat kamlin: `Thank you`, `please`."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "question_da": "F ttilifoun, kifach t9oli \"ana Nouha\"?",
+        "options": [
+          "Hello, this is Nouha.",
+          "Hello, I'm Nouha here.",
+          "Hello, here Nouha.",
+          "Hello, me Nouha."
+        ],
+        "answer": 0,
+        "explain_da": "F ttilifoun kan9oulo `This is Nouha` wla `It's Nouha`, machi `I'm Nouha`."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "Sorry, she's in a meeting right now.",
+        "question_da": "Sem3i. 3lach Sarah ma t9derch thder daba?",
+        "options": [
+          "7it hiya f ijtima3",
+          "7it hiya f ssafar",
+          "7it nnemra ghalta",
+          "7it rrizo khayb"
+        ],
+        "answer": 0,
+        "explain_da": "`She's in a meeting right now.` = hiya f ijtima3 daba. `right now` = daba daba."
+      },
+      {
+        "type": "match",
+        "instruction_da": "Wessli ljomla dyal ttilifoun m3a lma3na dyalha.",
+        "pairs": [
+          {
+            "en": "Speaking.",
+            "da": "Ana hiya (ana li kanhder)",
+            "emoji": "🗣️"
+          },
+          {
+            "en": "Hold on, please.",
+            "da": "Tsenna chwiya, 3afak",
+            "emoji": "⏸️"
+          },
+          {
+            "en": "Wrong number.",
+            "da": "Nnemra ghalta",
+            "emoji": "❌"
+          },
+          {
+            "en": "Can I take a message?",
+            "da": "Wach bghiti tkhelli message?",
+            "emoji": "💬"
+          },
+          {
+            "en": "I'll put you through.",
+            "da": "Ghadi nwesslek (lih / liha)",
+            "emoji": "🔀"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "sentence_en": "Can I ___ to Sarah, please?",
+        "options": [
+          "speak",
+          "say",
+          "tell"
+        ],
+        "answer": "speak",
+        "hint_da": "Nhder m3a = `speak to`.",
+        "explain_da": "`speak to` + chkhss. `say` w `tell` ma kaymchiwch hna."
+      },
+      {
+        "type": "order",
+        "words": [
+          "Could",
+          "you",
+          "ask",
+          "her",
+          "to",
+          "call",
+          "me",
+          "back?"
+        ],
+        "answer": "Could you ask her to call me back?",
+        "da": "Wach ymken t9oul liha t3awed t3eyyet liya?",
+        "explain_da": "`Could you ask` + chkhss + `to` + fi3l. `call me back` = 3awed 3eyyet liya."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "Sorry, I think you have the wrong number.",
+        "question_da": "Sem3i. Chno lmochkil?",
+        "options": [
+          "Ghlti f nnemra",
+          "Lkhett khayb",
+          "Hiya f ijtima3",
+          "Makaynch chi mochkil"
+        ],
+        "answer": 0,
+        "explain_da": "`wrong number` = nnemra ghalta. `I think` = kandenn."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Khtari so2al b 'adab s7i7:",
+        "options": [
+          "Could you tell me where the bank is?",
+          "Could you tell me where is the bank?",
+          "Could you tell me where the bank?",
+          "Could you tell me where does the bank is?"
+        ],
+        "answer": 0,
+        "explain_da": "Men ba3d `Could you tell me…`, lfi3l kaymchi l l'akhir: `where the bank is` — bhal jomla 3adiya, machi so2al."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "Do you know what time the shop ___?",
+        "options": [
+          "opens",
+          "open",
+          "does open"
+        ],
+        "answer": "opens",
+        "hint_da": "So2al indirect: bla `does`, w lfi3l m3a `the shop` (= `it`).",
+        "explain_da": "F so2al indirect makaynch `does`: `what time the shop opens` — lfi3l kayakhod `-s` 7it `the shop` = `it`."
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "You can write \"Dear Sir or Madam\" when you don't know the name of the person.",
+        "statement_da": "T9edri tktbi `Dear Sir or Madam` melli makat3rfich smiyt chkhss.",
+        "answer": true,
+        "explain_da": "S7i7! `Dear Sir or Madam` = bdaya rasmiya melli makat3rfich l'ism. Ila kat3rfih: `Dear Mr. Brown`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "I'll call back later.",
+        "da": "Ghadi n3awed n3eyyet men ba3d.",
+        "explain_da": "`I'll` = `I will` (9arar daba, dars 19). `call back` = 3awed 3eyyet. `later` = men ba3d."
+      },
+      {
+        "type": "translate",
+        "da": "Wach ymken nhder m3a ssi Brown, 3afak?",
+        "answers": [
+          "Could I speak to Mr. Brown, please?",
+          "Can I speak to Mr. Brown, please?",
+          "May I speak to Mr. Brown, please?",
+          "Could I speak with Mr. Brown, please?",
+          "Can I speak with Mr. Brown, please?"
+        ],
+        "hint_en": "Could I ... to Mr. Brown, ...?",
+        "explain_da": "`Could I speak to…?` = b 'adab kter men `Can I…?`. Bjouj s7a7."
+      },
+      {
+        "type": "order",
+        "words": [
+          "Do",
+          "you",
+          "know",
+          "where",
+          "the",
+          "station",
+          "is?"
+        ],
+        "answer": "Do you know where the station is?",
+        "da": "Wach kat3ref fin kayna lma7atta?",
+        "explain_da": "So2al indirect: `Do you know` + `where` + `the station` + `is` — lfi3l f l'akhir."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Nti katktbi `email` rasmi l lmoudir dyal cherika. Kifach tkemmlih?",
+        "options": [
+          "Best regards, Nouha",
+          "CU! Nouha",
+          "Love, Nouha",
+          "Bye bye, Nouha"
+        ],
+        "answer": 0,
+        "explain_da": "F `email` rasmi: `Best regards` wla `Kind regards`. `CU`, `Love` ghir m3a s7ab w l3a2ila."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "Thank you ___ your email.",
+        "answers": [
+          "for"
+        ],
+        "hint_da": "Choukran 3la… = `Thank you` + ?",
+        "explain_da": "`Thank you for` + ism: `Thank you for your email`, `Thank you for your help`."
+      },
+      {
+        "type": "translate",
+        "da": "Kanktb lik bach nsewwel 3la dawra dyal lingliziya.",
+        "answers": [
+          "I am writing to ask about the English course.",
+          "I'm writing to ask about the English course.",
+          "I am writing to ask you about the English course.",
+          "I'm writing to ask you about the English course."
+        ],
+        "hint_en": "I'm ... to ask about the ... course.",
+        "explain_da": "`I'm writing to…` = kanktb lik bach… — bdaya rasmiya dyal `email`."
+      },
+      {
+        "type": "speak",
+        "target_en": "Hello, this is Nouha. Could I speak to Sarah, please?",
+        "da": "Allo, ana Nouha. Wach ymken nhder m3a Sarah, 3afak?",
+        "pron": "hé-lo, this iz nou-ha. koud aï spik tou sé-ra, pliz"
+      }
+    ],
+    "reading": {
+      "title_en": "An email from the school",
+      "title_da": "Email men lmedrasa",
+      "emoji": "📧",
+      "text_en": "Dear Ms. Alami,\n\nThank you for your email about our English course. I'm writing to confirm your place in the evening class. The course starts on Monday, 3 March, at 6 p.m. and finishes at 8 p.m. The lessons are on Mondays and Wednesdays, in room 4 on the second floor. You don't have to buy a book, because we give you all the materials on the first day. Could you send me a copy of your ID card before Friday, please? We need it for your student card.\n\nIf you have any questions, you can call the school between 9 a.m. and 5 p.m., or you can send me a message on WhatsApp. If I'm not in the office, my colleague Laila can take a message and I'll call you back.\n\nI look forward to meeting you.\n\nBest regards,\nDavid Brown\nDirector, Atlas Language School",
+      "text_da": "Ssayida Alami lmo7tarama,\n\nChoukran 3la l'email dyalek 3la dawra dyal lingliziya dyalna. Kanktb lik bach n'akked lblassa dyalek f l9ism dyal l3chiya. Ddawra katbda nhar ttnin 3 mars, m3a ssetta dyal l3chiya, w katsali m3a ttmenya. Ddorous nhar ttnin w nhar larb3, f l9a3a 4 f ttab9a ttanya. Makhasskch tchri ktab, 7it kan3tiwk ga3 lwata2i9 f l'awwal nhar. Wach ymken tsifti liya noskha dyal lkart lwataniya dyalek 9bel ljem3a, 3afak? Khassna-ha l lkart dyal ttalib dyalek.\n\nIla 3ndek chi so2al, t9edri t3eyyti l lmedrasa bin tts3oud dyal sbah w lkhemsa dyal l3chiya, wla tsifti liya message f WhatsApp. Ila makontch f lbiro, zmilti Laila t9der takhod lmessage w ana n3awed n3eyyet lik.\n\nMetchewwe9 bach ntla9a bik.\n\nM3a a7san tta7iyat,\nDavid Brown\nLmoudir, Atlas Language School",
+      "glossary": [
+        {
+          "en": "to confirm",
+          "da": "t'akked"
+        },
+        {
+          "en": "place",
+          "da": "blassa"
+        },
+        {
+          "en": "materials",
+          "da": "lwata2i9 w lktouba dyal ddars"
+        },
+        {
+          "en": "a copy",
+          "da": "noskha"
+        },
+        {
+          "en": "ID card",
+          "da": "lkart lwataniya"
+        },
+        {
+          "en": "colleague",
+          "da": "zmil / zmila f lkhedma"
+        },
+        {
+          "en": "I look forward to meeting you",
+          "da": "metchewwe9 bach ntla9a bik"
+        },
+        {
+          "en": "director",
+          "da": "lmoudir"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "3lach kayktb ssi Brown had `email`?",
+          "options": [
+            "Bach y'akked lblassa dyal Nouha f ddawra",
+            "Bach ylghi ddawra",
+            "Bach ytleb lflous",
+            "Bach y3eyyet l Nouha"
+          ],
+          "answer": 0,
+          "explain_da": "\"I'm writing to confirm your place in the evening class.\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Nouha has to buy a book for the course.",
+          "answer": false,
+          "explain_da": "Ghalet: \"You don't have to buy a book, because we give you all the materials.\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "Chno khass Nouha tsift 9bel ljem3a?",
+          "options": [
+            "Noskha dyal lkart lwataniya",
+            "Noskha dyal ddiplom",
+            "Taswira",
+            "Lflous dyal ddawra"
+          ],
+          "answer": 0,
+          "explain_da": "\"Could you send me a copy of your ID card before Friday, please?\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "If Mr. Brown is not in the office, Laila can take a message.",
+          "answer": true,
+          "explain_da": "S7i7: \"my colleague Laila can take a message and I'll call you back.\""
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "Mokalama l cherika dyal ssafar",
+      "emoji": "🎧",
+      "pre_da": "Sem3i lmokalama. Rekkzi 3la: m3a men bgha yhder Omar? w fo9ach ghadi yrje3 dak chkhss?",
+      "lines": [
+        {
+          "speaker": "Amina",
+          "en": "Good afternoon, Sahara Travel. How can I help you?",
+          "da": "Msa lkhir, Sahara Travel. Kifach n9der n3awnek?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Good afternoon. This is Omar Idrissi. Could I speak to Mr. Brown, please?",
+          "da": "Msa lkhir. Ana Omar Idrissi. Wach ymken nhder m3a ssi Brown, 3afak?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "I'm sorry, Mr. Brown isn't in the office this afternoon.",
+          "da": "Sme7 liya, ssi Brown makaynch f lbiro had l3chiya."
+        },
+        {
+          "speaker": "Omar",
+          "en": "Oh. Could you tell me when he'll be back?",
+          "da": "Ah. Wach ymken t9oli liya fo9ach ghadi yrje3?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "He'll be back tomorrow morning at nine. Would you like to leave a message?",
+          "da": "Ghadi yrje3 ghedda f sbah m3a tts3oud. Wach bghiti tkhelli message?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Yes, please. It's about my ticket to Istanbul. Could you ask him to call me back?",
+          "da": "Ah, 3afak. Lmawdou3 howa ttikiya dyali l Istanbul. Wach ymken t9oli lih y3awed y3eyyet liya?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "Of course. What's your number?",
+          "da": "Wakha. Chno hiya nnemra dyalek?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "It's 06 12 34 56 78.",
+          "da": "Hiya 06 12 34 56 78."
+        },
+        {
+          "speaker": "Amina",
+          "en": "Thank you, Mr. Idrissi. I'll give him the message. Goodbye!",
+          "da": "Choukran, ssi Idrissi. Ghadi n3ti lih lmessage. Bslama!"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "M3a men bgha yhder Omar?",
+          "options": [
+            "M3a ssi Brown",
+            "M3a Amina",
+            "M3a lmoudir dyal lotil",
+            "M3a Laila"
+          ],
+          "answer": 0,
+          "explain_da": "\"Could I speak to Mr. Brown, please?\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach ghadi yrje3 ssi Brown?",
+          "options": [
+            "Ghedda f sbah m3a tts3oud",
+            "Had l3chiya",
+            "Ghedda f l3chiya",
+            "Men ba3d sa3a"
+          ],
+          "answer": 0,
+          "explain_da": "\"He'll be back tomorrow morning at nine.\""
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "Would you like to leave a message?",
+          "question_da": "Sem3i. Chno kat9tare7 Amina?",
+          "options": [
+            "Ykhelli message",
+            "Y3awed y3eyyet",
+            "Yji l lbiro",
+            "Ysift email"
+          ],
+          "answer": 0,
+          "explain_da": "`leave a message` = khelli `message`. `Would you like to…?` = wach bghiti…?"
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Omar is calling about a hotel reservation.",
+          "answer": false,
+          "explain_da": "Ghalet: \"It's about my ticket to Istanbul.\""
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "Hello, this is Nouha.",
+          "da": "Allo, ana Nouha.",
+          "pron": "hé-lo, this iz nou-ha"
+        },
+        {
+          "target_en": "Can I speak to Omar, please?",
+          "da": "Wach ymken nhder m3a Omar, 3afak?",
+          "pron": "kan aï spik tou o-mar, pliz"
+        },
+        {
+          "target_en": "Hold on, please.",
+          "da": "Tsenna chwiya, 3afak.",
+          "pron": "hold on, pliz"
+        },
+        {
+          "target_en": "Can I take a message?",
+          "da": "Wach bghiti tkhelli message?",
+          "pron": "kan aï téyk a mè-sidj"
+        },
+        {
+          "target_en": "Sorry, wrong number.",
+          "da": "Sme7 liya, nnemra ghalta.",
+          "pron": "so-ri, rong neum-beur"
+        },
+        {
+          "target_en": "Could you tell me where the station is?",
+          "da": "Wach ymken t9oul liya fin kayna lma7atta?",
+          "pron": "koud you tèl mi wér the stéy-cheun iz"
+        }
+      ],
+      "roleplay": {
+        "title_da": "Mokalama: kat9elbi 3la Sarah",
+        "context_da": "Kat3eyyti l ddar dyal Sarah, sa7btek. Khoha Tom howa li jaweb. Sarah makaynach — khelli `message`!",
+        "turns": [
+          {
+            "bot_en": "Hello?",
+            "bot_da": "Allo?",
+            "expect_keywords": [
+              "hello",
+              "this is",
+              "it's",
+              "speak to",
+              "sarah",
+              "is sarah"
+            ],
+            "sample_en": "Hello, this is Nouha. Can I speak to Sarah, please?"
+          },
+          {
+            "bot_en": "Hi Nouha. This is Tom, Sarah's brother. Sorry, she's not here right now. Can I take a message?",
+            "bot_da": "Ahlan Nouha. Ana Tom, khou Sarah. Sme7 liya, hiya makaynach daba. Wach bghiti tkhelli `message`?",
+            "expect_keywords": [
+              "yes",
+              "please",
+              "tell her",
+              "ask her",
+              "call me back",
+              "message"
+            ],
+            "sample_en": "Yes, please. Could you ask her to call me back?"
+          },
+          {
+            "bot_en": "Of course. Could you tell me what it's about?",
+            "bot_da": "Wakha. Wach ymken t9oli liya 3la ach lmawdou3?",
+            "expect_keywords": [
+              "about",
+              "it's about",
+              "tomorrow",
+              "class",
+              "meeting",
+              "party",
+              "homework"
+            ],
+            "sample_en": "It's about our English class tomorrow."
+          },
+          {
+            "bot_en": "OK. And what's your phone number?",
+            "bot_da": "Wakha. W chno hiya nnemra dyalek?",
+            "expect_keywords": [
+              "it's",
+              "my number",
+              "zero",
+              "0",
+              "six",
+              "06"
+            ],
+            "sample_en": "It's 06 61 23 45 78."
+          },
+          {
+            "bot_en": "Sorry, the line is bad. Could you repeat that, please?",
+            "bot_da": "Sme7 liya, rrizo khayb. Wach ymken t3awdi, 3afak?",
+            "expect_keywords": [
+              "sure",
+              "of course",
+              "yes",
+              "zero",
+              "0",
+              "six",
+              "06",
+              "it's"
+            ],
+            "sample_en": "Sure. 06 61 23 45 78."
+          },
+          {
+            "bot_en": "Got it, thanks. I'll give her the message. Bye!",
+            "bot_da": "Wakha, choukran. Ghadi n3ti liha lmessage. Bslama!",
+            "expect_keywords": [
+              "thank",
+              "thanks",
+              "bye",
+              "goodbye",
+              "see you"
+            ],
+            "sample_en": "Thank you, Tom. Goodbye!"
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Email 9sir l l'oustad",
+      "prompt_da": "Ktbi `email` 9sir (50 kelma) l ssi Brown, l'oustad dyalek: 9oli lih belli ma ghadich tjiy l l7issa dyal nhar larb3 (3lach?), sewlih b 'adab 3la lwajib (`homework`) wla 3la l'imti7an, w chekrih. Bdaï b `Dear Mr. Brown,` w kemmli b `Best regards,`.",
+      "helper_en": [
+        "Dear Mr. Brown,",
+        "I'm writing to tell you that ...",
+        "Could you tell me ...?",
+        "Thank you for ...",
+        "Best regards,"
+      ],
+      "min_words": 50,
+      "keywords": [
+        "dear",
+        "regards"
+      ],
+      "model_en": "Dear Mr. Brown,\n\nI'm writing to tell you that I can't come to the class on Wednesday, because I have a job interview in Rabat. I'm sorry about that. Could you tell me what the homework is for next week? And do you know if the exam is on Friday or on Monday? Thank you for your help and for your patience with my English.\n\nBest regards,\nNouha Alami"
+    }
+  },
+  {
+    "id": "l24",
+    "order": 24,
+    "level": "A2.2",
+    "emoji": "🏆",
+    "title_en": "Have you ever…? Present perfect & big review",
+    "title_da": "Wach 3emrek…? Lmoraja3a lkbira",
+    "goals_da": [
+      "Thedri 3la ttajarib dyal 7yatek b `have/has` + `past participle`: `I have been to Spain`",
+      "Tsewli w tjawbi 3la `Have you ever…?` b `Yes, I have` / `No, never`",
+      "Tferr9i bin `been` w `gone`, w bin `present perfect` w `past simple`",
+      "T3awdi l'ahamm no9at dyal A1 w A2: `to be`, `present simple`, `past simple`, `going to`, `comparatives`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "Present perfect — ttajarib dyal l7ayat",
+        "body_da": "Melli kanhedro 3la 7aja derniha f 7yatna **bla ma n9oulo fo9ach**, kansta3mlo `present perfect`: `have` / `has` + `past participle` (ttasrif ttalet dyal lfi3l).\n\n- L'af3al l3adiya: `past participle` = nefs lforma dyal lmadi b `-ed`: `visited`, `tried`, `worked`.\n- L'af3al li machi 3adiya (7fedihom!): `be → been`, `see → seen`, `eat → eaten`, `go → gone`, `meet → met`, `do → done`, `have → had`, `drink → drunk`, `read → read`, `write → written`, `take → taken`.\n\nL'amtila: `I have visited Fes.` = zert Fes (f 7yati, chi merra — fo9ach? machi mohimm). `She has eaten sushi.` = hiya sb9 liha klat sushi.\n\nL'ikhtisar: `I've`, `you've`, `we've`, `they've` / `he's`, `she's` (hna `'s` = `has`!).\n\nNnafi: `haven't` / `hasn't`: `I haven't seen that film.` = ma cheftch dak lfilm (7ta daba).\n\nF darija kan9oulo \"sb9 liya…\" wla \"3emmerni ma…\": `I have tried couscous with fish.` = sb9 liya klit lkesksou b l7out.",
+        "examples": [
+          {
+            "en": "I have visited Fes three times.",
+            "da": "Zert Fes tlata dyal lmerrat (f 7yati).",
+            "pron": "aï hav vi-zi-tid fès thri taïmz"
+          },
+          {
+            "en": "She has eaten Japanese food.",
+            "da": "Hiya sb9 liha klat lmakla lyabaniya.",
+            "pron": "chi haz i-teun dja-pa-niz foud"
+          },
+          {
+            "en": "We've seen that film twice.",
+            "da": "Chefna dak lfilm jouj merrat.",
+            "pron": "wiv sin that film twaïs"
+          },
+          {
+            "en": "I haven't met his wife.",
+            "da": "Ma tla9itch mrato (7ta daba).",
+            "pron": "aï ha-veunt mèt hiz waïf"
+          },
+          {
+            "en": "They've never tried camel meat.",
+            "da": "3emmerhom ma jerrbo l7em jjmel.",
+            "pron": "théyv né-veur traïd ka-meul mit"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Have you ever…? — Wach 3emrek…?",
+        "body_da": "`ever` = chi merra f 7yatek (kayji f so2al): `Have you ever been to Spain?` = wach 3emrek mchiti l Spanya?\n\nLjawab l9sir:\n\n- `Yes, I have.` = ah, sb9 liya.\n- `No, I haven't.` = la, 3emmerni.\n- `No, never.` = la, 3emmerni (walou).\n\n`never` = 3emmer… ma. Hiya b rassha nafiya, 3la hadak **ma kanzidouch** `not`: `I have never been to Spain.` (machi \"I haven't never\").\n\nM3a `he/she`: `Has she ever…?` → `Yes, she has.` / `No, she hasn't.`\n\n`been to` = mchit l (w rje3t): `I've been to Spain.` Dima m3a `to`: `been to Spain`, `been to the cinema`.\n\nBhal f darija: \"Wach 3emrek…?\" → \"3emmerni!\" wla \"Ah, sb9 liya.\" Sahla, yak?",
+        "examples": [
+          {
+            "en": "Have you ever been to Spain?",
+            "da": "Wach 3emrek mchiti l Spanya?",
+            "pron": "hav you é-veur bin tou spéyn"
+          },
+          {
+            "en": "Yes, I have. I went there in 2019.",
+            "da": "Ah, mchit. Mchit ltemma f 2019.",
+            "pron": "yès, aï hav. aï wènt thér in tou-thaw-zeund-naïn-tin"
+          },
+          {
+            "en": "No, I haven't. I've never been abroad.",
+            "da": "La, 3emmerni. 3emmerni ma kherjt men lmeghrib.",
+            "pron": "no, aï ha-veunt. aïv né-veur bin a-brod"
+          },
+          {
+            "en": "Has your brother ever eaten snails?",
+            "da": "Wach 3emmer khouk kla lbebbouch?",
+            "pron": "haz your bra-theur é-veur i-teun snéylz"
+          },
+          {
+            "en": "Have you ever met a famous person?",
+            "da": "Wach 3emrek tla9iti chi chkhss mechhour?",
+            "pron": "hav you é-veur mèt a féy-meuss peur-seun"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "been wla gone? Present perfect wla past simple?",
+        "body_da": "**`been` wla `gone`?**\n\n- `She has been to London.` = mchat l London w rej3at (ttajriba).\n- `She has gone to London.` = mchat l London w **mazal temma** (makaynach daba).\n\n**`present perfect` wla `past simple`?**\n\n- `present perfect` = ttajriba, **bla wa9t m7edded**: `I have visited Fes.` (fo9ach? ma mohimch).\n- `past simple` (dars 15-16) = m3a **wa9t m7edded**: `I visited Fes last year.`, `in 2020`, `yesterday`, `two days ago`, `when I was a child`.\n\nF lhadra, 3adatan kanbdaw b `present perfect` w kankemmlo b `past simple`:\n\n`Have you ever been to Marrakech?` → `Yes, I have. I went there last summer. It was great!`\n\n**L9a3ida ddahabiya:** ila kayna `yesterday`, `last…`, `…ago`, `in 2015`, `when…` → `past simple`, **3emmerk** ma tsta3mli `present perfect`!",
+        "examples": [
+          {
+            "en": "Omar has gone to the market. He'll be back at six.",
+            "da": "Omar mcha l ssou9 (mazal temma). Ghadi yrje3 m3a ssetta.",
+            "pron": "o-mar haz gon tou the mar-kit. hil bi bak at siks"
+          },
+          {
+            "en": "Omar has been to the market. Look, he bought vegetables.",
+            "da": "Omar kan mcha l ssou9 (w rje3). Chofi, chra lkhodra.",
+            "pron": "o-mar haz bin tou the mar-kit. louk, hi bot vèdj-teu-beulz"
+          },
+          {
+            "en": "I've been to Tangier twice. The last time was in 2022.",
+            "da": "Mchit l Tanja jouj merrat. L'akhir merra kanet f 2022.",
+            "pron": "aïv bin tou tan-djir twaïs. the last taïm woz in tou-thaw-zeund-twèn-ti-tou"
+          },
+          {
+            "en": "Have you ever tried snails? — Yes, I tried them in Jemaa el-Fna last year.",
+            "da": "Wach 3emrek jerrbti lbebbouch? — Ah, jerrebthom f Jam3 lfna l3am li fat.",
+            "pron": "hav you é-veur traïd snéylz — yès, aï traïd thèm in dja-ma èl-fna last yir"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Lmoraja3a lkbira — men dars 1 7ta dars 23",
+        "body_da": "Mabrouk, Nouha! Hada l'akhir dars. Nchoufo l'ahamm no9at f jomla wa7da kol wa7da:\n\n- `to be` (dars 3): `am / is / are` → `I'm a nurse.`, `She isn't here.`, `Are you ready?`\n- `present simple` (dars 7-8): l3adat w l7a9ayi9 → `I work`, `she works`, `Do you…?`, `Does she…?`, `don't / doesn't`.\n- `present continuous` (dars 13): daba → `I'm studying now.`\n- `past simple` (dars 15-16): lmadi m7edded → `was / were`, `went`, `didn't go`, `Did you go?`\n- Lmosta9bal (dars 19): `going to` l lmokhattat → `I'm going to travel.` / `will` l l9arar w lwa3d → `I'll help you.`\n- Lmo9arana (dars 20): `bigger than`, `more expensive than`, `the best`.\n- `have to / must` (dars 21), `I'd like` (dars 22), `Could you tell me…?` (dars 23).\n- `present perfect` (dars 24): ttajarib → `Have you ever…?`\n\n**L7ila:** sewli rassek **fo9ach?** → daba (`continuous`), dima (`simple`), lbare7 (`past`), ghedda (`going to` / `will`), f 7yati bla wa9t (`present perfect`).",
+        "examples": [
+          {
+            "en": "I usually work in Casablanca, but today I'm working in Rabat.",
+            "da": "3adatan kankhdem f Casa, walakin lyouma kankhdem f Rabat.",
+            "pron": "aï you-jou-a-li weurk in ka-sa-blan-ka, beut tou-déy aïm weur-king in ra-bat"
+          },
+          {
+            "en": "Last year I went to Agadir. Next year I'm going to visit Spain.",
+            "da": "L3am li fat mchit l Agadir. L3am jjay ghadi nzour Spanya.",
+            "pron": "last yir aï wènt tou a-ga-dir. nèkst yir aïm go-ing tou vi-zit spéyn"
+          },
+          {
+            "en": "Marrakech is hotter than Tangier, but Tangier is the most beautiful city for me.",
+            "da": "Marrakech skhouna kter men Tanja, walakin Tanja hiya azwa9 mdina 3ndi.",
+            "pron": "ma-ra-kèch iz ho-teur than tan-djir, beut tan-djir iz the most byou-ti-foul si-ti for mi"
+          },
+          {
+            "en": "I have learned a lot of English this year!",
+            "da": "T3ellemt bzzaf dyal lingliziya had l3am!",
+            "pron": "aï hav leurnd a lot ov in-glich this yir"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "been",
+            "da": "mchit l… / knt (ttasrif ttalet dyal `be`)",
+            "emoji": "✈️",
+            "pron": "bin",
+            "example_en": "I've been to Fes.",
+            "example_da": "Mchit l Fes (chi merra f 7yati)."
+          },
+          {
+            "en": "seen",
+            "da": "cheft (ttasrif ttalet dyal `see`)",
+            "emoji": "👀",
+            "pron": "sin",
+            "example_en": "Have you seen this film?",
+            "example_da": "Wach chefti had lfilm?"
+          },
+          {
+            "en": "eaten",
+            "da": "klit (ttasrif ttalet dyal `eat`)",
+            "emoji": "🍽️",
+            "pron": "i-teun",
+            "example_en": "I've never eaten sushi.",
+            "example_da": "3emmerni ma klit sushi."
+          },
+          {
+            "en": "tried",
+            "da": "jerrebt (ttasrif ttalet dyal `try`)",
+            "emoji": "🧪",
+            "pron": "traïd",
+            "example_en": "Have you ever tried snails?",
+            "example_da": "Wach 3emrek jerrbti lbebbouch?"
+          },
+          {
+            "en": "met",
+            "da": "tla9it (ttasrif ttalet dyal `meet`)",
+            "emoji": "🤝",
+            "pron": "mèt",
+            "example_en": "I've met a famous singer.",
+            "example_da": "Tla9it wa7ed lmoghanni mechhour."
+          },
+          {
+            "en": "visited",
+            "da": "zert (ttasrif ttalet dyal `visit`)",
+            "emoji": "🕌",
+            "pron": "vi-zi-tid",
+            "example_en": "She has visited Chefchaouen.",
+            "example_da": "Hiya zaret Chefchaouen."
+          },
+          {
+            "en": "gone",
+            "da": "mcha w mazal temma (ttasrif ttalet dyal `go`)",
+            "emoji": "🚶",
+            "pron": "gon",
+            "example_en": "He has gone to work.",
+            "example_da": "Mcha l lkhedma (mazal temma)."
+          },
+          {
+            "en": "ever",
+            "da": "chi merra f 7yatek (f so2al)",
+            "emoji": "❓",
+            "pron": "é-veur",
+            "example_en": "Have you ever been to Egypt?",
+            "example_da": "Wach 3emrek mchiti l Masr?"
+          },
+          {
+            "en": "never",
+            "da": "3emmer… ma",
+            "emoji": "🚫",
+            "pron": "né-veur",
+            "example_en": "I've never been abroad.",
+            "example_da": "3emmerni ma kherjt men lmeghrib."
+          },
+          {
+            "en": "abroad",
+            "da": "f lkharij / berra men lblad",
+            "emoji": "🌍",
+            "pron": "a-brod",
+            "example_en": "My cousin lives abroad.",
+            "example_da": "Weld 3emmi kayskon f lkharij."
+          },
+          {
+            "en": "twice",
+            "da": "jouj merrat",
+            "emoji": "2️⃣",
+            "pron": "twaïs",
+            "example_en": "I've seen it twice.",
+            "example_da": "Chefto jouj merrat."
+          },
+          {
+            "en": "famous",
+            "da": "mechhour / mechhoura",
+            "emoji": "⭐",
+            "pron": "féy-meuss",
+            "example_en": "Have you ever met a famous person?",
+            "example_da": "Wach 3emrek tla9iti chi chkhss mechhour?"
+          },
+          {
+            "en": "snails",
+            "da": "lbebbouch",
+            "emoji": "🐌",
+            "pron": "snéylz",
+            "example_en": "Have you ever eaten snails?",
+            "example_da": "Wach 3emrek kliti lbebbouch?"
+          },
+          {
+            "en": "camel",
+            "da": "jjmel",
+            "emoji": "🐪",
+            "pron": "ka-meul",
+            "example_en": "I have seen a camel in Merzouga.",
+            "example_da": "Cheft jjmel f Merzouga."
+          },
+          {
+            "en": "the mountains",
+            "da": "jjbel",
+            "emoji": "🏔️",
+            "pron": "the mawn-teunz",
+            "example_en": "We've been to the Atlas Mountains.",
+            "example_da": "Mchina l jbal l'Atlas."
+          },
+          {
+            "en": "a foreign country",
+            "da": "blad berraniya",
+            "emoji": "🗺️",
+            "pron": "a fo-rin keun-tri",
+            "example_en": "Have you ever visited a foreign country?",
+            "example_da": "Wach 3emrek zerti chi blad berraniya?"
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "Wach 3emrek…? — Nouha w Sarah f l9ehwa",
+        "context_da": "Nouha w Sarah galsin f l9ehwa, kaythedro 3la ssafar w ttajarib dyalhom.",
+        "lines": [
+          {
+            "speaker": "Sarah",
+            "en": "Nouha, have you ever been abroad?",
+            "da": "Nouha, wach 3emrek mchiti l lkharij?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes, I have. I've been to Spain twice.",
+            "da": "Ah, mchit. Mchit l Spanya jouj merrat."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Really? When did you go?",
+            "da": "Bss7? Fo9ach mchiti?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "The first time was in 2018, with my family. We visited Madrid and Seville.",
+            "da": "L'awwal merra kanet f 2018, m3a l3a2ila dyali. Zerna Madrid w Seville."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Nice! Have you ever eaten paella?",
+            "da": "Zwin! Wach 3emrek kliti lpaella?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "No, I haven't. I've never tried it. And you? Have you ever eaten couscous?",
+            "da": "La, 3emmerni. 3emmerni ma jerrebtha. W nti? Wach 3emrek kliti lkesksou?"
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Of course! I ate couscous last Friday at my neighbour's house. It was delicious.",
+            "da": "Bitta3b! Klit lkesksou ljem3a li fatet 3nd jjara dyali. Kan bnin."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Have you ever been to the Sahara?",
+            "da": "Wach 3emrek mchiti l ssa7ra?"
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Not yet, but I'm going to go to Merzouga next month!",
+            "da": "Mazal, walakin ghadi nmchi l Merzouga chhar jjay!"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Wow! You're going to love it. The desert is the most beautiful place in Morocco.",
+            "da": "Waw! Ghadi t3jbek bzzaf. Ssa7ra hiya azwa9 blassa f lmeghrib."
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "Melli katsewli `Have you ever…?`, ljawab l9sir kafi: `Yes, I have.` / `No, never.` W men ba3d, ila bghiti tzidi ttafasil (fo9ach? fin? m3a men?) — dowzi l lmadi lbassit: `I went there in 2019.` Hadi hiya l9a3ida ddahabiya: ttajriba → `present perfect`; lwa9t m7edded → `past simple`. W mabrouk, Nouha — hada l'akhir dars! Mchiti men `Hello` 7ta l `Have you ever…?`. 3awdi ddorous li s3ab 3lik, w kemmli ttari9!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "match",
+        "instruction_da": "Wessli ttasrif ttalet (past participle) m3a lma3na dyalo.",
+        "pairs": [
+          {
+            "en": "been (to)",
+            "da": "mchit (l)",
+            "emoji": "✈️"
+          },
+          {
+            "en": "seen",
+            "da": "cheft",
+            "emoji": "👀"
+          },
+          {
+            "en": "eaten",
+            "da": "klit",
+            "emoji": "🍽️"
+          },
+          {
+            "en": "met",
+            "da": "tla9it",
+            "emoji": "🤝"
+          },
+          {
+            "en": "tried",
+            "da": "jerrebt",
+            "emoji": "🧪"
+          }
+        ]
+      },
+      {
+        "type": "mcq",
+        "question_da": "Chno howa ttasrif ttalet (past participle) dyal `eat`?",
+        "options": [
+          "eaten",
+          "ate",
+          "eated",
+          "eating"
+        ],
+        "answer": 0,
+        "explain_da": "`eat – ate – eaten`. `ate` = lmadi lbassit (dars 16). `eaten` = ttasrif ttalet, kaymchi m3a `have/has`."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "Have you ever been to Spain?",
+        "question_da": "Sem3i. 3la ach kaysewwel?",
+        "options": [
+          "Wach 3emrek mchiti l Spanya",
+          "Wach ghadi tmchi l Spanya",
+          "Wach nti men Spanya",
+          "Wach kat3jbek Spanya"
+        ],
+        "answer": 0,
+        "explain_da": "`Have you ever been to…?` = wach 3emrek mchiti l…? `ever` = chi merra f 7yatek."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "I ___ never eaten sushi.",
+        "options": [
+          "have",
+          "has",
+          "am"
+        ],
+        "answer": "have",
+        "hint_da": "ana + ? + `never` + `eaten`",
+        "explain_da": "`I have never eaten` — m3a `I` kan9oulo `have`. `has` ghir m3a `he/she/it`."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "She ___ visited Chefchaouen three times.",
+        "options": [
+          "has",
+          "have",
+          "is"
+        ],
+        "answer": "has",
+        "hint_da": "Hiya → ?",
+        "explain_da": "`She has visited` — m3a `he/she/it` → `has`."
+      },
+      {
+        "type": "order",
+        "words": [
+          "Have",
+          "you",
+          "ever",
+          "met",
+          "a",
+          "famous",
+          "person?"
+        ],
+        "answer": "Have you ever met a famous person?",
+        "da": "Wach 3emrek tla9iti chi chkhss mechhour?",
+        "explain_da": "So2al: `Have` + `you` + `ever` + ttasrif ttalet (`met`)."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Omar makaynch f ddar daba, rah f Rabat. Chno n9oulo?",
+        "options": [
+          "Omar has gone to Rabat.",
+          "Omar has been to Rabat.",
+          "Omar is been to Rabat.",
+          "Omar has go to Rabat."
+        ],
+        "answer": 0,
+        "explain_da": "`has gone` = mcha w mazal temma. `has been` = mcha w rje3."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "No, I haven't. I've never been abroad.",
+        "question_da": "Sem3i. Chno kat9oul had lmra?",
+        "options": [
+          "3emmerha ma kherjat men lblad",
+          "Mchat l lkharij bzzaf",
+          "Ghadi tmchi l lkharij",
+          "Hiya f lkharij daba"
+        ],
+        "answer": 0,
+        "explain_da": "`I've never been abroad` = 3emmerni ma kherjt men lblad. `abroad` = lkharij."
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "\"I have visited Fes last year\" is correct English.",
+        "statement_da": "Ljomla `I have visited Fes last year` s7i7a.",
+        "answer": false,
+        "explain_da": "Ghalet! M3a lwa9t m7edded (`last year`) kansta3mlo lmadi lbassit: `I visited Fes last year.`"
+      },
+      {
+        "type": "mcq",
+        "question_da": "Lmoraja3a (dars 8): khtari ljomla s7i7a.",
+        "options": [
+          "She doesn't like coffee.",
+          "She don't like coffee.",
+          "She doesn't likes coffee.",
+          "She not like coffee."
+        ],
+        "answer": 0,
+        "explain_da": "M3a `she` → `doesn't` + lfi3l bla `-s`: `doesn't like`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "I've never tried camel meat.",
+        "da": "3emmerni ma jerrebt l7em jjmel.",
+        "explain_da": "`I've` = `I have`. `never` = 3emmer… ma. `tried` = jerrebt."
+      },
+      {
+        "type": "translate",
+        "da": "Wach 3emrek kliti lbebbouch?",
+        "answers": [
+          "Have you ever eaten snails?",
+          "Have you ever tried snails?"
+        ],
+        "hint_en": "Have you ... eaten ...?",
+        "explain_da": "`Have you ever eaten…?` = wach 3emrek kliti…? `snails` = lbebbouch."
+      },
+      {
+        "type": "order",
+        "words": [
+          "She",
+          "has",
+          "been",
+          "to",
+          "London",
+          "twice."
+        ],
+        "answer": "She has been to London twice.",
+        "da": "Hiya mchat l London jouj merrat.",
+        "explain_da": "`has been to` + lblassa + `twice` (jouj merrat). `been` dima m3a `to`."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "A: Have you ever been to Fes? B: Yes, I ___. I went there in 2020.",
+        "answers": [
+          "have"
+        ],
+        "hint_da": "Ljawab l9sir: `Yes, I` …",
+        "explain_da": "Ljawab l9sir: `Yes, I have.` Men ba3d, m3a lwa9t m7edded (`in 2020`) → `went` (lmadi lbassit)."
+      },
+      {
+        "type": "translate",
+        "da": "Ghedda ghadi nzour khti f Rabat. Hiya kber menni.",
+        "answers": [
+          "Tomorrow I'm going to visit my sister in Rabat. She's older than me.",
+          "Tomorrow I am going to visit my sister in Rabat. She is older than me.",
+          "Tomorrow I'm going to visit my sister in Rabat. She is older than me.",
+          "Tomorrow I am going to visit my sister in Rabat. She's older than me."
+        ],
+        "hint_en": "Tomorrow I'm ... to visit my ... in Rabat. She's ... than me.",
+        "explain_da": "Moraja3a: `going to` (dars 19) l lmokhattat, `older than` (dars 20) l lmo9arana."
+      },
+      {
+        "type": "speak",
+        "target_en": "I've been to Spain twice, but I've never been to England.",
+        "da": "Mchit l Spanya jouj merrat, walakin 3emmerni ma mchit l Ingiltira.",
+        "pron": "aïv bin tou spéyn twaïs, beut aïv né-veur bin tou in-gleund"
+      }
+    ],
+    "reading": {
+      "title_en": "Amina's interesting life",
+      "title_da": "L7ayat lmohimma dyal Amina",
+      "emoji": "🌍",
+      "text_en": "My name is Amina and I'm 35 years old. I have had a very interesting life. I was born in a small village near Ouarzazate, but I moved to Marrakech in 2010. I have worked as a nurse, a tour guide and, today, an English teacher. I have travelled a lot: I've been to France, Turkey and Egypt, and I've visited twelve Moroccan cities. I've never been to America, but I'm going to go next year, because my sister lives in New York. I've eaten strange food in my life: snails in Jemaa el-Fna and raw fish in Istanbul. But I've never tried camel meat! I've met many kind people, and I've learned three languages. Last month, I started my fourth: Spanish. It's harder than English, but it's more useful for my job. My advice? Life is short. Try new things, visit new places and never stop learning.",
+      "text_da": "Smiyti Amina w 3ndi 35 3am. 3echt 7ayat mohimma bzzaf. Tzadit f wa7ed ddouwar sghir 7da Werzazat, walakin nta9elt l Marrakech f 2010. Khdemt fermliya, w morchida siya7iya, w lyouma oustada dyal lingliziya. Saffert bzzaf: mchit l Fransa, Torkya w Masr, w zert tnach mdina meghribiya. 3emmerni ma mchit l Amrika, walakin ghadi nmchi l3am jjay, 7it khti kateskon f New York. Klit makla ghriba f 7yati: lbebbouch f Jam3 lfna w l7out khder f Istanbul. Walakin 3emmerni ma jerrebt l7em jjmel! Tla9it bzzaf dyal nnas dérifin, w t3ellemt tlata dyal lloghat. Chhar li fat, bdit rrab3a: l'isbaniya. S3iba kter men lingliziya, walakin nafi3a kter l khdemti. Nnasi7a dyali? L7ayat 9sira. Jerrbi 7wayj jdad, zouri blayes jdad w 3emmrek ma t7ebsi tt3ellem.",
+      "glossary": [
+        {
+          "en": "interesting",
+          "da": "mohimm / fih lfayda"
+        },
+        {
+          "en": "I was born",
+          "da": "tzadit"
+        },
+        {
+          "en": "village",
+          "da": "ddouwar"
+        },
+        {
+          "en": "tour guide",
+          "da": "morchid / morchida siya7iya"
+        },
+        {
+          "en": "travelled",
+          "da": "saffert"
+        },
+        {
+          "en": "raw fish",
+          "da": "l7out khder (machi mtiyeb)"
+        },
+        {
+          "en": "languages",
+          "da": "lloghat"
+        },
+        {
+          "en": "useful",
+          "da": "nafi3 / nafi3a"
+        },
+        {
+          "en": "advice",
+          "da": "nasi7a"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Fin tzadet Amina?",
+          "options": [
+            "F douwar sghir 7da Werzazat",
+            "F Marrakech",
+            "F New York",
+            "F Istanbul"
+          ],
+          "answer": 0,
+          "explain_da": "\"I was born in a small village near Ouarzazate.\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Amina has been to America.",
+          "answer": false,
+          "explain_da": "Ghalet: \"I've never been to America, but I'm going to go next year.\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "Chno 3emmerha ma jerrbat Amina?",
+          "options": [
+            "L7em jjmel",
+            "Lbebbouch",
+            "L7out khder",
+            "Lmakla ttorkiya"
+          ],
+          "answer": 0,
+          "explain_da": "\"But I've never tried camel meat!\""
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Amina thinks Spanish is easier than English.",
+          "answer": false,
+          "explain_da": "Ghalet: \"It's harder than English.\" `harder` = s3eb kter."
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "Wach 3emrek…? — lo3ba f l9ism",
+      "emoji": "🎧",
+      "pre_da": "F l'akhir 7issa, l'oustad kaysewwel ttlamed 3la ttajarib dyalhom. Sem3i w rekkzi 3la: l fin mcha Omar f lkharij? w chno 3emmro ma dar?",
+      "lines": [
+        {
+          "speaker": "Mr. Brown",
+          "en": "OK, Omar, it's your turn. Have you ever been abroad?",
+          "da": "Wakha, Omar, nnoba dyalek. Wach 3emrek mchiti l lkharij?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Yes, I have. I've been to Turkey.",
+          "da": "Ah, mchit. Mchit l Torkya."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "When did you go there?",
+          "da": "Fo9ach mchiti ltemma?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "I went to Istanbul two years ago, with my brother. We stayed for a week.",
+          "da": "Mchit l Istanbul hadi 3amayn, m3a khouya. B9ina simana."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Did you like it?",
+          "da": "Wach 3jbatek?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Yes, it was fantastic. The food was delicious, but the city was more expensive than Casablanca.",
+          "da": "Ah, kanet ra2i3a. Lmakla kanet bnina, walakin lmdina kanet ghalya kter men Casa."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Have you ever tried Turkish coffee?",
+          "da": "Wach 3emrek jerrbti l9ehwa ttorkiya?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "Yes, I have, many times. But I've never eaten Turkish sweets. I don't like sugar.",
+          "da": "Ah, jerrebtha, bzzaf dyal lmerrat. Walakin 3emmerni ma klit l7elwa ttorkiya. Ma kanbghich sskkar."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Interesting! Thank you, Omar. Now, Laila, have you ever met a famous person?",
+          "da": "Mohimm! Choukran, Omar. Daba, Laila, wach 3emrek tla9iti chi chkhss mechhour?"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "L fin mcha Omar f lkharij?",
+          "options": [
+            "L Torkya",
+            "L Spanya",
+            "L Fransa",
+            "L Masr"
+          ],
+          "answer": 0,
+          "explain_da": "\"I've been to Turkey.\""
+        },
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach mcha l Istanbul?",
+          "options": [
+            "Hadi 3amayn",
+            "L3am li fat",
+            "Hadi simana",
+            "F 2010"
+          ],
+          "answer": 0,
+          "explain_da": "\"I went to Istanbul two years ago.\" `two years ago` = hadi 3amayn."
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "I've never eaten Turkish sweets.",
+          "question_da": "Sem3i. Chno kay9oul Omar?",
+          "options": [
+            "3emmro ma kla l7elwa ttorkiya",
+            "Kla l7elwa ttorkiya bzzaf",
+            "Ghadi yakol l7elwa ttorkiya",
+            "Kat3jbo l7elwa ttorkiya"
+          ],
+          "answer": 0,
+          "explain_da": "`I've never eaten` = 3emmerni ma klit. `sweets` = l7elwa."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Istanbul was cheaper than Casablanca.",
+          "answer": false,
+          "explain_da": "Ghalet: \"the city was more expensive than Casablanca.\" `cheaper` = rkhes."
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "Have you ever been to Spain?",
+          "da": "Wach 3emrek mchiti l Spanya?",
+          "pron": "hav you é-veur bin tou spéyn"
+        },
+        {
+          "target_en": "Yes, I have. I went there in 2019.",
+          "da": "Ah, mchit. Mchit ltemma f 2019.",
+          "pron": "yès, aï hav. aï wènt thér in tou-thaw-zeund-naïn-tin"
+        },
+        {
+          "target_en": "No, I haven't. Never.",
+          "da": "La, 3emmerni. Walou.",
+          "pron": "no, aï ha-veunt. né-veur"
+        },
+        {
+          "target_en": "I've eaten couscous many times.",
+          "da": "Klit lkesksou bzzaf dyal lmerrat.",
+          "pron": "aïv i-teun kous-kous mé-ni taïmz"
+        },
+        {
+          "target_en": "She has gone to the market.",
+          "da": "Hiya mchat l ssou9 (mazal temma).",
+          "pron": "chi haz gon tou the mar-kit"
+        },
+        {
+          "target_en": "I have learned a lot this year!",
+          "da": "T3ellemt bzzaf had l3am!",
+          "pron": "aï hav leurnd a lot this yir"
+        }
+      ],
+      "roleplay": {
+        "title_da": "Wach 3emrek…? — lo3ba dyal ttajarib",
+        "context_da": "Sarah katsewlek 3la ttajarib dyal 7yatek. Jawbi b `Yes, I have` / `No, I haven't`, w zidi ttafasil b lmadi lbassit!",
+        "turns": [
+          {
+            "bot_en": "Hi Nouha! Have you ever been abroad?",
+            "bot_da": "Ahlan Nouha! Wach 3emrek mchiti l lkharij?",
+            "expect_keywords": [
+              "yes, i have",
+              "no, i haven't",
+              "i have",
+              "i haven't",
+              "never",
+              "i've been",
+              "been to"
+            ],
+            "sample_en": "Yes, I have. I've been to Spain."
+          },
+          {
+            "bot_en": "Interesting! Have you ever eaten food from another country?",
+            "bot_da": "Mohimm! Wach 3emrek kliti makla dyal blad khra?",
+            "expect_keywords": [
+              "yes",
+              "no",
+              "i have",
+              "haven't",
+              "never",
+              "eaten",
+              "tried",
+              "pizza",
+              "sushi"
+            ],
+            "sample_en": "Yes, I have. I've eaten pizza and sushi."
+          },
+          {
+            "bot_en": "And when did you eat it?",
+            "bot_da": "W fo9ach klitiha?",
+            "expect_keywords": [
+              "last",
+              "ago",
+              "in 20",
+              "when i",
+              "yesterday",
+              "ate",
+              "tried"
+            ],
+            "sample_en": "I ate sushi last year, in Casablanca."
+          },
+          {
+            "bot_en": "Have you ever met a famous person?",
+            "bot_da": "Wach 3emrek tla9iti chi chkhss mechhour?",
+            "expect_keywords": [
+              "yes",
+              "no",
+              "i have",
+              "haven't",
+              "never",
+              "met"
+            ],
+            "sample_en": "No, I haven't. I've never met a famous person."
+          },
+          {
+            "bot_en": "What are you going to do after this course?",
+            "bot_da": "Chno ghadi tdiri men ba3d had ddawra?",
+            "expect_keywords": [
+              "going to",
+              "i'll",
+              "i will",
+              "travel",
+              "work",
+              "study",
+              "practise",
+              "practice",
+              "speak"
+            ],
+            "sample_en": "I'm going to practise English every day and travel to London."
+          },
+          {
+            "bot_en": "Great! You have learned a lot. Congratulations, Nouha!",
+            "bot_da": "Mzyan! T3ellemti bzzaf. Mabrouk, Nouha!",
+            "expect_keywords": [
+              "thank",
+              "thanks",
+              "happy",
+              "glad",
+              "bye"
+            ],
+            "sample_en": "Thank you so much, Sarah! I'm very happy."
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Ttajarib dyali — l'akhir ktaba",
+      "prompt_da": "Ktbi 60 kelma 3la ttajarib dyal 7yatek: fin mchiti (`I've been to…`), chno kliti wla jerrbti (`I've tried…`), chkoun tla9iti, w chno 3emmrek ma derti (`I've never…`). Zidi jomla b lmadi lbassit (fo9ach?) w jomla 3la lmosta9bal (`I'm going to…`). Hadi hiya lmoraja3a lkbira dyalek!",
+      "helper_en": [
+        "I've been to ...",
+        "I've never ...",
+        "I went there in ...",
+        "I've tried ...",
+        "Next year, I'm going to ..."
+      ],
+      "min_words": 60,
+      "keywords": [
+        "never",
+        "been"
+      ],
+      "model_en": "I'm Nouha and I've had many good experiences in my life. I've been to Spain twice, with my family. The first time was in 2018, and we visited Madrid. I've visited many cities in Morocco, but I've never been to the Sahara. I've eaten pizza, sushi and Turkish food, and I've tried snails in Marrakech. I've never met a famous person, but I've met many kind people in my English class. Next year, I'm going to travel to London and speak English every day. I think it will be the best trip of my life!"
+    }
+  }
+]

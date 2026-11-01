@@ -1,0 +1,838 @@
+[
+{
+  "id": "l13",
+  "order": 13,
+  "level": "A2.1",
+  "emoji": "🏃‍♀️",
+  "title_en": "What are you doing now? Present continuous",
+  "title_da": "Chno katdiri daba?",
+  "goals_da": [
+    "T9oli chno katdiri daba b `am` / `is` / `are` + fi3l + `-ing`",
+    "Tsewli `What are you doing?` w tjawbi 3liha",
+    "Tferr9i bin daba (`now`) w dima (`usually`)",
+    "Thedri 3la lhiwayat dyalek: `cooking`, `reading`, `watching TV`, `listening to music`"
+  ],
+  "sections": [
+    {
+      "type": "explain",
+      "title_da": "Chno katdiri daba? — am / is / are + -ing",
+      "body_da": "Melli bghiti t9oli chno katdiri **daba, f had llo7da**, f lingliziya kanst3mlo `am` / `is` / `are` + l fi3l + `-ing`. Smiytha `present continuous` (l7adir li kaywe9e3 daba).\n\nF darija kan9oulo \"rani kantiyeb\" wla \"daba kantiyeb\" — had \"rani / daba\" hiya li kat3ti lma3na dyal 'f had llo7da'. F lingliziya, had lma3na kaydih `-ing`.\n\n- `I am cooking.` / `I'm cooking.` = (daba) kantiyeb.\n- `You are reading.` / `You're reading.` = kat9ray.\n- `He is working.` / `He's working.` = kaykhdem.\n- `She is studying.` / `She's studying.` = kat9ra.\n- `It is raining.` / `It's raining.` = katsob chta.\n- `We are watching TV.` / `We're watching TV.` = kanchoufou ttelfaza.\n- `They are playing football.` / `They're playing football.` = kayl3bou lkora.\n\nL9a3ida sahla: `to be` (li 3refti f dars 3) + fi3l + `-ing`. F lhadra, dima kanst3mlo lforma lm9essra: `I'm`, `she's`, `they're`.",
+      "examples": [
+        {"en": "I'm cooking couscous now.", "da": "Daba kantiyeb lkesksou.", "pron": "aïm kou-king kous-kous naw"},
+        {"en": "She's reading a book.", "da": "Hiya kat9ra chi ktab.", "pron": "chiz ri-ding a bouk"},
+        {"en": "They're playing football in the street.", "da": "Houma kayl3bou lkora f zzen9a.", "pron": "théyr pléy-ing fout-bol in the strit"},
+        {"en": "Look! It's raining.", "da": "Chofi! Katsob chta.", "pron": "louk! its réy-ning"},
+        {"en": "We're watching a film.", "da": "Kanchoufou wa7ed lfilm.", "pron": "wir wo-tching a film"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "-ing: kifach nktbouha",
+      "body_da": "Bach nzido `-ing`, kaynin 3 9wa3ed sghar:\n\n**1. L'aghlabiya:** ghir zidi `-ing`: `read → reading`, `cook → cooking`, `play → playing`, `watch → watching`, `go → going`, `sleep → sleeping`, `study → studying` (l `y` kaytb9a!).\n\n**2. L fi3l li kaysali b `e`:** 7eyydi l `e` w zidi `-ing`: `make → making`, `write → writing`, `come → coming`, `dance → dancing`, `take → taking`, `have → having`.\n\n**3. L fi3l l9sir li kaysali b 7arf wa7ed men ba3d `a`, `e`, `i`, `o` wla `u`:** dewbli l7arf l'akhir: `sit → sitting`, `run → running`, `swim → swimming`, `shop → shopping`, `get → getting`, `stop → stopping`.\n\nRedi lbal: `studying` machi bhal `studies` (dars 8)! M3a `-ing`, l `y` makatbeddelch.",
+      "examples": [
+        {"en": "I'm making tea.", "da": "Kan3mel atay.", "pron": "aïm méy-king ti"},
+        {"en": "We're sitting in the café.", "da": "7na galsin f l9ehwa.", "pron": "wir si-ting in the ka-féy"},
+        {"en": "He's running to the bus.", "da": "Howa kayjri l ttobis.", "pron": "hiz ra-ning tou the beus"},
+        {"en": "Omar is writing a letter.", "da": "Omar kaykteb bra.", "pron": "o-mar iz raï-ting a lé-teur"},
+        {"en": "I'm studying English now.", "da": "Daba kan9ra lingliziya.", "pron": "aïm steu-di-ing in-glich naw"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Nnafi w sso2al: not / Are you…? Is she…?",
+      "body_da": "**Nnafi:** zidi `not` men ba3d `am` / `is` / `are`:\n\n- `I'm not sleeping.` = makann3esch.\n- `She isn't cooking.` = makattiyebch.\n- `They aren't working today.` = makaykhedmouch lyouma.\n\n**Sso2al:** 9elbi: `am` / `is` / `are` kaydouz 9bel `I` / `she` / `you`… Bhal `to be`: `Are you…?`, `Is she…?`\n\n- `Are you working?` = wach katkhedmi?\n- `Is she cooking?` = wach kattiyeb?\n- `What are you doing?` = chno katdiri?\n- `Where is he going?` = fin ghadi?\n\n**Ljawab l9sir:** `Yes, I am.` / `No, I'm not.` — `Yes, she is.` / `No, she isn't.` — `Yes, they are.` / `No, they aren't.` Nefs ljawabat li t3ellemti m3a `to be`.\n\nF darija kanzido \"wach\" f lbdya; f lingliziya makanzidouch walou, ghir kan9elbo `are` l lowwel.",
+      "examples": [
+        {"en": "What are you doing?", "da": "Chno katdiri?", "pron": "wat ar you dou-ing"},
+        {"en": "I'm not watching TV, I'm studying.", "da": "Makanchoufch ttelfaza, kan9ra.", "pron": "aïm not wo-tching ti-vi, aïm steu-di-ing"},
+        {"en": "Is Sarah sleeping? — No, she isn't.", "da": "Wach Sarah na3sa? — La.", "pron": "iz sé-ra sli-ping? — no, chi i-zent"},
+        {"en": "Are the kids playing outside? — Yes, they are.", "da": "Wach drari kayl3bou berra? — Ah.", "pron": "ar the kidz pléy-ing awt-saïd? — yès, théy ar"},
+        {"en": "Where are you going?", "da": "Fin ghadya?", "pron": "wér ar you go-ing"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Daba wla dima? — now / usually",
+      "body_da": "Kayn far9 kbir bin jouj dyal l'azmina:\n\n**L7adir lbassit** (dars 7 w 8) = l3ada, chi 7aja katdiriha dima, kol nhar: `I cook every day.` (kantiyeb kol nhar), `She works in a bank.` (katkhdem f banka).\n\n**`am / is / are` + `-ing`** = daba, f had llo7da: `I'm cooking now.` (daba kantiyeb), `She's working at the moment.` (daba khddama).\n\nLkelmat li kat3awnek:\n\n- Daba → `now`, `right now`, `at the moment`, `today`, `Look!`, `Listen!`\n- Dima → `every day`, `usually`, `always`, `often`, `sometimes`, `never`, `on Mondays`\n\nMital: `I usually drink coffee, but today I'm drinking tea.` = 3adatan kanchreb l9ehwa, walakin lyouma kanchreb atay. Chofi: f darija nefs lkelma \"kanchreb\" f jouj l7alat, walakin f lingliziya kaytbeddel l fi3l!\n\n**Redi lbal:** chi af3al ma kayakhdouch `-ing` 7ta ila kan lma3na daba: `like`, `love`, `hate`, `want`, `know`, `understand`. Kan9oulo `I want tea` (machi `I'm wanting`), `I know` (machi `I'm knowing`).",
+      "examples": [
+        {"en": "I usually drink coffee, but today I'm drinking tea.", "da": "3adatan kanchreb l9ehwa, walakin lyouma kanchreb atay.", "pron": "aï you-jou-a-li drink ko-fi, beut tou-déy aïm drin-king ti"},
+        {"en": "She works in Rabat. She's working at home today.", "da": "Hiya katkhdem f Rabat. Lyouma khddama f ddar.", "pron": "chi weurks in ra-bat. chiz weur-king at hom tou-déy"},
+        {"en": "We watch TV every evening.", "da": "Kanchoufou ttelfaza kol 3chiya.", "pron": "wi wotch ti-vi év-ri iv-ning"},
+        {"en": "Listen! The children are singing.", "da": "Sem3i! Drari kayghenniw.", "pron": "li-sen! the tchil-dren ar sin-ging"}
+      ]
+    },
+    {
+      "type": "vocab",
+      "title_da": "Lkelmat dyal dars",
+      "items": [
+        {"en": "cooking", "da": "ttyab (kantiyeb)", "emoji": "🍳", "pron": "kou-king", "example_en": "I'm cooking dinner.", "example_da": "Kantiyeb l3cha."},
+        {"en": "reading", "da": "l9raya (kan9ra)", "emoji": "📖", "pron": "ri-ding", "example_en": "She's reading a magazine.", "example_da": "Kat9ra majalla."},
+        {"en": "watching TV", "da": "kanchouf ttelfaza", "emoji": "📺", "pron": "wo-tching ti-vi", "example_en": "We're watching TV.", "example_da": "Kanchoufou ttelfaza."},
+        {"en": "playing football", "da": "kanl3eb lkora", "emoji": "⚽", "pron": "pléy-ing fout-bol", "example_en": "The boys are playing football.", "example_da": "Ddrari kayl3bou lkora."},
+        {"en": "listening to music", "da": "kansme3 lmousi9a", "emoji": "🎧", "pron": "li-se-ning tou miou-zik", "example_en": "I'm listening to music.", "example_da": "Kansme3 lmousi9a."},
+        {"en": "studying", "da": "kan9ra (l l'imti7an)", "emoji": "📚", "pron": "steu-di-ing", "example_en": "He's studying for an exam.", "example_da": "Kay9ra l l'imti7an."},
+        {"en": "sleeping", "da": "na3es / na3sa", "emoji": "😴", "pron": "sli-ping", "example_en": "The baby is sleeping.", "example_da": "Lbebe na3es."},
+        {"en": "running", "da": "kanjri", "emoji": "🏃‍♀️", "pron": "ra-ning", "example_en": "They're running in the park.", "example_da": "Kayjriw f lpark."},
+        {"en": "swimming", "da": "kan3oum", "emoji": "🏊‍♀️", "pron": "swi-ming", "example_en": "Omar is swimming in the sea.", "example_da": "Omar kay3oum f lb7er."},
+        {"en": "dancing", "da": "kanchte7", "emoji": "💃", "pron": "dan-sing", "example_en": "She's dancing at the wedding.", "example_da": "Katchte7 f l3ers."},
+        {"en": "shopping", "da": "tte9ssira (kant9edda)", "emoji": "🛍️", "pron": "cho-ping", "example_en": "We're shopping at the souk.", "example_da": "Kant9eddaw f ssou9."},
+        {"en": "talking on the phone", "da": "kanhder f ttilifoun", "emoji": "📱", "pron": "to-king on the fon", "example_en": "My sister is talking on the phone.", "example_da": "Khti kathder f ttilifoun."},
+        {"en": "waiting", "da": "kantsenna", "emoji": "⏳", "pron": "wéy-ting", "example_en": "I'm waiting for the bus.", "example_da": "Kantsenna ttobis."},
+        {"en": "now", "da": "daba", "emoji": "⏱️", "pron": "naw", "example_en": "What are you doing now?", "example_da": "Chno katdiri daba?"},
+        {"en": "at the moment", "da": "daba, f had llo7da", "emoji": "⏰", "pron": "at the mo-ment", "example_en": "She's busy at the moment.", "example_da": "Hiya mechghoula daba."},
+        {"en": "hobby", "da": "lhiwaya (chi 7aja kat3jbek diriha f lwa9t lkhawi)", "emoji": "🎨", "pron": "ho-bi", "example_en": "Reading is my hobby.", "example_da": "L9raya hiya lhiwaya dyali."}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title_da": "F ttilifoun: chno katdiri?",
+      "context_da": "Nhar l7ed f l3chiya. Nouha 3eytat l Sarah f ttilifoun bach tchouf chno katdir.",
+      "lines": [
+        {"speaker": "Sarah", "en": "Hi Nouha! How are you?", "da": "Ahlan Nouha! Kidayra?"},
+        {"speaker": "Nouha", "en": "I'm fine, thanks. What are you doing?", "da": "Labas, choukran. Chno katdiri?"},
+        {"speaker": "Sarah", "en": "I'm cooking. I'm making a tagine for the first time!", "da": "Kantiyeb. Kan3mel ttajin l'awwal merra!"},
+        {"speaker": "Nouha", "en": "Really? Is Tom helping you?", "da": "Bsse7? Wach Tom kay3awnek?"},
+        {"speaker": "Sarah", "en": "No, he isn't. He's watching football with his friends.", "da": "La. Rah kaychouf lkora m3a s7abo."},
+        {"speaker": "Nouha", "en": "Ha ha! And what are the kids doing?", "da": "Hahaha! W drari chno kaydiro?"},
+        {"speaker": "Sarah", "en": "They're playing in the garden. And you? Are you studying?", "da": "Kayl3bou f jjerda. W nti? Wach kat9ray?"},
+        {"speaker": "Nouha", "en": "No, I'm not. I'm sitting in a café with my sister. We're drinking mint tea.", "da": "La. Galsa f l9ehwa m3a khti. Kanchrbou atay b nne3na3."},
+        {"speaker": "Sarah", "en": "Nice! Enjoy your tea. Talk to you later!", "da": "Zwin! Tehnnay b atayek. Nhedro men ba3d!"},
+        {"speaker": "Nouha", "en": "Bye, Sarah! Good luck with the tagine!", "da": "Bslama, Sarah! Llah y3awnek m3a ttajin!"}
+      ]
+    },
+    {
+      "type": "tip",
+      "title_da": "Nasi7a",
+      "body_da": "`What are you doing?` w `What do you do?` kaytchabhou, walakin lma3na mkhtalef bzzaf! `What are you doing?` = chno katdiri **daba**. `What do you do?` = chno **khedmtek** (chno katkhdmi f l7ayat). Ila sewlek chi wa7ed `What do you do?`, mat9olich `I'm sitting`! Jawbi: `I'm a nurse` wla `I work in a shop`."
+    }
+  ],
+  "exercises": [
+    {"type": "mcq", "question_da": "Kifach kan9oulo \"chno katdiri daba?\" b lingliziya?", "options": ["What are you doing?", "What do you do?", "Where are you?", "How are you?"], "answer": 0, "explain_da": "`What are you doing?` = chno katdiri daba. `What do you do?` = chno khedmtek."},
+    {"type": "match", "instruction_da": "Wessli l fi3l b `-ing` m3a lma3na dyalo.", "pairs": [
+      {"en": "cooking", "da": "kantiyeb", "emoji": "🍳"},
+      {"en": "reading", "da": "kan9ra", "emoji": "📖"},
+      {"en": "sleeping", "da": "kann3es", "emoji": "😴"},
+      {"en": "swimming", "da": "kan3oum", "emoji": "🏊‍♀️"},
+      {"en": "listening to music", "da": "kansme3 lmousi9a", "emoji": "🎧"}
+    ]},
+    {"type": "listen_mcq", "say_en": "She's reading a book.", "question_da": "Sem3i. Chno katdir?", "options": ["Kat9ra ktab", "Kattiyeb", "Katchouf ttelfaza", "Katn3es"], "answer": 0, "explain_da": "`She's reading a book.` = kat9ra ktab. `reading` = l9raya."},
+    {"type": "fill", "sentence_en": "I ___ cooking dinner now.", "options": ["am", "is", "are"], "answer": "am", "hint_da": "M3a `I` dima…", "explain_da": "`I am cooking` = `I'm cooking`. M3a `I` kanst3mlo `am`."},
+    {"type": "mcq", "question_da": "Achmen kitaba s7i7a?", "question_en": "make → ?", "options": ["making", "makeing", "makking", "maiking"], "answer": 0, "explain_da": "`make` kaysali b `e`: kan7eyydo l `e` w kanzido `-ing` → `making`."},
+    {"type": "order", "words": ["is", "She", "to", "listening", "music."], "answer": "She is listening to music.", "da": "Hiya katsme3 lmousi9a."},
+    {"type": "listen_mcq", "say_en": "Are you watching TV?", "question_da": "Sem3i. Achmen so2al sme3ti?", "options": ["Wach katchoufi ttelfaza daba?", "Wach katchoufi ttelfaza kol nhar?", "Wach kat9ray daba?", "Fin ttelfaza?"], "answer": 0, "explain_da": "`Are you watching TV?` = wach katchoufi ttelfaza (daba)? `Do you watch TV every day?` = kol nhar."},
+    {"type": "fill", "sentence_en": "Look! It's ___ (rain).", "answers": ["raining"], "hint_da": "`rain` + `-ing`.", "explain_da": "`It's raining.` = katsob chta. `Look!` = chofi! → chi 7aja kat we9e3 daba."},
+    {"type": "truefalse", "statement_en": "\"What do you do?\" means \"What are you doing now?\"", "statement_da": "`What do you do?` kat3ni \"chno katdiri daba?\".", "answer": false, "explain_da": "La! `What do you do?` = chno khedmtek. `What are you doing?` = chno katdiri daba."},
+    {"type": "translate", "da": "Houma kayl3bou lkora daba.", "answers": ["They are playing football now.", "They're playing football now.", "Now they are playing football.", "Now they're playing football."], "hint_en": "They ... playing ... now.", "explain_da": "`They are playing football now.` — `they` + `are` + `playing`."},
+    {"type": "dictation", "say_en": "We're waiting for the bus.", "da": "Kantsennaw ttobis.", "explain_da": "`wait for` = tsenna. `We're` = `We are`."},
+    {"type": "order", "words": ["What", "your", "is", "brother", "doing?"], "answer": "What is your brother doing?", "da": "Chno kaydir khouk?"},
+    {"type": "mcq", "question_da": "Khtari ljomla s7i7a:", "options": ["I usually drink coffee, but today I'm drinking tea.", "I usually am drinking coffee, but today I drink tea.", "I'm usually drinking coffee, but today I'm drink tea.", "I usually drinks coffee, but today I drinking tea."], "answer": 0, "explain_da": "`usually` (3adatan) → l7adir lbassit: `I drink`. `today` (lyouma, daba) → `am` + `-ing`: `I'm drinking`."},
+    {"type": "fill", "sentence_en": "Sarah ___ at the moment. Call her later.", "options": ["is sleeping", "sleeps", "sleep"], "answer": "is sleeping", "hint_da": "`at the moment` = daba.", "explain_da": "`at the moment` = daba, f had llo7da → `is sleeping`."},
+    {"type": "translate", "da": "Makanchoufch ttelfaza daba, rani kantiyeb.", "answers": ["I'm not watching TV now, I'm cooking.", "I am not watching TV now, I am cooking.", "I'm not watching TV now. I'm cooking.", "I am not watching TV now. I am cooking."], "hint_en": "I'm not ... TV now, I'm ...", "explain_da": "Nnafi: `I'm not watching`. `rani kantiyeb` = `I'm cooking`."},
+    {"type": "speak", "target_en": "What are you doing? I'm cooking dinner for my family.", "da": "Chno katdiri? Kantiyeb l3cha l l3a2ila dyali.", "pron": "wat ar you dou-ing? aïm kou-king di-neur for maï fa-mi-li"}
+  ],
+  "reading": {
+    "title_en": "A Sunday afternoon in Casablanca",
+    "title_da": "L7ed f l3chiya f Casa",
+    "emoji": "🏡",
+    "text_en": "It's Sunday afternoon and the weather is beautiful. Nouha is sitting on the balcony with a cup of mint tea. She isn't working today. She's reading a book about Marrakech. Her sister Hind is in the kitchen. She's cooking a tagine with chicken and olives, and she's listening to music on her phone. Their mother is sleeping in her room because she's tired. Their father is not at home. He's playing cards with his friends at the café. Outside, the children are playing football in the street and a cat is sleeping under a car. At six o'clock, the phone rings. It's Sarah! \"What are you doing, Nouha?\" she asks. \"Nothing special. I'm reading and drinking tea. Come and have dinner with us!\"",
+    "text_da": "Nhar l7ed f l3chiya w ljow zwin. Nouha galsa f lbalkon m3a kas d atay b nne3na3. Lyouma makatkhdemch. Kat9ra ktab 3la Marrakech. Khtha Hind f lkouzina. Kattiyeb tajin b ddjaj w zzitoun, w katsme3 lmousi9a f lportable dyalha. Mmhom na3sa f bitha 7it 3iyana. Bbahom machi f ddar. Kayl3eb lkarta m3a s7abo f l9ehwa. Berra, drari kayl3bou lkora f zzen9a w wa7ed l9etta na3sa t7t tomobil. M3a ssetta, ttilifoun sunna. Hadi Sarah! \"Chno katdiri, Nouha?\" sewlatha. \"Walou khass. Kan9ra w kanchreb atay. Aji t3echchay m3ana!\"",
+    "glossary": [
+      {"en": "balcony", "da": "lbalkon"},
+      {"en": "a cup of", "da": "kas d…"},
+      {"en": "olives", "da": "zzitoun"},
+      {"en": "tired", "da": "3iyan / 3iyana"},
+      {"en": "cards", "da": "lkarta"},
+      {"en": "outside", "da": "berra"},
+      {"en": "rings", "da": "kaysunni (ttilifoun)"},
+      {"en": "nothing special", "da": "walou khass"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Chno katdir Nouha?", "options": ["Kat9ra ktab", "Kattiyeb tajin", "Katkhdem", "Katn3es"], "answer": 0, "explain_da": "`She's reading a book about Marrakech.`"},
+      {"type": "truefalse", "statement_en": "Hind is listening to music in the kitchen.", "answer": true, "explain_da": "S7i7: `she's listening to music on her phone` w hiya f lkouzina."},
+      {"type": "mcq", "question_da": "Fin bbahom?", "options": ["F l9ehwa m3a s7abo", "F ddar kayn3es", "F zzen9a kayl3eb lkora", "F lkouzina"], "answer": 0, "explain_da": "`He's playing cards with his friends at the café.`"},
+      {"type": "truefalse", "statement_en": "The children are playing football in the garden.", "answer": false, "explain_da": "Ghalet: kayl3bou `in the street` = f zzen9a, machi f jjerda."}
+    ]
+  },
+  "listening": {
+    "title_da": "Mama kat3eyyet l Omar",
+    "emoji": "🎧",
+    "pre_da": "Amina kat3eyyet l weldha Omar f ttilifoun. Sem3i mzyan: fin Omar daba? w chno katdir khto Laila?",
+    "lines": [
+      {"speaker": "Amina", "en": "Hello, Omar? It's Mom. Where are you?", "da": "Alo, Omar? Ana mamak. Fin nta?"},
+      {"speaker": "Omar", "en": "Hi Mom. I'm at the beach with Karim. We're swimming.", "da": "Ahlan mama. Ana f lb7er m3a Karim. Kan3oumou."},
+      {"speaker": "Amina", "en": "Swimming? It's five o'clock! Are you coming home for dinner?", "da": "Kat3oumou? Rah lkhemsa! Wach jay l ddar l l3cha?"},
+      {"speaker": "Omar", "en": "Yes, I'm coming. Is Dad cooking?", "da": "Ah, jay. Wach bba kaytiyeb?"},
+      {"speaker": "Amina", "en": "No, he isn't. He's sleeping. I'm making couscous.", "da": "La. Rah na3es. Ana kan3mel lkesksou."},
+      {"speaker": "Omar", "en": "Great! And what's Laila doing?", "da": "Mzyan! W Laila chno katdir?"},
+      {"speaker": "Amina", "en": "She's studying in her room. She has an exam tomorrow.", "da": "Kat9ra f bitha. 3ndha imti7an ghedda."},
+      {"speaker": "Omar", "en": "OK. We're leaving now. See you at seven!", "da": "Wakha. Ghadyin daba. Nchoufek m3a ssb3a!"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Fin Omar?", "options": ["F lb7er", "F ddar", "F l9ehwa", "F lmedrasa"], "answer": 0, "explain_da": "`I'm at the beach with Karim.`"},
+      {"type": "listen_mcq", "say_en": "He's sleeping.", "question_da": "Sem3i. Chno kaydir bbah?", "options": ["Kayn3es", "Kaytiyeb", "Kaykhdem", "Kay3oum"], "answer": 0, "explain_da": "`He's sleeping.` = rah na3es."},
+      {"type": "truefalse", "statement_en": "Laila is watching TV in her room.", "answer": false, "explain_da": "Ghalet: `She's studying in her room.`"},
+      {"type": "mcq", "question_da": "Chno kat3mel Amina l l3cha?", "options": ["Lkesksou", "Ttajin", "Lpizza", "L7out"], "answer": 0, "explain_da": "`I'm making couscous.`"}
+    ]
+  },
+  "speaking": {
+    "pronunciation": [
+      {"target_en": "What are you doing?", "da": "Chno katdiri?", "pron": "wat ar you dou-ing"},
+      {"target_en": "I'm cooking dinner.", "da": "Kantiyeb l3cha.", "pron": "aïm kou-king di-neur"},
+      {"target_en": "She's studying English at the moment.", "da": "Hiya kat9ra lingliziya daba.", "pron": "chiz steu-di-ing in-glich at the mo-ment"},
+      {"target_en": "They aren't working today.", "da": "Houma makaykhedmouch lyouma.", "pron": "théy a-rent weur-king tou-déy"},
+      {"target_en": "Are you listening to me?", "da": "Wach katsem3i liya?", "pron": "ar you li-se-ning tou mi"},
+      {"target_en": "Look! It's raining.", "da": "Chofi! Katsob chta.", "pron": "louk! its réy-ning"}
+    ],
+    "roleplay": {
+      "title_da": "Mokalama m3a Sarah",
+      "context_da": "Sarah 3eytat lik f ttilifoun nhar ssebt. Jawbi 3la l'as2ila dyalha b `I'm` + fi3l + `-ing`. Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+      "turns": [
+        {"bot_en": "Hi Nouha! It's Sarah. What are you doing right now?", "bot_da": "Ahlan Nouha! Ana Sarah. Chno katdiri daba?", "expect_keywords": ["i'm", "i am", "ing"], "sample_en": "I'm cooking lunch for my family."},
+        {"bot_en": "Nice! Are you watching TV too?", "bot_da": "Zwin! Wach katchoufi ttelfaza 7ta hiya?", "expect_keywords": ["no", "yes", "i'm not", "i am", "watching"], "sample_en": "No, I'm not. I'm listening to music."},
+        {"bot_en": "What's your family doing?", "bot_da": "W l3a2ila dyalek chno kaydiro?", "expect_keywords": ["is", "are", "ing", "sleeping", "playing", "working", "reading"], "sample_en": "My mother is reading and my brother is playing football."},
+        {"bot_en": "And what do you usually do on Saturdays?", "bot_da": "W 3adatan chno katdiri nhar ssebt?", "expect_keywords": ["usually", "i go", "i cook", "i visit", "i watch", "i read", "i clean", "i study", "i play", "i have"], "sample_en": "I usually visit my grandmother and we have lunch together."},
+        {"bot_en": "Sounds good! OK, enjoy your day. Talk to you later!", "bot_da": "Mzyan! Wakha, nhar sa3id. Nhedro men ba3d!", "expect_keywords": ["bye", "later", "thank", "see you", "you too"], "sample_en": "Thanks, Sarah! Talk to you later. Bye!"}
+      ]
+    }
+  },
+  "writing": {
+    "title_da": "Chno kaydiro nnas f ddar dyalek daba?",
+    "prompt_da": "Tkhayli rak f ddar lyouma f l3chiya. Ktbi 5 wla 6 jomal: chno katdiri nti daba, w chno kaydiro nnas dyal ddar (mmek, khouk, khtek…). Sta3mli `am` / `is` / `are` + `-ing`, w zidi `now` wla `at the moment`. Ktbi 7ta jomla wa7da b nnafi (`isn't` / `aren't`).",
+    "helper_en": ["Right now, I'm ...", "My mother is ...", "My brother isn't ...; he's ...", "The children are ...", "Today we're ..."],
+    "min_words": 35,
+    "keywords": ["ing", "now"],
+    "model_en": "It's Sunday evening and I'm at home. Right now, I'm sitting in the living room and I'm writing in English. My mother is making dinner in the kitchen and she's listening to the radio. My father isn't here; he's praying at the mosque. My little brother is playing a video game and my sister is studying for her exam. Outside, it's raining, so the children aren't playing in the street."
+  }
+},
+{
+  "id": "l14",
+  "order": 14,
+  "level": "A2.1",
+  "emoji": "💪",
+  "title_en": "Can / can't: ability & polite requests",
+  "title_da": "Can / can't",
+  "goals_da": [
+    "T9oli chno kat3rfi diri w chno makat3rfich: `I can swim`, `I can't drive`",
+    "Tsewli `Can you…?` w tjawbi b `Yes, I can` / `No, I can't`",
+    "Ttelbi l'idn b `Can I…?` w ttelbi chi 7aja b adab: `Could you…, please?`",
+    "Thedri 3la lmaharat dyalek b `well`, `very well`, `a little`"
+  ],
+  "sections": [
+    {
+      "type": "explain",
+      "title_da": "Can = kan9der / kan3ref ndir",
+      "body_da": "`can` kat3ni \"n9der\" wla \"kan3ref ndir chi 7aja\". Kelma sahla bzzaf 7it:\n\n- Nefs lforma m3a kolchi: `I can`, `you can`, `she can`, `we can`, `they can`. Ma kaynach `-s` m3a `he` / `she` (machi `she cans`).\n- Men ba3d `can`, l fi3l kayb9a 3la 7alto: bla `to` w bla `-ing`: `I can swim` (machi `I can to swim`, machi `I can swimming`).\n\nBhal f darija \"kan3ref n3oum\", \"kay9der ysou9\": f lingliziya `I can swim`, `he can drive`.\n\n- `I can swim.` = kan3ref n3oum.\n- `She can cook very well.` = hiya kat3ref ttiyeb mzyan bzzaf.\n- `We can speak English a little.` = kan3erfo nhedro lingliziya chwiya.\n- `My brother can drive.` = khouya kay3ref ysou9.\n\n**Nnot9:** f west ljomla, `can` kat9ra khfifa w 9sira: 'ken' → `I can swim` = 'aï ken swim'.",
+      "examples": [
+        {"en": "I can swim.", "da": "Kan3ref n3oum.", "pron": "aï kan swim"},
+        {"en": "My brother can drive.", "da": "Khouya kay3ref ysou9.", "pron": "maï bra-theur kan draïv"},
+        {"en": "Sarah can speak three languages.", "da": "Sarah kat3ref thder b tlata dyal llogat.", "pron": "sé-ra kan spik thri lan-gwi-djiz"},
+        {"en": "You can do it!", "da": "Nti t9edri diriha!", "pron": "you kan dou it"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Can't, Can you…? w ljawab l9sir",
+      "body_da": "**Nnafi:** `can't` (= `cannot`). Kelma wa7da, nefs lforma m3a kolchi:\n\n- `I can't drive.` = makan3refch nsou9.\n- `He can't swim.` = makay3refch y3oum.\n- `We can't come tomorrow.` = ma n9drouch njiw ghedda.\n\n**Sso2al:** `can` kaydouz l lowwel, 9bel `you` / `she` / `they`. Bla `do` / `does`! (machi `Do you can…?`)\n\n- `Can you swim?` = wach kat3rfi t3oumi?\n- `Can she cook?` = wach kat3ref ttiyeb?\n- `What can you do?` = chno kat3rfi diri?\n\n**Ljawab l9sir:** `Yes, I can.` / `No, I can't.` — `Yes, she can.` / `No, she can't.`\n\n**Redi lbal l nnot9:** `can` kat9ra khfifa 'ken', walakin `can't` kat9ra 9wiya w twila chwiya 'kant'. Hada howa lfar9 li kaysem3o l'ingliz. Ila ma fhemtich, sewli: `Can or can't?`",
+      "examples": [
+        {"en": "I can't drive.", "da": "Makan3refch nsou9.", "pron": "aï kant draïv"},
+        {"en": "Can you swim? — Yes, I can.", "da": "Wach kat3rfi t3oumi? — Ah, kan3ref.", "pron": "kan you swim? — yès, aï kan"},
+        {"en": "Can he speak English? — No, he can't.", "da": "Wach kay3ref yhder lingliziya? — La, makay3refch.", "pron": "kan hi spik in-glich? — no, hi kant"},
+        {"en": "My grandmother can't use a computer.", "da": "Jeddati makat3refch tkhdem b lpc.", "pron": "maï grand-ma-theur kant youz a kom-piou-teur"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Can I…? Can you…? Could you…? — l'idn w ttalab b adab",
+      "body_da": "`can` makat3nich ghir l9odra. Kanst3mlouha 7ta bach **ntelbo l'idn** w bach **ntelbo chi 7aja b adab**.\n\n**1. Ttelb l'idn — `Can I…?`** = wach n9der…? / wach ymken liya…?\n\n- `Can I sit here?` = wach n9der ngles hna?\n- `Can I open the window?` = wach n9der n7el cherjem?\n- `Can I have a glass of water, please?` = wach ymken liya kas d lma, 3afak? (3refti had ljomla f dars 9)\n\nLjawab: `Yes, of course.` / `Sure.` (= ah, tab3an) wla `Sorry, you can't.` (= sme7 liya, ma ymkench).\n\n**2. Ttelb men chi wa7ed — `Can you…, please?`** = wach t9der…, 3afak?\n\n- `Can you help me, please?` = wach t9der t3awenni, 3afak?\n- `Can you repeat that, please?` = wach t9der t3awed, 3afak?\n\n**3. B adab kter — `Could you…, please?`** Nefs lma3na, walakin fiha adab kter. Sta3mliha m3a nnas li makat3rfihomch, f lkhedma, f l'idara: `Could you speak slowly, please?`\n\n**Bach t9oli la b adab:** `Sorry, I can't.` + ssabab: `Sorry, I can't. I'm busy today.` = sme7 liya, ma n9derch. Ana mechghoula lyouma.",
+      "examples": [
+        {"en": "Can I sit here?", "da": "Wach n9der ngles hna?", "pron": "kan aï sit hir"},
+        {"en": "Can you help me, please?", "da": "Wach t9der t3awenni, 3afak?", "pron": "kan you hélp mi, pliz"},
+        {"en": "Could you speak slowly, please?", "da": "Wach ymken lik thder b chwiya, 3afak?", "pron": "koud you spik slo-li, pliz"},
+        {"en": "Sorry, I can't. I'm busy today.", "da": "Sme7 liya, ma n9derch. Ana mechghoula lyouma.", "pron": "so-ri, aï kant. aïm bi-zi tou-déy"},
+        {"en": "Yes, of course!", "da": "Ah, tab3an!", "pron": "yès, ov kors"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Well, very well, a little — ch7al kat3rfi?",
+      "body_da": "Bach t9oli **ch7al** kat3rfi ddiri chi 7aja, zidi wa7da men had lkelmat f l'akhir dyal ljomla:\n\n- `well` = mzyan: `I can cook well.`\n- `very well` = mzyan bzzaf: `She can swim very well.`\n- `a little` = chwiya: `I can speak English a little.` (wla `I can speak a little English.`)\n- `not very well` = machi mzyan bzzaf: `I can drive, but not very well.`\n- `at all` = walou (m3a `can't`): `I can't sing at all.` = makan3refch nghenni walou.\n\nBhal f darija: \"kan3ref ntiyeb mzyan\", \"kanhder lingliziya chwiya\" — lkelma katji f l'akhir.",
+      "examples": [
+        {"en": "I can speak English a little.", "da": "Kan3ref nhder lingliziya chwiya.", "pron": "aï kan spik in-glich a li-teul"},
+        {"en": "My mother can cook very well.", "da": "Mama kat3ref ttiyeb mzyan bzzaf.", "pron": "maï ma-theur kan kouk vé-ri wél"},
+        {"en": "He can play the guitar, but not very well.", "da": "Kay3ref yl3eb lgitar, walakin machi mzyan bzzaf.", "pron": "hi kan pléy the gi-tar, beut not vé-ri wél"},
+        {"en": "I can't sing at all!", "da": "Makan3refch nghenni walou!", "pron": "aï kant sing at ol"}
+      ]
+    },
+    {
+      "type": "vocab",
+      "title_da": "Lkelmat dyal dars",
+      "items": [
+        {"en": "swim", "da": "3oum", "emoji": "🏊‍♀️", "pron": "swim", "example_en": "I can swim.", "example_da": "Kan3ref n3oum."},
+        {"en": "drive", "da": "sou9 (tomobil)", "emoji": "🚗", "pron": "draïv", "example_en": "My sister can't drive.", "example_da": "Khti makat3refch tsou9."},
+        {"en": "cook", "da": "tiyeb", "emoji": "🍳", "pron": "kouk", "example_en": "Can you cook couscous?", "example_da": "Wach kat3rfi ttiybi lkesksou?"},
+        {"en": "speak English", "da": "hder b lingliziya", "emoji": "🗣️", "pron": "spik in-glich", "example_en": "I can speak English a little.", "example_da": "Kan3ref nhder lingliziya chwiya."},
+        {"en": "play the guitar", "da": "l3eb lgitar", "emoji": "🎸", "pron": "pléy the gi-tar", "example_en": "Omar can play the guitar.", "example_da": "Omar kay3ref yl3eb lgitar."},
+        {"en": "ride a bike", "da": "sou9 lbisklita", "emoji": "🚲", "pron": "raïd a baïk", "example_en": "The children can ride a bike.", "example_da": "Drari kay3erfo ysou9o lbisklita."},
+        {"en": "use a computer", "da": "khdem b lpc", "emoji": "💻", "pron": "youz a kom-piou-teur", "example_en": "Can you use a computer?", "example_da": "Wach kat3rfi tkhedmi b lpc?"},
+        {"en": "sing", "da": "ghenni", "emoji": "🎤", "pron": "sing", "example_en": "She can sing very well.", "example_da": "Kat3ref tghenni mzyan bzzaf."},
+        {"en": "draw", "da": "ressem", "emoji": "🎨", "pron": "dro", "example_en": "I can't draw.", "example_da": "Makan3refch nressem."},
+        {"en": "sew", "da": "khiyet", "emoji": "🧵", "pron": "so", "example_en": "My grandmother can sew.", "example_da": "Jeddati kat3ref tkhiyet."},
+        {"en": "help", "da": "3awen", "emoji": "🤝", "pron": "hélp", "example_en": "Can you help me, please?", "example_da": "Wach t9der t3awenni, 3afak?"},
+        {"en": "open", "da": "7el", "emoji": "🪟", "pron": "o-pen", "example_en": "Can I open the window?", "example_da": "Wach n9der n7el cherjem?"},
+        {"en": "well", "da": "mzyan", "emoji": "👍", "pron": "wél", "example_en": "He can cook well.", "example_da": "Kay3ref ytiyeb mzyan."},
+        {"en": "a little", "da": "chwiya", "emoji": "🤏", "pron": "a li-teul", "example_en": "I can speak Spanish a little.", "example_da": "Kan3ref nhder sbliouniya chwiya."},
+        {"en": "of course", "da": "tab3an / bla chek", "emoji": "✅", "pron": "ov kors", "example_en": "Can I sit here? — Yes, of course.", "example_da": "Wach n9der ngles hna? — Ah, tab3an."},
+        {"en": "busy", "da": "mechghoul / mechghoula", "emoji": "⏳", "pron": "bi-zi", "example_en": "Sorry, I can't. I'm busy.", "example_da": "Sme7 liya, ma n9derch. Ana mechghoula."}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title_da": "Chno kat3rfi diri?",
+      "context_da": "Nouha w Sarah galsin f l9ehwa, kayhedro 3la l7wayj li kay3erfo ydirou w li makay3erfouch.",
+      "lines": [
+        {"speaker": "Sarah", "en": "Nouha, can you drive?", "da": "Nouha, wach kat3rfi tsou9i?"},
+        {"speaker": "Nouha", "en": "No, I can't, but I can ride a bike. And you?", "da": "La, makan3refch, walakin kan3ref nsou9 lbisklita. W nti?"},
+        {"speaker": "Sarah", "en": "I can drive, but I can't drive in Casablanca! The traffic is crazy.", "da": "Kan3ref nsou9, walakin ma n9derch nsou9 f Casa! Zz7am khayb bzzaf."},
+        {"speaker": "Nouha", "en": "Ha ha, that's true. Can you cook Moroccan food?", "da": "Hahaha, s7i7. Wach kat3rfi ttiybi lmakla lmeghribiya?"},
+        {"speaker": "Sarah", "en": "I can make mint tea, but I can't make couscous. Can you teach me?", "da": "Kan3ref n3mel atay b nne3na3, walakin makan3refch n3mel lkesksou. Wach t9edri t3ellmini?"},
+        {"speaker": "Nouha", "en": "Of course! Come to my house on Friday.", "da": "Tab3an! Aji l ddari nhar jjem3a."},
+        {"speaker": "Sarah", "en": "Great! Could you write the recipe for me, please?", "da": "Mzyan! Wach ymken lik tketbi liya kifach kandirouh, 3afak?"},
+        {"speaker": "Nouha", "en": "Sure. And can you help me with my English?", "da": "Wakha. W nti wach t9edri t3awnini f lingliziya?"},
+        {"speaker": "Sarah", "en": "Yes, I can! You can already speak very well.", "da": "Ah, n9der! Nti men daba kathedri mzyan bzzaf."},
+        {"speaker": "Nouha", "en": "Thank you, Sarah! See you on Friday.", "da": "Choukran, Sarah! Nchoufek nhar jjem3a."}
+      ]
+    },
+    {
+      "type": "tip",
+      "title_da": "Nasi7a",
+      "body_da": "`can` w `can't` kaytsem3o 9rab men b3diyathom, 7ta l'ingliz chi merrat kaykhelto! F lhadra ssri3a, `can` kat9ra khfifa w 9sira ('ken'), w `can't` kat9ra 9wiya w twila chwiya ('kant'). Ila ma fhemtich, sewli b kol bassata: `Can or can't?` W melli nti kathedri, f `can't` zidi chwiya dyal l9owwa 3la lkelma bach yfehmouk."
+    }
+  ],
+  "exercises": [
+    {"type": "mcq", "question_da": "Chno ma3na `I can swim`?", "options": ["Kan3ref n3oum", "Makan3refch n3oum", "Bghit n3oum", "Kan3oum kol nhar"], "answer": 0, "explain_da": "`can` = kan9der / kan3ref ndir. `I can swim` = kan3ref n3oum."},
+    {"type": "listen_mcq", "say_en": "I can't drive.", "question_da": "Sem3i mzyan: `can` wla `can't`?", "options": ["Makan3refch nsou9", "Kan3ref nsou9", "Kan3ref n3oum", "Makan3refch ntiyeb"], "answer": 0, "explain_da": "`can't` = ma n9derch (kat9ra 9wiya 'kant'). `drive` = sou9."},
+    {"type": "match", "instruction_da": "Wessli lmahara m3a lma3na dyalha.", "pairs": [
+      {"en": "drive", "da": "sou9 tomobil", "emoji": "🚗"},
+      {"en": "swim", "da": "3oum", "emoji": "🏊‍♀️"},
+      {"en": "sew", "da": "khiyet", "emoji": "🧵"},
+      {"en": "draw", "da": "ressem", "emoji": "🎨"},
+      {"en": "ride a bike", "da": "sou9 lbisklita", "emoji": "🚲"},
+      {"en": "sing", "da": "ghenni", "emoji": "🎤"}
+    ]},
+    {"type": "fill", "sentence_en": "She ___ cook very well.", "options": ["can", "cans", "can to"], "answer": "can", "hint_da": "`can` makatbeddelch m3a `she`.", "explain_da": "`can` nefsha m3a kolchi: `she can`, machi `she cans`. W men ba3dha l fi3l bla `to`."},
+    {"type": "order", "words": ["you", "Can", "English?", "speak"], "answer": "Can you speak English?", "da": "Wach kat3rfi thedri lingliziya?"},
+    {"type": "mcq", "question_en": "Can you swim?", "question_da": "Achmen jawab 9sir s7i7?", "options": ["Yes, I can.", "Yes, I do.", "Yes, I am.", "Yes, I cans."], "answer": 0, "explain_da": "Ljawab l9sir m3a `can` howa `Yes, I can.` / `No, I can't.` — machi `do`, machi `am`."},
+    {"type": "fill", "sentence_en": "Sorry, I ___ help you now. I'm busy.", "answers": ["can't", "cannot", "can not"], "hint_da": "Nnafi dyal `can`.", "explain_da": "`Sorry, I can't.` = sme7 liya, ma n9derch. `can't` = `cannot`."},
+    {"type": "listen_mcq", "say_en": "Could you open the window, please?", "question_da": "Sem3i. Chno talbet menek?", "options": ["Bach t7elli cherjem", "Bach tseddi lbab", "Bach tjelsi", "Bach t3awniha f lkouzina"], "answer": 0, "explain_da": "`Could you…, please?` = talab b adab. `open the window` = 7elli cherjem."},
+    {"type": "truefalse", "statement_en": "\"Could you help me, please?\" is more polite than \"Help me!\"", "statement_da": "`Could you help me, please?` fiha adab kter men `Help me!`", "answer": true, "explain_da": "S7i7! `Could you…, please?` hiya l'adab kter. `Help me!` kaddouz ghir m3a s7ab wla f l7alat lmosta3jala."},
+    {"type": "translate", "da": "Khouya kay3ref yl3eb lgitar mzyan bzzaf.", "answers": ["My brother can play the guitar very well.", "My brother can play guitar very well."], "hint_en": "My brother can ... the guitar ... ...", "explain_da": "`play the guitar` — m3a l'alat lmousi9iya kanzido `the`. `very well` = mzyan bzzaf, f l'akhir."},
+    {"type": "dictation", "say_en": "Can I sit here, please?", "da": "Wach n9der ngles hna, 3afak?", "explain_da": "`Can I…?` = ttelb l'idn. `sit` = gles."},
+    {"type": "order", "words": ["He", "can", "sing,", "but", "he", "can't", "dance."], "answer": "He can sing, but he can't dance.", "da": "Howa kay3ref yghenni, walakin makay3refch ychte7."},
+    {"type": "mcq", "question_da": "Nti f l'idara. Bghiti ttelbi men lmowaddaf yhder b chwiya. Chno t9oli?", "options": ["Could you speak slowly, please?", "Speak slowly!", "You can speak slowly.", "Can I speak slowly?"], "answer": 0, "explain_da": "Talab b adab m3a chi wa7ed makat3rfihch: `Could you…, please?`. `Can I speak slowly?` = wach n9der ana nhder b chwiya — machi howa."},
+    {"type": "fill", "sentence_en": "I can speak English, but not ___ well.", "options": ["very", "a little", "much"], "answer": "very", "hint_da": "machi mzyan bzzaf.", "explain_da": "`not very well` = machi mzyan bzzaf. `a little` katji m3a l'ijab: `I can speak English a little.`"},
+    {"type": "translate", "da": "Wach t9der t3awenni, 3afak? Ma n9derch n7el had lbab.", "answers": ["Can you help me, please? I can't open this door.", "Could you help me, please? I can't open this door.", "Can you help me please? I can't open this door.", "Could you help me please? I can't open this door."], "hint_en": "Can you ... me, ...? I ... open this ...", "explain_da": "`Can you help me, please?` (wla `Could you…`) + `I can't open this door.` — `this door` = had lbab."},
+    {"type": "speak", "target_en": "Can you help me, please? I can't find my keys.", "da": "Wach t9der t3awenni, 3afak? Mal9itch sswaret dyali.", "pron": "kan you hélp mi, pliz? aï kant faïnd maï kiz"}
+  ],
+  "reading": {
+    "title_en": "My talented family",
+    "title_da": "L3a2ila dyali lmawhouba",
+    "emoji": "👨‍👩‍👧‍👦",
+    "text_en": "Everybody in my family can do something special. My mother can cook very well. Everybody loves her couscous! She can also sew; she makes beautiful kaftans for weddings. My father can speak four languages: Arabic, French, English and a little Spanish. He can't cook at all, but he can fix anything in the house. My brother Youssef can play the guitar and he can sing. He can't drive yet, so he rides his bike to work. My little sister Hind is only eight, but she can already swim and she can draw very well. And me? I can use a computer, I can ride a bike and I can speak English a little. I can't swim and I can't drive, but I'm learning. What can you do?",
+    "text_da": "Kol wa7ed f l3a2ila dyali kay3ref ydir chi 7aja khassa. Mama kat3ref ttiyeb mzyan bzzaf. Kolchi kaybghi lkesksou dyalha! Kat3ref 7ta tkhiyet; kat3mel 9fatn zwinin l l3rasat. Bba kay3ref yhder b reb3a dyal llogat: l3arbiya, lfransawiya, lingliziya w chwiya dyal sbliouniya. Makay3refch ytiyeb walou, walakin kay3ref ysawb ay 7aja f ddar. Khouya Youssef kay3ref yl3eb lgitar w kay3ref yghenni. Mazal makay3refch ysou9, 3la hadchi kaymchi l lkhedma b lbisklita dyalo. Khti sghira Hind 3ndha ghir tmen snin, walakin men daba kat3ref t3oum w kat3ref tressem mzyan bzzaf. W ana? Kan3ref nkhdem b lpc, kan3ref nsou9 lbisklita w kan3ref nhder lingliziya chwiya. Makan3refch n3oum w makan3refch nsou9, walakin rani kant3ellem. W nti, chno kat3rfi diri?",
+    "glossary": [
+      {"en": "everybody", "da": "kol wa7ed / kolchi"},
+      {"en": "something special", "da": "chi 7aja khassa"},
+      {"en": "weddings", "da": "l3rasat"},
+      {"en": "fix", "da": "sawb / sle7"},
+      {"en": "yet", "da": "mazal (f nnafi)"},
+      {"en": "already", "da": "men daba"},
+      {"en": "only", "da": "ghir"},
+      {"en": "learning", "da": "kant3ellem"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Chno kat3ref ddir mama dyal Nouha?", "options": ["Ttiyeb w tkhiyet", "Tsou9 w t3oum", "Tghenni w tchte7", "Thder reb3a dyal llogat"], "answer": 0, "explain_da": "`My mother can cook very well. She can also sew.`"},
+      {"type": "truefalse", "statement_en": "Nouha's father can cook very well.", "answer": false, "explain_da": "Ghalet: `He can't cook at all.`"},
+      {"type": "mcq", "question_da": "Kifach kaymchi Youssef l lkhedma?", "options": ["B lbisklita", "B tomobil", "B ttobis", "3la rejlih"], "answer": 0, "explain_da": "`He rides his bike to work.`"},
+      {"type": "truefalse", "statement_en": "Nouha can't swim.", "answer": true, "explain_da": "S7i7: `I can't swim and I can't drive, but I'm learning.`"}
+    ]
+  },
+  "listening": {
+    "title_da": "Mo9abala dyal khedma f lotil",
+    "emoji": "🏨",
+    "pre_da": "Laila f mo9abala dyal khedma f wa7ed lotil sghir. Sem3i mzyan: chno kat3ref ddir Laila, w chno makat3refch?",
+    "lines": [
+      {"speaker": "Mr. Brown", "en": "Good morning, Laila. Please sit down. So, can you speak English?", "da": "Sbah lkhir, Laila. Glsi 3afak. Iwa, wach kat3rfi thedri lingliziya?"},
+      {"speaker": "Laila", "en": "Yes, I can. I can also speak Spanish a little.", "da": "Ah, kan3ref. Kan3ref 7ta nhder sbliouniya chwiya."},
+      {"speaker": "Mr. Brown", "en": "Very good. Can you use a computer?", "da": "Mzyan bzzaf. Wach kat3rfi tkhedmi b lpc?"},
+      {"speaker": "Laila", "en": "Yes, I can. I use one every day at home.", "da": "Ah. Kankhdem b wa7ed kol nhar f ddar."},
+      {"speaker": "Mr. Brown", "en": "And can you drive? Sometimes we take guests to the airport.", "da": "W wach kat3rfi tsou9i? Chi merrat kanddiw ddyaf l lmatar."},
+      {"speaker": "Laila", "en": "No, I can't drive, sorry. But I can start early in the morning.", "da": "La, makan3refch nsou9, sme7 liya. Walakin n9der nbda bekri f sbah."},
+      {"speaker": "Mr. Brown", "en": "That's fine. Can you start on Monday?", "da": "Makayn mochkil. Wach t9edri tbdi nhar ttnin?"},
+      {"speaker": "Laila", "en": "Yes, of course! Thank you very much, Mr. Brown.", "da": "Ah, tab3an! Choukran bzzaf, a ssi Brown."}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Achmen logha kat3ref Laila thder biha chwiya?", "options": ["Sbliouniya", "Lingliziya", "Ttaliya", "L'almaniya"], "answer": 0, "explain_da": "`I can also speak Spanish a little.`"},
+      {"type": "truefalse", "statement_en": "Laila can drive.", "answer": false, "explain_da": "Ghalet: `No, I can't drive, sorry.`"},
+      {"type": "listen_mcq", "say_en": "Can you start on Monday?", "question_da": "Sem3i. 3la ach sewelha Mr. Brown?", "options": ["Wach t9der tbda nhar ttnin", "Wach t9der tsou9 nhar ttnin", "Wach kat3ref tkhdem b lpc", "Wach kathder lingliziya"], "answer": 0, "explain_da": "`Can you start on Monday?` = wach t9edri tbdi nhar ttnin?"},
+      {"type": "mcq", "question_da": "Fo9ach t9der Laila tbda lkhedma f nhar?", "options": ["Bekri f sbah", "F l3chiya", "F lil", "Ghir f lwikand"], "answer": 0, "explain_da": "`I can start early in the morning.`"}
+    ]
+  },
+  "speaking": {
+    "pronunciation": [
+      {"target_en": "I can swim, but I can't drive.", "da": "Kan3ref n3oum, walakin makan3refch nsou9.", "pron": "aï kan swim, beut aï kant draïv"},
+      {"target_en": "Can you help me, please?", "da": "Wach t9der t3awenni, 3afak?", "pron": "kan you hélp mi, pliz"},
+      {"target_en": "Could you repeat that, please?", "da": "Wach ymken lik t3awed, 3afak?", "pron": "koud you ri-pit that, pliz"},
+      {"target_en": "She can cook very well.", "da": "Hiya kat3ref ttiyeb mzyan bzzaf.", "pron": "chi kan kouk vé-ri wél"},
+      {"target_en": "Can I open the window? — Yes, of course.", "da": "Wach n9der n7el cherjem? — Ah, tab3an.", "pron": "kan aï o-pen the win-do? — yès, ov kors"},
+      {"target_en": "Sorry, I can't. I'm busy today.", "da": "Sme7 liya, ma n9derch. Ana mechghoula lyouma.", "pron": "so-ri, aï kant. aïm bi-zi tou-déy"}
+    ],
+    "roleplay": {
+      "title_da": "Mo9abala sghira: chno kat3rfi diri?",
+      "context_da": "Omar kaykhdem f wa7ed cherika w kay9elleb 3la chi wa7ed y3awno. Ghadi ysewlek 3la lmaharat dyalek. Jawbi b `Yes, I can` / `No, I can't` w zidi chi tafsil sghir.",
+      "turns": [
+        {"bot_en": "Hello! Thanks for coming. First question: can you speak English?", "bot_da": "Salam! Choukran 7it jiti. L'awwal so2al: wach kat3rfi thedri lingliziya?", "expect_keywords": ["yes", "i can", "a little", "little"], "sample_en": "Yes, I can. I can speak English a little."},
+        {"bot_en": "Good. Can you use a computer?", "bot_da": "Mzyan. Wach kat3rfi tkhedmi b lpc?", "expect_keywords": ["yes", "i can", "no", "i can't", "computer"], "sample_en": "Yes, I can. I use a computer every day."},
+        {"bot_en": "Can you drive?", "bot_da": "Wach kat3rfi tsou9i?", "expect_keywords": ["yes", "no", "i can", "i can't", "drive", "bike"], "sample_en": "No, I can't drive, but I can ride a bike."},
+        {"bot_en": "What else can you do well?", "bot_da": "Chno kat3rfi ddiri mzyan 7ta howa?", "expect_keywords": ["i can", "cook", "sew", "swim", "sing", "draw", "speak", "well"], "sample_en": "I can cook very well, and I can sew."},
+        {"bot_en": "Excellent. Can you start on Monday morning?", "bot_da": "Momtaz. Wach t9edri tbdi nhar ttnin f sbah?", "expect_keywords": ["yes", "of course", "sure", "i can", "sorry", "i can't"], "sample_en": "Yes, of course. I can start on Monday."},
+        {"bot_en": "Great! Do you have any questions for me?", "bot_da": "Mzyan! Wach 3ndek chi so2al liya?", "expect_keywords": ["can i", "could you", "no", "thank", "question", "what time"], "sample_en": "Yes. Can I start at nine o'clock?"}
+      ]
+    }
+  },
+  "writing": {
+    "title_da": "Chno kat3rfi diri?",
+    "prompt_da": "Ktbi 5 wla 6 jomal 3la lmaharat dyalek w dyal chi wa7ed men l3a2ila dyalek: chno kat3rfi diri mzyan, chno chwiya, w chno makat3rfich. Sta3mli `can`, `can't`, `well`, `very well`, `a little`.",
+    "helper_en": ["I can ... very well.", "I can ... a little.", "I can't ... at all.", "My ... can ..., but he/she can't ...", "I want to learn ..."],
+    "min_words": 40,
+    "keywords": ["can", "can't"],
+    "model_en": "I can do many things. I can cook very well; my family loves my chicken tagine. I can also sew a little and I can use a computer. I can speak English a little, but I can't speak Spanish at all. I can't drive, so I take the bus to work. My sister can drive, but she can't cook! My brother can play the guitar very well. This year, I want to learn to swim."
+  }
+},
+{
+  "id": "l15",
+  "order": 15,
+  "level": "A2.1",
+  "emoji": "📆",
+  "title_en": "Yesterday: was / were",
+  "title_da": "Lbare7: was / were",
+  "goals_da": [
+    "T9oli fin konti lbare7 b `was` / `were`",
+    "Tsewli `Where were you?` w `Was it good?` w tjawbi 3lihom",
+    "Tsta3mli kelmat lwa9t dyal lmadi: `yesterday`, `last week`, `two days ago`, `in 2020`",
+    "T9oli `there was` / `there were` w twesfi l'i7sas dyalek: `tired`, `busy`, `happy`"
+  ],
+  "sections": [
+    {
+      "type": "explain",
+      "title_da": "Was / were = kont, kan, kanet, konna, kanou",
+      "body_da": "Lmadi = li fat, li daz (lbare7, l3am li fat…). L fi3l `to be` f lmadi 3ndo ghir jouj dyal lformat:\n\n- `am` / `is` → `was`\n- `are` → `were`\n\nYa3ni:\n\n- `I was` = kont\n- `you were` = konti\n- `he was` = kan\n- `she was` = kanet\n- `it was` = kan / kanet\n- `we were` = konna\n- `they were` = kanou\n\nBhal f darija melli kat9oli \"lbare7 kont 3iyana\": `Yesterday I was tired.` W \"konna f lb7er\": `We were at the beach.`\n\nRedi lbal: f l'ijab, `was` w `were` makayt9essrouch: `I was`, `we were` (machi bhal `I'm`).",
+      "examples": [
+        {"en": "I was at home yesterday.", "da": "Lbare7 kont f ddar.", "pron": "aï woz at hom yès-teur-déy"},
+        {"en": "She was very tired last night.", "da": "Lbare7 f lil kanet 3iyana bzzaf.", "pron": "chi woz vé-ri taï-eurd last naït"},
+        {"en": "We were at the beach on Sunday.", "da": "Nhar l7ed konna f lb7er.", "pron": "wi weur at the bitch on seun-déy"},
+        {"en": "It was hot in Marrakech.", "da": "Kanet skhouna f Marrakech.", "pron": "it woz hot in ma-ra-kech"},
+        {"en": "My parents were in Fes last week.", "da": "Walidiya kanou f Fes ssimana li fatet.", "pron": "maï pé-rents weur in fès last wik"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Wasn't / weren't, Were you…? Was it…?",
+      "body_da": "**Nnafi:** `was not` = `wasn't`, `were not` = `weren't`.\n\n- `I wasn't at work.` = makontch f lkhedma.\n- `They weren't happy.` = makanouch fer7anin.\n- `It wasn't expensive.` = makanch ghali.\n\n**Sso2al:** 9elbi, bhal `to be` f l7adir: `was` / `were` kaydouzo 9bel `you` / `it` / `they`.\n\n- `Were you at home?` = wach konti f ddar?\n- `Was it good?` = wach kan mzyan?\n- `Where were you yesterday?` = fin konti lbare7?\n- `How was your weekend?` = kifach kan lwikand dyalek?\n\n**Ljawab l9sir:** `Yes, I was.` / `No, I wasn't.` — `Yes, they were.` / `No, they weren't.`\n\n`How was…?` so2al mohim bzzaf: kaysewlouk bih 3la chi 7aja derti: `How was the party?` → `It was great!` (kanet zwina bzzaf) / `It was boring.` (kanet mmella).",
+      "examples": [
+        {"en": "Where were you yesterday?", "da": "Fin konti lbare7?", "pron": "wér weur you yès-teur-déy"},
+        {"en": "I wasn't at work. I was sick.", "da": "Makontch f lkhedma. Kont mrida.", "pron": "aï wo-zent at weurk. aï woz sik"},
+        {"en": "Was the film good? — Yes, it was.", "da": "Wach lfilm kan mzyan? — Ah, kan mzyan.", "pron": "woz the film goud? — yès, it woz"},
+        {"en": "Were they late? — No, they weren't.", "da": "Wach t3ettlou? — La, ma t3ettlouch.", "pron": "weur théy léyt? — no, théy weu-rent"},
+        {"en": "How was your weekend?", "da": "Kifach kan lwikand dyalek?", "pron": "haw woz your wik-énd"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Kelmat lwa9t dyal lmadi: yesterday, last…, ago, in 2020",
+      "body_da": "Bach t9oli **fo9ach**, 3ndek had lkelmat:\n\n- `yesterday` = lbare7. `yesterday morning` / `yesterday afternoon` / `yesterday evening` = lbare7 f sbah / f l3chiya / f l3chiya m3a lil.\n- `last night` = lbare7 f lil. (Machi `yesterday night`!)\n- `last` + wa9t = …li fat(et): `last week` = ssimana li fatet, `last month` = chhar li fat, `last year` = l3am li fat, `last Friday` = jjem3a li fatet, `last summer` = ssif li fat.\n- ra9m + `ago` = hadi…: `two days ago` = hadi youmayn, `an hour ago` = hadi sa3a, `ten years ago` = hadi 3echr snin. Redi lbal: `ago` kayji **men ba3d** lwa9t, l3eks dyal darija.\n- `in` + l3am: `in 2020` = f 2020. L'a3wam kay9raw b jouj jouj: `2020` = 'twén-ti twén-ti', `1995` = 'naïn-tin naïn-ti faïv'.\n\nKelmat lwa9t kaymchiw f lbdya wla f l'akhir dyal ljomla: `Yesterday I was busy.` = `I was busy yesterday.`",
+      "examples": [
+        {"en": "I was in Agadir two years ago.", "da": "Kont f Agadir hadi 3amayn.", "pron": "aï woz in a-ga-dir tou yirz a-go"},
+        {"en": "Last night we were at a wedding.", "da": "Lbare7 f lil konna f 3ers.", "pron": "last naït wi weur at a wé-ding"},
+        {"en": "He was a student in 2015.", "da": "Kan talib f 2015.", "pron": "hi woz a stiou-dent in twén-ti fif-tin"},
+        {"en": "Where were you an hour ago?", "da": "Fin konti hadi sa3a?", "pron": "wér weur you an a-weur a-go"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "There was / there were, w l'i7sas: tired, busy, happy…",
+      "body_da": "**`There was` / `there were`** = kan / kanet / kanou (chi 7aja kayna f lmadi). Hiya `there is` / `there are` dyal dars 10, walakin f lmadi:\n\n- `There was a big party.` = kanet 7efla kbira.\n- `There were many people at the souk.` = kanou bzzaf dyal nnas f ssou9.\n- `There wasn't any bread.` = makanch lkhobz.\n- `Were there many people?` = wach kanou bzzaf dyal nnas?\n\n**L'i7sas w l7ala** m3a `was` / `were`: bhal f darija \"kan m3ettel\", \"kont 3iyana\":\n\n- `tired` = 3iyan / 3iyana\n- `busy` = mechghoul / mechghoula\n- `happy` = fer7an / fer7ana\n- `sad` = 7azin / 7azina\n- `late` = m3ettel / m3ettla\n- `sick` = mrid / mrida\n- `hungry` = ji3an / ji3ana\n- `at home` = f ddar, `at work` = f lkhedma, `on holiday` = f l3otla\n\n`I was tired and hungry after work.` = kont 3iyana w ji3ana men ba3d lkhedma.",
+      "examples": [
+        {"en": "There was a lot of traffic this morning.", "da": "Kan zz7am bzzaf had sbah.", "pron": "thér woz a lot ov tra-fik this mor-ning"},
+        {"en": "There were many people at the souk.", "da": "Kanou bzzaf dyal nnas f ssou9.", "pron": "thér weur mé-ni pi-peul at the souk"},
+        {"en": "There wasn't any milk in the fridge.", "da": "Makanch l7lib f ttellaja.", "pron": "thér wo-zent é-ni milk in the fridj"},
+        {"en": "I was tired and hungry after work.", "da": "Kont 3iyana w ji3ana men ba3d lkhedma.", "pron": "aï woz taï-eurd and hen-gri af-teur weurk"},
+        {"en": "He was late for the meeting.", "da": "T3ettel 3la l'ijtima3.", "pron": "hi woz léyt for the mi-ting"}
+      ]
+    },
+    {
+      "type": "vocab",
+      "title_da": "Lkelmat dyal dars",
+      "items": [
+        {"en": "yesterday", "da": "lbare7", "emoji": "📆", "pron": "yès-teur-déy", "example_en": "I was at home yesterday.", "example_da": "Lbare7 kont f ddar."},
+        {"en": "last night", "da": "lbare7 f lil", "emoji": "🌙", "pron": "last naït", "example_en": "Where were you last night?", "example_da": "Fin konti lbare7 f lil?"},
+        {"en": "last week", "da": "ssimana li fatet", "emoji": "🗓️", "pron": "last wik", "example_en": "She was in Tangier last week.", "example_da": "Kanet f Tanja ssimana li fatet."},
+        {"en": "last year", "da": "l3am li fat", "emoji": "📅", "pron": "last yir", "example_en": "We were in Agadir last year.", "example_da": "Konna f Agadir l3am li fat."},
+        {"en": "ago", "da": "hadi… (hadi youmayn, hadi sa3a)", "emoji": "⏪", "pron": "a-go", "example_en": "He was here ten minutes ago.", "example_da": "Kan hna hadi 3echr d9ay9."},
+        {"en": "tired", "da": "3iyan / 3iyana", "emoji": "😩", "pron": "taï-eurd", "example_en": "I was very tired last night.", "example_da": "Lbare7 f lil kont 3iyana bzzaf."},
+        {"en": "busy", "da": "mechghoul / mechghoula", "emoji": "📵", "pron": "bi-zi", "example_en": "The doctor was busy this morning.", "example_da": "Ttbib kan mechghoul had sbah."},
+        {"en": "happy", "da": "fer7an / fer7ana", "emoji": "😊", "pron": "ha-pi", "example_en": "The children were happy at the party.", "example_da": "Drari kanou fer7anin f l7efla."},
+        {"en": "sad", "da": "7azin / 7azina", "emoji": "😢", "pron": "sad", "example_en": "Why were you sad?", "example_da": "3lach konti 7azna?"},
+        {"en": "late", "da": "m3ettel / m3ettla", "emoji": "⏰", "pron": "léyt", "example_en": "Sorry, I was late.", "example_da": "Sme7 liya, t3ettelt."},
+        {"en": "sick", "da": "mrid / mrida", "emoji": "🤒", "pron": "sik", "example_en": "He wasn't at work because he was sick.", "example_da": "Makanch f lkhedma 7it kan mrid."},
+        {"en": "at home", "da": "f ddar", "emoji": "🏠", "pron": "at hom", "example_en": "We were at home all day.", "example_da": "Konna f ddar nhar kamel."},
+        {"en": "at work", "da": "f lkhedma", "emoji": "🏢", "pron": "at weurk", "example_en": "I was at work until six.", "example_da": "Kont f lkhedma 7ta l ssetta."},
+        {"en": "on holiday", "da": "f l3otla", "emoji": "🏖️", "pron": "on ho-li-déy", "example_en": "They were on holiday in Spain.", "example_da": "Kanou f l3otla f Sbanya."},
+        {"en": "party", "da": "7efla", "emoji": "🎉", "pron": "par-ti", "example_en": "There was a party at my cousin's house.", "example_da": "Kanet 7efla f dar bent 3emmi."},
+        {"en": "weekend", "da": "lwikand (ssebt w l7ed)", "emoji": "🛋️", "pron": "wik-énd", "example_en": "How was your weekend?", "example_da": "Kifach kan lwikand dyalek?"}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title_da": "Fin konti lbare7?",
+      "context_da": "Nouha makanetch f l9ism dyal lingliziya lbare7. Lyouma Sarah tla9atha w sewlatha.",
+      "lines": [
+        {"speaker": "Sarah", "en": "Hi Nouha! Where were you yesterday? You weren't in class.", "da": "Ahlan Nouha! Fin konti lbare7? Makontich f l9ism."},
+        {"speaker": "Nouha", "en": "Hi Sarah. I was at the hospital with my mother.", "da": "Ahlan Sarah. Kont f sbitar m3a mama."},
+        {"speaker": "Sarah", "en": "Oh no! Was she sick?", "da": "Oh la! Wach kanet mrida?"},
+        {"speaker": "Nouha", "en": "Yes, she was a little sick, but she's fine now.", "da": "Ah, kanet mrida chwiya, walakin daba labas 3liha."},
+        {"speaker": "Sarah", "en": "Good. Were you there all day?", "da": "Mzyan. Wach konti tema nhar kamel?"},
+        {"speaker": "Nouha", "en": "Yes, we were there from nine to five. There were a lot of people.", "da": "Ah, konna tema men tts3oud 7ta l lkhemsa. Kanou bzzaf dyal nnas."},
+        {"speaker": "Sarah", "en": "That's a long day. You were tired, I'm sure.", "da": "Nhar twil. Konti 3iyana, akid."},
+        {"speaker": "Nouha", "en": "Very tired! And how was the class? Was it difficult?", "da": "3iyana bzzaf! W kifach kan l9ism? Wach kan s3ib?"},
+        {"speaker": "Sarah", "en": "No, it wasn't difficult. It was fun! Here's my notebook.", "da": "La, makanch s3ib. Kan zwin! Hak lkoras dyali."},
+        {"speaker": "Nouha", "en": "Thank you, Sarah. You're a good friend.", "da": "Choukran, Sarah. Nti sa7ba mzyana."}
+      ]
+    },
+    {
+      "type": "tip",
+      "title_da": "Nasi7a",
+      "body_da": "Mat9olich `yesterday night`! F lingliziya kan9oulo `last night` (= lbare7 f lil). Walakin `yesterday morning`, `yesterday afternoon` w `yesterday evening` s7a7. W `ago` dima kayji men ba3d lwa9t: `two days ago` (machi `ago two days`) — l3eks dyal darija \"hadi youmayn\"."
+    }
+  ],
+  "exercises": [
+    {"type": "mcq", "question_da": "Kifach kan9oulo \"lbare7 kont f ddar\" b lingliziya?", "options": ["I was at home yesterday.", "I am at home yesterday.", "I were at home yesterday.", "I is at home yesterday."], "answer": 0, "explain_da": "`I` → `was`. `yesterday` = lbare7 → lmadi."},
+    {"type": "fill", "sentence_en": "They ___ at the beach on Sunday.", "options": ["were", "was", "are"], "answer": "were", "hint_da": "`they` + ? (f lmadi)", "explain_da": "`we` / `you` / `they` → `were`. `I` / `he` / `she` / `it` → `was`."},
+    {"type": "listen_mcq", "say_en": "Where were you last night?", "question_da": "Sem3i. 3la ach kaysewwel?", "options": ["Fin konti lbare7 f lil", "Fin nti daba", "Fin ghadi tkoni ghedda", "Fin konti ssimana li fatet"], "answer": 0, "explain_da": "`Where were you…?` = fin konti…? `last night` = lbare7 f lil."},
+    {"type": "match", "instruction_da": "Wessli kelmat lwa9t m3a lma3na dyalha.", "pairs": [
+      {"en": "yesterday", "da": "lbare7", "emoji": "📆"},
+      {"en": "last night", "da": "lbare7 f lil", "emoji": "🌙"},
+      {"en": "last week", "da": "ssimana li fatet", "emoji": "🗓️"},
+      {"en": "two days ago", "da": "hadi youmayn", "emoji": "⏪"},
+      {"en": "last year", "da": "l3am li fat", "emoji": "📅"}
+    ]},
+    {"type": "order", "words": ["was", "She", "yesterday.", "tired", "very"], "answer": "She was very tired yesterday.", "da": "Lbare7 kanet 3iyana bzzaf."},
+    {"type": "mcq", "question_en": "Was the party good?", "question_da": "Achmen jawab 9sir s7i7?", "options": ["Yes, it was.", "Yes, it is.", "Yes, it were.", "Yes, it did."], "answer": 0, "explain_da": "So2al b `Was it…?` → jawab `Yes, it was.` / `No, it wasn't.`"},
+    {"type": "truefalse", "statement_en": "\"Yesterday night\" is correct English.", "statement_da": "`Yesterday night` kelma s7i7a f lingliziya.", "answer": false, "explain_da": "La! Kan9oulo `last night`. Walakin `yesterday morning` s7i7a."},
+    {"type": "fill", "sentence_en": "I ___ at work yesterday. I was at home.", "answers": ["wasn't", "was not"], "hint_da": "Nnafi dyal `was`.", "explain_da": "`I wasn't at work.` = makontch f lkhedma. `wasn't` = `was not`."},
+    {"type": "listen_mcq", "say_en": "There were a lot of people at the souk.", "question_da": "Sem3i. Chno fhemti?", "options": ["Kanou bzzaf dyal nnas f ssou9", "Makanch 7ta chi wa7ed f ssou9", "Kaynin bzzaf dyal nnas f ssou9 daba", "Kan ghir wa7ed f ssou9"], "answer": 0, "explain_da": "`There were` = kanou (lmadi). `a lot of people` = bzzaf dyal nnas."},
+    {"type": "translate", "da": "Fin konti lbare7? Makontich f lkhedma.", "answers": ["Where were you yesterday? You weren't at work.", "Where were you yesterday? You were not at work."], "hint_en": "Where ... you ...? You ... at work.", "explain_da": "`Where were you yesterday?` + `You weren't at work.` — `weren't` = `were not`."},
+    {"type": "dictation", "say_en": "We were at a wedding last night.", "da": "Lbare7 f lil konna f 3ers.", "explain_da": "`We were` = konna. `last night` = lbare7 f lil. `wedding` = 3ers."},
+    {"type": "order", "words": ["in", "Agadir", "two", "ago.", "were", "years", "They"], "answer": "They were in Agadir two years ago.", "da": "Kanou f Agadir hadi 3amayn."},
+    {"type": "fill", "sentence_en": "There ___ any bread in the kitchen this morning.", "options": ["wasn't", "weren't", "isn't"], "answer": "wasn't", "hint_da": "`bread` makayt3eddch (bla `-s`) → mofrad. W `this morning` daz.", "explain_da": "`bread` ma3ndouch jam3 → `there wasn't any bread`. `this morning` = had sbah (daz) → lmadi."},
+    {"type": "mcq", "question_da": "Khtari ljomla s7i7a:", "options": ["I was in Tangier two weeks ago.", "I was in Tangier ago two weeks.", "I was in Tangier two weeks before.", "I was in Tangier last two weeks."], "answer": 0, "explain_da": "`ago` kayji men ba3d lwa9t: `two weeks ago` = hadi jouj simanat."},
+    {"type": "translate", "da": "Wach kanet mrida? — La, kanet ghir 3iyana.", "answers": ["Was she sick? — No, she was just tired.", "Was she sick? No, she was just tired.", "Was she ill? — No, she was just tired.", "Was she sick? — No, she was only tired."], "hint_en": "Was she ...? — No, she was just ...", "explain_da": "`Was she sick?` → `No, she was just tired.` — `just` / `only` = ghir."},
+    {"type": "speak", "target_en": "How was your weekend? — It was great. I was at the beach with my family.", "da": "Kifach kan lwikand dyalek? — Kan zwin bzzaf. Kont f lb7er m3a l3a2ila dyali.", "pron": "haw woz your wik-énd? — it woz gréyt. aï woz at the bitch with maï fa-mi-li"}
+  ],
+  "reading": {
+    "title_en": "A day in Marrakech",
+    "title_da": "Nhar f Marrakech",
+    "emoji": "🕌",
+    "text_en": "Last Saturday, my sister and I were in Marrakech for the first time. We were there for one day only. In the morning, we were at Jemaa el-Fna square. There were a lot of people, musicians and orange juice sellers. The weather was hot, but it wasn't a problem. At lunchtime, we were hungry, so we were at a small restaurant near the square. The tagine was delicious and it was cheap: only forty dirhams! In the afternoon, we were at the souk. The shops were full of colors: lamps, carpets, bags and babouches. My sister was happy because the prices weren't expensive. At seven o'clock, we were at the bus station. The bus was late and we were very tired, but it was a wonderful day.",
+    "text_da": "Ssebt li fat, ana w khti konna f Marrakech l'awwal merra. Konna tema ghir nhar wa7ed. F sbah, konna f sa7at Jama3 lefna. Kanou bzzaf dyal nnas, lmousi9iyin w li kaybi3o 3asir llimoun. Ljow kan skhoun, walakin makanch mochkil. F lwa9t dyal lghda, konna ji3anin, 3la hadchi konna f wa7ed rristora sghira 9rib men ssa7a. Ttajin kan bnin w kan rkhis: ghir reb3in derhem! F l3chiya, konna f ssou9. L7wanet kanou 3amrin b l'alwan: lmsabe7, zzrabi, ssakan w lbelgha. Khti kanet fer7ana 7it l'atmina makanouch ghalyin. M3a ssb3a, konna f lma7atta dyal lkiran. Lkar t3ettel w konna 3iyanin bzzaf, walakin kan nhar ra2i3.",
+    "glossary": [
+      {"en": "square", "da": "ssa7a"},
+      {"en": "sellers", "da": "li kaybi3o"},
+      {"en": "lunchtime", "da": "lwa9t dyal lghda"},
+      {"en": "hungry", "da": "ji3an / ji3ana"},
+      {"en": "delicious", "da": "bnin"},
+      {"en": "cheap", "da": "rkhis"},
+      {"en": "full of", "da": "3amer b"},
+      {"en": "carpets", "da": "zzrabi"},
+      {"en": "bus station", "da": "lma7atta dyal lkiran"},
+      {"en": "wonderful", "da": "ra2i3"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Ch7al men nhar b9aw f Marrakech?", "options": ["Nhar wa7ed", "Youmayn", "Simana", "Chhar"], "answer": 0, "explain_da": "`We were there for one day only.`"},
+      {"type": "truefalse", "statement_en": "The weather was cold in Marrakech.", "answer": false, "explain_da": "Ghalet: `The weather was hot.`"},
+      {"type": "mcq", "question_da": "Ch7al kan ttaman dyal ttajin?", "options": ["40 derhem", "14 derhem", "4 derhem", "400 derhem"], "answer": 0, "explain_da": "`only forty dirhams` = ghir reb3in derhem."},
+      {"type": "truefalse", "statement_en": "The bus was late.", "answer": true, "explain_da": "S7i7: `The bus was late and we were very tired.`"}
+    ]
+  },
+  "listening": {
+    "title_da": "Kifach kan lwikand?",
+    "emoji": "🎧",
+    "pre_da": "Omar w Laila kayhedro nhar ttnin f sbah 3la lwikand. Sem3i mzyan: fin kan Omar nhar ssebt? w 3lach Laila kanet f ddar?",
+    "lines": [
+      {"speaker": "Omar", "en": "Hi Laila! How was your weekend?", "da": "Ahlan Laila! Kifach kan lwikand dyalek?"},
+      {"speaker": "Laila", "en": "It was OK, but I was at home all weekend. I was sick.", "da": "Kan 3adi, walakin kont f ddar lwikand kamel. Kont mrida."},
+      {"speaker": "Omar", "en": "Oh, I'm sorry. Are you OK now?", "da": "Oh, sme7 liya. Wach daba labas 3lik?"},
+      {"speaker": "Laila", "en": "Yes, thanks. And you? Where were you on Saturday?", "da": "Ah, choukran. W nta? Fin konti nhar ssebt?"},
+      {"speaker": "Omar", "en": "I was at my cousin's wedding in Rabat. It was fantastic!", "da": "Kont f l3ers dyal weld 3emmi f Rabat. Kan ra2i3!"},
+      {"speaker": "Laila", "en": "Nice! Were there many people?", "da": "Zwin! Wach kanou bzzaf dyal nnas?"},
+      {"speaker": "Omar", "en": "Yes, there were about three hundred people. The music was great, but the food was late.", "da": "Ah, kanou chi tlata myat wa7ed. Lmousi9a kanet zwina, walakin lmakla t3ettlet."},
+      {"speaker": "Laila", "en": "Ha ha! Moroccan weddings. What time were you at home?", "da": "Hahaha! L3rasat lmeghribiya. Chno men sa3a konti f ddar?"},
+      {"speaker": "Omar", "en": "At five in the morning! I was so tired on Sunday.", "da": "M3a lkhemsa dyal sbah! Kont 3iyan bzzaf nhar l7ed."}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "3lach Laila kanet f ddar lwikand kamel?", "options": ["7it kanet mrida", "7it kanet mechghoula", "7it kan ljow bard", "7it kanet katkhdem"], "answer": 0, "explain_da": "`I was at home all weekend. I was sick.`"},
+      {"type": "mcq", "question_da": "Fin kan Omar nhar ssebt?", "options": ["F 3ers f Rabat", "F ddar f Casa", "F lb7er", "F lkhedma"], "answer": 0, "explain_da": "`I was at my cousin's wedding in Rabat.`"},
+      {"type": "listen_mcq", "say_en": "Were there many people?", "question_da": "Sem3i. Chno sewlat Laila?", "options": ["Wach kanou bzzaf dyal nnas", "Wach kaynin bzzaf dyal nnas daba", "Wach lmakla kanet bnina", "Wach kan Omar 3iyan"], "answer": 0, "explain_da": "`Were there many people?` = wach kanou bzzaf dyal nnas? (lmadi)"},
+      {"type": "truefalse", "statement_en": "Omar was at home at midnight.", "answer": false, "explain_da": "Ghalet: `At five in the morning!` = m3a lkhemsa dyal sbah."}
+    ]
+  },
+  "speaking": {
+    "pronunciation": [
+      {"target_en": "Where were you yesterday?", "da": "Fin konti lbare7?", "pron": "wér weur you yès-teur-déy"},
+      {"target_en": "I was at home with my family.", "da": "Kont f ddar m3a l3a2ila dyali.", "pron": "aï woz at hom with maï fa-mi-li"},
+      {"target_en": "We weren't at work last Friday.", "da": "Makonnach f lkhedma jjem3a li fatet.", "pron": "wi weu-rent at weurk last fraï-déy"},
+      {"target_en": "Was it expensive? — No, it wasn't.", "da": "Wach kan ghali? — La, makanch.", "pron": "woz it ik-spén-siv? — no, it wo-zent"},
+      {"target_en": "There were a lot of people at the party.", "da": "Kanou bzzaf dyal nnas f l7efla.", "pron": "thér weur a lot ov pi-peul at the par-ti"},
+      {"target_en": "I was very tired two days ago.", "da": "Kont 3iyana bzzaf hadi youmayn.", "pron": "aï woz vé-ri taï-eurd tou déyz a-go"}
+    ],
+    "roleplay": {
+      "title_da": "Lwikand dyalek",
+      "context_da": "Nhar ttnin f sbah. Sa7btek Sarah kattsewlek 3la lwikand. Jawbi b `I was` / `we were` / `it was`. Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+      "turns": [
+        {"bot_en": "Good morning, Nouha! How was your weekend?", "bot_da": "Sbah lkhir, Nouha! Kifach kan lwikand dyalek?", "expect_keywords": ["it was", "was", "great", "good", "nice", "ok", "fine", "boring"], "sample_en": "It was great, thanks!"},
+        {"bot_en": "Where were you on Saturday?", "bot_da": "Fin konti nhar ssebt?", "expect_keywords": ["i was", "we were", "at home", "at the", "in", "with"], "sample_en": "I was at the beach with my family."},
+        {"bot_en": "Nice! Was the weather good?", "bot_da": "Zwin! Wach kan ljow mzyan?", "expect_keywords": ["yes", "no", "it was", "wasn't", "sunny", "hot", "cold", "rainy"], "sample_en": "Yes, it was. It was sunny and hot."},
+        {"bot_en": "And were there many people?", "bot_da": "W wach kanou bzzaf dyal nnas?", "expect_keywords": ["yes", "no", "there were", "there weren't", "people", "many", "a lot"], "sample_en": "Yes, there were a lot of people."},
+        {"bot_en": "Sounds fun. Were you tired on Sunday?", "bot_da": "Mzyan. Wach konti 3iyana nhar l7ed?", "expect_keywords": ["yes", "no", "i was", "i wasn't", "tired", "busy"], "sample_en": "Yes, I was very tired, so I was at home all day."}
+      ]
+    }
+  },
+  "writing": {
+    "title_da": "Lwikand li fat",
+    "prompt_da": "Ktbi 5 wla 6 jomal 3la lwikand li fat (wla nhar lbare7): fin konti, m3a men, kifach kan ljow, kifach kan l'i7sas dyalek (`tired`, `happy`, `busy`…), w wach kanou bzzaf dyal nnas. Sta3mli `was`, `were`, `wasn't`, `weren't` w kelmat lwa9t (`last Saturday`, `yesterday`, `ago`).",
+    "helper_en": ["Last Saturday, I was ...", "I was with ...", "The weather was ...", "There were ...", "It was a ... day."],
+    "min_words": 40,
+    "keywords": ["was", "were"],
+    "model_en": "Last Saturday, I was in Rabat with my sister. We were at the medina in the morning. There were a lot of tourists and the weather was sunny. At lunchtime, we were at a small restaurant near the river. The fish was delicious and it wasn't expensive. In the afternoon, we were at my aunt's house. Her children were very happy because we were there. I was tired on Sunday, but it was a wonderful weekend!"
+  }
+},
+{
+  "id": "l16",
+  "order": 16,
+  "level": "A2.1",
+  "emoji": "🕰️",
+  "title_en": "Past simple: regular & irregular verbs",
+  "title_da": "Lmadi: l'af3al",
+  "goals_da": [
+    "T7ki 3la lwikand dyalek b lmadi: `I went`, `I visited`, `I ate`",
+    "Tzidi `-ed` l l'af3al l3adiya w tent9iha mzyan: /t/, /d/, /id/",
+    "T7efdi l'af3al li 3ndhom forma khassa: `went`, `had`, `saw`, `ate`, `did`, `bought`…",
+    "Tsta3mli `didn't` w `Did you…?`, w tratbi l7kaya b `first`, `then`, `after that`, `finally`"
+  ],
+  "sections": [
+    {
+      "type": "explain",
+      "title_da": "L'af3al l3adiya: fi3l + -ed",
+      "body_da": "F lmadi, l'aghlabiya dyal l'af3al (`regular` = l3adiyin) kanzido lihom ghir `-ed`:\n\n- `work → worked`, `play → played`, `visit → visited`, `watch → watched`, `cook → cooked`, `clean → cleaned`, `listen → listened`, `talk → talked`, `call → called`, `help → helped`, `want → wanted`, `start → started`.\n\nW **nefs lforma m3a kolchi**: `I worked`, `she worked`, `they worked`. Ma kaynach `-s`. F darija kanbeddlo l fi3l kamel (\"khdemt\", \"khdem\", \"khdemna\"), f lingliziya ghir `-ed` w safi!\n\n**Lkitaba:**\n\n- L fi3l li kaysali b `e`: zidi ghir `d`: `live → lived`, `like → liked`, `dance → danced`, `arrive → arrived`.\n- L fi3l li kaysali b 7arf + `y`: l `y` katwelli `ied`: `study → studied`, `try → tried`. (Walakin `play → played`, `stay → stayed`.)\n- L fi3l l9sir (bhal m3a `-ing`): dewbli l7arf l'akhir: `stop → stopped`, `shop → shopped`, `plan → planned`.",
+      "examples": [
+        {"en": "I worked on Saturday.", "da": "Khdemt nhar ssebt.", "pron": "aï weurkt on sa-teur-déy"},
+        {"en": "We visited my grandmother in Fes.", "da": "Zorna jeddati f Fes.", "pron": "wi vi-zi-tid maï grand-ma-theur in fès"},
+        {"en": "She watched a film last night.", "da": "Lbare7 f lil chafet wa7ed lfilm.", "pron": "chi wotcht a film last naït"},
+        {"en": "They played football in the park.", "da": "L3bou lkora f lpark.", "pron": "théy pléyd fout-bol in the park"},
+        {"en": "He studied English for two hours.", "da": "9ra lingliziya jouj swaye3.", "pron": "hi steu-did in-glich for tou a-weurz"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Kifach kant9o -ed: /t/, /d/, /id/",
+      "body_da": "`-ed` kat9ra b 3 dyal ttori9at, 3la 7sab ssout li 9belha. Hadi mohimma bach yfehmouk!\n\n**1. /t/** — men ba3d ssout khfif (`k`, `p`, `s`, `sh`, `ch`, `f`): `worked` = 'weurkt', `watched` = 'wotcht', `cooked` = 'koukt', `helped` = 'hélpt', `washed` = 'wacht', `talked` = 'tokt'.\n\n**2. /d/** — men ba3d ssout 9wi wla `a`, `e`, `i`, `o`, `u`, `y`: `played` = 'pléyd', `cleaned` = 'klind', `lived` = 'livd', `called` = 'kold', `listened` = 'li-send', `arrived` = 'a-raïvd'.\n\n**3. /id/** — ghir men ba3d `t` wla `d`, w hna kayzid ma9ta3: `visited` = 'vi-zi-tid', `wanted` = 'won-tid', `needed` = 'ni-did', `started` = 'star-tid'.\n\nLmohim: f /t/ w /d/ **ma kaynach ma9ta3 jdid**. `worked` ma9ta3 wa7ed, machi 'weur-ked'!",
+      "examples": [
+        {"en": "I cooked and cleaned all day.", "da": "Tiyebt w ne9it nhar kamel.", "pron": "aï koukt and klind ol déy"},
+        {"en": "We wanted to visit the museum.", "da": "Bghina nzouro lmat7af.", "pron": "wi won-tid tou vi-zit the miou-zi-om"},
+        {"en": "She called her mother yesterday.", "da": "3eytat l mmha lbare7.", "pron": "chi kold heur ma-theur yès-teur-déy"},
+        {"en": "The bus stopped and we walked home.", "da": "Ttobis w9ef w mchina l ddar 3la rejlina.", "pron": "the beus stopt and wi wokt hom"},
+        {"en": "It started at eight and finished at ten.", "da": "Bda m3a ttmenya w sala m3a l3echra.", "pron": "it star-tid at éyt and fi-nicht at tén"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "L'af3al li 3ndhom forma khassa: went, had, saw, ate…",
+      "body_da": "Bzzaf dyal l'af3al lmohimma ma kayakhdouch `-ed` — kol wa7ed 3ndo lforma dyalo f lmadi (`irregular`). Khassek t7efdihom, bhal jadwal ddarb. Hadou li kaytsta3mlo kter:\n\n- `go → went` = mcha\n- `have → had` = kan 3ndo / kla (`had breakfast`)\n- `see → saw` = chaf\n- `eat → ate` = kla\n- `do → did` = dar\n- `make → made` = 3mel / sawb\n- `get → got` = jab / 7essel, `get up → got up` = nad\n- `come → came` = ja\n- `take → took` = khda / dda\n- `buy → bought` = chra\n- `say → said` = 9al\n- `drink → drank` = chreb\n- `sleep → slept` = n3es\n- `read → read` = 9ra (nefs lkitaba, walakin kat9ra 'réd')\n- `write → wrote` = kteb\n- `be → was / were` = kan (dars 15)\n\nNefs lforma m3a kolchi 7ta hna: `I went`, `she went`, `they went`.",
+      "examples": [
+        {"en": "I went to the souk and bought some vegetables.", "da": "Mchit l ssou9 w chrit chwiya dyal lkhodra.", "pron": "aï wént tou the souk and bot som védj-ta-beulz"},
+        {"en": "We had couscous and drank mint tea.", "da": "Klina lkesksou w chrebna atay b nne3na3.", "pron": "wi had kous-kous and drank mint ti"},
+        {"en": "She got up late and took a taxi.", "da": "Nadet m3ettla w khdat taxi.", "pron": "chi got eup léyt and touk a tak-si"},
+        {"en": "My brother came home at midnight.", "da": "Khouya ja l ddar f ness llil.", "pron": "maï bra-theur kéym hom at mid-naït"},
+        {"en": "He said hello and made some tea.", "da": "Sellem w 3mel chwiya d atay.", "pron": "hi séd hé-lo and méyd som ti"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Nnafi w sso2al: didn't / Did you…?",
+      "body_da": "**Nnafi:** `didn't` (= `did not`) + l fi3l **3la 7alto** (bla `-ed`, bla lforma lkhassa):\n\n- `I didn't go to work.` (machi `I didn't went`)\n- `She didn't like the film.` (machi `didn't liked`)\n- `We didn't have time.` = makanch 3ndna lwa9t.\n\n3lach? 7it `did` howa li kayhez lmadi, w l fi3l kayb9a 3adi. Bhal `doesn't` f l7adir: `She doesn't work.`\n\n**Sso2al:** `Did` + `you` / `she` / `they` + l fi3l 3la 7alto:\n\n- `Did you go out?` = wach khrejti?\n- `Did she call you?` = wach 3eytat lik?\n- `What did you do yesterday?` = chno derti lbare7?\n- `Where did you go?` = fin mchiti?\n- `What time did you get up?` = chno men sa3a nedti?\n\n**Ljawab l9sir:** `Yes, I did.` / `No, I didn't.` — `Yes, she did.` / `No, she didn't.`\n\nW nefs `did` m3a kolchi: `Did I…?`, `Did he…?`, `Did we…?`",
+      "examples": [
+        {"en": "I didn't go to work yesterday.", "da": "Lbare7 mamchitch l lkhedma.", "pron": "aï di-dent go tou weurk yès-teur-déy"},
+        {"en": "She didn't like the film.", "da": "Ma3jebhach lfilm.", "pron": "chi di-dent laïk the film"},
+        {"en": "Did you sleep well? — Yes, I did.", "da": "Wach n3esti mzyan? — Ah, n3est mzyan.", "pron": "did you slip wél? — yès, aï did"},
+        {"en": "What did you do last weekend?", "da": "Chno derti lwikand li fat?", "pron": "wat did you dou last wik-énd"},
+        {"en": "Did they come? — No, they didn't.", "da": "Wach jaw? — La, majawch.", "pron": "did théy keum? — no, théy di-dent"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "7ki lwikand dyalek: first, then, after that, finally",
+      "body_da": "Bach t7ki chi 7aja b ttartib (lwikand, nhar, re7la), sta3mli had lkelmat f lbdya dyal ljomla, w men ba3dhom lfasila (`,`):\n\n- `First,` = lowwel\n- `Then,` = men ba3d\n- `After that,` = men ba3d hadchi\n- `Finally,` = f l'akhir\n\nKat9edri tzidi 7ta: `In the morning,` / `In the afternoon,` / `In the evening,` / `At night,` / `Later,` (= men ba3d chwiya).\n\nMital kamel: `On Saturday, I got up at nine. First, I had breakfast with my family. Then, I went to the hammam with my sister. After that, we had lunch at my aunt's house. Finally, we watched a film at home.`\n\nBhal f darija: \"lowwel… men ba3d… w f l'akhir…\" — nefs ttartib.",
+      "examples": [
+        {"en": "First, I had breakfast.", "da": "Lowwel, ftert.", "pron": "feurst, aï had brék-fast"},
+        {"en": "Then, I went to the market.", "da": "Men ba3d, mchit l ssou9.", "pron": "thén, aï wént tou the mar-kit"},
+        {"en": "After that, we visited my aunt.", "da": "Men ba3d hadchi, zorna khalti.", "pron": "af-teur that, wi vi-zi-tid maï ant"},
+        {"en": "Finally, we watched a film at home.", "da": "F l'akhir, chefna film f ddar.", "pron": "faï-na-li, wi wotcht a film at hom"}
+      ]
+    },
+    {
+      "type": "vocab",
+      "title_da": "Lkelmat dyal dars",
+      "items": [
+        {"en": "went", "da": "mcha (lmadi dyal `go`)", "emoji": "🚶‍♀️", "pron": "wént", "example_en": "I went to Rabat on Sunday.", "example_da": "Mchit l Rabat nhar l7ed."},
+        {"en": "had", "da": "kan 3ndo / kla (lmadi dyal `have`)", "emoji": "🍽️", "pron": "had", "example_en": "We had breakfast at nine.", "example_da": "Fterna m3a tts3oud."},
+        {"en": "saw", "da": "chaf (lmadi dyal `see`)", "emoji": "👀", "pron": "so", "example_en": "I saw my friends at the café.", "example_da": "Cheft s7abi f l9ehwa."},
+        {"en": "ate", "da": "kla (lmadi dyal `eat`)", "emoji": "🍲", "pron": "éyt", "example_en": "We ate couscous on Friday.", "example_da": "Klina lkesksou nhar jjem3a."},
+        {"en": "did", "da": "dar (lmadi dyal `do`)", "emoji": "✅", "pron": "did", "example_en": "What did you do yesterday?", "example_da": "Chno derti lbare7?"},
+        {"en": "made", "da": "3mel / sawb (lmadi dyal `make`)", "emoji": "🫖", "pron": "méyd", "example_en": "My mother made tea.", "example_da": "Mama 3emlat atay."},
+        {"en": "got up", "da": "nad (lmadi dyal `get up`)", "emoji": "⏰", "pron": "got eup", "example_en": "I got up at seven.", "example_da": "Nedt m3a ssb3a."},
+        {"en": "came", "da": "ja (lmadi dyal `come`)", "emoji": "🚪", "pron": "kéym", "example_en": "My cousin came to our house.", "example_da": "Bent 3emmi jat l darna."},
+        {"en": "took", "da": "khda / dda (lmadi dyal `take`)", "emoji": "🚕", "pron": "touk", "example_en": "We took a taxi to the station.", "example_da": "Khdina taxi l lma7atta."},
+        {"en": "bought", "da": "chra (lmadi dyal `buy`)", "emoji": "🛒", "pron": "bot", "example_en": "She bought a new dress.", "example_da": "Chrat keswa jdida."},
+        {"en": "said", "da": "9al (lmadi dyal `say`)", "emoji": "💬", "pron": "séd", "example_en": "He said thank you.", "example_da": "9al choukran."},
+        {"en": "drank", "da": "chreb (lmadi dyal `drink`)", "emoji": "☕", "pron": "drank", "example_en": "They drank coffee after lunch.", "example_da": "Cherbou l9ehwa men ba3d lghda."},
+        {"en": "slept", "da": "n3es (lmadi dyal `sleep`)", "emoji": "😴", "pron": "slépt", "example_en": "I slept until ten.", "example_da": "N3est 7ta l l3echra."},
+        {"en": "visited", "da": "zar (lmadi dyal `visit`)", "emoji": "🏡", "pron": "vi-zi-tid", "example_en": "We visited my grandmother.", "example_da": "Zorna jeddati."},
+        {"en": "then", "da": "men ba3d", "emoji": "➡️", "pron": "thén", "example_en": "First I cooked, then I cleaned.", "example_da": "Lowwel tiyebt, men ba3d ne9it."},
+        {"en": "finally", "da": "f l'akhir", "emoji": "🏁", "pron": "faï-na-li", "example_en": "Finally, we went home.", "example_da": "F l'akhir, mchina l ddar."}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title_da": "Lwikand: Nouha w Omar",
+      "context_da": "Nhar ttnin f sbah f lkhedma. Omar kaysewwel Nouha 3la lwikand dyalha.",
+      "lines": [
+        {"speaker": "Omar", "en": "Good morning, Nouha! Did you have a good weekend?", "da": "Sbah lkhir, Nouha! Wach dewwezti wikand mzyan?"},
+        {"speaker": "Nouha", "en": "Yes, I did. On Saturday, I went to the souk with my mother.", "da": "Ah. Nhar ssebt, mchit l ssou9 m3a mama."},
+        {"speaker": "Omar", "en": "What did you buy?", "da": "Chno chriti?"},
+        {"speaker": "Nouha", "en": "We bought vegetables, fruit and a big fish. Then we cooked lunch together.", "da": "Chrina lkhodra, lfakiya w wa7ed l7outa kbira. Men ba3d tiyebna lghda m3a b3diyatna."},
+        {"speaker": "Omar", "en": "Nice! And on Sunday?", "da": "Zwin! W nhar l7ed?"},
+        {"speaker": "Nouha", "en": "I got up late. After that, I visited my aunt in Mohammedia. We had tea and talked for hours.", "da": "Nedt m3ettla. Men ba3d hadchi, zert khalti f lMo7ammadiya. Chrebna atay w hderna swaye3."},
+        {"speaker": "Omar", "en": "Did you go to the beach?", "da": "Wach mchiti l lb7er?"},
+        {"speaker": "Nouha", "en": "No, we didn't. It was windy. And you? What did you do?", "da": "La, mamchinach. Kan rri7. W nta? Chno derti?"},
+        {"speaker": "Omar", "en": "Nothing special. I slept, I watched football and I ate a lot!", "da": "Walou khass. N3est, cheft lkora w klit bzzaf!"},
+        {"speaker": "Nouha", "en": "Ha ha! A perfect weekend!", "da": "Hahaha! Wikand mithali!"}
+      ]
+    },
+    {
+      "type": "tip",
+      "title_da": "Nasi7a",
+      "body_da": "Melli kat3ellmi chi fi3l jdid, 7efdih m3a lmadi dyalo bjouj, bhal zouj: `go – went`, `buy – bought`, `eat – ate`. Diri lista f lportable dyalek w 9rayha 5 d9ay9 kol nhar. W fekkri dima: m3a `didn't` w `Did…?` l fi3l kayrje3 3adi: `I didn't go` (machi `didn't went`)!"
+    }
+  ],
+  "exercises": [
+    {"type": "mcq", "question_da": "Chno howa lmadi dyal `go`?", "options": ["went", "goed", "goes", "going"], "answer": 0, "explain_da": "`go` 3ndo forma khassa: `go → went`. `goed` makaynach!"},
+    {"type": "match", "instruction_da": "Wessli l fi3l f lmadi m3a lma3na dyalo.", "pairs": [
+      {"en": "went", "da": "mcha", "emoji": "🚶‍♀️"},
+      {"en": "ate", "da": "kla", "emoji": "🍲"},
+      {"en": "bought", "da": "chra", "emoji": "🛒"},
+      {"en": "saw", "da": "chaf", "emoji": "👀"},
+      {"en": "slept", "da": "n3es", "emoji": "😴"},
+      {"en": "made", "da": "3mel / sawb", "emoji": "🫖"}
+    ]},
+    {"type": "listen_mcq", "say_en": "I worked on Saturday.", "question_da": "Sem3i mzyan l'akhir dyal l fi3l. Chno fhemti?", "options": ["Khdemt nhar ssebt li fat", "Kankhdem kol nhar ssebt", "Ghadi nkhdem nhar ssebt", "Kankhdem daba"], "answer": 0, "explain_da": "`worked` = `work` + `-ed` → lmadi. Sem3i ssout /t/ f l'akhir: 'weurkt'."},
+    {"type": "fill", "sentence_en": "Yesterday, she ___ her grandmother in Fes.", "options": ["visited", "visits", "visit"], "answer": "visited", "hint_da": "`Yesterday` → lmadi.", "explain_da": "`Yesterday` = lbare7 → `visited`. Lmadi nefso m3a `she`: ma kaynach `-s`."},
+    {"type": "mcq", "question_da": "Achmen fi3l kay9ra b /id/ (b ma9ta3 zayd)?", "options": ["wanted", "worked", "played", "cooked"], "answer": 0, "explain_da": "/id/ ghir men ba3d `t` wla `d`: `wanted` = 'won-tid'. `worked` = 'weurkt', `played` = 'pléyd', `cooked` = 'koukt'."},
+    {"type": "order", "words": ["went", "We", "to", "the", "beach", "Sunday.", "on"], "answer": "We went to the beach on Sunday.", "da": "Mchina l lb7er nhar l7ed."},
+    {"type": "listen_mcq", "say_en": "Did you sleep well?", "question_da": "Sem3i. Chno kaysewlek?", "options": ["Wach n3esti mzyan?", "Wach katn3si mzyan?", "Wach nti 3iyana?", "Fo9ach n3esti?"], "answer": 0, "explain_da": "`Did you sleep well?` = wach n3esti mzyan? `Did` → so2al f lmadi."},
+    {"type": "fill", "sentence_en": "I ___ (not / go) to work yesterday because I was sick.", "answers": ["didn't go", "did not go"], "hint_da": "`didn't` + l fi3l 3la 7alto.", "explain_da": "`I didn't go` — men ba3d `didn't`, l fi3l kayb9a 3adi: `go`, machi `went`."},
+    {"type": "truefalse", "statement_en": "\"She didn't went to the party\" is correct.", "statement_da": "`She didn't went to the party` jomla s7i7a.", "answer": false, "explain_da": "La! Men ba3d `didn't` kanst3mlo l fi3l 3la 7alto: `She didn't go to the party.`"},
+    {"type": "translate", "da": "Lbare7 klit lkesksou w chrebt atay.", "answers": ["Yesterday I ate couscous and drank tea.", "Yesterday I ate couscous and I drank tea.", "I ate couscous and drank tea yesterday.", "I ate couscous and I drank tea yesterday."], "hint_en": "Yesterday I ... couscous and ... tea.", "explain_da": "`eat → ate`, `drink → drank`. Bjouj 3ndhom forma khassa!"},
+    {"type": "dictation", "say_en": "What did you do last weekend?", "da": "Chno derti lwikand li fat?", "explain_da": "`What did you do?` — `did` kayhez lmadi, w `do` kayb9a 3adi."},
+    {"type": "order", "words": ["Did", "buy", "she", "a", "new", "dress?"], "answer": "Did she buy a new dress?", "da": "Wach chrat keswa jdida?"},
+    {"type": "mcq", "question_da": "Khtari ttartib s7i7 dyal l7kaya:", "question_en": "___, I got up. ___, I had breakfast. ___, I went to work.", "options": ["First / Then / After that", "After that / First / Then", "Finally / Then / First", "Then / Finally / First"], "answer": 0, "explain_da": "`First` = lowwel, `Then` = men ba3d, `After that` = men ba3d hadchi, `Finally` = f l'akhir."},
+    {"type": "fill", "sentence_en": "My brother ___ home at midnight last night.", "options": ["came", "come", "comed"], "answer": "came", "hint_da": "`come` 3ndo forma khassa.", "explain_da": "`come → came`. `comed` makaynach."},
+    {"type": "translate", "da": "Wach chefti lfilm? — La, machftouch. N3est bekri.", "answers": ["Did you see the film? — No, I didn't. I slept early.", "Did you see the film? No, I didn't. I slept early.", "Did you see the movie? — No, I didn't. I slept early.", "Did you watch the film? — No, I didn't. I slept early."], "hint_en": "Did you ... the film? — No, I ... I ... early.", "explain_da": "`Did you see…?` → `No, I didn't.` `sleep → slept`. `early` = bekri."},
+    {"type": "speak", "target_en": "On Saturday, I went to the souk. Then, I cooked lunch with my mother. Finally, we watched a film.", "da": "Nhar ssebt, mchit l ssou9. Men ba3d, tiyebt lghda m3a mama. F l'akhir, chefna film.", "pron": "on sa-teur-déy, aï wént tou the souk. thén, aï koukt leuntch with maï ma-theur. faï-na-li, wi wotcht a film"}
+  ],
+  "reading": {
+    "title_en": "My weekend in Chefchaouen",
+    "title_da": "Lwikand dyali f Chefchaouen",
+    "emoji": "💙",
+    "text_en": "Last weekend, I went to Chefchaouen with my friend Sarah. We took the bus from Casablanca on Friday evening. The trip was long, but we talked and slept a little. On Saturday morning, we got up early and had breakfast at a small café: bread, olive oil and mint tea. Then we walked in the old medina. The houses were blue and beautiful! Sarah took hundreds of photos. After that, we visited a small shop and I bought a blue scarf for my mother. At lunchtime, we ate a tagine with goat cheese. In the evening, we climbed to the Spanish Mosque and watched the sunset. It was amazing. On Sunday, we didn't do much. We drank coffee, read our books and came back to Casablanca at night. I didn't want to go home!",
+    "text_da": "Lwikand li fat, mchit l Chefchaouen m3a sa7bti Sarah. Khdina lkar men Casa nhar jjem3a f l3chiya. Rre7la kanet twila, walakin hderna w n3esna chwiya. Nhar ssebt f sbah, nedna bekri w fterna f wa7ed l9ehwa sghira: lkhobz, zit l3oud w atay b nne3na3. Men ba3d tmechchina f lmdina l9dima. Ddyour kanou zer9in w zwinin! Sarah khdat myat dyal ttsawer. Men ba3d hadchi, zorna wa7ed l7anout sghira w chrit chal zre9 l mama. F lwa9t dyal lghda, klina tajin b jben lme3za. F l3chiya, tle3na l jjame3 sbliouni w chefna ghroub chchems. Kan chi 7aja ra2i3a. Nhar l7ed, madernach bzzaf. Chrebna l9ehwa, 9rina lktouba dyalna w rje3na l Casa f lil. Mabghitch nrje3 l ddar!",
+    "glossary": [
+      {"en": "trip", "da": "rre7la / ssafar"},
+      {"en": "got up early", "da": "nad bekri"},
+      {"en": "olive oil", "da": "zit l3oud"},
+      {"en": "walked", "da": "tmechcha"},
+      {"en": "hundreds of", "da": "myat dyal"},
+      {"en": "scarf", "da": "chal (foulard)"},
+      {"en": "goat cheese", "da": "jben lme3za"},
+      {"en": "climbed", "da": "tle3"},
+      {"en": "sunset", "da": "ghroub chchems"},
+      {"en": "came back", "da": "rje3"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Kifach mchaw l Chefchaouen?", "options": ["B lkar", "B tomobil", "B ttran", "B ttiyara"], "answer": 0, "explain_da": "`We took the bus from Casablanca.`"},
+      {"type": "truefalse", "statement_en": "They had breakfast at the hotel.", "answer": false, "explain_da": "Ghalet: `had breakfast at a small café`."},
+      {"type": "mcq", "question_da": "Chno chrat Nouha l mmha?", "options": ["Chal zre9", "Tajin", "Ktab", "Jben"], "answer": 0, "explain_da": "`I bought a blue scarf for my mother.`"},
+      {"type": "truefalse", "statement_en": "On Sunday, they came back to Casablanca at night.", "answer": true, "explain_da": "S7i7: `came back to Casablanca at night`."}
+    ]
+  },
+  "listening": {
+    "title_da": "Chno derti lwikand li fat?",
+    "emoji": "🎧",
+    "pre_da": "Tom kaysewwel Laila 3la lwikand dyalha. Sem3i mzyan: fin mchat Laila nhar ssebt? w chno dar Tom nhar l7ed?",
+    "lines": [
+      {"speaker": "Tom", "en": "Hi Laila! What did you do last weekend?", "da": "Ahlan Laila! Chno derti lwikand li fat?"},
+      {"speaker": "Laila", "en": "On Saturday, I went to my grandmother's house in Salé.", "da": "Nhar ssebt, mchit l dar jeddati f Sla."},
+      {"speaker": "Tom", "en": "Oh nice. Did you take the train?", "da": "Wah zwin. Wach khditi ttran?"},
+      {"speaker": "Laila", "en": "No, I didn't. My father took us in his car. We had lunch together and my grandmother made a big couscous.", "da": "La. Bba ddana f tomobilo. Tgheddina m3a b3diyatna w jeddati 3emlat kesksou kbir."},
+      {"speaker": "Tom", "en": "Yummy! And what did you do on Sunday?", "da": "Bnin! W nhar l7ed chno derti?"},
+      {"speaker": "Laila", "en": "I didn't do much. I cleaned my room, studied English and watched a film. And you?", "da": "Madertch bzzaf. Ne9it biti, 9rit lingliziya w cheft film. W nta?"},
+      {"speaker": "Tom", "en": "I played football with Omar on Saturday morning. After that, we ate pizza.", "da": "L3ebt lkora m3a Omar nhar ssebt f sbah. Men ba3d hadchi, klina lpizza."},
+      {"speaker": "Laila", "en": "Did you have a good time?", "da": "Wach dewweztou wa9t zwin?"},
+      {"speaker": "Tom", "en": "Yes, we did! But on Sunday I slept all day. I was so tired.", "da": "Ah! Walakin nhar l7ed n3est nhar kamel. Kont 3iyan bzzaf."}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Fin mchat Laila nhar ssebt?", "options": ["L dar jeddatha f Sla", "L lb7er", "L ssou9", "L Chefchaouen"], "answer": 0, "explain_da": "`I went to my grandmother's house in Salé.`"},
+      {"type": "truefalse", "statement_en": "Laila took the train to Salé.", "answer": false, "explain_da": "Ghalet: `My father took us in his car.`"},
+      {"type": "listen_mcq", "say_en": "I didn't do much.", "question_da": "Sem3i. Chno 9alet Laila?", "options": ["Madertch bzzaf", "Dert bzzaf dyal l7wayj", "Khdemt bzzaf", "Mabghitch ndir walou"], "answer": 0, "explain_da": "`I didn't do much.` = madertch bzzaf. `much` = bzzaf."},
+      {"type": "mcq", "question_da": "Chno dar Tom nhar l7ed?", "options": ["N3es nhar kamel", "L3eb lkora", "Kla lpizza", "9ra lingliziya"], "answer": 0, "explain_da": "`On Sunday I slept all day.`"}
+    ]
+  },
+  "speaking": {
+    "pronunciation": [
+      {"target_en": "I worked all day yesterday.", "da": "Lbare7 khdemt nhar kamel.", "pron": "aï weurkt ol déy yès-teur-déy"},
+      {"target_en": "We visited my aunt and played with the kids.", "da": "Zorna khalti w l3ebna m3a drari.", "pron": "wi vi-zi-tid maï ant and pléyd with the kidz"},
+      {"target_en": "I went to the souk and bought some fish.", "da": "Mchit l ssou9 w chrit chwiya dyal l7out.", "pron": "aï wént tou the souk and bot som fich"},
+      {"target_en": "She didn't come to the party.", "da": "Majatch l l7efla.", "pron": "chi di-dent keum tou the par-ti"},
+      {"target_en": "Did you have a good weekend? — Yes, I did.", "da": "Wach dewwezti wikand mzyan? — Ah.", "pron": "did you hav a goud wik-énd? — yès, aï did"},
+      {"target_en": "First, I had breakfast. Then, I went to work.", "da": "Lowwel, ftert. Men ba3d, mchit l lkhedma.", "pron": "feurst, aï had brék-fast. thén, aï wént tou weurk"}
+    ],
+    "roleplay": {
+      "title_da": "7ki 3la lwikand dyalek",
+      "context_da": "Nhar ttnin. L'oustad Mr. Brown kaysewwel kol wa7ed f l9ism 3la lwikand dyalo. Jawbi b lmadi: `I went`, `I visited`, `I didn't…`. Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+      "turns": [
+        {"bot_en": "Good morning, Nouha! Did you have a good weekend?", "bot_da": "Sbah lkhir, Nouha! Wach dewwezti wikand mzyan?", "expect_keywords": ["yes", "i did", "no", "i didn't", "good", "great"], "sample_en": "Yes, I did. It was great!"},
+        {"bot_en": "What did you do on Saturday?", "bot_da": "Chno derti nhar ssebt?", "expect_keywords": ["i went", "i visited", "i cooked", "i watched", "i played", "i cleaned", "i stayed", "i had", "i ate", "went", "visited"], "sample_en": "I went to the souk with my mother and we cooked lunch."},
+        {"bot_en": "Did you go out on Sunday?", "bot_da": "Wach khrejti nhar l7ed?", "expect_keywords": ["yes", "no", "i did", "i didn't", "went", "stayed"], "sample_en": "No, I didn't. I stayed at home and watched a film."},
+        {"bot_en": "What did you eat?", "bot_da": "Chno kliti?", "expect_keywords": ["i ate", "i had", "we ate", "we had", "couscous", "tagine", "fish", "chicken", "pizza"], "sample_en": "We ate couscous with vegetables."},
+        {"bot_en": "Sounds delicious! Did you study English this weekend?", "bot_da": "Bnin! Wach 9riti lingliziya had lwikand?", "expect_keywords": ["yes", "no", "i did", "i didn't", "studied", "a little"], "sample_en": "Yes, I did. I studied for one hour on Sunday."},
+        {"bot_en": "Well done! Thank you, Nouha.", "bot_da": "Mzyan! Choukran, Nouha.", "expect_keywords": ["thank", "you're welcome", "welcome", "bye"], "sample_en": "Thank you, Mr. Brown!"}
+      ]
+    }
+  },
+  "writing": {
+    "title_da": "Lwikand li fat (b lmadi)",
+    "prompt_da": "7ki 3la lwikand li fat f 6 wla 7 jomal. Sta3mli l'af3al f lmadi (`went`, `had`, `visited`, `watched`…), jomla wa7da b `didn't`, w ratbi l7kaya b `First`, `Then`, `After that`, `Finally`.",
+    "helper_en": ["First, I ...", "Then, I went to ...", "After that, we ...", "I didn't ...", "Finally, ..."],
+    "min_words": 45,
+    "keywords": ["went", "then"],
+    "model_en": "Last weekend was busy but nice. On Saturday, I got up at eight. First, I cleaned the house with my sister. Then, we went to the souk and bought vegetables, fruit and a chicken. After that, I cooked a tagine for lunch and my cousins came to eat with us. In the evening, we drank tea and watched a film. On Sunday, I didn't go out. I slept until ten, called my friend Sarah and studied English for an hour. Finally, I made dinner for my family."
+  }
+}
+]

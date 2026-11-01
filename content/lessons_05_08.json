@@ -1,0 +1,3416 @@
+[
+  {
+    "id": "l05",
+    "order": 5,
+    "level": "A1.1",
+    "emoji": "🔢",
+    "title_en": "Numbers 20–100, age & prices",
+    "title_da": "L'ar9am 20–100, l3mer w taman",
+    "goals_da": [
+      "T3eddi men 20 7ta l 100 b lingliziya",
+      "Tsewli 3la l3mer b `How old are you?` w tjawbi `I'm 25 years old`",
+      "Tsewli 3la taman b `How much is it?` w tfehmi ljawab b derhem, euro wla dollar",
+      "T9oli w tfehmi ra9m ttilifoun, ra9m b ra9m"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "L'ar9am men 20 7ta l 100",
+        "body_da": "F dars 2 t3ellemti l'ar9am men 0 7ta l 20. Daba ghadi nkemmlo 7ta l 100.\n\nL3charat (20, 30, 40…) kolhom kaysaliw b `-ty`:\n\n- `twenty` = 20 (3echrin)\n- `thirty` = 30 (tlatin)\n- `forty` = 40 (reb3in) — chofi: makaynach `u` bhal f `four`!\n- `fifty` = 50 (khemsin)\n- `sixty` = 60 (settin)\n- `seventy` = 70 (seb3in)\n- `eighty` = 80 (tmanin)\n- `ninety` = 90 (tes3in)\n- `a hundred` wla `one hundred` = 100 (mya)\n\nBach ndiro l'ar9am li binathom, kanzido lwa7dat men ba3d l3chara, m3a khatt sghir (-) binathom: `twenty-one` (21), `twenty-two` (22), `thirty-five` (35), `ninety-nine` (99).\n\n**Rdi lbal:** f darija kan9oulo lwa7da 9bel: \"wa7ed w 3echrin\" (1 + 20). F lingliziya l3eks: `twenty-one` (20 + 1). L3chara l'awwla, men ba3d lwa7da.\n\n**Mochkil machhour:** `thirteen` (13) w `thirty` (30) kaytchabho! F 13 kandeghto 3la l'akhir: thir-TIN. F 30 kandeghto 3la l'awwel: THEUR-ti. Nefs chi m3a `fourteen` / `forty`, `fifteen` / `fifty`, `sixteen` / `sixty`.",
+        "examples": [
+          {
+            "en": "twenty-one, twenty-two, twenty-three",
+            "da": "wa7ed w 3echrin, tnayn w 3echrin, tlata w 3echrin",
+            "pron": "twèn-ti-wan, twèn-ti-tou, twèn-ti-thri"
+          },
+          {
+            "en": "forty-five",
+            "da": "khemsa w reb3in",
+            "pron": "for-ti-faïv"
+          },
+          {
+            "en": "ninety-nine",
+            "da": "tes3a w tes3in",
+            "pron": "naïn-ti-naïn"
+          },
+          {
+            "en": "My father is sixty.",
+            "da": "Bba 3ndo settin 3am.",
+            "pron": "maï fa-theur iz siks-ti"
+          },
+          {
+            "en": "a hundred dirhams",
+            "da": "myat derhem",
+            "pron": "a han-dred di-ramz"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "L3mer: How old are you?",
+        "body_da": "Bach tsewli 3la l3mer: `How old are you?` = ch7al f 3merek? (7arfiyan: ch7al nti 9dima — walakin machi 3ib, hakka kay9oulouha l'ingliz!)\n\nLjawab b lfi3l `to be` (`am` / `is` / `are`), **machi** b `have`:\n\n- `I am 25.` wla `I'm 25 years old.` = 3ndi 25 3am.\n- `He is 30.` / `She's 42 years old.`\n- `My brother is 19.`\n\n**Rdi lbal:** f darija kan9oulo \"3ndi 25 3am\" b \"3ndi\" (= `have`). F lingliziya **la**! Kan9oulo `I am 25` — b `to be`. `I have 25 years` ✗ ghalet.\n\n`years old` = \"3am f l3mer\". T9edri tzidiha wla t7eydiha: `I'm 25.` w `I'm 25 years old.` bjouj s7a7.\n\nBach tsewli 3la chi wa7ed akhor: `How old is he?` / `How old is she?` / `How old is your mother?`",
+        "examples": [
+          {
+            "en": "How old are you?",
+            "da": "Ch7al f 3merek?",
+            "pron": "haw old ar you"
+          },
+          {
+            "en": "I'm twenty-five years old.",
+            "da": "3ndi khemsa w 3echrin 3am.",
+            "pron": "aïm twèn-ti-faïv yirz old"
+          },
+          {
+            "en": "How old is your mother?",
+            "da": "Ch7al f 3mer mmek?",
+            "pron": "haw old iz your ma-theur"
+          },
+          {
+            "en": "She's fifty-three.",
+            "da": "3ndha tlata w khemsin 3am.",
+            "pron": "chiz fif-ti-thri"
+          },
+          {
+            "en": "My brother is nineteen.",
+            "da": "Khouya 3ndo tse3tach 3am.",
+            "pron": "maï bra-theur iz naïn-tin"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Taman: How much is it?",
+        "body_da": "F ssou9, f l7anout, f l9ehwa… khassek tsewli 3la taman:\n\n- `How much is it?` = bch7al? / ch7al taman?\n- `How much is the tea?` = bch7al atay?\n- `How much are the oranges?` = bch7al llimoun? (`are` 7it bzzaf dyal l7wayj)\n\nLjawab: `It's` + ra9m + lflous:\n\n- `It's thirty dirhams.` = b tlatin derhem.\n- `It's twenty euros.` = b 3echrin euro.\n- `It's five dollars.` = b khemsa dyal ddolar.\n- `It's fifty cents.` = b khemsin santim.\n\nChofi: melli kayn kter men wa7ed kanzido `-s`: `one dirham`, `two dirhams`, `ten euros`. Ghadi nchoufo had l9a3ida mzyan f dars jay.\n\nMelli katkhellsi kat9oli `Here you are.` (= hak). W sserf b lingliziya = `change`: `Your change is ten dirhams.`",
+        "examples": [
+          {
+            "en": "How much is it?",
+            "da": "Bch7al hada?",
+            "pron": "haw match iz it"
+          },
+          {
+            "en": "It's thirty dirhams.",
+            "da": "B tlatin derhem.",
+            "pron": "its theur-ti di-ramz"
+          },
+          {
+            "en": "How much are the oranges?",
+            "da": "Bch7al llimoun?",
+            "pron": "haw match ar the o-rin-djiz"
+          },
+          {
+            "en": "They're eight dirhams a kilo.",
+            "da": "B tmenya dyal ddrahem lkilo.",
+            "pron": "thér éyt di-ramz a ki-lo"
+          },
+          {
+            "en": "Twenty euros, please. Here you are.",
+            "da": "3echrin euro, 3afak. Hak.",
+            "pron": "twèn-ti you-roz, pliz. hir you ar"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Ra9m ttilifoun w How many…?",
+        "body_da": "Ra9m ttilifoun f lingliziya kay9al **ra9m b ra9m**, machi jouj b jouj bhal f darija:\n\n- 06 12 34 56 78 → `zero six, one two, three four, five six, seven eight`\n- Zero t9edri t9oliha `zero` wla `oh` (bhal l7erf O).\n- Melli kayn jouj ar9am kif kif (66), l'ingliz kay9oulo `double six`.\n\nSso2al: `What's your phone number?` = chno ra9m ttilifoun dyalek? Ljawab: `It's 06…` wla `My number is 06…`\n\n`How many…?` = ch7al men…? Kansta3mlouha m3a l7wayj li kan7esbouhom:\n\n- `How many brothers do you have?` = ch7al men khou 3ndek? (t3ellemtiha f dars 4)\n- `How many students are in the class?` = ch7al men talib f l9ism?\n- `How many kilos?` = ch7al men kilo?\n\nW `How much…?` = bch7al? (taman). Matkhelltich binathom: `How much` l taman, `How many` l l3adad.",
+        "examples": [
+          {
+            "en": "What's your phone number?",
+            "da": "Chno ra9m ttilifoun dyalek?",
+            "pron": "wats your fon nam-beur"
+          },
+          {
+            "en": "It's zero six, one two, three four, five six, seven eight.",
+            "da": "Howa 06 12 34 56 78.",
+            "pron": "its zi-ro siks, wan tou, thri for, faïv siks, sé-ven éyt"
+          },
+          {
+            "en": "How many students are in the class?",
+            "da": "Ch7al men talib f l9ism?",
+            "pron": "haw mé-ni stiou-dents ar in the klas"
+          },
+          {
+            "en": "Thirty students.",
+            "da": "Tlatin talib.",
+            "pron": "theur-ti stiou-dents"
+          },
+          {
+            "en": "How many kilos? — Two kilos, please.",
+            "da": "Ch7al men kilo? — Jouj kilo, 3afak.",
+            "pron": "haw mé-ni ki-loz — tou ki-loz, pliz"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "twenty",
+            "da": "3echrin",
+            "emoji": "2️⃣",
+            "pron": "twèn-ti",
+            "example_en": "I'm twenty years old.",
+            "example_da": "3ndi 3echrin 3am."
+          },
+          {
+            "en": "thirty",
+            "da": "tlatin",
+            "emoji": "3️⃣",
+            "pron": "theur-ti",
+            "example_en": "My sister is thirty.",
+            "example_da": "Khti 3ndha tlatin 3am."
+          },
+          {
+            "en": "forty",
+            "da": "reb3in",
+            "emoji": "4️⃣",
+            "pron": "for-ti",
+            "example_en": "Forty dirhams, please.",
+            "example_da": "Reb3in derhem, 3afak."
+          },
+          {
+            "en": "fifty",
+            "da": "khemsin",
+            "emoji": "5️⃣",
+            "pron": "fif-ti",
+            "example_en": "The bag is fifty dirhams.",
+            "example_da": "Ssak b khemsin derhem."
+          },
+          {
+            "en": "sixty",
+            "da": "settin",
+            "emoji": "6️⃣",
+            "pron": "siks-ti",
+            "example_en": "My father is sixty-one.",
+            "example_da": "Bba 3ndo wa7ed w settin 3am."
+          },
+          {
+            "en": "seventy",
+            "da": "seb3in",
+            "emoji": "7️⃣",
+            "pron": "sé-ven-ti",
+            "example_en": "My grandmother is seventy.",
+            "example_da": "Jeddati 3ndha seb3in 3am."
+          },
+          {
+            "en": "eighty",
+            "da": "tmanin",
+            "emoji": "8️⃣",
+            "pron": "éy-ti",
+            "example_en": "It's eighty euros.",
+            "example_da": "B tmanin euro."
+          },
+          {
+            "en": "ninety",
+            "da": "tes3in",
+            "emoji": "9️⃣",
+            "pron": "naïn-ti",
+            "example_en": "Ninety, ninety-one, ninety-two.",
+            "example_da": "Tes3in, wa7ed w tes3in, tnayn w tes3in."
+          },
+          {
+            "en": "a hundred",
+            "da": "mya",
+            "emoji": "💯",
+            "pron": "a han-dred",
+            "example_en": "It's a hundred dirhams.",
+            "example_da": "B myat derhem."
+          },
+          {
+            "en": "dirham",
+            "da": "derhem",
+            "emoji": "💵",
+            "pron": "di-ram",
+            "example_en": "It's ten dirhams.",
+            "example_da": "B 3echra dyal ddrahem."
+          },
+          {
+            "en": "euro",
+            "da": "euro (lflous dyal Oroppa)",
+            "emoji": "💶",
+            "pron": "you-ro",
+            "example_en": "The book is fifteen euros.",
+            "example_da": "Lktab b khemstach euro."
+          },
+          {
+            "en": "dollar",
+            "da": "dollar (lflous dyal Amrika)",
+            "emoji": "💲",
+            "pron": "do-leur",
+            "example_en": "It's five dollars.",
+            "example_da": "B khemsa dyal ddolar."
+          },
+          {
+            "en": "cent",
+            "da": "santim",
+            "emoji": "🪙",
+            "pron": "sènt",
+            "example_en": "It's fifty cents.",
+            "example_da": "B khemsin santim."
+          },
+          {
+            "en": "phone number",
+            "da": "ra9m ttilifoun",
+            "emoji": "📱",
+            "pron": "fon nam-beur",
+            "example_en": "My phone number is 06 61 22 33 44.",
+            "example_da": "Ra9m ttilifoun dyali howa 06 61 22 33 44."
+          },
+          {
+            "en": "years old",
+            "da": "3am (f l3mer)",
+            "emoji": "🎂",
+            "pron": "yirz old",
+            "example_en": "She's forty years old.",
+            "example_da": "3ndha reb3in 3am."
+          },
+          {
+            "en": "price",
+            "da": "taman",
+            "emoji": "🏷️",
+            "pron": "praïs",
+            "example_en": "It's a good price.",
+            "example_da": "Taman mzyan."
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "F ssou9: llimoun w lbanan",
+        "context_da": "Nouha f ssou9 dyal l7ay dyalha. Katchri llimoun w lbanan men 3nd Hamid, lkhedar.",
+        "lines": [
+          {
+            "speaker": "Nouha",
+            "en": "Good morning! How much are the oranges?",
+            "da": "Sbah lkhir! Bch7al llimoun?"
+          },
+          {
+            "speaker": "Hamid",
+            "en": "Good morning. They're eight dirhams a kilo.",
+            "da": "Sbah lkhir. B tmenya dyal ddrahem lkilo."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "And the bananas?",
+            "da": "W lbanan?"
+          },
+          {
+            "speaker": "Hamid",
+            "en": "Twelve dirhams a kilo.",
+            "da": "Tnach derhem lkilo."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "OK. Two kilos of oranges and one kilo of bananas, please.",
+            "da": "Wakha. Jouj kilo dyal llimoun w kilo dyal lbanan, 3afak."
+          },
+          {
+            "speaker": "Hamid",
+            "en": "That's twenty-eight dirhams.",
+            "da": "Hadchi b tmenya w 3echrin derhem."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Here you are. Fifty dirhams.",
+            "da": "Hak. Khemsin derhem."
+          },
+          {
+            "speaker": "Hamid",
+            "en": "Thank you. Your change: twenty-two dirhams.",
+            "da": "Choukran. Sserf dyalek: tnayn w 3echrin derhem."
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Thanks! Goodbye.",
+            "da": "Choukran! Bslama."
+          },
+          {
+            "speaker": "Hamid",
+            "en": "Goodbye! Have a nice day.",
+            "da": "Bslama! Nhar zwin."
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "`thirteen` wla `thirty`? Melli kat9oli 13, 14, 15… deghti 3la l'akhir w teddi lwa9t: `thirteen` = thir-TIN (twila). Melli kat9oli 30, 40, 50… deghti 3la lbdaya w khffi l'akhir: `thirty` = THEUR-ti (9sira). W ila ma kontich mti2kkida f ssou9, 9oli ra9m b ra9m: `three zero` = 30. Sahla w madmouna!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "question_da": "Kifach kan9oulo 40 b lingliziya?",
+        "options": [
+          "forty",
+          "fourteen",
+          "fifty",
+          "four"
+        ],
+        "answer": 0,
+        "explain_da": "`forty` = 40. `fourteen` = 14. `fifty` = 50. `four` = 4. Rdi lbal: `forty` bla `u`!"
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "thirty",
+        "question_da": "Sem3i mzyan. Achmen ra9m sme3ti?",
+        "options": [
+          "30",
+          "13",
+          "33",
+          "3"
+        ],
+        "answer": 0,
+        "explain_da": "`thirty` = 30. `thirteen` = 13 — fiha ddeght 3la l'akhir (thir-TIN)."
+      },
+      {
+        "type": "match",
+        "instruction_da": "Wessli ra9m b lingliziya m3a lma3na dyalo.",
+        "pairs": [
+          {
+            "en": "twenty",
+            "da": "3echrin (20)",
+            "emoji": "2️⃣"
+          },
+          {
+            "en": "fifty",
+            "da": "khemsin (50)",
+            "emoji": "5️⃣"
+          },
+          {
+            "en": "seventy",
+            "da": "seb3in (70)",
+            "emoji": "7️⃣"
+          },
+          {
+            "en": "ninety",
+            "da": "tes3in (90)",
+            "emoji": "9️⃣"
+          },
+          {
+            "en": "a hundred",
+            "da": "mya (100)",
+            "emoji": "💯"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "sentence_en": "How ___ are you? — I'm twenty-five.",
+        "options": [
+          "old",
+          "much",
+          "many"
+        ],
+        "answer": "old",
+        "hint_da": "Ch7al f 3merek?",
+        "explain_da": "`How old are you?` = ch7al f 3merek? `How much` = bch7al (taman). `How many` = ch7al men (l3adad)."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "It's forty-five dirhams.",
+        "question_da": "Sem3i. Bch7al?",
+        "options": [
+          "45 derhem",
+          "54 derhem",
+          "40 derhem",
+          "55 derhem"
+        ],
+        "answer": 0,
+        "explain_da": "`forty-five` = 45: `forty` (40) + `five` (5)."
+      },
+      {
+        "type": "order",
+        "words": [
+          "old",
+          "How",
+          "is",
+          "your",
+          "mother?"
+        ],
+        "answer": "How old is your mother?",
+        "da": "Ch7al f 3mer mmek?"
+      },
+      {
+        "type": "mcq",
+        "question_da": "Achmen jomla s7i7a bach t9oli \"3ndi tlatin 3am\"?",
+        "options": [
+          "I have thirty years.",
+          "I'm thirty years old.",
+          "I'm thirty year."
+        ],
+        "answer": 1,
+        "explain_da": "L3mer b `to be`: `I'm thirty years old.` `I have thirty years` ✗ ghalet — f lingliziya makan9oulouch `have` m3a l3mer."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "How ___ is it? — It's twenty dirhams.",
+        "answers": [
+          "much"
+        ],
+        "hint_da": "Bch7al? — sso2al 3la taman",
+        "explain_da": "`How much is it?` = bch7al? Kansewlo biha 3la taman."
+      },
+      {
+        "type": "translate",
+        "da": "Bba 3ndo settin 3am.",
+        "answers": [
+          "My father is sixty.",
+          "My father is sixty years old.",
+          "My father is 60.",
+          "My father is 60 years old."
+        ],
+        "hint_en": "My father ... sixty ...",
+        "explain_da": "`My father is sixty (years old).` — l3mer b `is`, machi b `has`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "She is twenty-one years old.",
+        "da": "3ndha wa7ed w 3echrin 3am.",
+        "explain_da": "Sem3i mzyan: `twenty-one` = 20 + 1. `years old` = 3am f l3mer."
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "The word 'fifteen' means 50.",
+        "statement_da": "Lkelma `fifteen` kat3ni 50.",
+        "answer": false,
+        "explain_da": "Ghalet! `fifteen` = 15. 50 = `fifty`."
+      },
+      {
+        "type": "order",
+        "words": [
+          "much",
+          "How",
+          "is",
+          "the",
+          "tea?"
+        ],
+        "answer": "How much is the tea?",
+        "da": "Bch7al atay?"
+      },
+      {
+        "type": "mcq",
+        "question_en": "What's your phone number?",
+        "question_da": "Achmen jawab monasib?",
+        "options": [
+          "I'm twenty-five years old.",
+          "It's thirty dirhams.",
+          "It's zero six, one two, three four, five six, seven eight.",
+          "I'm from Rabat."
+        ],
+        "answer": 2,
+        "explain_da": "`What's your phone number?` = chno ra9m ttilifoun dyalek? Ljawab: `It's` + l'ar9am, ra9m b ra9m."
+      },
+      {
+        "type": "speak",
+        "target_en": "How much is it? It's ninety dirhams.",
+        "da": "Bch7al? B tes3in derhem.",
+        "pron": "haw match iz it? its naïn-ti di-ramz"
+      },
+      {
+        "type": "translate",
+        "da": "Ch7al f 3mer khouk?",
+        "answers": [
+          "How old is your brother?",
+          "How old's your brother?"
+        ],
+        "hint_en": "How ... is your ...?",
+        "explain_da": "`How old is your brother?` — `old` l l3mer, `brother` = khou."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "Twenty, thirty, ___, fifty.",
+        "options": [
+          "forty",
+          "fourteen",
+          "four"
+        ],
+        "answer": "forty",
+        "hint_da": "20, 30, ?, 50",
+        "explain_da": "20, 30, **40**, 50: `twenty`, `thirty`, `forty`, `fifty`."
+      }
+    ],
+    "reading": {
+      "title_en": "At the market",
+      "title_da": "F ssou9",
+      "emoji": "🍊",
+      "text_en": "Hello! My name is Nouha. I am twenty-six years old. I live in Rabat with my family. My father is sixty-two and my mother is fifty-eight. I have two brothers: Karim is thirty and Yassine is nineteen. Today I am at the market. The oranges are eight dirhams a kilo and the tomatoes are six dirhams a kilo. I have a hundred dirhams in my bag. My phone number is zero six, one two, three four, five six, seven eight. Call me!",
+      "text_da": "Salam! Smiyti Nouha. 3ndi setta w 3echrin 3am. Kanskon f Rabat m3a l3a2ila dyali. Bba 3ndo tnayn w settin 3am w mmi 3ndha tmenya w khemsin 3am. 3ndi jouj khout: Karim 3ndo tlatin 3am w Yassine 3ndo tse3tach 3am. Lyouma ana f ssou9. Llimoun b tmenya dyal ddrahem lkilo w matecha b setta dyal ddrahem lkilo. 3ndi myat derhem f ssak dyali. Ra9m ttilifoun dyali howa 06 12 34 56 78. 3eyti liya!",
+      "glossary": [
+        {
+          "en": "market",
+          "da": "ssou9"
+        },
+        {
+          "en": "today",
+          "da": "lyouma"
+        },
+        {
+          "en": "oranges",
+          "da": "llimoun"
+        },
+        {
+          "en": "tomatoes",
+          "da": "matecha"
+        },
+        {
+          "en": "a kilo",
+          "da": "lkilo (wa7ed lkilo)"
+        },
+        {
+          "en": "bag",
+          "da": "ssak"
+        },
+        {
+          "en": "with",
+          "da": "m3a"
+        },
+        {
+          "en": "call me",
+          "da": "3eyti liya (b ttilifoun)"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Ch7al f 3mer Nouha?",
+          "options": [
+            "26",
+            "62",
+            "16",
+            "36"
+          ],
+          "answer": 0,
+          "explain_da": "`I am twenty-six years old.` = 3ndi 26 3am."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Nouha's father is fifty-eight.",
+          "statement_da": "Bba Nouha 3ndo 58 3am.",
+          "answer": false,
+          "explain_da": "Ghalet: bbaha 3ndo 62 (`sixty-two`). Mmha hiya li 3ndha 58."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Bch7al llimoun?",
+          "options": [
+            "6 derhem lkilo",
+            "8 derhem lkilo",
+            "18 derhem lkilo",
+            "80 derhem lkilo"
+          ],
+          "answer": 1,
+          "explain_da": "`The oranges are eight dirhams a kilo.` = llimoun b 8 derhem lkilo."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al dyal lflous 3nd Nouha f ssak?",
+          "options": [
+            "100 derhem",
+            "50 derhem",
+            "10 derhem",
+            "20 derhem"
+          ],
+          "answer": 0,
+          "explain_da": "`I have a hundred dirhams in my bag.` = 3ndi myat derhem."
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "F lmaktaba: lktab w sstilo",
+      "emoji": "📚",
+      "pre_da": "Sem3i l7iwar mzyan. Rekkzi 3la: bch7al lktab? bch7al sstilo? w ch7al sserf li rje3 l Tom f l'akhir?",
+      "lines": [
+        {
+          "speaker": "Tom",
+          "en": "Excuse me, how much is the English book?",
+          "da": "Sme7 liya, bch7al lktab dyal lingliziya?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "It's seventy-five dirhams.",
+          "da": "B khemsa w seb3in derhem."
+        },
+        {
+          "speaker": "Tom",
+          "en": "And the pen?",
+          "da": "W sstilo?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "The pen is twelve dirhams.",
+          "da": "Sstilo b tnach derhem."
+        },
+        {
+          "speaker": "Tom",
+          "en": "OK. The book and two pens, please.",
+          "da": "Wakha. Lktab w jouj stilouwat, 3afak."
+        },
+        {
+          "speaker": "Laila",
+          "en": "That's ninety-nine dirhams.",
+          "da": "Hadchi b tes3a w tes3in derhem."
+        },
+        {
+          "speaker": "Tom",
+          "en": "Here you are. A hundred dirhams.",
+          "da": "Hak. Myat derhem."
+        },
+        {
+          "speaker": "Laila",
+          "en": "Thank you. Your change is one dirham. Goodbye!",
+          "da": "Choukran. Sserf dyalek derhem wa7ed. Bslama!"
+        },
+        {
+          "speaker": "Tom",
+          "en": "Thanks! Goodbye.",
+          "da": "Choukran! Bslama."
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Bch7al lktab?",
+          "options": [
+            "57 derhem",
+            "75 derhem",
+            "70 derhem",
+            "95 derhem"
+          ],
+          "answer": 1,
+          "explain_da": "`seventy-five` = 75: `seventy` (70) + `five` (5)."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al men stilo chra Tom?",
+          "options": [
+            "jouj",
+            "wa7ed",
+            "tlata",
+            "3echra"
+          ],
+          "answer": 0,
+          "explain_da": "`The book and two pens, please.` = jouj stilouwat."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "The pen is twenty dirhams.",
+          "statement_da": "Sstilo b 3echrin derhem.",
+          "answer": false,
+          "explain_da": "Ghalet: `The pen is twelve dirhams.` = 12, machi 20."
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "Your change is one dirham.",
+          "question_da": "Sem3i. Chno kat3ni had ljomla?",
+          "options": [
+            "Sserf dyalek derhem wa7ed",
+            "Sserf dyalek 3echra dyal ddrahem",
+            "Lktab b derhem wa7ed",
+            "Choukran bzzaf"
+          ],
+          "answer": 0,
+          "explain_da": "`change` = sserf. `one dirham` = derhem wa7ed."
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "How old are you?",
+          "da": "Ch7al f 3merek?",
+          "pron": "haw old ar you"
+        },
+        {
+          "target_en": "I'm twenty-five years old.",
+          "da": "3ndi khemsa w 3echrin 3am.",
+          "pron": "aïm twèn-ti-faïv yirz old"
+        },
+        {
+          "target_en": "How much is it?",
+          "da": "Bch7al?",
+          "pron": "haw match iz it"
+        },
+        {
+          "target_en": "It's thirty-five dirhams.",
+          "da": "B khemsa w tlatin derhem.",
+          "pron": "its theur-ti-faïv di-ramz"
+        },
+        {
+          "target_en": "Thirteen, thirty. Fourteen, forty.",
+          "da": "Tlettach, tlatin. Rba3tach, reb3in.",
+          "pron": "theur-tin, theur-ti. for-tin, for-ti"
+        },
+        {
+          "target_en": "My phone number is zero six, two two, four five, six seven, eight nine.",
+          "da": "Ra9m ttilifoun dyali howa 06 22 45 67 89.",
+          "pron": "maï fon nam-beur iz zi-ro siks, tou tou, for faïv, siks sé-ven, éyt naïn"
+        }
+      ],
+      "roleplay": {
+        "title_da": "Sarah bghat t3erfek kter",
+        "context_da": "Nti f l9ism m3a Sarah. Katsewlek 3la l3mer, ra9m ttilifoun w taman dyal lktab. Jawbi b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+        "turns": [
+          {
+            "bot_en": "Hi Nouha! How old are you?",
+            "bot_da": "Ahlan Nouha! Ch7al f 3merek?",
+            "expect_keywords": [
+              "i'm",
+              "i am",
+              "years",
+              "twenty",
+              "thirty",
+              "forty",
+              "fifty"
+            ],
+            "sample_en": "I'm twenty-five years old."
+          },
+          {
+            "bot_en": "Nice! And how old is your mother?",
+            "bot_da": "Zwin! W ch7al f 3mer mmek?",
+            "expect_keywords": [
+              "she's",
+              "she is",
+              "years",
+              "forty",
+              "fifty",
+              "sixty",
+              "seventy",
+              "eighty"
+            ],
+            "sample_en": "She's fifty-five."
+          },
+          {
+            "bot_en": "What's your phone number?",
+            "bot_da": "Chno ra9m ttilifoun dyalek?",
+            "expect_keywords": [
+              "zero",
+              "oh",
+              "six",
+              "seven",
+              "one",
+              "two",
+              "three",
+              "four",
+              "five",
+              "eight",
+              "nine",
+              "number"
+            ],
+            "sample_en": "It's zero six, one two, three four, five six, seven eight."
+          },
+          {
+            "bot_en": "Thanks! How much is the English book?",
+            "bot_da": "Choukran! Bch7al lktab dyal lingliziya?",
+            "expect_keywords": [
+              "it's",
+              "it is",
+              "dirham",
+              "hundred",
+              "fifty",
+              "sixty",
+              "seventy",
+              "eighty",
+              "ninety"
+            ],
+            "sample_en": "It's eighty dirhams."
+          },
+          {
+            "bot_en": "OK, thank you. See you tomorrow!",
+            "bot_da": "Wakha, choukran. Nchoufouk ghedda!",
+            "expect_keywords": [
+              "see you",
+              "bye",
+              "goodbye",
+              "thank",
+              "tomorrow"
+            ],
+            "sample_en": "See you tomorrow, Sarah!"
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Ana w l3a2ila dyali: l3mer w l'ar9am",
+      "prompt_da": "Ktbi 4 wla 5 jomal b lingliziya: ch7al f 3merek, ch7al f 3mer jouj men l3a2ila dyalek, w ra9m ttilifoun dyalek (wla ra9m khayali). Ktbi l'ar9am b l7orouf (`twenty-five`), machi b l'ar9am (25).",
+      "helper_en": [
+        "I am ... years old.",
+        "My mother is ...",
+        "My brother is ...",
+        "My phone number is ..."
+      ],
+      "min_words": 20,
+      "keywords": [
+        "years old",
+        "phone"
+      ],
+      "model_en": "I am twenty-six years old. My father is sixty-two years old and my mother is fifty-eight. My sister is twenty. My phone number is zero six, one two, three four, five six, seven eight."
+    }
+  },
+  {
+    "id": "l06",
+    "order": 6,
+    "level": "A1.1",
+    "emoji": "🎨",
+    "title_en": "Things, colors & adjectives",
+    "title_da": "L7wayj, l'alwan w ssifat",
+    "goals_da": [
+      "Tsemmi l7wayj dyal kol nhar b lingliziya w tsta3mli `a` / `an`",
+      "Tdiri ljam3 (plural): `one book`, `two books`, `three children`",
+      "Tsewli `What is this?` / `What are these?` w tjawbi",
+      "Twesfi l7wayj b l'alwan w ssifat: `a red car`, `a big house`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "a / an = wa7ed",
+        "body_da": "F lingliziya, 9bel l'ism lmofrad (7aja we7da) kanzido dima `a` wla `an`. Kat3ni \"wa7ed\" walakin makantrjmouhach dima f darija:\n\n- `a book` = ktab (wa7ed lktab)\n- `a car` = tomobil\n- `an apple` = teffa7a\n- `an orange` = limouna\n\n**Fo9ach `a` w fo9ach `an`?** Kolchi 3la 7sab sswt li kayji men ba3d:\n\n- `a` 9bel l7orouf l3adiya (ssawamit): `a pen`, `a key`, `a bag`, `a teacher`\n- `an` 9bel l7orouf lmota7arrika `a, e, i, o, u`: `an apple`, `an egg`, `an engineer`, `an orange`, `an umbrella`\n\nSahla: ila lkelma kaybda b `a, e, i, o, u` → `an`. Ila la → `a`.\n\n**Rdi lbal:** f darija kan9oulo \"3ndi stilo\" bla \"wa7ed\". F lingliziya khass `a`: `I have a pen.` — machi `I have pen` ✗. W m3a lmihan 7ta houma: `She's a teacher.`, `I'm a student.`",
+        "examples": [
+          {
+            "en": "I have a pen and a book.",
+            "da": "3ndi stilo w ktab.",
+            "pron": "aï hav a pèn and a bouk"
+          },
+          {
+            "en": "This is an apple.",
+            "da": "Hadi teffa7a.",
+            "pron": "this iz an a-peul"
+          },
+          {
+            "en": "She's a teacher.",
+            "da": "Hiya oustada.",
+            "pron": "chiz a ti-tcheur"
+          },
+          {
+            "en": "It's an orange.",
+            "da": "Hadi limouna.",
+            "pron": "its an o-rindj"
+          },
+          {
+            "en": "Omar is an engineer.",
+            "da": "Omar mohandis.",
+            "pron": "o-mar iz an èn-dji-nir"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Ljam3 (plural): books, buses, children",
+        "body_da": "Melli kayn kter men wa7ed, kanzido `-s` f l'akhir dyal l'ism. Hada howa ljam3 (plural):\n\n- `a book` → `two books`\n- `a car` → `three cars`\n- `a key` → `my keys`\n\nIla l'ism kaysali b `-s`, `-sh`, `-ch` wla `-x`, kanzido `-es` (w kat9ra \"iz\"):\n\n- `a bus` → `two buses`\n- `a watch` → `watches`\n- `a glass` → `glasses`\n- `a box` → `boxes`\n\nChi kelmat makaytbe3ouch had l9a3ida — khassek t7efdihom:\n\n- `a man` → `men` (rajel → rjal)\n- `a woman` → `women` (mra → 3yalat)\n- `a child` → `children` (derri → drari)\n- `a person` → `people` (chakhs → nnas)\n\n**Rdi lbal:** m3a ljam3 makaynach `a` / `an`: `a book` walakin `books` (machi `a books` ✗). W lfi3l kaywelli `are`: `The books are new.`\n\nF darija ljam3 kaytbeddel bzzaf (ktab → ktouba, tomobil → tomobilat, sarout → swaret). F lingliziya, ghaliban ghir `-s`. Sahla!",
+        "examples": [
+          {
+            "en": "one book, two books",
+            "da": "ktab wa7ed, jouj ktouba",
+            "pron": "wan bouk, tou bouks"
+          },
+          {
+            "en": "a bus, three buses",
+            "da": "tobis, tlata dyal ttobisat",
+            "pron": "a bas, thri ba-siz"
+          },
+          {
+            "en": "a man, two men",
+            "da": "rajel, jouj rjal",
+            "pron": "a man, tou mèn"
+          },
+          {
+            "en": "a child, four children",
+            "da": "derri, reb3a dyal ddrari",
+            "pron": "a tchaïld, for tchil-dren"
+          },
+          {
+            "en": "These people are from Fes.",
+            "da": "Had nnas men Fes.",
+            "pron": "thiz pi-peul ar from fès"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "this / that / these / those",
+        "body_da": "F dars 4 t3ellemti `This is my mother.` Daba ghadi nkemmlo lmajmou3a kamla:\n\n- `this` = hada / hadi (7aja we7da, 9riba mennek)\n- `that` = dak / dik / hadak (7aja we7da, b3ida 3lik)\n- `these` = hadou (bzzaf dyal l7wayj, 9ribin)\n- `those` = douk / hadouk (bzzaf dyal l7wayj, b3ad)\n\nSso2al w ljawab:\n\n- `What is this?` / `What's this?` = chno hada? → `It's a key.` = hada sarout.\n- `What's that?` = chno dak? → `It's a tagine.`\n- `What are these?` = chno hadou? → `They're keys.` = hadou swaret.\n- `What are those?` = chno douk? → `They're glasses.`\n\nT9edri t7ettihom 9bel l'ism 7ta houma: `this bag` (had ssak), `that car` (dik tomobil), `these keys` (had sswaret), `those shoes` (douk ssebbat).\n\n**Nnot9:** `this` 9sira w `these` twila — bhal \"thiiz\". W `th` = lsan bin ssnan, bhal f `thank you`.",
+        "examples": [
+          {
+            "en": "What's this?",
+            "da": "Chno hada?",
+            "pron": "wats this"
+          },
+          {
+            "en": "It's a key.",
+            "da": "Hada sarout.",
+            "pron": "its a ki"
+          },
+          {
+            "en": "What are those?",
+            "da": "Chno douk?",
+            "pron": "wat ar thoz"
+          },
+          {
+            "en": "They're my glasses.",
+            "da": "Hadouk nnwader dyali.",
+            "pron": "thér maï gla-siz"
+          },
+          {
+            "en": "That car is new.",
+            "da": "Dik tomobil jdida.",
+            "pron": "that kar iz niou"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Ssifa 9bel l'ism: a red car",
+        "body_da": "Ssifa (adjective) = lkelma li katwsef: `big` (kbir), `small` (sghir), `new` (jdid), `old` (9dim), `good` (mzyan), `bad` (khayb), `beautiful` (zwin bzzaf), `cheap` (rkhis), `expensive` (ghali), w l'alwan: `red`, `blue`, `green`…\n\nKayn jouj tari9at bach twesfi:\n\n- B `to be`: `The car is red.` = tomobil 7emra. `My phone is old.` = ttilifoun dyali 9dim.\n- 9bel l'ism: `a red car` = tomobil 7emra. `an old phone` = tilifoun 9dim.\n\n**Rdi lbal l tartib!** F darija ssifa kadji **men ba3d** l'ism: \"tomobil 7emra\", \"dar kbira\". F lingliziya l3eks: ssifa **9bel** l'ism: `a red car`, `a big house`. Dima: `a` + ssifa + l'ism.\n\n**Ssifa makatbeddelch:** f darija kan9oulo \"kbir / kbira / kbar\". F lingliziya `big` kadkhol f kolchi: `a big man`, `a big woman`, `two big cars` (machi `bigs` ✗).\n\nW `a` / `an` kayt7ett 3la 7sab lkelma li men ba3do mbachara: `a new car` walakin `an old car`, `a bag` walakin `an expensive bag`.",
+        "examples": [
+          {
+            "en": "It's a big house.",
+            "da": "Hadi dar kbira.",
+            "pron": "its a big haws"
+          },
+          {
+            "en": "My phone is old.",
+            "da": "Ttilifoun dyali 9dim.",
+            "pron": "maï fon iz old"
+          },
+          {
+            "en": "She has a beautiful blue dress.",
+            "da": "3ndha keswa zer9a zwina.",
+            "pron": "chi haz a biou-ti-foul blou drès"
+          },
+          {
+            "en": "These shoes are expensive!",
+            "da": "Had ssebbat ghali!",
+            "pron": "thiz chouz ar ik-spèn-siv"
+          },
+          {
+            "en": "Two small black cats.",
+            "da": "Jouj 9totat sghar k7al.",
+            "pron": "tou smol blak kats"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "red",
+            "da": "7mer / 7emra",
+            "emoji": "🔴",
+            "pron": "rèd",
+            "example_en": "A red bag.",
+            "example_da": "Sak 7mer."
+          },
+          {
+            "en": "blue",
+            "da": "zre9 / zer9a",
+            "emoji": "🔵",
+            "pron": "blou",
+            "example_en": "My pen is blue.",
+            "example_da": "Sstilo dyali zre9."
+          },
+          {
+            "en": "green",
+            "da": "khder / khedra",
+            "emoji": "🟢",
+            "pron": "grin",
+            "example_en": "I have a green bag.",
+            "example_da": "3ndi sak khder."
+          },
+          {
+            "en": "yellow",
+            "da": "sfer / sefra",
+            "emoji": "🟡",
+            "pron": "yé-lo",
+            "example_en": "The banana is yellow.",
+            "example_da": "Lbanana sefra."
+          },
+          {
+            "en": "black",
+            "da": "k7el / ke7la",
+            "emoji": "⚫",
+            "pron": "blak",
+            "example_en": "My phone is black.",
+            "example_da": "Ttilifoun dyali k7el."
+          },
+          {
+            "en": "white",
+            "da": "byed / bida",
+            "emoji": "⚪",
+            "pron": "waït",
+            "example_en": "Those cars are white.",
+            "example_da": "Douk ttomobilat bidin."
+          },
+          {
+            "en": "book",
+            "da": "ktab",
+            "emoji": "📖",
+            "pron": "bouk",
+            "example_en": "This is an English book.",
+            "example_da": "Hada ktab dyal lingliziya."
+          },
+          {
+            "en": "pen",
+            "da": "stilo",
+            "emoji": "🖊️",
+            "pron": "pèn",
+            "example_en": "I have two pens.",
+            "example_da": "3ndi jouj stilouwat."
+          },
+          {
+            "en": "key",
+            "da": "sarout",
+            "emoji": "🔑",
+            "pron": "ki",
+            "example_en": "Where are my keys?",
+            "example_da": "Fin sswaret dyali?"
+          },
+          {
+            "en": "bag",
+            "da": "sak",
+            "emoji": "👜",
+            "pron": "bag",
+            "example_en": "It's a small bag.",
+            "example_da": "Hada sak sghir."
+          },
+          {
+            "en": "car",
+            "da": "tomobil",
+            "emoji": "🚗",
+            "pron": "kar",
+            "example_en": "Our car is old.",
+            "example_da": "Ttomobil dyalna 9dima."
+          },
+          {
+            "en": "big",
+            "da": "kbir / kbira",
+            "emoji": "🐘",
+            "pron": "big",
+            "example_en": "Casablanca is a big city.",
+            "example_da": "Casa mdina kbira."
+          },
+          {
+            "en": "small",
+            "da": "sghir / sghira",
+            "emoji": "🐜",
+            "pron": "smol",
+            "example_en": "These glasses are small.",
+            "example_da": "Had lkisan sghar."
+          },
+          {
+            "en": "new",
+            "da": "jdid / jdida",
+            "emoji": "✨",
+            "pron": "niou",
+            "example_en": "Is your phone new?",
+            "example_da": "Wach ttilifoun dyalek jdid?"
+          },
+          {
+            "en": "old",
+            "da": "9dim / 9dima (l l7wayj) — kbir f l3mer (l nnas)",
+            "emoji": "🏚️",
+            "pron": "old",
+            "example_en": "My house is old.",
+            "example_da": "Ddar dyali 9dima."
+          },
+          {
+            "en": "beautiful",
+            "da": "zwin bzzaf / zwina bzzaf",
+            "emoji": "🌸",
+            "pron": "biou-ti-foul",
+            "example_en": "Marrakech is a beautiful city.",
+            "example_da": "Marrakech mdina zwina bzzaf."
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "F ssou9 dyal Marrakech",
+        "context_da": "Nouha w Sarah f ssou9 l9dim dyal Marrakech. Sarah katsewel 3la l7wayj li katchouf, w Nouha katfesser liha.",
+        "lines": [
+          {
+            "speaker": "Sarah",
+            "en": "Nouha, what's this?",
+            "da": "Nouha, chno hada?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "It's a tagine. It's for cooking.",
+            "da": "Hada tajin. Dyal ttyab."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "It's beautiful! And what are those?",
+            "da": "Zwin bzzaf! W chno douk?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Those are tea glasses. They're small and very cheap.",
+            "da": "Douk kisan dyal atay. Sghar w rkhas bzzaf."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "The blue glasses are nice. How much are they?",
+            "da": "Lkisan zzer9in zwinin. Bch7al?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Twenty dirhams for six glasses.",
+            "da": "3echrin derhem l setta dyal lkisan."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Great! And that red bag?",
+            "da": "Mzyan! W dak ssak l7mer?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "That bag is expensive. It's a hundred dirhams.",
+            "da": "Dak ssak ghali. B myat derhem."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Hmm, it's a big bag. OK, the glasses and the bag, please!",
+            "da": "Hmm, sak kbir. Wakha, lkisan w ssak, 3afak!"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Good choice, Sarah!",
+            "da": "Khtiyar mzyan, Sarah!"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "Melli katwesfi, fekkri f tlata dyal l7wayj: (1) ssifa **9bel** l'ism: `a big bag`, machi `a bag big` ✗. (2) ssifa **ma3ndhach jam3**: `two big bags`, machi `bigs` ✗. (3) `a` wla `an` 3la 7sab lkelma li mbachara men ba3d: `a new car` / `an old car`. W ila nsiti `a` / `an` m3a l'ism lmofrad, l'ingliz ghadi yfehmouk, walakin kaysme3 ghalet — 7awli dima tzidiha!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "question_da": "Achmen wa7da s7i7a?",
+        "options": [
+          "an apple",
+          "a apple",
+          "an pen"
+        ],
+        "answer": 0,
+        "explain_da": "`apple` kaybda b `a` (7erf mota7arrik) → `an apple`. `pen` kaybda b `p` → `a pen`."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "It's a red car.",
+        "question_da": "Sem3i w khtari lma3na.",
+        "options": [
+          "Hadi tomobil 7emra",
+          "Hadi tomobil zer9a",
+          "Hada tobis 7mer",
+          "Hadi tomobil khedra"
+        ],
+        "answer": 0,
+        "explain_da": "`red` = 7mer, `car` = tomobil. `It's a red car.` = hadi tomobil 7emra."
+      },
+      {
+        "type": "match",
+        "instruction_da": "Wessli lloun b lingliziya m3a lma3na dyalo.",
+        "pairs": [
+          {
+            "en": "red",
+            "da": "7mer",
+            "emoji": "🔴"
+          },
+          {
+            "en": "blue",
+            "da": "zre9",
+            "emoji": "🔵"
+          },
+          {
+            "en": "green",
+            "da": "khder",
+            "emoji": "🟢"
+          },
+          {
+            "en": "yellow",
+            "da": "sfer",
+            "emoji": "🟡"
+          },
+          {
+            "en": "black",
+            "da": "k7el",
+            "emoji": "⚫"
+          },
+          {
+            "en": "white",
+            "da": "byed",
+            "emoji": "⚪"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "sentence_en": "I have two ___.",
+        "options": [
+          "books",
+          "book",
+          "a book"
+        ],
+        "answer": "books",
+        "hint_da": "jouj = ljam3",
+        "explain_da": "`two books` — m3a `two` kanzido `-s`. `a book` ghir l wa7ed."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Chno ljam3 dyal `child`?",
+        "options": [
+          "childs",
+          "children",
+          "childes"
+        ],
+        "answer": 1,
+        "explain_da": "`child` → `children`. Jam3 ghir 3adi, khassek t7efdih (bhal `man → men`, `woman → women`)."
+      },
+      {
+        "type": "order",
+        "words": [
+          "is",
+          "This",
+          "a",
+          "beautiful",
+          "bag."
+        ],
+        "answer": "This is a beautiful bag.",
+        "da": "Hada sak zwin bzzaf."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "What are these?",
+        "question_da": "Sem3i. 3la ach kaysewwel?",
+        "options": [
+          "3la bzzaf dyal l7wayj 9ribin (hadou)",
+          "3la 7aja we7da 9riba (hada)",
+          "3la 7aja we7da b3ida (dak)",
+          "3la chi wa7ed (chkoun)"
+        ],
+        "answer": 0,
+        "explain_da": "`What are these?` = chno hadou? `these` = bzzaf, 9rib. `this` = wa7ed, 9rib."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "That ___ is very old.",
+        "options": [
+          "house",
+          "houses",
+          "a house"
+        ],
+        "answer": "house",
+        "hint_da": "`That` + 7aja we7da",
+        "explain_da": "`That house is very old.` — `that` dima m3a l'ism lmofrad (wa7ed), w bla `a`."
+      },
+      {
+        "type": "translate",
+        "da": "Hadi tomobil jdida.",
+        "answers": [
+          "This is a new car.",
+          "It's a new car.",
+          "It is a new car."
+        ],
+        "hint_en": "This is a ... ...",
+        "explain_da": "`This is a new car.` — ssifa `new` 9bel l'ism `car`, w `a` 9belhom."
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "The plural of 'man' is 'mans'.",
+        "statement_da": "Ljam3 dyal `man` howa `mans`.",
+        "answer": false,
+        "explain_da": "Ghalet! `man` → `men`. Jam3 ghir 3adi, bhal `woman → women`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "These are my new keys.",
+        "da": "Hadou sswaret dyali jjdad.",
+        "explain_da": "`These are` = hadou. `new keys` = ssifa 9bel l'ism, w `-s` 7it bzzaf."
+      },
+      {
+        "type": "order",
+        "words": [
+          "much",
+          "How",
+          "are",
+          "these",
+          "glasses?"
+        ],
+        "answer": "How much are these glasses?",
+        "da": "Bch7al had lkisan?"
+      },
+      {
+        "type": "mcq",
+        "question_en": "What's that?",
+        "question_da": "Khtari ljawab ss7i7:",
+        "options": [
+          "They're keys.",
+          "These are a key.",
+          "It's a key."
+        ],
+        "answer": 2,
+        "explain_da": "`What's that?` = chno dak? (7aja we7da) → `It's a key.` `They're keys.` howa jawab 3la `What are those?`"
+      },
+      {
+        "type": "fill",
+        "sentence_en": "What ___ these? — They're pens.",
+        "answers": [
+          "are"
+        ],
+        "hint_da": "`these` = ljam3 → achmen fi3l?",
+        "explain_da": "`What are these?` — m3a `these` / `those` kansta3mlo `are`."
+      },
+      {
+        "type": "speak",
+        "target_en": "This is a small blue bag. It's cheap.",
+        "da": "Hada sak sghir zre9. Rkhis.",
+        "pron": "this iz a smol blou bag. its tchip"
+      },
+      {
+        "type": "translate",
+        "da": "Dik tomobil 9dima w kbira.",
+        "answers": [
+          "That car is old and big.",
+          "That car is big and old."
+        ],
+        "hint_en": "That car ... ... and ...",
+        "explain_da": "`That car is old and big.` — `that` = dik, `old` = 9dima, `big` = kbira."
+      }
+    ],
+    "reading": {
+      "title_en": "My bag",
+      "title_da": "Ssak dyali",
+      "emoji": "👜",
+      "text_en": "This is my bag. It's a big black bag. It's new and it's beautiful. In my bag I have a phone, two pens, a small book and my keys. My phone is old but it's good. The pens are blue and red. The book is an English book. It's small and cheap: twenty dirhams. These are my keys. The big key is for my house and the small key is for my car. My car is old, white and small, but it's a good car!",
+      "text_da": "Hada ssak dyali. Sak kbir k7el. Jdid w zwin bzzaf. F ssak dyali 3ndi tilifoun, jouj stilouwat, ktab sghir w sswaret dyali. Ttilifoun dyali 9dim walakin mzyan. Sstilouwat zre9 w 7mer. Lktab ktab dyal lingliziya. Sghir w rkhis: 3echrin derhem. Hadou sswaret dyali. Ssarout lkbir dyal ddar w ssarout sghir dyal ttomobil. Ttomobil dyali 9dima, bida w sghira, walakin tomobil mzyana!",
+      "glossary": [
+        {
+          "en": "in",
+          "da": "f (ldakhel)"
+        },
+        {
+          "en": "but",
+          "da": "walakin"
+        },
+        {
+          "en": "good",
+          "da": "mzyan"
+        },
+        {
+          "en": "for",
+          "da": "dyal / l"
+        },
+        {
+          "en": "house",
+          "da": "ddar"
+        },
+        {
+          "en": "cheap",
+          "da": "rkhis"
+        },
+        {
+          "en": "English book",
+          "da": "ktab dyal lingliziya"
+        },
+        {
+          "en": "white",
+          "da": "byed / bida"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Chno lloun dyal ssak dyal Nouha?",
+          "options": [
+            "byed",
+            "k7el",
+            "zre9",
+            "7mer"
+          ],
+          "answer": 1,
+          "explain_da": "`It's a big black bag.` — `black` = k7el."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "The phone is new.",
+          "statement_da": "Ttilifoun jdid.",
+          "answer": false,
+          "explain_da": "Ghalet: `My phone is old but it's good.`"
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al men stilo 3ndha f ssak?",
+          "options": [
+            "jouj",
+            "wa7ed",
+            "tlata",
+            "reb3a"
+          ],
+          "answer": 0,
+          "explain_da": "`two pens` = jouj stilouwat."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Bch7al lktab?",
+          "options": [
+            "20 derhem",
+            "12 derhem",
+            "200 derhem",
+            "2 derhem"
+          ],
+          "answer": 0,
+          "explain_da": "`It's small and cheap: twenty dirhams.` = 20 derhem."
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "F l9ism: chno hada?",
+      "emoji": "🏫",
+      "pre_da": "Sem3i mzyan. Rekkzi 3la: chno l7wayj li kaysewwel 3lihom l'oustad, w chno l'alwan dyalhom? W dyal men ssak?",
+      "lines": [
+        {
+          "speaker": "Mr. Brown",
+          "en": "Amina, what's this?",
+          "da": "Amina, chno hada?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "It's a pen. A blue pen.",
+          "da": "Hada stilo. Stilo zre9."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Very good. And what are these?",
+          "da": "Mzyan bzzaf. W chno hadou?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "They're books. Two big books.",
+          "da": "Hadou ktouba. Jouj ktouba kbar."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Excellent! And what's that?",
+          "da": "Momtaz! W chno dak?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "It's a bag. It's an old green bag.",
+          "da": "Hada sak. Sak 9dim khder."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Is it your bag?",
+          "da": "Wach hada ssak dyalek?"
+        },
+        {
+          "speaker": "Amina",
+          "en": "No, it's not my bag. It's Omar's bag.",
+          "da": "La, machi ssak dyali. Hada ssak dyal Omar."
+        },
+        {
+          "speaker": "Mr. Brown",
+          "en": "Thank you, Amina. Good job!",
+          "da": "Choukran, Amina. Khedma mzyana!"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Chno lloun dyal sstilo?",
+          "options": [
+            "zre9",
+            "7mer",
+            "khder",
+            "k7el"
+          ],
+          "answer": 0,
+          "explain_da": "`A blue pen.` = stilo zre9."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al men ktab, w kifach homa?",
+          "options": [
+            "jouj kbar",
+            "wa7ed sghir",
+            "tlata kbar",
+            "jouj sghar"
+          ],
+          "answer": 0,
+          "explain_da": "`Two big books.` = jouj ktouba kbar."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "The bag is Amina's bag.",
+          "statement_da": "Ssak dyal Amina.",
+          "answer": false,
+          "explain_da": "Ghalet: `It's Omar's bag.` — ssak dyal Omar."
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "It's an old green bag.",
+          "question_da": "Sem3i. Chno kat3ni?",
+          "options": [
+            "Sak 9dim khder",
+            "Sak jdid khder",
+            "Sak 9dim zre9",
+            "Sak kbir byed"
+          ],
+          "answer": 0,
+          "explain_da": "`old` = 9dim, `green` = khder. W `an` 7it `old` kaybda b `o`."
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "What's this? It's a pen.",
+          "da": "Chno hada? Hada stilo.",
+          "pron": "wats this? its a pèn"
+        },
+        {
+          "target_en": "What are these? They're keys.",
+          "da": "Chno hadou? Hadou swaret.",
+          "pron": "wat ar thiz? thér kiz"
+        },
+        {
+          "target_en": "This is a big red bag.",
+          "da": "Hada sak kbir 7mer.",
+          "pron": "this iz a big rèd bag"
+        },
+        {
+          "target_en": "Those cars are old.",
+          "da": "Douk ttomobilat 9dam.",
+          "pron": "thoz karz ar old"
+        },
+        {
+          "target_en": "An apple, an orange, a banana.",
+          "da": "Teffa7a, limouna, banana.",
+          "pron": "an a-peul, an o-rindj, a ba-na-na"
+        },
+        {
+          "target_en": "These shoes are cheap and beautiful.",
+          "da": "Had ssebbat rkhis w zwin.",
+          "pron": "thiz chouz ar tchip and biou-ti-foul"
+        }
+      ],
+      "roleplay": {
+        "title_da": "F ssou9 m3a Tom",
+        "context_da": "Tom sa7bek l'amriki jdid f lmeghrib. Nti m3ah f ssou9 w howa kaysewlek 3la l7wayj. Jawbi b jomal 9sira: `It's a…`, `They're…`, `It's blue…`",
+        "turns": [
+          {
+            "bot_en": "Nouha, what's this?",
+            "bot_da": "Nouha, chno hada?",
+            "expect_keywords": [
+              "it's a",
+              "it is a",
+              "it's an",
+              "this is a",
+              "tagine",
+              "teapot",
+              "glass",
+              "bag",
+              "pen",
+              "book",
+              "key"
+            ],
+            "sample_en": "It's a tagine."
+          },
+          {
+            "bot_en": "Nice! What color is it?",
+            "bot_da": "Zwin! Chno lloun dyalo?",
+            "expect_keywords": [
+              "red",
+              "blue",
+              "green",
+              "yellow",
+              "black",
+              "white",
+              "brown",
+              "orange",
+              "it's"
+            ],
+            "sample_en": "It's blue and white."
+          },
+          {
+            "bot_en": "And what are those?",
+            "bot_da": "W chno douk?",
+            "expect_keywords": [
+              "they're",
+              "they are",
+              "those are",
+              "these are",
+              "glasses",
+              "keys",
+              "bags",
+              "books",
+              "pens"
+            ],
+            "sample_en": "They're tea glasses."
+          },
+          {
+            "bot_en": "Are they expensive?",
+            "bot_da": "Wach ghalyin?",
+            "expect_keywords": [
+              "no",
+              "yes",
+              "cheap",
+              "expensive",
+              "dirham",
+              "they're"
+            ],
+            "sample_en": "No, they're cheap. Twenty dirhams."
+          },
+          {
+            "bot_en": "Great! Is this bag new or old?",
+            "bot_da": "Mzyan! Wach had ssak jdid wla 9dim?",
+            "expect_keywords": [
+              "new",
+              "old",
+              "it's"
+            ],
+            "sample_en": "It's new. It's a beautiful bag."
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Wsefi 3 7wayj dyalek",
+      "prompt_da": "Khtari 3 7wayj dyalek (tilifoun, sak, tomobil, ktab…) w ktbi 3lihom b lingliziya: chno homa, lloun dyalhom, w wach kbar wla sghar, jdad wla 9dam, rkhas wla ghalyin. Sta3mli `This is…` w `These are…`, w 7etti ssifa 9bel l'ism.",
+      "helper_en": [
+        "This is my ...",
+        "It's a ... (color) ...",
+        "It's big / small / new / old.",
+        "These are my ...",
+        "They're ..."
+      ],
+      "min_words": 20,
+      "keywords": [
+        "this",
+        "is",
+        "my"
+      ],
+      "model_en": "This is my phone. It's a black phone. It's old but it's good. This is my bag. It's a big red bag and it's new. These are my keys. They're small. The big key is for my house."
+    }
+  },
+  {
+    "id": "l07",
+    "order": 7,
+    "level": "A1.2",
+    "emoji": "⏰",
+    "title_en": "My day: present simple (I/you/we/they) & time",
+    "title_da": "Nhari: l7adir lbassit w lwa9t",
+    "goals_da": [
+      "T7kiy 3la nharek: `I get up at seven`, `I have breakfast`, `I go to work`",
+      "Tdiri nnafy b `don't` w tsewli b `Do you…?` w tjawbi `Yes, I do.` / `No, I don't.`",
+      "Tsewli `What time is it?` w tjawbi: `It's seven o'clock`, `It's half past seven`",
+      "Tsta3mli `at` + lwa9t w `every day`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "L7adir lbassit: I / you / we / they",
+        "body_da": "L7adir lbassit (present simple) kansta3mlouh l l7wayj li kandirouhom **kol nhar** wla **dima**: l3adat dyalna.\n\nF darija kanzido \"ka-\" 9bel lfi3l: ka-nfi9, ka-nkhdem, ka-n9ra. F lingliziya **sahla kter**: kan7etto lfi3l (verb) kifma howa, bla ma nzido walou:\n\n- `I get up at seven.` = kanfi9 f ssab3a.\n- `You work in Casablanca.` = katkhdem f Casa.\n- `We have breakfast at eight.` = kanfetro f ttmenya.\n- `They go to work at nine.` = kaymchiw l lkhedma f tts3oud.\n\nM3a `I`, `you`, `we`, `they` lfi3l **makaytbeddelch**. (M3a `he` / `she` kayn chi 7aja sghira kanzidouha — ghadi nchoufouha f dars jay.)\n\nL'af3al dyal nhar: `get up` (nfi9), `have breakfast` (nfter), `go to work` (nmchi l lkhedma), `work` (nkhdem), `have lunch` (ntghedda), `come home` (nerje3 l ddar), `have dinner` (nt3echa), `watch TV` (ntferrej f ttelfaza), `go to bed` (nmchi n3es), `study` (n9ra).",
+        "examples": [
+          {
+            "en": "I get up at six o'clock.",
+            "da": "Kanfi9 f ssetta.",
+            "pron": "aï gèt ap at siks o-klok"
+          },
+          {
+            "en": "We have breakfast at seven.",
+            "da": "Kanfetro f ssab3a.",
+            "pron": "wi hav brèk-feust at sé-ven"
+          },
+          {
+            "en": "They go to work at eight.",
+            "da": "Kaymchiw l lkhedma f ttmenya.",
+            "pron": "théy go tou weurk at éyt"
+          },
+          {
+            "en": "I watch TV in the evening.",
+            "da": "Kantferrej f ttelfaza f l3chiya.",
+            "pron": "aï wotch ti-vi in the iv-ning"
+          },
+          {
+            "en": "You study English every day.",
+            "da": "Kat9ray lingliziya kol nhar.",
+            "pron": "you sta-di in-glich év-ri déy"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Nnafy w sso2al: don't / Do you…?",
+        "body_da": "**Nnafy** (= \"ma…ch\" f darija): kan7etto `don't` (= `do not`) 9bel lfi3l:\n\n- `I don't work in the evening.` = makankhdemch f l3chiya.\n- `We don't watch TV.` = makantferrjouch f ttelfaza.\n- `They don't drink coffee.` = makaychrbouch l9ehwa.\n\n**Sso2al** (= \"wach…?\" f darija): kanbdaw b `Do` + `you` / `we` / `they` + lfi3l:\n\n- `Do you work?` = wach katkhdmi?\n- `Do you get up early?` = wach katfi9i bekri?\n- `Do they live in Rabat?` = wach kayseknou f Rabat?\n\nLjawab l9sir: `Yes, I do.` / `No, I don't.` — bhal \"ah\" / \"la\" walakin b `do`.\n\n**Rdi lbal:** `Do` = \"wach\". Machi `You work?` ✗ w **machi** `Are you work?` ✗ — `are` ghir m3a `to be`. M3a l'af3al l'okhra (`work`, `go`, `eat`…) dima `do` / `don't`.\n\nSso2al b `What time` / `Where`: `What time do you get up?` (fo9ach katfi9i?), `Where do you work?` (fin katkhdmi?).",
+        "examples": [
+          {
+            "en": "I don't drink coffee.",
+            "da": "Makanchrebch l9ehwa.",
+            "pron": "aï dont drink ko-fi"
+          },
+          {
+            "en": "Do you get up early?",
+            "da": "Wach katfi9i bekri?",
+            "pron": "dou you gèt ap eur-li"
+          },
+          {
+            "en": "Yes, I do. / No, I don't.",
+            "da": "Ah, kanfi9 bekri. / La, makanfi9ch bekri.",
+            "pron": "yès, aï dou / no, aï dont"
+          },
+          {
+            "en": "What time do you go to bed?",
+            "da": "Fo9ach katmchi tn3si?",
+            "pron": "wat taïm dou you go tou bèd"
+          },
+          {
+            "en": "Where do they work?",
+            "da": "Fin kaykhdmo?",
+            "pron": "wér dou théy weurk"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "Lwa9t: What time is it?",
+        "body_da": "`What time is it?` = ch7al f ssa3a? Ljawab kaybda b `It's`:\n\n- `It's seven o'clock.` = hadi ssab3a (ni9ech). `o'clock` kat9al ghir melli ssa3a tamam, bla d9ay9.\n- `It's half past seven.` = hadi ssab3a w ness (7:30). `half` = ness, `past` = men ba3d.\n- `It's quarter past seven.` = hadi ssab3a w rbe3 (7:15). `quarter` = rbe3.\n- `It's quarter to eight.` = hadi ttmenya lla rbe3 (7:45). `to` = lla / 9ell.\n- `It's ten past seven.` = 7:10. `It's twenty to eight.` = 7:40.\n\nChofi ch7al bhal darija! \"ssab3a w ness\" = `half past seven`, \"ttmenya lla rbe3\" = `quarter to eight`. Nefs lfikra: 7ta l ness kan9oulo `past` (w), men ba3d ness kan9oulo `to` (lla).\n\n**Tari9a sahla:** t9edri t9oli l'ar9am b jouj, bhal ssa3a rra9miya: `seven thirty` (7:30), `seven fifteen` (7:15), `seven forty-five` (7:45). S7i7a w l'ingliz kaysta3mlouha bzzaf!\n\nSbah wla l3chiya? Zidi `in the morning` (f sbah), `in the afternoon` (f l3chiya 9bel lmghreb), `in the evening` (f l3chiya / f lil), `at night` (f lil). Wla `a.m.` (9bel 12h) w `p.m.` (men ba3d 12h).",
+        "examples": [
+          {
+            "en": "What time is it?",
+            "da": "Ch7al f ssa3a?",
+            "pron": "wat taïm iz it"
+          },
+          {
+            "en": "It's seven o'clock.",
+            "da": "Hadi ssab3a ni9ech.",
+            "pron": "its sé-ven o-klok"
+          },
+          {
+            "en": "It's half past seven.",
+            "da": "Hadi ssab3a w ness.",
+            "pron": "its haf past sé-ven"
+          },
+          {
+            "en": "It's quarter past nine.",
+            "da": "Hadi tts3oud w rbe3.",
+            "pron": "its kwor-teur past naïn"
+          },
+          {
+            "en": "It's quarter to eight.",
+            "da": "Hadi ttmenya lla rbe3.",
+            "pron": "its kwor-teur tou éyt"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "at + lwa9t, every day, from … to …",
+        "body_da": "Melli kan9oulo **fo9ach** kandiro chi 7aja, kansta3mlo `at` 9bel ssa3a:\n\n- `I get up at six.` = kanfi9 f ssetta.\n- `We have lunch at half past twelve.` = kantgheddaw f ttnach w ness.\n- `at night` = f lil, `at noon` = f ttnach dyal nhar.\n\nF darija kan9oulo \"f ssetta\" — `at six`. Walakin \"f sbah\" = `in the morning`, machi \"at\". Rdi lbal: `at` + ssa3a, `in` + sbah / l3chiya.\n\n`every day` = kol nhar. `every morning` = kol sbah. `every evening` = kol 3chiya. Kan7ettouhom f l'akhir dyal ljomla: `I study English every day.`\n\n`from … to …` = men … 7ta l …: `I work from nine to five.` = kankhdem men tts3oud 7ta l lkhemsa.\n\nW bach trebti nharek: `and then` = w men ba3d: `I get up at six and then I have breakfast.`",
+        "examples": [
+          {
+            "en": "I get up at six every day.",
+            "da": "Kanfi9 f ssetta kol nhar.",
+            "pron": "aï gèt ap at siks év-ri déy"
+          },
+          {
+            "en": "We have lunch at one o'clock.",
+            "da": "Kantgheddaw f lwe7da.",
+            "pron": "wi hav lantch at wan o-klok"
+          },
+          {
+            "en": "I work from nine to five.",
+            "da": "Kankhdem men tts3oud 7ta l lkhemsa.",
+            "pron": "aï weurk from naïn tou faïv"
+          },
+          {
+            "en": "They watch TV in the evening and go to bed at eleven.",
+            "da": "Kaytferrjo f ttelfaza f l3chiya w kayn3so f l7dach.",
+            "pron": "théy wotch ti-vi in the iv-ning and go tou bèd at i-lé-ven"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "get up",
+            "da": "kanfi9 (men nn3as)",
+            "emoji": "🛏️",
+            "pron": "gèt ap",
+            "example_en": "I get up at six.",
+            "example_da": "Kanfi9 f ssetta."
+          },
+          {
+            "en": "have breakfast",
+            "da": "kanfter",
+            "emoji": "🥐",
+            "pron": "hav brèk-feust",
+            "example_en": "We have breakfast at seven.",
+            "example_da": "Kanfetro f ssab3a."
+          },
+          {
+            "en": "go to work",
+            "da": "kanmchi l lkhedma",
+            "emoji": "💼",
+            "pron": "go tou weurk",
+            "example_en": "I go to work at eight.",
+            "example_da": "Kanmchi l lkhedma f ttmenya."
+          },
+          {
+            "en": "work",
+            "da": "kankhdem",
+            "emoji": "👩‍💻",
+            "pron": "weurk",
+            "example_en": "They work in Casablanca.",
+            "example_da": "Kaykhdmo f Casa."
+          },
+          {
+            "en": "have lunch",
+            "da": "kantghedda",
+            "emoji": "🍽️",
+            "pron": "hav lantch",
+            "example_en": "I have lunch at one o'clock.",
+            "example_da": "Kantghedda f lwe7da."
+          },
+          {
+            "en": "come home",
+            "da": "kanrje3 l ddar",
+            "emoji": "🏠",
+            "pron": "kam hom",
+            "example_en": "I come home at five.",
+            "example_da": "Kanrje3 l ddar f lkhemsa."
+          },
+          {
+            "en": "have dinner",
+            "da": "kant3echa",
+            "emoji": "🍲",
+            "pron": "hav di-neur",
+            "example_en": "We have dinner at eight.",
+            "example_da": "Kant3echaw f ttmenya."
+          },
+          {
+            "en": "watch TV",
+            "da": "kantferrej f ttelfaza",
+            "emoji": "📺",
+            "pron": "wotch ti-vi",
+            "example_en": "Do you watch TV?",
+            "example_da": "Wach kattferrji f ttelfaza?"
+          },
+          {
+            "en": "go to bed",
+            "da": "kanmchi n3es",
+            "emoji": "😴",
+            "pron": "go tou bèd",
+            "example_en": "I go to bed at eleven.",
+            "example_da": "Kanmchi n3es f l7dach."
+          },
+          {
+            "en": "study",
+            "da": "kan9ra",
+            "emoji": "📚",
+            "pron": "sta-di",
+            "example_en": "I study English every day.",
+            "example_da": "Kan9ra lingliziya kol nhar."
+          },
+          {
+            "en": "every day",
+            "da": "kol nhar",
+            "emoji": "📅",
+            "pron": "év-ri déy",
+            "example_en": "I drink tea every day.",
+            "example_da": "Kanchreb atay kol nhar."
+          },
+          {
+            "en": "o'clock",
+            "da": "ni9ech / tamam (ssa3a bla d9ay9)",
+            "emoji": "🕙",
+            "pron": "o-klok",
+            "example_en": "It's ten o'clock.",
+            "example_da": "Hadi l3echra ni9ech."
+          },
+          {
+            "en": "half past",
+            "da": "w ness",
+            "emoji": "🕝",
+            "pron": "haf past",
+            "example_en": "It's half past two.",
+            "example_da": "Hadi jjouj w ness."
+          },
+          {
+            "en": "quarter",
+            "da": "rbe3 (rbe3 sa3a = 15 d9i9a)",
+            "emoji": "🕒",
+            "pron": "kwor-teur",
+            "example_en": "It's quarter to six.",
+            "example_da": "Hadi ssetta lla rbe3."
+          },
+          {
+            "en": "early",
+            "da": "bekri",
+            "emoji": "🌅",
+            "pron": "eur-li",
+            "example_en": "I get up early.",
+            "example_da": "Kanfi9 bekri."
+          },
+          {
+            "en": "evening",
+            "da": "l3chiya",
+            "emoji": "🌆",
+            "pron": "iv-ning",
+            "example_en": "In the evening, I study.",
+            "example_da": "F l3chiya, kan9ra."
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "Nhar Nouha",
+        "context_da": "Sarah w Nouha kaychrbo atay men ba3d l9ism. Sarah katsewel Nouha kifach kaydouz nharha.",
+        "lines": [
+          {
+            "speaker": "Sarah",
+            "en": "Nouha, what time do you get up?",
+            "da": "Nouha, fo9ach katfi9i?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "I get up at six o'clock every day.",
+            "da": "Kanfi9 f ssetta kol nhar."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Six o'clock! That's early. Do you have breakfast?",
+            "da": "Ssetta! Bekri hadik. Wach katfetri?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes, I do. I have tea and bread at half past six.",
+            "da": "Ah. Kanchreb atay w kanakol khobz f ssetta w ness."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "And what time do you go to work?",
+            "da": "W fo9ach katmchi l lkhedma?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "At quarter to eight. I work from eight to four.",
+            "da": "F ttmenya lla rbe3. Kankhdem men ttmenya 7ta l rreb3a."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Do you come home for lunch?",
+            "da": "Wach katrej3i l ddar bach ttgheddi?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "No, I don't. I have lunch at work with my friends.",
+            "da": "La. Kantghedda f lkhedma m3a s7abati."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "And in the evening?",
+            "da": "W f l3chiya?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "I have dinner at eight, I watch TV and I go to bed at eleven.",
+            "da": "Kant3echa f ttmenya, kantferrej f ttelfaza w kanmchi n3es f l7dach."
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "Lkhata2 lmachhour dyal lmgharba: `You work?` ✗ wla `Are you work?` ✗. F lingliziya sso2al m3a l'af3al dyal l7araka dima b `Do`: `Do you work?`, `Do you drink tea?`. W men ba3d `do` / `don't` lfi3l kayb9a kifma howa, bla `to` w bla `-s`: `I don't go`, machi `I don't to go` ✗. Fekkri: `Do` = \"wach\", `don't` = \"ma…ch\"."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "listen_mcq",
+        "say_en": "It's seven o'clock.",
+        "question_da": "Sem3i. Ch7al f ssa3a?",
+        "options": [
+          "7:00",
+          "7:30",
+          "6:00",
+          "7:15"
+        ],
+        "answer": 0,
+        "explain_da": "`seven o'clock` = ssab3a ni9ech (7:00)."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Kifach kan9oulo \"kanfi9 f ssetta\"?",
+        "options": [
+          "I am get up at six.",
+          "I get up at six.",
+          "I get up six."
+        ],
+        "answer": 1,
+        "explain_da": "`I get up at six.` — lfi3l bla `am`, w `at` 9bel ssa3a."
+      },
+      {
+        "type": "match",
+        "instruction_da": "Wessli lwa9t b lingliziya m3a ssa3a.",
+        "pairs": [
+          {
+            "en": "half past seven",
+            "da": "ssab3a w ness (7:30)",
+            "emoji": "🕢"
+          },
+          {
+            "en": "quarter past nine",
+            "da": "tts3oud w rbe3 (9:15)",
+            "emoji": "🕘"
+          },
+          {
+            "en": "quarter to eight",
+            "da": "ttmenya lla rbe3 (7:45)",
+            "emoji": "🕣"
+          },
+          {
+            "en": "ten o'clock",
+            "da": "l3echra ni9ech (10:00)",
+            "emoji": "🕙"
+          },
+          {
+            "en": "half past twelve",
+            "da": "ttnach w ness (12:30)",
+            "emoji": "🕧"
+          }
+        ]
+      },
+      {
+        "type": "fill",
+        "sentence_en": "I ___ breakfast at seven.",
+        "options": [
+          "have",
+          "has",
+          "am"
+        ],
+        "answer": "have",
+        "hint_da": "kanfter = `have breakfast`",
+        "explain_da": "`I have breakfast at seven.` — m3a `I` lfi3l `have`, bla tebdil."
+      },
+      {
+        "type": "order",
+        "words": [
+          "time",
+          "What",
+          "do",
+          "you",
+          "get",
+          "up?"
+        ],
+        "answer": "What time do you get up?",
+        "da": "Fo9ach katfi9i?"
+      },
+      {
+        "type": "fill",
+        "sentence_en": "We ___ work in the evening.",
+        "options": [
+          "don't",
+          "not",
+          "no"
+        ],
+        "answer": "don't",
+        "hint_da": "nnafy = ma…ch",
+        "explain_da": "`We don't work in the evening.` — nnafy b `don't` + lfi3l."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "I go to bed at half past ten.",
+        "question_da": "Sem3i. Fo9ach kaymchi yn3es?",
+        "options": [
+          "10:30",
+          "10:15",
+          "9:30",
+          "12:30"
+        ],
+        "answer": 0,
+        "explain_da": "`half past ten` = l3echra w ness = 10:30."
+      },
+      {
+        "type": "mcq",
+        "question_en": "Do you work in Casablanca?",
+        "question_da": "Khtari ljawab l9sir ss7i7:",
+        "options": [
+          "Yes, I am.",
+          "Yes, I don't.",
+          "Yes, I do."
+        ],
+        "answer": 2,
+        "explain_da": "Sso2al b `Do` → ljawab b `do`: `Yes, I do.` / `No, I don't.` Machi `am`."
+      },
+      {
+        "type": "translate",
+        "da": "Makanchrebch l9ehwa f sbah.",
+        "answers": [
+          "I don't drink coffee in the morning.",
+          "I do not drink coffee in the morning."
+        ],
+        "hint_en": "I ... drink coffee in the ...",
+        "explain_da": "`I don't drink coffee in the morning.` — `don't` = ma…ch, `in the morning` = f sbah."
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "'Quarter to eight' is 8:15.",
+        "statement_da": "`Quarter to eight` hiya 8:15.",
+        "answer": false,
+        "explain_da": "Ghalet! `quarter to eight` = ttmenya lla rbe3 = 7:45. 8:15 = `quarter past eight`."
+      },
+      {
+        "type": "dictation",
+        "say_en": "They have dinner at eight o'clock.",
+        "da": "Kayt3echaw f ttmenya.",
+        "explain_da": "`They have dinner` = kayt3echaw. `at eight o'clock` = f ttmenya ni9ech."
+      },
+      {
+        "type": "order",
+        "words": [
+          "to",
+          "work",
+          "I",
+          "from",
+          "nine",
+          "five."
+        ],
+        "answer": "I work from nine to five.",
+        "da": "Kankhdem men tts3oud 7ta l lkhemsa."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "What time ___ it? — It's half past two.",
+        "answers": [
+          "is"
+        ],
+        "hint_da": "lfi3l `to be` m3a `it`",
+        "explain_da": "`What time is it?` = ch7al f ssa3a? Hna kansta3mlo `is` 7it `it` + `to be`."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Achmen jomla s7i7a?",
+        "options": [
+          "Are you have lunch at home?",
+          "Do you have lunch at home?",
+          "You have lunch at home do?"
+        ],
+        "answer": 1,
+        "explain_da": "Sso2al: `Do` + `you` + lfi3l: `Do you have lunch at home?` Machi `are` m3a `have`."
+      },
+      {
+        "type": "speak",
+        "target_en": "I get up at six, I have breakfast and I go to work at eight.",
+        "da": "Kanfi9 f ssetta, kanfter w kanmchi l lkhedma f ttmenya.",
+        "pron": "aï gèt ap at siks, aï hav brèk-feust and aï go tou weurk at éyt"
+      },
+      {
+        "type": "translate",
+        "da": "Fo9ach katmchi tn3si?",
+        "answers": [
+          "What time do you go to bed?",
+          "When do you go to bed?"
+        ],
+        "hint_en": "What time ... you ... to bed?",
+        "explain_da": "`What time do you go to bed?` — `What time` + `do you` + lfi3l."
+      }
+    ],
+    "reading": {
+      "title_en": "My day",
+      "title_da": "Nhari",
+      "emoji": "🌅",
+      "text_en": "I get up at six o'clock every day. I have breakfast at half past six: bread, olive oil and a glass of mint tea. At quarter past seven I go to work. I work in a small shop in Rabat from eight to four. I have lunch at one o'clock with my friend Amina. We don't go home for lunch; we eat at a small café. I come home at half past four. In the evening, I study English, I have dinner with my family and I watch TV. I go to bed at eleven. I don't go to bed late!",
+      "text_da": "Kanfi9 f ssetta kol nhar. Kanfter f ssetta w ness: khobz, zit l3oud w kas dyal atay b nne3na3. F ssab3a w rbe3 kanmchi l lkhedma. Kankhdem f 7anout sghira f Rabat men ttmenya 7ta l rreb3a. Kantghedda f lwe7da m3a sa7bti Amina. Makanrej3ouch l ddar bach ntgheddaw; kanaklo f 9ehwa sghira. Kanrje3 l ddar f rreb3a w ness. F l3chiya, kan9ra lingliziya, kant3echa m3a l3a2ila dyali w kantferrej f ttelfaza. Kanmchi n3es f l7dach. Makanmchich n3es m3ettla!",
+      "glossary": [
+        {
+          "en": "shop",
+          "da": "7anout"
+        },
+        {
+          "en": "bread",
+          "da": "khobz"
+        },
+        {
+          "en": "olive oil",
+          "da": "zit l3oud"
+        },
+        {
+          "en": "mint tea",
+          "da": "atay b nne3na3"
+        },
+        {
+          "en": "a glass of",
+          "da": "kas dyal"
+        },
+        {
+          "en": "eat",
+          "da": "kanaklo (nakol)"
+        },
+        {
+          "en": "café",
+          "da": "9ehwa"
+        },
+        {
+          "en": "late",
+          "da": "m3ettel / m3ettla"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach katfi9 Nouha?",
+          "options": [
+            "f ssetta",
+            "f ssab3a",
+            "f ssetta w ness",
+            "f ttmenya"
+          ],
+          "answer": 0,
+          "explain_da": "`I get up at six o'clock.` = kanfi9 f ssetta."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Nouha has lunch at home.",
+          "statement_da": "Nouha kattghedda f ddar.",
+          "answer": false,
+          "explain_da": "Ghalet: `We don't go home for lunch; we eat at a small café.`"
+        },
+        {
+          "type": "mcq",
+          "question_da": "Fin katkhdem Nouha?",
+          "options": [
+            "f 9ehwa f Casa",
+            "f 7anout sghira f Rabat",
+            "f lmedrasa",
+            "f ddar"
+          ],
+          "answer": 1,
+          "explain_da": "`I work in a small shop in Rabat.`"
+        },
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach katmchi tn3es?",
+          "options": [
+            "f l7dach",
+            "f ttnach",
+            "f l3echra",
+            "f tts3oud"
+          ],
+          "answer": 0,
+          "explain_da": "`I go to bed at eleven.` = f l7dach."
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "Omar: nhar dyal lkhedma",
+      "emoji": "🎧",
+      "pre_da": "Sem3i l7iwar mzyan. Rekkzi 3la: fo9ach kayfi9 Omar? fin kayfter? w fo9ach kaymchi yn3es?",
+      "lines": [
+        {
+          "speaker": "Tom",
+          "en": "Omar, what time do you get up?",
+          "da": "Omar, fo9ach katfi9?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "I get up at half past six.",
+          "da": "Kanfi9 f ssetta w ness."
+        },
+        {
+          "speaker": "Tom",
+          "en": "Do you have breakfast at home?",
+          "da": "Wach katfter f ddar?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "No, I don't. I have a coffee at the café at seven.",
+          "da": "La. Kanchreb 9ehwa f l9ehwa f ssab3a."
+        },
+        {
+          "speaker": "Tom",
+          "en": "And what time do you go to work?",
+          "da": "W fo9ach katmchi l lkhedma?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "At quarter to eight. I work from eight to five.",
+          "da": "F ttmenya lla rbe3. Kankhdem men ttmenya 7ta l lkhemsa."
+        },
+        {
+          "speaker": "Tom",
+          "en": "Do you watch TV in the evening?",
+          "da": "Wach kattferrej f ttelfaza f l3chiya?"
+        },
+        {
+          "speaker": "Omar",
+          "en": "No, I don't watch TV. I study English and I go to bed at ten.",
+          "da": "La, makantferrejch f ttelfaza. Kan9ra lingliziya w kanmchi n3es f l3echra."
+        },
+        {
+          "speaker": "Tom",
+          "en": "At ten? You go to bed early!",
+          "da": "F l3echra? Katn3es bekri!"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach kayfi9 Omar?",
+          "options": [
+            "6:30",
+            "6:00",
+            "7:30",
+            "7:45"
+          ],
+          "answer": 0,
+          "explain_da": "`half past six` = ssetta w ness = 6:30."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Omar has breakfast at home.",
+          "statement_da": "Omar kayfter f ddar.",
+          "answer": false,
+          "explain_da": "Ghalet: `No, I don't. I have a coffee at the café.`"
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "I work from eight to five.",
+          "question_da": "Sem3i. Chno kat3ni?",
+          "options": [
+            "Kankhdem men ttmenya 7ta l lkhemsa",
+            "Kankhdem men ttmenya 7ta l rreb3a",
+            "Kanfi9 f ttmenya",
+            "Kanmchi n3es f lkhemsa"
+          ],
+          "answer": 0,
+          "explain_da": "`from eight to five` = men ttmenya 7ta l lkhemsa."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Chno kaydir Omar f l3chiya?",
+          "options": [
+            "Kaytferrej f ttelfaza",
+            "Kay9ra lingliziya",
+            "Kaykhdem",
+            "Kaymchi l l9ehwa"
+          ],
+          "answer": 1,
+          "explain_da": "`I study English and I go to bed at ten.`"
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "What time is it? It's half past seven.",
+          "da": "Ch7al f ssa3a? Hadi ssab3a w ness.",
+          "pron": "wat taïm iz it? its haf past sé-ven"
+        },
+        {
+          "target_en": "I get up at six o'clock every day.",
+          "da": "Kanfi9 f ssetta kol nhar.",
+          "pron": "aï gèt ap at siks o-klok év-ri déy"
+        },
+        {
+          "target_en": "Do you have breakfast? Yes, I do.",
+          "da": "Wach katfetri? Ah.",
+          "pron": "dou you hav brèk-feust? yès, aï dou"
+        },
+        {
+          "target_en": "I don't watch TV in the evening.",
+          "da": "Makantferrejch f ttelfaza f l3chiya.",
+          "pron": "aï dont wotch ti-vi in the iv-ning"
+        },
+        {
+          "target_en": "We go to bed at quarter to eleven.",
+          "da": "Kanmchiw nn3so f l7dach lla rbe3.",
+          "pron": "wi go tou bèd at kwor-teur tou i-lé-ven"
+        },
+        {
+          "target_en": "What time do you go to work?",
+          "da": "Fo9ach katmchi l lkhedma?",
+          "pron": "wat taïm dou you go tou weurk"
+        }
+      ],
+      "roleplay": {
+        "title_da": "Sarah katsewlek 3la nharek",
+        "context_da": "Sarah bghat t3ref kifach kaydouz nharek. Jawbi b `I` + lfi3l w `at` + lwa9t. Matensaych `Yes, I do.` / `No, I don't.`",
+        "turns": [
+          {
+            "bot_en": "Hi Nouha! What time do you get up?",
+            "bot_da": "Ahlan Nouha! Fo9ach katfi9i?",
+            "expect_keywords": [
+              "get up",
+              "at",
+              "five",
+              "six",
+              "seven",
+              "eight",
+              "o'clock",
+              "half past",
+              "quarter"
+            ],
+            "sample_en": "I get up at six o'clock."
+          },
+          {
+            "bot_en": "Do you have breakfast?",
+            "bot_da": "Wach katfetri?",
+            "expect_keywords": [
+              "yes",
+              "no",
+              "i do",
+              "i don't",
+              "breakfast",
+              "tea",
+              "bread",
+              "coffee"
+            ],
+            "sample_en": "Yes, I do. I have tea and bread."
+          },
+          {
+            "bot_en": "What time do you go to work?",
+            "bot_da": "Fo9ach katmchi l lkhedma?",
+            "expect_keywords": [
+              "at",
+              "seven",
+              "eight",
+              "nine",
+              "half past",
+              "quarter",
+              "go to work",
+              "i don't work",
+              "work"
+            ],
+            "sample_en": "I go to work at eight."
+          },
+          {
+            "bot_en": "Do you watch TV in the evening?",
+            "bot_da": "Wach kattferrji f ttelfaza f l3chiya?",
+            "expect_keywords": [
+              "yes",
+              "no",
+              "i do",
+              "i don't",
+              "watch",
+              "tv",
+              "study",
+              "read"
+            ],
+            "sample_en": "No, I don't. I study English."
+          },
+          {
+            "bot_en": "And what time do you go to bed?",
+            "bot_da": "W fo9ach katmchi tn3si?",
+            "expect_keywords": [
+              "at",
+              "nine",
+              "ten",
+              "eleven",
+              "twelve",
+              "half past",
+              "quarter",
+              "bed",
+              "go to bed"
+            ],
+            "sample_en": "I go to bed at eleven."
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Nhari",
+      "prompt_da": "Ktbi 5 wla 6 jomal b lingliziya 3la nharek: fo9ach katfi9i, fo9ach katfetri, chno katdiri f nhar, w fo9ach katmchi tn3si. Sta3mli `I` + lfi3l, `at` + lwa9t, w jomla we7da b `don't`.",
+      "helper_en": [
+        "I get up at ...",
+        "I have breakfast at ...",
+        "I go to ... at ...",
+        "In the evening, I ...",
+        "I don't ...",
+        "I go to bed at ..."
+      ],
+      "min_words": 25,
+      "keywords": [
+        "get up",
+        "at"
+      ],
+      "model_en": "I get up at six o'clock. I have breakfast at half past six. I go to work at eight. I have lunch at one o'clock. In the evening, I have dinner and I study English. I don't watch TV. I go to bed at eleven."
+    }
+  },
+  {
+    "id": "l08",
+    "order": 8,
+    "level": "A1.2",
+    "emoji": "👩‍💼",
+    "title_en": "He works, she studies: present simple (he/she/it)",
+    "title_da": "Howa kaykhdem, hiya kat9ra",
+    "goals_da": [
+      "T7kiy 3la nhar dyal chi wa7ed akhor: `She works`, `He goes`, `She studies`",
+      "Tdiri nnafy w sso2al b `doesn't` / `Does she…?` w tjawbi `Yes, she does.`",
+      "Tsta3mli `always`, `usually`, `often`, `sometimes`, `never` f lblasa ss7i7a",
+      "Tsewli `How often…?` w tjawbi: `once a week`, `twice a week`"
+    ],
+    "sections": [
+      {
+        "type": "explain",
+        "title_da": "he / she / it: kanzido -s",
+        "body_da": "F dars 7 chefti l7adir lbassit m3a `I`, `you`, `we`, `they`. M3a `he`, `she` w `it` kayn ghir fer9 wa7ed: kanzido **`-s`** f l'akhir dyal lfi3l:\n\n- `I work` → `she works`\n- `we live` → `he lives`\n- `they get up` → `she gets up`\n\nF darija kanbeddlo lbdaya: **kan**-khdem (ana), **kay**-khdem (howa), **kat**-khdem (hiya). F lingliziya kanbeddlo l'akhir: `work` → `works`. Ghir `-s` sghira, walakin mohimma bzzaf!\n\n**Chi 9awa3id sghar:**\n\n- Lfi3l li kaysali b `-s`, `-sh`, `-ch`, `-x` wla `-o` → kanzido `-es`: `go` → `goes`, `do` → `does`, `watch` → `watches`, `finish` → `finishes`.\n- Lfi3l li kaysali b 7erf 3adi + `y` → `y` katwelli `-ies`: `study` → `studies`, `try` → `tries`. (Walakin `play` → `plays`, 7it 9bel `y` kayn `a`.)\n- `have` → `has` (ghir 3adi, khassek t7efdih): `She has two children.`\n\n`it` kansta3mlouh l l7wayj: `The bus comes at eight.` = ttobis kayji f ttmenya.",
+        "examples": [
+          {
+            "en": "My sister works in a bank.",
+            "da": "Khti katkhdem f lbanka.",
+            "pron": "maï sis-teur weurks in a bank"
+          },
+          {
+            "en": "He goes to work at eight.",
+            "da": "Kaymchi l lkhedma f ttmenya.",
+            "pron": "hi goz tou weurk at éyt"
+          },
+          {
+            "en": "She watches TV in the evening.",
+            "da": "Kattferrej f ttelfaza f l3chiya.",
+            "pron": "chi wo-tchiz ti-vi in the iv-ning"
+          },
+          {
+            "en": "Omar studies English every day.",
+            "da": "Omar kay9ra lingliziya kol nhar.",
+            "pron": "o-mar sta-diz in-glich év-ri déy"
+          },
+          {
+            "en": "She has two children.",
+            "da": "3ndha jouj drari.",
+            "pron": "chi haz tou tchil-dren"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "doesn't / Does she…?",
+        "body_da": "**Nnafy** m3a `he` / `she` / `it`: `doesn't` (= `does not`) + lfi3l **bla `-s`**:\n\n- `She doesn't work in the evening.` = makatkhdemch f l3chiya.\n- `He doesn't drink coffee.` = makaychrebch l9ehwa.\n- `My brother doesn't have a car.` = khouya ma3ndouch tomobil.\n\n**Sso2al**: `Does` + `he` / `she` / `it` + lfi3l **bla `-s`**:\n\n- `Does she work in Casablanca?` = wach katkhdem f Casa?\n- `Does he get up early?` = wach kayfi9 bekri?\n- `What time does she get up?` = fo9ach katfi9?\n- `Where does he live?` = fin kayskon?\n\nLjawab l9sir: `Yes, she does.` / `No, she doesn't.` / `Yes, he does.` / `No, he doesn't.`\n\n**L9a3ida ddahabiya:** `-s` kayn ghir **merra we7da** f ljomla. F ljomla l3adiya kayn f lfi3l (`she works`). F sso2al w nnafy kaymchi l `does` / `doesn't`, w lfi3l kayb9a 3eryan: `Does she work?` (machi `Does she works?` ✗), `She doesn't work.` (machi `She doesn't works` ✗). W `has` kaywelli `have`: `Does she have children?`",
+        "examples": [
+          {
+            "en": "He doesn't drink coffee.",
+            "da": "Makaychrebch l9ehwa.",
+            "pron": "hi da-zent drink ko-fi"
+          },
+          {
+            "en": "Does she work in Casablanca?",
+            "da": "Wach katkhdem f Casa?",
+            "pron": "daz chi weurk in ka-sa-blan-ka"
+          },
+          {
+            "en": "Yes, she does. / No, she doesn't.",
+            "da": "Ah, katkhdem. / La, makatkhdemch.",
+            "pron": "yès, chi daz / no, chi da-zent"
+          },
+          {
+            "en": "What time does he get up?",
+            "da": "Fo9ach kayfi9?",
+            "pron": "wat taïm daz hi gèt ap"
+          },
+          {
+            "en": "My brother doesn't have a car.",
+            "da": "Khouya ma3ndouch tomobil.",
+            "pron": "maï bra-theur da-zent hav a kar"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "always, usually, often, sometimes, never",
+        "body_da": "Had lkelmat kay9oulo **ch7al men merra** kandiro chi 7aja:\n\n- `always` = dima (100%)\n- `usually` = 3adatan / ghaliban (80%)\n- `often` = bzzaf dyal lmerrat (60%)\n- `sometimes` = chi merrat / sa3at (30%)\n- `never` = 3emmer / abadan (0%)\n\n**Fin kan7ettouhom?** **9bel** lfi3l:\n\n- `I always have breakfast.` = dima kanfter.\n- `She usually gets up at seven.` = 3adatan katfi9 f ssab3a.\n- `We often go to the market.` = bzzaf dyal lmerrat kanmchiw l ssou9.\n\nWalakin m3a lfi3l `to be` kayjiw **men ba3d** `am` / `is` / `are`:\n\n- `He is always late.` = dima m3ettel.\n- `I am never late.` = 3emmerni ma kantt3ettel.\n\n**Rdi lbal l `never`:** hiya nafya b rasha. F darija kan9oulo \"3emmerni **ma** kanchreb\" (b \"ma\"), walakin f lingliziya `I never drink coffee.` — **bla** `don't`! `I don't never` ✗ ghalet.",
+        "examples": [
+          {
+            "en": "I always have breakfast.",
+            "da": "Dima kanfter.",
+            "pron": "aï ol-wéyz hav brèk-feust"
+          },
+          {
+            "en": "She usually gets up at seven.",
+            "da": "3adatan katfi9 f ssab3a.",
+            "pron": "chi you-jou-a-li gèts ap at sé-ven"
+          },
+          {
+            "en": "We often watch TV in the evening.",
+            "da": "Bzzaf dyal lmerrat kantferrjo f ttelfaza f l3chiya.",
+            "pron": "wi o-fen wotch ti-vi in the iv-ning"
+          },
+          {
+            "en": "They sometimes have lunch at a café.",
+            "da": "Chi merrat kaytgheddaw f l9ehwa.",
+            "pron": "théy sam-taïmz hav lantch at a ka-féy"
+          },
+          {
+            "en": "He is never late.",
+            "da": "3emmro ma kaytt3ettel.",
+            "pron": "hi iz né-veur léyt"
+          }
+        ]
+      },
+      {
+        "type": "explain",
+        "title_da": "How often…? once / twice a week — w lmihan",
+        "body_da": "`How often…?` = ch7al men merra…?\n\n- `How often do you study English?` = ch7al men merra kat9ray lingliziya?\n- `How often does she go to the market?` = ch7al men merra katmchi l ssou9?\n\nLjawab, f l'akhir dyal ljomla:\n\n- `every day` = kol nhar / `every morning` = kol sbah\n- `once a week` = merra f ssimana (`once` = merra we7da)\n- `twice a week` = jouj merrat f ssimana (`twice` = jouj merrat)\n- `three times a week` = tlata dyal lmerrat f ssimana\n- `once a month` = merra f chhar\n\nChofi: `a week` hna kat3ni \"f ssimana\" (kol simana), machi \"wa7ed ssimana\".\n\n**Lmihan (jobs):** bach tsewli 3la khedmet chi wa7ed: `What does she do?` = chno khedmetha? (7arfiyan: chno katdir?). Ljawab b `a` / `an`: `She's a nurse.` = hiya fermliya. `He's an engineer.` = howa mohandis. W fin kaykhdem: `She works in a hospital.`",
+        "examples": [
+          {
+            "en": "How often do you study English?",
+            "da": "Ch7al men merra kat9ray lingliziya?",
+            "pron": "haw o-fen dou you sta-di in-glich"
+          },
+          {
+            "en": "Twice a week.",
+            "da": "Jouj merrat f ssimana.",
+            "pron": "twaïs a wik"
+          },
+          {
+            "en": "I go to the market once a week.",
+            "da": "Kanmchi l ssou9 merra f ssimana.",
+            "pron": "aï go tou the mar-kit wans a wik"
+          },
+          {
+            "en": "What does your brother do? — He's a driver.",
+            "da": "Chno khedmet khouk? — Howa chifour.",
+            "pron": "wat daz your bra-theur dou — hiz a draï-veur"
+          },
+          {
+            "en": "She's a doctor. She works in a hospital.",
+            "da": "Hiya tbiba. Katkhdem f sbitar.",
+            "pron": "chiz a dok-teur. chi weurks in a hos-pi-teul"
+          }
+        ]
+      },
+      {
+        "type": "vocab",
+        "title_da": "Lkelmat dyal dars",
+        "items": [
+          {
+            "en": "always",
+            "da": "dima",
+            "emoji": "💯",
+            "pron": "ol-wéyz",
+            "example_en": "She always drinks tea.",
+            "example_da": "Dima katchreb atay."
+          },
+          {
+            "en": "usually",
+            "da": "3adatan / ghaliban",
+            "emoji": "🔁",
+            "pron": "you-jou-a-li",
+            "example_en": "I usually get up at six.",
+            "example_da": "3adatan kanfi9 f ssetta."
+          },
+          {
+            "en": "often",
+            "da": "bzzaf dyal lmerrat",
+            "emoji": "🔂",
+            "pron": "o-fen",
+            "example_en": "We often go to the market.",
+            "example_da": "Bzzaf dyal lmerrat kanmchiw l ssou9."
+          },
+          {
+            "en": "sometimes",
+            "da": "chi merrat / sa3at",
+            "emoji": "🤷‍♀️",
+            "pron": "sam-taïmz",
+            "example_en": "He sometimes works at night.",
+            "example_da": "Chi merrat kaykhdem b llil."
+          },
+          {
+            "en": "never",
+            "da": "3emmer / abadan",
+            "emoji": "🚫",
+            "pron": "né-veur",
+            "example_en": "I never drink coffee.",
+            "example_da": "3emmerni ma kanchreb l9ehwa."
+          },
+          {
+            "en": "once a week",
+            "da": "merra f ssimana",
+            "emoji": "1️⃣",
+            "pron": "wans a wik",
+            "example_en": "She studies English once a week.",
+            "example_da": "Kat9ra lingliziya merra f ssimana."
+          },
+          {
+            "en": "twice a week",
+            "da": "jouj merrat f ssimana",
+            "emoji": "2️⃣",
+            "pron": "twaïs a wik",
+            "example_en": "He plays football twice a week.",
+            "example_da": "Kayl3eb lkora jouj merrat f ssimana."
+          },
+          {
+            "en": "teacher",
+            "da": "oustad / oustada",
+            "emoji": "👩‍🏫",
+            "pron": "ti-tcheur",
+            "example_en": "My mother is a teacher.",
+            "example_da": "Mmi oustada."
+          },
+          {
+            "en": "doctor",
+            "da": "tbib / tbiba",
+            "emoji": "👩‍⚕️",
+            "pron": "dok-teur",
+            "example_en": "He's a doctor in Fes.",
+            "example_da": "Howa tbib f Fes."
+          },
+          {
+            "en": "nurse",
+            "da": "fermli / fermliya",
+            "emoji": "💉",
+            "pron": "neurs",
+            "example_en": "My sister is a nurse.",
+            "example_da": "Khti fermliya."
+          },
+          {
+            "en": "driver",
+            "da": "chifour",
+            "emoji": "🚕",
+            "pron": "draï-veur",
+            "example_en": "Omar is a taxi driver.",
+            "example_da": "Omar chifour dyal taxi."
+          },
+          {
+            "en": "shop assistant",
+            "da": "bayye3 / bayy3a f l7anout",
+            "emoji": "🛍️",
+            "pron": "chop a-sis-tent",
+            "example_en": "She's a shop assistant in Marrakech.",
+            "example_da": "Hiya bayy3a f 7anout f Marrakech."
+          },
+          {
+            "en": "engineer",
+            "da": "mohandis / mohandisa",
+            "emoji": "👷‍♀️",
+            "pron": "èn-dji-nir",
+            "example_en": "My brother is an engineer.",
+            "example_da": "Khouya mohandis."
+          },
+          {
+            "en": "hospital",
+            "da": "sbitar",
+            "emoji": "🏥",
+            "pron": "hos-pi-teul",
+            "example_en": "She works in a hospital.",
+            "example_da": "Katkhdem f sbitar."
+          },
+          {
+            "en": "school",
+            "da": "lmedrasa",
+            "emoji": "🏫",
+            "pron": "skoul",
+            "example_en": "The children go to school at eight.",
+            "example_da": "Ddrari kaymchiw l lmedrasa f ttmenya."
+          },
+          {
+            "en": "late",
+            "da": "m3ettel / m3ettla",
+            "emoji": "⏰",
+            "pron": "léyt",
+            "example_en": "She sometimes comes home late.",
+            "example_da": "Chi merrat katrje3 l ddar m3ettla."
+          }
+        ]
+      },
+      {
+        "type": "dialogue",
+        "title_da": "Khti Salma",
+        "context_da": "Sarah katsewel Nouha 3la khtha Salma: chno khedmetha w kifach kaydouz nharha.",
+        "lines": [
+          {
+            "speaker": "Sarah",
+            "en": "Nouha, does your sister work?",
+            "da": "Nouha, wach khtek katkhdem?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Yes, she does. She's a nurse. She works in a hospital in Casablanca.",
+            "da": "Ah. Hiya fermliya. Katkhdem f sbitar f Casa."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "What time does she go to work?",
+            "da": "Fo9ach katmchi l lkhedma?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "She gets up at five and she goes to work at six. She usually comes home at three.",
+            "da": "Katfi9 f lkhemsa w katmchi l lkhedma f ssetta. 3adatan katrje3 l ddar f ttlata."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Five o'clock! Does she have breakfast?",
+            "da": "Lkhemsa! Wach katfter?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "No, she doesn't. She never has breakfast at home. She has a coffee at the hospital.",
+            "da": "La. 3emmerha ma katfter f ddar. Katchreb 9ehwa f sbitar."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "And how often does she work at night?",
+            "da": "W ch7al men merra katkhdem b llil?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "Twice a week. It's hard, but she's a very good nurse.",
+            "da": "Jouj merrat f ssimana. S3iba, walakin hiya fermliya mzyana bzzaf."
+          },
+          {
+            "speaker": "Sarah",
+            "en": "Does she live with you?",
+            "da": "Wach katskon m3ak?"
+          },
+          {
+            "speaker": "Nouha",
+            "en": "No, she doesn't. She lives with her husband in Casablanca. I live in Rabat.",
+            "da": "La. Katskon m3a rajelha f Casa. Ana kanskon f Rabat."
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "title_da": "Nasi7a",
+        "body_da": "Fekkri f `-s` bhal 9ob3a we7da: f ljomla kayn ghir rajel wa7ed li kaylbesha. F ljomla l3adiya kaylbesha lfi3l: `She works.` F sso2al w nnafy kaylbesha `does` / `doesn't`, w lfi3l kayb9a bla 9ob3a: `Does she work?`, `She doesn't work.` Ila chefti `-s` jouj merrat (`Does she works?` ✗) — kayn ghalat!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill",
+        "sentence_en": "My brother ___ in Agadir.",
+        "options": [
+          "lives",
+          "live",
+          "living"
+        ],
+        "answer": "lives",
+        "hint_da": "`my brother` = `he` → ?",
+        "explain_da": "`My brother lives in Agadir.` — `my brother` = `he`, dakchi 3lach kanzido `-s`: `lives`."
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "She goes to work at seven.",
+        "question_da": "Sem3i mzyan. Chno kat3ni?",
+        "options": [
+          "Hiya katmchi l lkhedma f ssab3a",
+          "Howa kaymchi l lkhedma f ssab3a",
+          "Hiya katfi9 f ssab3a",
+          "7na kanmchiw l lkhedma f ssab3a"
+        ],
+        "answer": 0,
+        "explain_da": "`She goes` = hiya katmchi. `goes` = `go` + `-es`."
+      },
+      {
+        "type": "match",
+        "instruction_da": "Wessli lmihna b lingliziya m3a lma3na dyalha.",
+        "pairs": [
+          {
+            "en": "doctor",
+            "da": "tbib / tbiba",
+            "emoji": "👩‍⚕️"
+          },
+          {
+            "en": "nurse",
+            "da": "fermli / fermliya",
+            "emoji": "💉"
+          },
+          {
+            "en": "driver",
+            "da": "chifour",
+            "emoji": "🚕"
+          },
+          {
+            "en": "teacher",
+            "da": "oustad / oustada",
+            "emoji": "👩‍🏫"
+          },
+          {
+            "en": "engineer",
+            "da": "mohandis / mohandisa",
+            "emoji": "👷‍♀️"
+          },
+          {
+            "en": "shop assistant",
+            "da": "bayye3 / bayy3a f l7anout",
+            "emoji": "🛍️"
+          }
+        ]
+      },
+      {
+        "type": "mcq",
+        "question_da": "Achmen jomla s7i7a?",
+        "options": [
+          "Does she works in Rabat?",
+          "Do she work in Rabat?",
+          "Does she work in Rabat?"
+        ],
+        "answer": 2,
+        "explain_da": "`Does she work in Rabat?` — `-s` f `does`, w lfi3l `work` bla `-s`."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "He ___ coffee. He drinks tea.",
+        "options": [
+          "doesn't drink",
+          "don't drink",
+          "doesn't drinks"
+        ],
+        "answer": "doesn't drink",
+        "hint_da": "nnafy m3a `he`",
+        "explain_da": "`He doesn't drink coffee.` — `doesn't` + lfi3l bla `-s`."
+      },
+      {
+        "type": "order",
+        "words": [
+          "often",
+          "do",
+          "How",
+          "you",
+          "go",
+          "to",
+          "the",
+          "market?"
+        ],
+        "answer": "How often do you go to the market?",
+        "da": "Ch7al men merra katmchi l ssou9?"
+      },
+      {
+        "type": "listen_mcq",
+        "say_en": "I never drink coffee in the evening.",
+        "question_da": "Sem3i. Chno kat3ni?",
+        "options": [
+          "3emmerni ma kanchreb l9ehwa f l3chiya",
+          "Dima kanchreb l9ehwa f l3chiya",
+          "Chi merrat kanchreb l9ehwa f l3chiya",
+          "3adatan kanchreb atay f l3chiya"
+        ],
+        "answer": 0,
+        "explain_da": "`never` = 3emmer / abadan (0%). Rdi lbal: bla `don't`."
+      },
+      {
+        "type": "mcq",
+        "question_da": "Fin kan7etto `always` f ljomla?",
+        "options": [
+          "I get up always at six.",
+          "I always get up at six.",
+          "I get up at six always."
+        ],
+        "answer": 1,
+        "explain_da": "`always`, `usually`, `often`, `sometimes`, `never` kayjiw **9bel** lfi3l: `I always get up at six.`"
+      },
+      {
+        "type": "truefalse",
+        "statement_en": "'Twice a week' means two times a week.",
+        "statement_da": "`Twice a week` kat3ni jouj merrat f ssimana.",
+        "answer": true,
+        "explain_da": "S7i7! `twice` = jouj merrat. `once` = merra we7da."
+      },
+      {
+        "type": "translate",
+        "da": "Khti kat9ra lingliziya kol nhar.",
+        "answers": [
+          "My sister studies English every day.",
+          "My sister studies English everyday."
+        ],
+        "hint_en": "My sister ... English every day.",
+        "explain_da": "`My sister studies English every day.` — `study` → `studies` (`y` → `ies`)."
+      },
+      {
+        "type": "dictation",
+        "say_en": "He usually has lunch at one o'clock.",
+        "da": "3adatan kaytghedda f lwe7da.",
+        "explain_da": "`usually` 9bel lfi3l. `has` = `have` m3a `he`."
+      },
+      {
+        "type": "fill",
+        "sentence_en": "What time ___ she get up?",
+        "answers": [
+          "does"
+        ],
+        "hint_da": "sso2al m3a `she`",
+        "explain_da": "`What time does she get up?` — sso2al m3a `she` b `does`, w `get up` bla `-s`."
+      },
+      {
+        "type": "order",
+        "words": [
+          "sister",
+          "My",
+          "doesn't",
+          "have",
+          "a",
+          "car."
+        ],
+        "answer": "My sister doesn't have a car.",
+        "da": "Khti ma3ndhach tomobil."
+      },
+      {
+        "type": "translate",
+        "da": "Wach khouk kaykhdem f sbitar?",
+        "answers": [
+          "Does your brother work in a hospital?",
+          "Does your brother work in the hospital?",
+          "Does your brother work at a hospital?",
+          "Does your brother work at the hospital?"
+        ],
+        "hint_en": "Does your ... work in a ...?",
+        "explain_da": "`Does your brother work in a hospital?` — `your brother` = `he` → `Does` + lfi3l bla `-s`."
+      },
+      {
+        "type": "mcq",
+        "question_en": "How often does Omar watch TV?",
+        "question_da": "Khtari ljawab lmonasib:",
+        "options": [
+          "In Casablanca.",
+          "At seven o'clock.",
+          "Twice a week.",
+          "Yes, he is."
+        ],
+        "answer": 2,
+        "explain_da": "`How often…?` = ch7al men merra? → ljawab: `Twice a week.` (jouj merrat f ssimana)."
+      },
+      {
+        "type": "speak",
+        "target_en": "My mother is a teacher. She works in a school and she never gets up late.",
+        "da": "Mmi oustada. Katkhdem f lmedrasa w 3emmerha ma katfi9 m3ettla.",
+        "pron": "maï ma-theur iz a ti-tcheur. chi weurks in a skoul and chi né-veur gèts ap léyt"
+      }
+    ],
+    "reading": {
+      "title_en": "My friend Amina",
+      "title_da": "Sa7bti Amina",
+      "emoji": "👩‍🏫",
+      "text_en": "My friend Amina is twenty-nine years old. She is a teacher. She works in a small school in Marrakech. She gets up at six every day, has breakfast with her family and goes to school at half past seven. She teaches English to children. She usually finishes at four o'clock and comes home at five. In the evening, Amina doesn't watch TV. She often reads a book or studies Spanish. She goes to the market once a week and she never gets up late. She is always happy at work!",
+      "text_da": "Sa7bti Amina 3ndha tes3a w 3echrin 3am. Hiya oustada. Katkhdem f medrasa sghira f Marrakech. Katfi9 f ssetta kol nhar, katfter m3a l3a2ila dyalha w katmchi l lmedrasa f ssab3a w ness. Kat9erri lingliziya l ddrari. 3adatan katsali f rreb3a w katrje3 l ddar f lkhemsa. F l3chiya, Amina makattferrejch f ttelfaza. Bzzaf dyal lmerrat kat9ra ktab wla kat9ra sbanyoliya. Katmchi l ssou9 merra f ssimana w 3emmerha ma katfi9 m3ettla. Dima fer7ana f lkhedma!",
+      "glossary": [
+        {
+          "en": "school",
+          "da": "lmedrasa"
+        },
+        {
+          "en": "teaches",
+          "da": "kat9erri"
+        },
+        {
+          "en": "children",
+          "da": "ddrari"
+        },
+        {
+          "en": "finishes",
+          "da": "katsali"
+        },
+        {
+          "en": "reads",
+          "da": "kat9ra (ktab)"
+        },
+        {
+          "en": "or",
+          "da": "wla"
+        },
+        {
+          "en": "market",
+          "da": "ssou9"
+        },
+        {
+          "en": "happy",
+          "da": "fer7ana"
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Chno khedmet Amina?",
+          "options": [
+            "tbiba",
+            "oustada",
+            "fermliya",
+            "chifoura"
+          ],
+          "answer": 1,
+          "explain_da": "`She is a teacher.` = hiya oustada."
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Amina watches TV in the evening.",
+          "statement_da": "Amina kattferrej f ttelfaza f l3chiya.",
+          "answer": false,
+          "explain_da": "Ghalet: `Amina doesn't watch TV.`"
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al men merra katmchi l ssou9?",
+          "options": [
+            "merra f ssimana",
+            "jouj merrat f ssimana",
+            "kol nhar",
+            "3emmerha"
+          ],
+          "answer": 0,
+          "explain_da": "`once a week` = merra f ssimana."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Fo9ach katmchi l lmedrasa?",
+          "options": [
+            "f ssetta",
+            "f ssab3a w ness",
+            "f rreb3a",
+            "f lkhemsa"
+          ],
+          "answer": 1,
+          "explain_da": "`goes to school at half past seven` = f ssab3a w ness."
+        }
+      ]
+    },
+    "listening": {
+      "title_da": "Laila w Tom: khou Laila",
+      "emoji": "🚕",
+      "pre_da": "Sem3i l7iwar mzyan. Rekkzi 3la: chno khedmet khou Laila? fo9ach kaybda lkhedma? w ch7al men merra kayl3eb lkora?",
+      "lines": [
+        {
+          "speaker": "Tom",
+          "en": "Laila, what does your brother do?",
+          "da": "Laila, chno khedmet khouk?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "He's a taxi driver in Tangier.",
+          "da": "Howa chifour dyal taxi f Tanja."
+        },
+        {
+          "speaker": "Tom",
+          "en": "Does he work every day?",
+          "da": "Wach kaykhdem kol nhar?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "No, he doesn't. He works six days a week.",
+          "da": "La. Kaykhdem setta dyal l'iyam f ssimana."
+        },
+        {
+          "speaker": "Tom",
+          "en": "What time does he start?",
+          "da": "Fo9ach kaybda?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "He starts at five in the morning and finishes at three.",
+          "da": "Kaybda f lkhemsa dyal sbah w kaysali f ttlata."
+        },
+        {
+          "speaker": "Tom",
+          "en": "Wow, that's early! Does he have lunch at home?",
+          "da": "Waw, bekri! Wach kaytghedda f ddar?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "Sometimes. He usually has a sandwich in the taxi.",
+          "da": "Chi merrat. 3adatan kayakol sandwich f ttaxi."
+        },
+        {
+          "speaker": "Tom",
+          "en": "And how often does he play football?",
+          "da": "W ch7al men merra kayl3eb lkora?"
+        },
+        {
+          "speaker": "Laila",
+          "en": "Twice a week, with his friends.",
+          "da": "Jouj merrat f ssimana, m3a s7abo."
+        }
+      ],
+      "questions": [
+        {
+          "type": "mcq",
+          "question_da": "Chno khedmet khou Laila?",
+          "options": [
+            "chifour dyal taxi",
+            "oustad",
+            "tbib",
+            "mohandis"
+          ],
+          "answer": 0,
+          "explain_da": "`He's a taxi driver in Tangier.`"
+        },
+        {
+          "type": "truefalse",
+          "statement_en": "Laila's brother works every day.",
+          "statement_da": "Khou Laila kaykhdem kol nhar.",
+          "answer": false,
+          "explain_da": "Ghalet: `No, he doesn't. He works six days a week.`"
+        },
+        {
+          "type": "listen_mcq",
+          "say_en": "He starts at five in the morning.",
+          "question_da": "Sem3i. Chno kat3ni?",
+          "options": [
+            "Kaybda f lkhemsa dyal sbah",
+            "Kaybda f ttmenya dyal sbah",
+            "Kaysali f lkhemsa",
+            "Kayfi9 f ssetta"
+          ],
+          "answer": 0,
+          "explain_da": "`starts` = kaybda. `at five in the morning` = f lkhemsa dyal sbah."
+        },
+        {
+          "type": "mcq",
+          "question_da": "Ch7al men merra kayl3eb lkora?",
+          "options": [
+            "merra f ssimana",
+            "jouj merrat f ssimana",
+            "kol nhar",
+            "3emmro"
+          ],
+          "answer": 1,
+          "explain_da": "`Twice a week` = jouj merrat f ssimana."
+        }
+      ]
+    },
+    "speaking": {
+      "pronunciation": [
+        {
+          "target_en": "She works in a hospital.",
+          "da": "Katkhdem f sbitar.",
+          "pron": "chi weurks in a hos-pi-teul"
+        },
+        {
+          "target_en": "He goes to work at eight.",
+          "da": "Kaymchi l lkhedma f ttmenya.",
+          "pron": "hi goz tou weurk at éyt"
+        },
+        {
+          "target_en": "Does she have children? Yes, she does.",
+          "da": "Wach 3ndha drari? Ah.",
+          "pron": "daz chi hav tchil-dren? yès, chi daz"
+        },
+        {
+          "target_en": "My brother doesn't drink coffee.",
+          "da": "Khouya makaychrebch l9ehwa.",
+          "pron": "maï bra-theur da-zent drink ko-fi"
+        },
+        {
+          "target_en": "I usually go to the market once a week.",
+          "da": "3adatan kanmchi l ssou9 merra f ssimana.",
+          "pron": "aï you-jou-a-li go tou the mar-kit wans a wik"
+        },
+        {
+          "target_en": "She never gets up late.",
+          "da": "3emmerha ma katfi9 m3ettla.",
+          "pron": "chi né-veur gèts ap léyt"
+        }
+      ],
+      "roleplay": {
+        "title_da": "Tom kaysewlek 3la khouk",
+        "context_da": "Tom bgha y3ref chi 7aja 3la khouk (wla chi wa7ed men l3a2ila dyalek). Jawbi b `He` + lfi3l + `-s`, w sta3mli `always` / `usually` / `never`.",
+        "turns": [
+          {
+            "bot_en": "Hi Nouha! What does your brother do?",
+            "bot_da": "Ahlan Nouha! Chno khedmet khouk?",
+            "expect_keywords": [
+              "he's a",
+              "he is a",
+              "he works",
+              "driver",
+              "teacher",
+              "doctor",
+              "engineer",
+              "student",
+              "nurse",
+              "shop assistant",
+              "works"
+            ],
+            "sample_en": "He's a driver. He works in Rabat."
+          },
+          {
+            "bot_en": "What time does he get up?",
+            "bot_da": "Fo9ach kayfi9?",
+            "expect_keywords": [
+              "gets up",
+              "get up",
+              "at",
+              "five",
+              "six",
+              "seven",
+              "eight",
+              "o'clock",
+              "half past"
+            ],
+            "sample_en": "He gets up at six o'clock."
+          },
+          {
+            "bot_en": "Does he have breakfast at home?",
+            "bot_da": "Wach kayfter f ddar?",
+            "expect_keywords": [
+              "yes",
+              "no",
+              "he does",
+              "he doesn't",
+              "breakfast",
+              "coffee",
+              "tea"
+            ],
+            "sample_en": "Yes, he does. He has tea and bread."
+          },
+          {
+            "bot_en": "How often does he watch TV?",
+            "bot_da": "Ch7al men merra kaytferrej f ttelfaza?",
+            "expect_keywords": [
+              "every day",
+              "once",
+              "twice",
+              "sometimes",
+              "never",
+              "often",
+              "usually",
+              "always",
+              "a week",
+              "times"
+            ],
+            "sample_en": "He watches TV every day."
+          },
+          {
+            "bot_en": "And you? How often do you study English?",
+            "bot_da": "W nti? Ch7al men merra kat9ray lingliziya?",
+            "expect_keywords": [
+              "every day",
+              "once",
+              "twice",
+              "three times",
+              "a week",
+              "sometimes",
+              "always",
+              "often",
+              "usually"
+            ],
+            "sample_en": "I study English three times a week."
+          }
+        ]
+      }
+    },
+    "writing": {
+      "title_da": "Nhar dyal chi wa7ed men l3a2ila dyalek",
+      "prompt_da": "Khtari chi wa7ed (khouk, khtek, mmek, sa7btek…) w ktbi 5 wla 6 jomal b lingliziya 3la nharo wla nharha: chno khedmto, fo9ach kayfi9, chno kaydir, jomla b `doesn't` w jomla b `always` / `usually` / `never`. Matensaych `-s`!",
+      "helper_en": [
+        "My ... is a ...",
+        "He / She gets up at ...",
+        "He / She works in ...",
+        "He / She usually ...",
+        "He / She doesn't ...",
+        "He / She never ..."
+      ],
+      "min_words": 25,
+      "keywords": [
+        "is a",
+        "doesn't"
+      ],
+      "model_en": "My sister Salma is a nurse. She works in a hospital in Casablanca. She gets up at five o'clock and goes to work at six. She usually has lunch at the hospital. In the evening, she comes home at four and she doesn't watch TV. She never gets up late!"
+    }
+  }
+]

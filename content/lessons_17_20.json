@@ -1,0 +1,3435 @@
+[
+ {
+  "id": "l17",
+  "order": 17,
+  "level": "A2.1",
+  "emoji": "🗺️",
+  "title_en": "Directions & places in town",
+  "title_da": "Ttri9 w lblayes f lmdina",
+  "goals_da": [
+   "Tsemmi lblayes dyal lmdina: `the bank`, `the pharmacy`, `the train station`…",
+   "Tsewli 3la ttri9: `Excuse me, where is the post office?` w `Is there a café near here?`",
+   "Tfehmi w t3tiw ttri9: `Turn left`, `Go straight on`, `It's next to the bank`",
+   "T9oli kifach katwsli w ch7al kaykhod ttri9: `by bus`, `on foot`, `It takes ten minutes`"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "Fin kayna lbanka? — lblayes f lmdina",
+    "body_da": "F had dars ghadi nt3ellmo kifach nsewlo 3la ttri9 f lmdina. 9bel kolchi, khassna n3erfo smiyat lblayes: `the bank` (lbanka), `the pharmacy` (sseydaliya), `the post office` (lbosta), `the train station` (lagar), `the bus stop` (blast tobis), `the hospital` (sbitar), `the supermarket` (ssoupermarchi), `the mosque` (jame3), `the café` (l9ehwa) w `the market` (ssou9).\n\nMelli kansewlo 3la blasa m3rofa f lmdina, kansta3mlo `the`: `Where is the bank?` — bhal f darija melli kan9oulo \"fin kayna **l**banka?\" (b l'alif w llam).\n\nBach tkouni mo2addaba, bdaï dima b `Excuse me` (= sme7 liya) 9bel ma tsewli chi wa7ed f zzen9a:\n\n- `Excuse me, where is the bank?` = Sme7 liya, fin kayna lbanka?\n- `Excuse me, where's the train station?` = Sme7 liya, fin kayn lagar?\n\nIla makontich 3arfa wach kayna chi blasa 9riba, sewli b `Is there a … near here?` (tfekkri `there is` men dars 10): `Is there a pharmacy near here?` = Wach kayna chi sseydaliya 9riba men hna? Ljawab: `Yes, there is.` wla `No, there isn't.`",
+    "examples": [
+     {
+      "en": "Excuse me, where is the post office?",
+      "da": "Sme7 liya, fin kayna lbosta?",
+      "pron": "ik-skiouz mi, wér iz the post o-fis"
+     },
+     {
+      "en": "Where's the bus stop, please?",
+      "da": "Fin kayna blast tobis, 3afak?",
+      "pron": "wérz the beus stop, pliz"
+     },
+     {
+      "en": "Is there a bank near here?",
+      "da": "Wach kayna chi banka 9riba men hna?",
+      "pron": "iz thér a bank nir hir"
+     },
+     {
+      "en": "Yes, there is. It's over there.",
+      "da": "Ah, kayna. Rah temma.",
+      "pron": "yès, thér iz. its o-veur thér"
+     },
+     {
+      "en": "Sorry, I don't know. I'm not from here.",
+      "da": "Sme7 liya, ma3reftch. Ana machi men hna.",
+      "pron": "so-ri, aï dont no. aïm not from hir"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Dori 3la lisser! — l'amr (imperative) bach n3tiw ttri9",
+    "body_da": "Bach n3tiw ttri9 l chi wa7ed, kansta3mlo l'amr (`imperative`): l fi3l bo7do, bla `you`. Bhal f darija melli kan9oulo \"dori\", \"siri\", \"9et3i\". Lfar9: f lingliziya l'amr ma kaytbeddelch bin rrajel w lmra: `Turn left!` kat9al l rrajel, l lmra w l jama3a.\n\n- `Turn left.` = Dori 3la lisser.\n- `Turn right.` = Dori 3la limen.\n- `Go straight on.` = Siri nichan.\n- `Cross the street.` = 9et3i zzen9a.\n- `Take the first street on the right.` = Khoudi zzen9a l'oula 3la limen.\n- `Take the second street on the left.` = Khoudi zzen9a ttanya 3la lisser.\n- `Go past the bank.` = Douzi 3la lbanka.\n\nKanzido `at` bach n9oulo fin ndoro: `Turn left at the pharmacy.` = Dori 3la lisser 3nd sseydaliya. W bach nrebto lkhotowat kansta3mlo `then` (= men ba3d): `Go straight on, then turn right.`\n\nNnafy dyal l'amr b `Don't` + l fi3l (bhal \"ma ddorich\"): `Don't turn left, turn right!`",
+    "examples": [
+     {
+      "en": "Turn left at the mosque.",
+      "da": "Dori 3la lisser 3nd jame3.",
+      "pron": "teurn léft at the mosk"
+     },
+     {
+      "en": "Go straight on for five minutes.",
+      "da": "Siri nichan khems d9ay9.",
+      "pron": "go stréyt on for faïv mi-nits"
+     },
+     {
+      "en": "Cross the street and turn right.",
+      "da": "9et3i zzen9a w dori 3la limen.",
+      "pron": "kros the strit and teurn raït"
+     },
+     {
+      "en": "Take the second street on the left.",
+      "da": "Khoudi zzen9a ttanya 3la lisser.",
+      "pron": "téyk the sé-keund strit on the léft"
+     },
+     {
+      "en": "Don't take the first street, take the second one.",
+      "da": "Matakhdich zzen9a l'oula, khoudi ttanya.",
+      "pron": "dont téyk the feurst strit, téyk the sé-keund wan"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "It's next to… — fin kayna b ddebt?",
+    "body_da": "Melli kanwesfo fin kayna chi blasa, kansta3mlo had lkelmat (chi w7din t3ellemtihom f dars 10):\n\n- `next to` = 7da: `The bank is next to the pharmacy.`\n- `opposite` = 9balt / mwajha l: `The café is opposite the post office.`\n- `on the corner` = f lkonya (f l9ent): `The pharmacy is on the corner.`\n- `between … and …` = bin … w …: `The hospital is between the bank and the market.`\n- `behind` = mora: `The bus stop is behind the mosque.`\n- `in front of` = 9eddam: `The taxi is in front of the station.`\n- `on the left` / `on the right` = 3la lisser / 3la limen: `The supermarket is on your right.`\n\nRdi lbal: m3a `opposite` makanzidouch `of`: `opposite the bank` (machi \"opposite of\"). W melli kan9oulo blasa f chi zen9a: `It's on Hassan II Avenue.` / `It's in Derb Sultan.`",
+    "examples": [
+     {
+      "en": "The bank is next to the post office.",
+      "da": "Lbanka 7da lbosta.",
+      "pron": "the bank iz nékst tou the post o-fis"
+     },
+     {
+      "en": "The café is opposite the mosque.",
+      "da": "L9ehwa 9balt jame3.",
+      "pron": "the ka-fé iz o-peu-zit the mosk"
+     },
+     {
+      "en": "The pharmacy is on the corner, on your left.",
+      "da": "Sseydaliya f lkonya, 3la lisser dyalek.",
+      "pron": "the far-ma-si iz on the kor-neur, on your léft"
+     },
+     {
+      "en": "The hospital is between the market and the school.",
+      "da": "Sbitar bin ssou9 w lmdrasa.",
+      "pron": "the hos-pi-teul iz bi-twin the mar-kit and the skoul"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "How do I get to…? — kifach nwsel? w ch7al kaykhod?",
+    "body_da": "Bach tsewli 3la ttri9 l chi blasa b3ida chwiya, 9oli `How do I get to the train station?` = Kifach nwsel l lagar? Had so2al mohim bzzaf f ssafar.\n\nLjawab kaykoun b l'amr (`Go straight on…`) wla b lwasila (= b ach ghadi tmchi):\n\n- `by bus` = b tobis, `by train` = b ttran, `by taxi` = b taxi, `by car` = b tomobil\n- `on foot` = 3la rejlik (rdi lbal: `on foot`, machi \"by foot\"!)\n- `You can take the bus.` = T9edri takhdi tobis. (`can` men dars 14)\n- `Take bus number 7.` = Khoudi tobis ra9m 7.\n\nBach tsewli 3la lwa9t: `How long does it take?` = Ch7al kaykhod (dyal lwa9t)? Ljawab: `It takes ten minutes.` = Kaykhod 3echra d9ay9. `It takes about an hour by train.` = Kaykhod ta9riban sa3a b ttran.\n\nW bach tsewli wach b3ida: `Is it far?` = Wach b3ida? — `No, it's near.` / `Yes, it's quite far.` (`quite` = chwiya, b jouj).",
+    "examples": [
+     {
+      "en": "How do I get to the hospital?",
+      "da": "Kifach nwsel l sbitar?",
+      "pron": "haw dou aï guét tou the hos-pi-teul"
+     },
+     {
+      "en": "You can take the bus or a taxi.",
+      "da": "T9edri takhdi tobis wla taxi.",
+      "pron": "you kan téyk the beus or a tak-si"
+     },
+     {
+      "en": "It takes ten minutes on foot.",
+      "da": "Kaykhod 3echra d9ay9 3la rejlik.",
+      "pron": "it téyks tén mi-nits on fout"
+     },
+     {
+      "en": "I go to work by train every day.",
+      "da": "Kanmchi l lkhedma b ttran kol nhar.",
+      "pron": "aï go tou weurk baï tréyn év-ri déy"
+     },
+     {
+      "en": "Is it far? — No, it's very near.",
+      "da": "Wach b3ida? — La, 9riba bzzaf.",
+      "pron": "iz it far? no, its vé-ri nir"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "bank",
+      "da": "lbanka",
+      "emoji": "🏦",
+      "pron": "bank",
+      "example_en": "The bank opens at nine.",
+      "example_da": "Lbanka kat7el f tes3oud."
+     },
+     {
+      "en": "pharmacy",
+      "da": "sseydaliya (lfarmasyan)",
+      "emoji": "💊",
+      "pron": "far-ma-si",
+      "example_en": "Is there a pharmacy near here?",
+      "example_da": "Wach kayna chi sseydaliya 9riba men hna?"
+     },
+     {
+      "en": "post office",
+      "da": "lbosta",
+      "emoji": "📮",
+      "pron": "post o-fis",
+      "example_en": "I need to go to the post office.",
+      "example_da": "Khassni nmchi l lbosta."
+     },
+     {
+      "en": "train station",
+      "da": "lagar (dyal ttran)",
+      "emoji": "🚉",
+      "pron": "tréyn sté-cheun",
+      "example_en": "The train station is far from here.",
+      "example_da": "Lagar b3id men hna."
+     },
+     {
+      "en": "bus stop",
+      "da": "blast tobis (lmo7atta)",
+      "emoji": "🚏",
+      "pron": "beus stop",
+      "example_en": "Wait at the bus stop.",
+      "example_da": "Tsennay f blast tobis."
+     },
+     {
+      "en": "hospital",
+      "da": "sbitar",
+      "emoji": "🏥",
+      "pron": "hos-pi-teul",
+      "example_en": "My aunt works at the hospital.",
+      "example_da": "Khalti katkhdem f sbitar."
+     },
+     {
+      "en": "supermarket",
+      "da": "ssoupermarchi (lmagaza lkbira)",
+      "emoji": "🛒",
+      "pron": "sou-peur-mar-kit",
+      "example_en": "We buy milk at the supermarket.",
+      "example_da": "Kanchriw l7lib men ssoupermarchi."
+     },
+     {
+      "en": "mosque",
+      "da": "jame3",
+      "emoji": "🕌",
+      "pron": "mosk",
+      "example_en": "The mosque is on the corner.",
+      "example_da": "Jame3 f lkonya."
+     },
+     {
+      "en": "café",
+      "da": "l9ehwa",
+      "emoji": "☕",
+      "pron": "ka-fé",
+      "example_en": "Let's meet at the café.",
+      "example_da": "Yallah ntla9aw f l9ehwa."
+     },
+     {
+      "en": "market",
+      "da": "ssou9",
+      "emoji": "🧺",
+      "pron": "mar-kit",
+      "example_en": "The market is opposite the mosque.",
+      "example_da": "Ssou9 9balt jame3."
+     },
+     {
+      "en": "street",
+      "da": "zzen9a",
+      "emoji": "🛣️",
+      "pron": "strit",
+      "example_en": "Take the second street on the left.",
+      "example_da": "Khoudi zzen9a ttanya 3la lisser."
+     },
+     {
+      "en": "left",
+      "da": "lisser",
+      "emoji": "⬅️",
+      "pron": "léft",
+      "example_en": "Turn left at the bank.",
+      "example_da": "Dori 3la lisser 3nd lbanka."
+     },
+     {
+      "en": "right",
+      "da": "limen",
+      "emoji": "➡️",
+      "pron": "raït",
+      "example_en": "The café is on your right.",
+      "example_da": "L9ehwa 3la limen dyalek."
+     },
+     {
+      "en": "straight on",
+      "da": "nichan",
+      "emoji": "⬆️",
+      "pron": "stréyt on",
+      "example_en": "Go straight on for two minutes.",
+      "example_da": "Siri nichan jouj d9ay9."
+     },
+     {
+      "en": "corner",
+      "da": "lkonya (l9ent)",
+      "emoji": "📐",
+      "pron": "kor-neur",
+      "example_en": "The pharmacy is on the corner.",
+      "example_da": "Sseydaliya f lkonya."
+     },
+     {
+      "en": "far",
+      "da": "b3id / b3ida",
+      "emoji": "📏",
+      "pron": "far",
+      "example_en": "Is it far? No, it's near.",
+      "example_da": "Wach b3ida? La, 9riba."
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "Nouha katsewwel 3la lbosta f Rabat",
+    "context_da": "Nouha f Rabat l'awwal merra. Baghya tmchi l lbosta bach tsifet chi 7aja l khtha. Katsewwel wa7ed rrajel smiyto Karim f zzen9a.",
+    "lines": [
+     {
+      "speaker": "Nouha",
+      "en": "Excuse me, where is the post office?",
+      "da": "Sme7 liya, fin kayna lbosta?"
+     },
+     {
+      "speaker": "Karim",
+      "en": "The post office? Go straight on, then turn left at the bank.",
+      "da": "Lbosta? Siri nichan, men ba3d dori 3la lisser 3nd lbanka."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Turn left at the bank. OK. Is it far?",
+      "da": "Ndor 3la lisser 3nd lbanka. Wakha. Wach b3ida?"
+     },
+     {
+      "speaker": "Karim",
+      "en": "No, it's not far. It takes five minutes on foot.",
+      "da": "La, machi b3ida. Kaykhod khems d9ay9 3la rejlik."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Great! And is there a pharmacy near here?",
+      "da": "Mzyan! W wach kayna chi sseydaliya 9riba men hna?"
+     },
+     {
+      "speaker": "Karim",
+      "en": "Yes, there is. It's opposite the post office, on the corner.",
+      "da": "Ah, kayna. Rah 9balt lbosta, f lkonya."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Perfect. Thank you very much for your help!",
+      "da": "Mzyan bzzaf. Choukran bzzaf 3la lmosa3ada!"
+     },
+     {
+      "speaker": "Karim",
+      "en": "You're welcome. Have a nice day!",
+      "da": "Bla jmil. Nhar zwin!"
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "Melli chi wa7ed kay3tik ttri9 b lingliziya, 3awdi lkelmat lmohimma li 9al lik: `Turn left at the bank… OK!` — hakka kat2ekkdi b anna fhemti, w howa kayse77e7 lik ila ghlatti. W tfekkri: `on foot` (3la rejlik) walakin `by bus`, `by train`, `by taxi`, `by car`. Ila sewlek chi wa7ed 3la ttri9 w ma3reftihach, 9oli b kol basata: `Sorry, I don't know. I'm not from here.`"
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "Kifach kan9oulo \"sseydaliya\" b lingliziya?",
+    "options": [
+     "pharmacy",
+     "bank",
+     "hospital",
+     "market"
+    ],
+    "answer": 0,
+    "explain_da": "`pharmacy` = sseydaliya. `bank` = lbanka. `hospital` = sbitar. `market` = ssou9."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "Turn left.",
+    "question_da": "Sem3i w khtari lma3na.",
+    "options": [
+     "Dori 3la lisser",
+     "Dori 3la limen",
+     "Siri nichan",
+     "9et3i zzen9a"
+    ],
+    "answer": 0,
+    "explain_da": "`Turn left` = dori 3la lisser. `Turn right` = dori 3la limen. `Go straight on` = siri nichan. `Cross the street` = 9et3i zzen9a."
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli lblasa b lingliziya m3a lma3na dyalha b darija.",
+    "pairs": [
+     {
+      "en": "bank",
+      "da": "lbanka",
+      "emoji": "🏦"
+     },
+     {
+      "en": "mosque",
+      "da": "jame3",
+      "emoji": "🕌"
+     },
+     {
+      "en": "train station",
+      "da": "lagar",
+      "emoji": "🚉"
+     },
+     {
+      "en": "bus stop",
+      "da": "blast tobis",
+      "emoji": "🚏"
+     },
+     {
+      "en": "post office",
+      "da": "lbosta",
+      "emoji": "📮"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Excuse me, ___ is the bank?",
+    "options": [
+     "where",
+     "what",
+     "who"
+    ],
+    "answer": "where",
+    "hint_da": "Fin = ?",
+    "explain_da": "`Where` = fin. `Excuse me, where is the bank?` = Sme7 liya, fin kayna lbanka? (`what` = chno, `who` = chkoun)"
+   },
+   {
+    "type": "order",
+    "words": [
+     "and",
+     "straight",
+     "right.",
+     "Go",
+     "turn",
+     "on"
+    ],
+    "answer": "Go straight on and turn right.",
+    "da": "Siri nichan w dori 3la limen."
+   },
+   {
+    "type": "mcq",
+    "question_en": "Is there a pharmacy near here?",
+    "question_da": "Achmen jawab s7i7 3la had so2al?",
+    "options": [
+     "Yes, there is. It's next to the bank.",
+     "Yes, I am. It's next to the bank.",
+     "Yes, there are. It's next to the bank.",
+     "Yes, it does. It's next to the bank."
+    ],
+    "answer": 0,
+    "explain_da": "So2al b `Is there…?` → ljawab b `Yes, there is.` wla `No, there isn't.` (`there is` = kayn / kayna, men dars 10). `there are` dyal ljam3."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "It takes ten minutes on foot.",
+    "question_da": "Sem3i. Ch7al kaykhod ttri9, w kifach?",
+    "options": [
+     "3echra d9ay9 3la rejlik",
+     "3echra d9ay9 b tobis",
+     "3echrin d9i9a b taxi",
+     "Jouj d9ay9 b tomobil"
+    ],
+    "answer": 0,
+    "explain_da": "`It takes ten minutes` = kaykhod 3echra d9ay9. `on foot` = 3la rejlik."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "The post office is ___ the hospital.",
+    "options": [
+     "opposite",
+     "under",
+     "between"
+    ],
+    "answer": "opposite",
+    "hint_da": "9balt = ?",
+    "explain_da": "`opposite` = 9balt / mwajha. `between` khassha jouj 7wayj (`between the bank and the café`). `under` = t7t — makat9alch 3la blasa f zzen9a."
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "In English we say \"by foot\".",
+    "statement_da": "F lingliziya kan9oulo `by foot`.",
+    "answer": false,
+    "explain_da": "La! Kan9oulo `on foot` = 3la rejlik. `by` kanzidouha ghir m3a lwasa2il: `by bus`, `by train`, `by car`."
+   },
+   {
+    "type": "translate",
+    "da": "Sme7 liya, fin kayn lagar?",
+    "answers": [
+     "Excuse me, where is the train station?",
+     "Excuse me, where's the train station?",
+     "Excuse me, where is the station?",
+     "Excuse me, where's the station?"
+    ],
+    "hint_en": "Excuse me, where ... the ... station?",
+    "explain_da": "`Excuse me` = sme7 liya. `Where is the train station?` = fin kayn lagar?"
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Go ___ on and the mosque is on your right.",
+    "answers": [
+     "straight"
+    ],
+    "hint_da": "Siri nichan! Lkelma li na9sa kat3ni \"nichan\".",
+    "explain_da": "`Go straight on` = siri nichan. Rdi lbal l lktaba: `straight` (s-t-r-a-i-g-h-t) — l7orouf `gh` ma kaytne9ouch."
+   },
+   {
+    "type": "dictation",
+    "say_en": "Take the second street on the left.",
+    "da": "Khoudi zzen9a ttanya 3la lisser.",
+    "explain_da": "`Take` – `the` – `second` – `street` – `on` – `the` – `left`. `second` = ttani / ttanya."
+   },
+   {
+    "type": "order",
+    "words": [
+     "get",
+     "hospital?",
+     "How",
+     "to",
+     "I",
+     "the",
+     "do"
+    ],
+    "answer": "How do I get to the hospital?",
+    "da": "Kifach nwsel l sbitar?"
+   },
+   {
+    "type": "mcq",
+    "question_da": "Nouha katmchi men Casa l Rabat b ttran. Achmen jomla s7i7a?",
+    "options": [
+     "I go to Rabat by train.",
+     "I go to Rabat on train.",
+     "I go to Rabat with train.",
+     "I go to Rabat in train."
+    ],
+    "answer": 0,
+    "explain_da": "M3a lwasa2il kansta3mlo `by`: `by train`, `by bus`, `by taxi`, `by car`. Ghir `on foot` hiya li mokhtalifa."
+   },
+   {
+    "type": "translate",
+    "da": "Lbanka 7da sseydaliya, f lkonya.",
+    "answers": [
+     "The bank is next to the pharmacy, on the corner.",
+     "The bank is next to the pharmacy on the corner.",
+     "The bank is on the corner, next to the pharmacy.",
+     "The bank is on the corner next to the pharmacy."
+    ],
+    "hint_en": "The bank is ... to the ..., on the ...",
+    "explain_da": "`next to` = 7da. `on the corner` = f lkonya."
+   },
+   {
+    "type": "speak",
+    "target_en": "Excuse me, how do I get to the bus stop?",
+    "da": "Sme7 liya, kifach nwsel l blast tobis?",
+    "pron": "ik-skiouz mi, haw dou aï guét tou the beus stop"
+   }
+  ],
+  "reading": {
+   "title_en": "A day in Rabat",
+   "title_da": "Nhar f Rabat",
+   "emoji": "🚆",
+   "text_en": "Last Saturday, Nouha went to Rabat by train. The trip from Casablanca took one hour. At the train station, she asked a woman: \"Excuse me, how do I get to the medina?\" The woman said: \"Go straight on, then turn left at the big mosque. The medina is opposite the post office. It takes fifteen minutes on foot.\" Nouha walked slowly and looked at the shops. She stopped at a small café and had a mint tea. Then she asked a boy: \"Is there a pharmacy near here?\" He said: \"Yes, there is one on the corner, next to the bank.\" Nouha bought some medicine for her mother. In the afternoon, she took a taxi to the Kasbah of the Udayas. It was beautiful! At six o'clock, she went back to the station and took the train home.",
+   "text_da": "Ssebt li fat, Nouha mchat l Rabat b ttran. Ttri9 men Casa khdat sa3a. F lagar, sewlat wa7ed lmra: \"Sme7 liya, kifach nwsel l lmdina l9dima?\" Lmra 9alt liha: \"Siri nichan, men ba3d dori 3la lisser 3nd jame3 lkbir. Lmdina l9dima 9balt lbosta. Kaykhod khemstach d9i9a 3la rejlik.\" Nouha tmechat bechwiya w chafet l7wanet. W9fat f wa7ed l9ehwa sghira w cherbat atay. Men ba3d sewlat wa7ed lweld: \"Wach kayna chi sseydaliya 9riba men hna?\" 9al liha: \"Ah, kayna wa7da f lkonya, 7da lbanka.\" Nouha chrat chi dwa l mmha. F l3chiya, khdat taxi l 9asbat lwdaya. Kanet zwina bzzaf! F ssetta, rej3at l lagar w khdat ttran l ddar.",
+   "glossary": [
+    {
+     "en": "trip",
+     "da": "ttri9 / ssafar"
+    },
+    {
+     "en": "asked",
+     "da": "sewlat (sewwel)"
+    },
+    {
+     "en": "medina",
+     "da": "lmdina l9dima"
+    },
+    {
+     "en": "walked",
+     "da": "tmechat (3la rejliha)"
+    },
+    {
+     "en": "shops",
+     "da": "l7wanet"
+    },
+    {
+     "en": "stopped",
+     "da": "w9fat"
+    },
+    {
+     "en": "bought",
+     "da": "chrat"
+    },
+    {
+     "en": "medicine",
+     "da": "ddwa"
+    },
+    {
+     "en": "went back",
+     "da": "rej3at"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Kifach mchat Nouha l Rabat?",
+     "options": [
+      "B ttran",
+      "B tobis",
+      "B taxi",
+      "B tomobil"
+     ],
+     "answer": 0,
+     "explain_da": "`Nouha went to Rabat by train.` = mchat b ttran."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "The medina is next to the post office.",
+     "statement_da": "Lmdina l9dima 7da lbosta.",
+     "answer": false,
+     "explain_da": "Ghalet: `The medina is opposite the post office` = 9balt lbosta, machi 7daha."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Ch7al kaykhod ttri9 men lagar l lmdina l9dima 3la rejlik?",
+     "options": [
+      "15 d9i9a",
+      "5 d9ay9",
+      "Sa3a",
+      "30 d9i9a"
+     ],
+     "answer": 0,
+     "explain_da": "`It takes fifteen minutes on foot.` = khemstach d9i9a."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Fin kayna sseydaliya?",
+     "options": [
+      "F lkonya, 7da lbanka",
+      "9balt lbosta",
+      "F lagar",
+      "7da l9ehwa"
+     ],
+     "answer": 0,
+     "explain_da": "`There is one on the corner, next to the bank.`"
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "Siya7 f Marrakech",
+   "emoji": "🎧",
+   "pre_da": "Sem3i l7iwar. Rekkzi 3la: fin bgha ymchi Tom? Wach ghadi yakhod taxi? W ch7al kaykhod ttri9?",
+   "lines": [
+    {
+     "speaker": "Tom",
+     "en": "Excuse me, how do I get to Jemaa el-Fna square?",
+     "da": "Sme7 liya, kifach nwsel l sa7at jame3 lefna?"
+    },
+    {
+     "speaker": "Amina",
+     "en": "Jemaa el-Fna? It's easy. Go straight on, then turn right at the pharmacy.",
+     "da": "Jame3 lefna? Sahla. Sir nichan, men ba3d dor 3la limen 3nd sseydaliya."
+    },
+    {
+     "speaker": "Tom",
+     "en": "Turn right at the pharmacy. And then?",
+     "da": "Ndor 3la limen 3nd sseydaliya. W men ba3d?"
+    },
+    {
+     "speaker": "Amina",
+     "en": "Then take the first street on the left. The square is in front of you.",
+     "da": "Men ba3d khoud zzen9a l'oula 3la lisser. Ssa7a 9eddamek."
+    },
+    {
+     "speaker": "Tom",
+     "en": "Is it far? Can I take a taxi?",
+     "da": "Wach b3ida? Wach n9der nakhod taxi?"
+    },
+    {
+     "speaker": "Amina",
+     "en": "No, you don't need a taxi. It takes about ten minutes on foot.",
+     "da": "La, makhassekch taxi. Kaykhod ta9riban 3echra d9ay9 3la rejlik."
+    },
+    {
+     "speaker": "Tom",
+     "en": "Perfect. Thank you so much!",
+     "da": "Mzyan bzzaf. Choukran bzzaf!"
+    },
+    {
+     "speaker": "Amina",
+     "en": "You're welcome. Enjoy Marrakech!",
+     "da": "Bla jmil. Tmette3 b Marrakech!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Fin bgha ymchi Tom?",
+     "options": [
+      "L sa7at jame3 lefna",
+      "L sseydaliya",
+      "L lagar",
+      "L lbanka"
+     ],
+     "answer": 0,
+     "explain_da": "`How do I get to Jemaa el-Fna square?`"
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "Turn right at the pharmacy.",
+     "question_da": "Sem3i. Chno 9alt Amina?",
+     "options": [
+      "Dor 3la limen 3nd sseydaliya",
+      "Dor 3la lisser 3nd sseydaliya",
+      "Sir nichan 7ta l sseydaliya",
+      "9te3 zzen9a 3nd lbanka"
+     ],
+     "answer": 0,
+     "explain_da": "`Turn right` = dor 3la limen. `at the pharmacy` = 3nd sseydaliya."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Tom takes a taxi to the square.",
+     "statement_da": "Tom ghadi yakhod taxi l ssa7a.",
+     "answer": false,
+     "explain_da": "Amina 9alt: `you don't need a taxi` — ghadi ymchi 3la rejlih."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Ch7al kaykhod ttri9 3la rejlik?",
+     "options": [
+      "Ta9riban 10 d9ay9",
+      "Ta9riban 30 d9i9a",
+      "Sa3a",
+      "Jouj d9ay9"
+     ],
+     "answer": 0,
+     "explain_da": "`It takes about ten minutes on foot.` — `about` = ta9riban."
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "Excuse me, where is the bank?",
+     "da": "Sme7 liya, fin kayna lbanka?",
+     "pron": "ik-skiouz mi, wér iz the bank"
+    },
+    {
+     "target_en": "Turn left at the pharmacy.",
+     "da": "Dori 3la lisser 3nd sseydaliya.",
+     "pron": "teurn léft at the far-ma-si"
+    },
+    {
+     "target_en": "Go straight on, then turn right.",
+     "da": "Siri nichan, men ba3d dori 3la limen.",
+     "pron": "go stréyt on, then teurn raït"
+    },
+    {
+     "target_en": "It's next to the post office.",
+     "da": "Rah 7da lbosta.",
+     "pron": "its nékst tou the post o-fis"
+    },
+    {
+     "target_en": "How do I get to the train station?",
+     "da": "Kifach nwsel l lagar?",
+     "pron": "haw dou aï guét tou the tréyn sté-cheun"
+    },
+    {
+     "target_en": "It takes ten minutes on foot.",
+     "da": "Kaykhod 3echra d9ay9 3la rejlik.",
+     "pron": "it téyks tén mi-nits on fout"
+    }
+   ],
+   "roleplay": {
+    "title_da": "Siya7 kaysewlek 3la ttri9",
+    "context_da": "Nti f zzen9a f lmdina dyalek. Wa7ed ssiya7 kaysewlek 3la ttri9. Jawbih b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+    "turns": [
+     {
+      "bot_en": "Excuse me! Is there a pharmacy near here?",
+      "bot_da": "Sme7 liya! Wach kayna chi sseydaliya 9riba men hna?",
+      "expect_keywords": [
+       "yes",
+       "there is",
+       "no",
+       "there isn't",
+       "pharmacy",
+       "next to",
+       "opposite",
+       "corner"
+      ],
+      "sample_en": "Yes, there is. It's next to the bank."
+     },
+     {
+      "bot_en": "Great! How do I get there?",
+      "bot_da": "Mzyan! Kifach nwsel liha?",
+      "expect_keywords": [
+       "go straight",
+       "straight on",
+       "turn left",
+       "turn right",
+       "take the",
+       "cross",
+       "go past"
+      ],
+      "sample_en": "Go straight on and turn left at the mosque."
+     },
+     {
+      "bot_en": "Is it far?",
+      "bot_da": "Wach b3ida?",
+      "expect_keywords": [
+       "no",
+       "not far",
+       "minutes",
+       "near",
+       "yes",
+       "far",
+       "on foot"
+      ],
+      "sample_en": "No, it's not far. It takes five minutes on foot."
+     },
+     {
+      "bot_en": "And where is the train station, please?",
+      "bot_da": "W fin kayn lagar, 3afak?",
+      "expect_keywords": [
+       "opposite",
+       "next to",
+       "on the corner",
+       "behind",
+       "near",
+       "straight",
+       "turn",
+       "bus",
+       "taxi",
+       "far"
+      ],
+      "sample_en": "It's opposite the post office. You can take a taxi."
+     },
+     {
+      "bot_en": "Thank you very much for your help!",
+      "bot_da": "Choukran bzzaf 3la lmosa3ada!",
+      "expect_keywords": [
+       "welcome",
+       "no problem",
+       "bye",
+       "goodbye",
+       "good luck",
+       "nice day",
+       "enjoy"
+      ],
+      "sample_en": "You're welcome! Have a nice day."
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "Ttri9 l darek",
+   "prompt_da": "Sa7btek Sarah ghadi tji 3ndek l ddar l'awwal merra. Ktbi liha message b lingliziya: kifach twsel men lagar (wla men blast tobis) l darek. Sta3mli `Go straight on`, `Turn left / right`, `next to`, `opposite`, w 9oli ch7al kaykhod ttri9 (`It takes … minutes`).",
+   "helper_en": [
+    "From the train station, go straight on ...",
+    "Turn left / right at the ...",
+    "My house is next to / opposite the ...",
+    "It takes ... minutes on foot.",
+    "You can also take a taxi."
+   ],
+   "min_words": 40,
+   "keywords": [
+    "turn",
+    "straight",
+    "minutes"
+   ],
+   "model_en": "Hi Sarah! Here is the way to my house. From the train station, go straight on for five minutes. Then turn left at the big mosque. Take the second street on the right. My house is opposite the pharmacy, next to a small café. It is a white door with the number 12. It takes about fifteen minutes on foot, or you can take a taxi for ten dirhams. Call me if you get lost! See you on Saturday."
+  }
+ },
+ {
+  "id": "l18",
+  "order": 18,
+  "level": "A2.1",
+  "emoji": "🩺",
+  "title_en": "Health & body: at the doctor",
+  "title_da": "Ss7a w ljism: 3nd tbib",
+  "goals_da": [
+   "Tsemmi l'a3da2 dyal ljism: `head`, `stomach`, `back`, `throat`, `tooth`…",
+   "T9oli chno kaydorrek: `I have a headache`, `My back hurts`, `I feel sick`",
+   "Tfehmi so2al tbib `What's the matter?` w tjawbi 3lih",
+   "T3tiw nasi7a b `should` / `shouldn't`, w tfehmi sseydali: `Take one tablet twice a day`"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "Ljism dyalna — the body",
+    "body_da": "Bach thedri m3a tbib, khassek t3erfi smiyat l'a3da2 dyal ljism (`the body`):\n\n- `head` = rras\n- `stomach` = lkerch / lm3da\n- `back` = ddher\n- `throat` = l7el9\n- `tooth` = ssenna — ljam3 dyalha machi 3adi: `teeth` = ssnan (machi \"tooths\"!)\n- `arm` = ddra3\n- `leg` = rrjel\n- `eye` = l3in (ljam3: `eyes`)\n- `ear` = lwden (ljam3: `ears`)\n- `hand` = lyedd, `foot` = l9dem (ljam3 machi 3adi: `feet`)\n\nBhal f darija melli kan9oulo \"ras**i**\", \"kerch**i**\", f lingliziya kansta3mlo `my` 9bel l3odw: `my head`, `my stomach`, `my back`. W rdi lbal l lmofrad w ljam3: `my eye` (3in wa7da) / `my eyes` (bjouj).",
+    "examples": [
+     {
+      "en": "I have two eyes, two ears and one head.",
+      "da": "3ndi jouj 3inin, jouj wdnin w ras wa7ed.",
+      "pron": "aï hav tou aïz, tou irz and wan héd"
+     },
+     {
+      "en": "My tooth hurts.",
+      "da": "Senti kaddorrni.",
+      "pron": "maï touth heurts"
+     },
+     {
+      "en": "Wash your hands before you eat.",
+      "da": "Ghesli yeddik 9bel ma takli.",
+      "pron": "woch your handz bi-for you it"
+     },
+     {
+      "en": "My arm is OK, but my leg hurts.",
+      "da": "Dra3i labas, walakin rejli kaddorrni.",
+      "pron": "maï arm iz o-kéy, beut maï lég heurts"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "I have a headache / My back hurts — chno kaydorrek?",
+    "body_da": "Kayn jouj tari9at bach t9oli ach kaydorrek:\n\n**1) `I have a …`** (3ndi …) m3a smiyat lmard:\n\n- `I have a headache.` = Rasi kaydorrni. (`head` + `ache` = wja3 rras)\n- `I have a stomach ache.` = Kerchi kaddorrni.\n- `I have a toothache.` = Senti kaddorrni.\n- `I have a sore throat.` = 7el9i kaydorrni. (`sore` = mdorr, mel-heb)\n- `I have a cold.` = 3ndi rrwa7.\n- `I have a fever.` = 3ndi sskhana.\n- `I have a cough.` = 3ndi lko77a.\n\n**2) `My … hurts.`** (… dyali kaydorrni) m3a l3odw dyal ljism: `My back hurts.` = Dehri kaydorrni. `My leg hurts.` = Rejli kaddorrni. Ila kan ljam3, bla `-s`: `My eyes hurt.` = 3iniya kaydorrouni.\n\nW bach t9oli kifach 7assa, kansta3mlo `I feel` + ssifa: `I feel sick.` = 7assa b rasi mrida. `I feel tired.` = 7assa b l3ya. `I feel better.` = 7assit b t7assn. `I feel dizzy.` = Rasi kaydour biya.\n\nBhal f darija: \"rasi kaydorrni\" t9edri t9oliha b jouj tari9at — `I have a headache` wla `My head hurts` — bjouj s7a7!",
+    "examples": [
+     {
+      "en": "I have a headache and a fever.",
+      "da": "Rasi kaydorrni w 3ndi sskhana.",
+      "pron": "aï hav a héd-éyk and a fi-veur"
+     },
+     {
+      "en": "My back hurts a lot.",
+      "da": "Dehri kaydorrni bzzaf.",
+      "pron": "maï bak heurts a lot"
+     },
+     {
+      "en": "I have a sore throat and a cough.",
+      "da": "7el9i kaydorrni w 3ndi lko77a.",
+      "pron": "aï hav a sor throt and a kof"
+     },
+     {
+      "en": "I feel sick. I want to go home.",
+      "da": "7assa b rasi mrida. Bghit nmchi l ddar.",
+      "pron": "aï fil sik. aï wont tou go hom"
+     },
+     {
+      "en": "My eyes hurt when I read.",
+      "da": "3iniya kaydorrouni melli kan9ra.",
+      "pron": "maï aïz heurt wén aï rid"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "3nd tbib: What's the matter?",
+    "body_da": "Melli katdekhli 3nd tbib (`the doctor`), kaysewlek:\n\n- `What's the matter?` = Malek? / Chno 3ndek? (so2al 3am 3la lmochkil)\n- `What's wrong?` = Chno wa9e3? / Malek? (nefs lma3na)\n- `How do you feel?` = Kifach 7assa?\n- `Where does it hurt?` = Fin kaydorrek?\n- `Do you have a fever?` = Wach 3ndek sskhana?\n\nW kay9oul lik:\n\n- `Open your mouth, please.` = 7elli fommek, 3afak.\n- `It's nothing serious.` = Ma kayn walou khatir. / `Don't worry.` = Matkhafich.\n- `You have a cold.` / `You have the flu.` = 3ndek rrwa7 / 3ndek lgrip.\n- `Take this medicine.` = Khoudi had ddwa.\n- `Get well soon!` = Allah ychafik! (7arfiyan: twelli bikhir 9rib)\n\nTfekkri: `What's the matter?` kat9al 7ta bra tbib, melli kanchoufo chi wa7ed m9elle9 wla mrid — bhal \"malek?\" f darija.",
+    "examples": [
+     {
+      "en": "What's the matter? You look tired.",
+      "da": "Malek? Bayna 3lik 3yyana.",
+      "pron": "wats the ma-teur? you louk taï-eurd"
+     },
+     {
+      "en": "Where does it hurt? — Here, in my stomach.",
+      "da": "Fin kaydorrek? — Hna, f kerchi.",
+      "pron": "wér deuz it heurt? hir, in maï steu-meuk"
+     },
+     {
+      "en": "Do you have a fever? — Yes, I think so.",
+      "da": "Wach 3ndek sskhana? — Ah, kandenn.",
+      "pron": "dou you hav a fi-veur? yès, aï think so"
+     },
+     {
+      "en": "It's nothing serious. Get well soon!",
+      "da": "Ma kayn walou khatir. Allah ychafik!",
+      "pron": "its neu-thing si-ri-eus. guét wél soun"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "should / shouldn't — nasi7a (advice)",
+    "body_da": "Bach n3tiw nasi7a, kansta3mlo `should` (= khassek) w `shouldn't` (= makhasskich). Men ba3dhom kayji l fi3l f ssoura l'asliya (bla `to`, bla `-s`):\n\n- `You should rest.` = Khassek trta7i.\n- `You should drink a lot of water.` = Khassek tcherbi lma bzzaf.\n- `You should see a doctor.` = Khassek tchoufi tbib.\n- `You shouldn't eat sugar.` = Makhasskich takli sskar.\n- `You shouldn't smoke.` = Makhasskich tkmi.\n\n`should` ma kaytbeddelch m3a `he` / `she`: `She should rest.` (machi \"shoulds\"). Bhal `can` li chefna f dars 14.\n\nSo2al: `Should I take medicine?` = Wach khassni nakhod ddwa? — `Yes, you should.` / `No, you shouldn't.`\n\n`should` hiya nasi7a (khassek), machi amr 9asi. Tbib kay9oul `You should rest`, machi `Rest!`.",
+    "examples": [
+     {
+      "en": "You should stay in bed today.",
+      "da": "Khassek tb9ay f lfrach lyouma.",
+      "pron": "you choud stéy in béd tou-déy"
+     },
+     {
+      "en": "You shouldn't drink cold water.",
+      "da": "Makhasskich tcherbi lma bared.",
+      "pron": "you choud-eunt drink kold wo-teur"
+     },
+     {
+      "en": "He should go to the hospital.",
+      "da": "Khasso ymchi l sbitar.",
+      "pron": "hi choud go tou the hos-pi-teul"
+     },
+     {
+      "en": "Should I take these tablets? — Yes, you should.",
+      "da": "Wach khassni nakhod had l7bob? — Ah, khassek.",
+      "pron": "choud aï téyk thiz tab-lits? yès, you choud"
+     },
+     {
+      "en": "You shouldn't work when you're sick.",
+      "da": "Makhasskich tkhdmi melli nti mrida.",
+      "pron": "you choud-eunt weurk wén your sik"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "F sseydaliya: medicine, tablets, syrup",
+    "body_da": "Men ba3d tbib, kanmchiw l sseydaliya (`the pharmacy`). Lkelmat lmohimma:\n\n- `medicine` = ddwa (kelma 3amma)\n- `tablets` / `pills` = l7bob (7abba wa7da = `a tablet`)\n- `syrup` = ssirou (dwa sa2il, dyal lko77a)\n- `a prescription` = lwer9a dyal tbib\n- `twice a day` = jouj merrat f nhar; `three times a day` = tlata d lmerrat f nhar; `once a day` = merra f nhar (men dars 8)\n- `after meals` / `before meals` = men ba3d lmakla / 9bel lmakla\n\nSseydali (`the pharmacist`) kay9oul lik: `Take one tablet twice a day, after meals.` = Khoudi 7abba wa7da jouj merrat f nhar, men ba3d lmakla.\n\nW nti t9edri tsewli: `Do you have something for a headache?` = Wach 3ndkom chi 7aja l wja3 rras? / `How often should I take it?` = Ch7al men merra khassni nakhdo?",
+    "examples": [
+     {
+      "en": "Do you have something for a cold?",
+      "da": "Wach 3ndkom chi 7aja l rrwa7?",
+      "pron": "dou you hav seum-thing for a kold"
+     },
+     {
+      "en": "Take one tablet twice a day.",
+      "da": "Khoudi 7abba wa7da jouj merrat f nhar.",
+      "pron": "téyk wan tab-lit twaïs a déy"
+     },
+     {
+      "en": "This syrup is for your cough.",
+      "da": "Had ssirou dyal lko77a dyalek.",
+      "pron": "this si-reup iz for your kof"
+     },
+     {
+      "en": "How often should I take it? — Three times a day, after meals.",
+      "da": "Ch7al men merra nakhdo? — Tlata d lmerrat f nhar, men ba3d lmakla.",
+      "pron": "haw o-feun choud aï téyk it? thri taïmz a déy, af-teur milz"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "head",
+      "da": "rras",
+      "emoji": "🤕",
+      "pron": "héd",
+      "example_en": "My head hurts.",
+      "example_da": "Rasi kaydorrni."
+     },
+     {
+      "en": "stomach",
+      "da": "lkerch (lm3da)",
+      "emoji": "🤢",
+      "pron": "steu-meuk",
+      "example_en": "I have a stomach ache.",
+      "example_da": "Kerchi kaddorrni."
+     },
+     {
+      "en": "back",
+      "da": "ddher",
+      "emoji": "🧍‍♀️",
+      "pron": "bak",
+      "example_en": "My back hurts when I sit.",
+      "example_da": "Dehri kaydorrni melli kangles."
+     },
+     {
+      "en": "throat",
+      "da": "l7el9",
+      "emoji": "😷",
+      "pron": "throt",
+      "example_en": "I have a sore throat.",
+      "example_da": "7el9i kaydorrni."
+     },
+     {
+      "en": "tooth",
+      "da": "ssenna (ljam3: ssnan = `teeth`)",
+      "emoji": "🦷",
+      "pron": "touth",
+      "example_en": "I have a toothache.",
+      "example_da": "Senti kaddorrni."
+     },
+     {
+      "en": "arm",
+      "da": "ddra3",
+      "emoji": "💪",
+      "pron": "arm",
+      "example_en": "My arm hurts.",
+      "example_da": "Dra3i kaydorrni."
+     },
+     {
+      "en": "leg",
+      "da": "rrjel",
+      "emoji": "🦵",
+      "pron": "lég",
+      "example_en": "Her leg hurts.",
+      "example_da": "Rejlha kaddorrha."
+     },
+     {
+      "en": "eye",
+      "da": "l3in (ljam3: 3inin = `eyes`)",
+      "emoji": "👁️",
+      "pron": "aï",
+      "example_en": "My eyes hurt.",
+      "example_da": "3iniya kaydorrouni."
+     },
+     {
+      "en": "ear",
+      "da": "lwden (ljam3: wdnin = `ears`)",
+      "emoji": "👂",
+      "pron": "ir",
+      "example_en": "My ear hurts.",
+      "example_da": "Wedni kaddorrni."
+     },
+     {
+      "en": "headache",
+      "da": "wja3 rras",
+      "emoji": "🤯",
+      "pron": "héd-éyk",
+      "example_en": "I have a terrible headache.",
+      "example_da": "Rasi kaydorrni bzzaf."
+     },
+     {
+      "en": "cold",
+      "da": "rrwa7 (lberd)",
+      "emoji": "🤧",
+      "pron": "kold",
+      "example_en": "She has a cold.",
+      "example_da": "3ndha rrwa7."
+     },
+     {
+      "en": "fever",
+      "da": "sskhana",
+      "emoji": "🌡️",
+      "pron": "fi-veur",
+      "example_en": "He has a fever.",
+      "example_da": "3ndo sskhana."
+     },
+     {
+      "en": "doctor",
+      "da": "tbib / tbiba",
+      "emoji": "👩‍⚕️",
+      "pron": "dok-teur",
+      "example_en": "You should see a doctor.",
+      "example_da": "Khassek tchoufi tbib."
+     },
+     {
+      "en": "medicine",
+      "da": "ddwa",
+      "emoji": "🧴",
+      "pron": "méd-sin",
+      "example_en": "Take this medicine after meals.",
+      "example_da": "Khoudi had ddwa men ba3d lmakla."
+     },
+     {
+      "en": "tablet",
+      "da": "7abba (dyal ddwa)",
+      "emoji": "💊",
+      "pron": "tab-lit",
+      "example_en": "Take one tablet twice a day.",
+      "example_da": "Khoudi 7abba wa7da jouj merrat f nhar."
+     },
+     {
+      "en": "syrup",
+      "da": "ssirou (dwa sa2il)",
+      "emoji": "🥄",
+      "pron": "si-reup",
+      "example_en": "This syrup is for children.",
+      "example_da": "Had ssirou dyal ddrari."
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "3nd tbiba",
+    "context_da": "Nouha mrida men lbare7. Mchat 3nd tbiba f Casa. Tbiba katsewwelha chno 3ndha w kat3tiha nasa2i7.",
+    "lines": [
+     {
+      "speaker": "Doctor",
+      "en": "Good morning, Nouha. What's the matter?",
+      "da": "Sbah lkhir, Nouha. Malek?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Good morning, doctor. I have a sore throat and a headache.",
+      "da": "Sbah lkhir, a tbiba. 7el9i kaydorrni w rasi kaydorrni."
+     },
+     {
+      "speaker": "Doctor",
+      "en": "I see. Do you have a fever?",
+      "da": "Fhemt. Wach 3ndek sskhana?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Yes, I think so. I feel very tired.",
+      "da": "Ah, kandenn. 7assa b l3ya bzzaf."
+     },
+     {
+      "speaker": "Doctor",
+      "en": "Open your mouth, please… Yes, your throat is red. You have a cold.",
+      "da": "7elli fommek, 3afak… Ah, 7el9ek 7mer. 3ndek rrwa7."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Is it serious?",
+      "da": "Wach khatir?"
+     },
+     {
+      "speaker": "Doctor",
+      "en": "No, don't worry. You should rest and drink a lot of water.",
+      "da": "La, matkhafich. Khassek trta7i w tcherbi lma bzzaf."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Should I take any medicine?",
+      "da": "Wach khassni nakhod chi dwa?"
+     },
+     {
+      "speaker": "Doctor",
+      "en": "Yes. Take these tablets twice a day, after meals. And you shouldn't drink cold drinks.",
+      "da": "Ah. Khoudi had l7bob jouj merrat f nhar, men ba3d lmakla. W makhasskich tcherbi lmachroubat lbarda."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "OK. Thank you, doctor.",
+      "da": "Wakha. Choukran, a tbiba."
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "Rdi lbal l `-s` f `hurts`: `My back hurts` (wa7ed) walakin `My eyes hurt` (bzzaf). Lkelmat b `-ache` (wja3) kaymchiw m3a `I have a…`: `a headache`, `a toothache`, `a stomach ache`. Melli chi wa7ed mrid, 9oli lih `Get well soon!` (= Allah ychafik). W 3nd tbib, ila mafhemtich chi 7aja, matkhafich: 9oli `Can you repeat, please?` — t3ellemtiha f dars 2!"
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "Kifach kan9oulo \"rasi kaydorrni\" b lingliziya?",
+    "options": [
+     "I have a headache.",
+     "I have a cold.",
+     "My leg hurts.",
+     "I feel tired."
+    ],
+    "answer": 0,
+    "explain_da": "`I have a headache` = rasi kaydorrni. `I have a cold` = 3ndi rrwa7. `My leg hurts` = rejli kaddorrni. `I feel tired` = 7assa b l3ya."
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli l3odw dyal ljism b lingliziya m3a lma3na dyalo.",
+    "pairs": [
+     {
+      "en": "head",
+      "da": "rras",
+      "emoji": "🤕"
+     },
+     {
+      "en": "stomach",
+      "da": "lkerch",
+      "emoji": "🤢"
+     },
+     {
+      "en": "tooth",
+      "da": "ssenna",
+      "emoji": "🦷"
+     },
+     {
+      "en": "leg",
+      "da": "rrjel",
+      "emoji": "🦵"
+     },
+     {
+      "en": "eye",
+      "da": "l3in",
+      "emoji": "👁️"
+     },
+     {
+      "en": "ear",
+      "da": "lwden",
+      "emoji": "👂"
+     }
+    ]
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "What's the matter?",
+    "question_da": "Sem3i. Chno kaysewwel tbib?",
+    "options": [
+     "Malek? Chno 3ndek?",
+     "Chno smiytek?",
+     "Fin kayn sbitar?",
+     "Ch7al f 3merk?"
+    ],
+    "answer": 0,
+    "explain_da": "`What's the matter?` = malek? / chno 3ndek? Tbib kaysewwelha f lbdaya."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "I ___ a sore throat.",
+    "options": [
+     "have",
+     "am",
+     "feel"
+    ],
+    "answer": "have",
+    "hint_da": "7el9i kaydorrni = I ... a sore throat.",
+    "explain_da": "M3a smiyat lmard kansta3mlo `have`: `I have a sore throat`, `I have a cold`, `I have a fever`."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "My eyes ___.",
+    "options": [
+     "hurt",
+     "hurts",
+     "hurting"
+    ],
+    "answer": "hurt",
+    "hint_da": "`eyes` = jam3 (bjouj).",
+    "explain_da": "`My eyes` jam3 → bla `-s`: `My eyes hurt.` Lmofrad kayakhod `-s`: `My eye hurts.`"
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "You shouldn't eat sugar.",
+    "question_da": "Sem3i. Chno hiya nnasi7a?",
+    "options": [
+     "Makhasskich takli sskar",
+     "Khassek takli sskar",
+     "Khassek tcherbi lma",
+     "Makhasskich tn3si"
+    ],
+    "answer": 0,
+    "explain_da": "`You shouldn't eat sugar` = makhasskich takli sskar. `shouldn't` = `should not` = makhasskich."
+   },
+   {
+    "type": "order",
+    "words": [
+     "water.",
+     "should",
+     "a",
+     "You",
+     "of",
+     "drink",
+     "lot"
+    ],
+    "answer": "You should drink a lot of water.",
+    "da": "Khassek tcherbi lma bzzaf."
+   },
+   {
+    "type": "mcq",
+    "question_en": "Should I go to the doctor?",
+    "question_da": "Achmen jawab 9sir s7i7?",
+    "options": [
+     "Yes, you should.",
+     "Yes, you do.",
+     "Yes, you are.",
+     "Yes, you have."
+    ],
+    "answer": 0,
+    "explain_da": "So2al b `Should I…?` → ljawab b `Yes, you should.` wla `No, you shouldn't.`"
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "With \"he\" and \"she\" we say \"shoulds\": \"She shoulds rest.\"",
+    "statement_da": "M3a `he` w `she` kan9oulo `shoulds`: `She shoulds rest`.",
+    "answer": false,
+    "explain_da": "Ghalet! `should` ma kaytbeddelch: `She should rest.`, `He should rest.` — bhal `can`."
+   },
+   {
+    "type": "translate",
+    "da": "3ndi rrwa7 w 7el9i kaydorrni.",
+    "answers": [
+     "I have a cold and a sore throat.",
+     "I've got a cold and a sore throat.",
+     "I have a cold and my throat hurts.",
+     "I have got a cold and a sore throat."
+    ],
+    "hint_en": "I have a ... and a sore ...",
+    "explain_da": "`I have a cold` = 3ndi rrwa7. `a sore throat` = 7el9 kaydorr. Bjouj m3a `have`."
+   },
+   {
+    "type": "dictation",
+    "say_en": "Take one tablet twice a day.",
+    "da": "Khoudi 7abba wa7da jouj merrat f nhar.",
+    "explain_da": "`Take` – `one` – `tablet` – `twice` – `a` – `day`. `twice` = jouj merrat."
+   },
+   {
+    "type": "order",
+    "words": [
+     "medicine",
+     "meals.",
+     "Take",
+     "after",
+     "this"
+    ],
+    "answer": "Take this medicine after meals.",
+    "da": "Khoudi had ddwa men ba3d lmakla."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "I have a ___. My head hurts a lot.",
+    "answers": [
+     "headache",
+     "head ache"
+    ],
+    "hint_da": "wja3 rras = head + ache",
+    "explain_da": "`headache` = `head` + `ache` (wja3). Kelma wa7da: `a headache`."
+   },
+   {
+    "type": "translate",
+    "da": "Khassek trta7i w makhasskich tkhdmi lyouma.",
+    "answers": [
+     "You should rest and you shouldn't work today.",
+     "You should rest and shouldn't work today.",
+     "You should rest, and you shouldn't work today.",
+     "You should rest and you should not work today."
+    ],
+    "hint_en": "You should ... and you shouldn't ... today.",
+    "explain_da": "`should` = khassek, `shouldn't` = makhasskich. Men ba3dhom l fi3l bla `to`: `should rest`, `shouldn't work`."
+   },
+   {
+    "type": "mcq",
+    "question_en": "How often should I take the syrup?",
+    "question_da": "Achmen jawab mnassb l had so2al f sseydaliya?",
+    "options": [
+     "Three times a day, after meals.",
+     "Three tablets, please.",
+     "In the pharmacy.",
+     "Because I have a cold."
+    ],
+    "answer": 0,
+    "explain_da": "`How often?` = ch7al men merra? → `three times a day` = tlata d lmerrat f nhar."
+   },
+   {
+    "type": "speak",
+    "target_en": "I have a headache and I feel very tired.",
+    "da": "Rasi kaydorrni w 7assa b l3ya bzzaf.",
+    "pron": "aï hav a héd-éyk and aï fil vé-ri taï-eurd"
+   }
+  ],
+  "reading": {
+   "title_en": "Omar's bad day",
+   "title_da": "Nhar khayb dyal Omar",
+   "emoji": "🤒",
+   "text_en": "Yesterday was a bad day for Omar. In the morning, he got up with a terrible headache and a sore throat. He didn't want to eat breakfast. \"What's the matter?\" his mother asked. \"I feel sick, Mum. My head hurts and I'm very cold,\" he said. His mother touched his head. \"You have a fever. You should go to the doctor.\" Omar went to the health centre near his house. The doctor looked at his throat and said: \"You have the flu. It's nothing serious, but you should stay in bed for three days. You shouldn't go to work and you shouldn't drink cold drinks.\" At the pharmacy, Omar bought some tablets and a syrup for his cough. The pharmacist said: \"Take one tablet three times a day, after meals.\" Today Omar feels a little better, but he is still tired. Get well soon, Omar!",
+   "text_da": "Lbare7 kan nhar khayb l Omar. F sbah, nad w rasso kaydorro bzzaf w 7el9o kaydorro. Mabghach yfter. \"Malek?\" sewlato mmo. \"7ass b rasi mrid, a mma. Rasi kaydorrni w fiya lberd bzzaf,\" 9al liha. Mmo 7attat yeddha 3la rasso. \"3ndek sskhana. Khassek tmchi 3nd tbib.\" Omar mcha l lmerkez ssi77i 9rib men daro. Tbib chaf 7el9o w 9al lih: \"3ndek lgrip. Ma kayn walou khatir, walakin khassek tb9a f lfrach tlat iyam. Makhassekch tmchi l lkhedma w makhassekch tcherb lmachroubat lbarda.\" F sseydaliya, Omar chra chi 7bob w sirou dyal lko77a. Sseydali 9al lih: \"Khoud 7abba wa7da tlata d lmerrat f nhar, men ba3d lmakla.\" Lyouma Omar 7ass b rasso 7sen chwiya, walakin mazal 3yyan. Allah ychafik, a Omar!",
+   "glossary": [
+    {
+     "en": "got up",
+     "da": "nad (men nn3as)"
+    },
+    {
+     "en": "terrible",
+     "da": "khayb bzzaf / 9wi"
+    },
+    {
+     "en": "touched",
+     "da": "7attat yeddha 3la / 9asset"
+    },
+    {
+     "en": "health centre",
+     "da": "lmerkez ssi77i"
+    },
+    {
+     "en": "the flu",
+     "da": "lgrip"
+    },
+    {
+     "en": "stay in bed",
+     "da": "b9a f lfrach"
+    },
+    {
+     "en": "cough",
+     "da": "lko77a"
+    },
+    {
+     "en": "pharmacist",
+     "da": "sseydali"
+    },
+    {
+     "en": "still",
+     "da": "mazal"
+    },
+    {
+     "en": "a little better",
+     "da": "7sen chwiya"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chno kan 3nd Omar f sbah?",
+     "options": [
+      "Wja3 rras w 7el9o kaydorro",
+      "Kerch kaddorro",
+      "Rejlo kaddorro",
+      "Wja3 ssnan"
+     ],
+     "answer": 0,
+     "explain_da": "`He got up with a terrible headache and a sore throat.`"
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "The doctor said Omar should go to work.",
+     "statement_da": "Tbib 9al l Omar khasso ymchi l lkhedma.",
+     "answer": false,
+     "explain_da": "Ghalet: `You shouldn't go to work` = makhassekch tmchi l lkhedma."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Ch7al men merra khasso yakhod l7abba?",
+     "options": [
+      "Tlata d lmerrat f nhar",
+      "Merra f nhar",
+      "Jouj merrat f nhar",
+      "Merra f ssimana"
+     ],
+     "answer": 0,
+     "explain_da": "`Take one tablet three times a day, after meals.`"
+    },
+    {
+     "type": "mcq",
+     "question_da": "Kifach 7ass Omar lyouma?",
+     "options": [
+      "7sen chwiya, walakin mazal 3yyan",
+      "Mrid bzzaf, kter men lbare7",
+      "Labas tamaman",
+      "3ndo wja3 lkerch"
+     ],
+     "answer": 0,
+     "explain_da": "`Today Omar feels a little better, but he is still tired.`"
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "F sseydaliya",
+   "emoji": "🎧",
+   "pre_da": "Sem3i l7iwar bin Laila w sseydali. Rekkzi 3la: chno kaydorr Laila? Chno 3taha sseydali? W ch7al men merra khassha takhdo?",
+   "lines": [
+    {
+     "speaker": "Pharmacist",
+     "en": "Good afternoon. Can I help you?",
+     "da": "Msa lkhir. Wach n9der n3awnek?"
+    },
+    {
+     "speaker": "Laila",
+     "en": "Yes, please. I have a cough and a sore throat. Do you have something for it?",
+     "da": "Ah, 3afak. 3ndi lko77a w 7el9i kaydorrni. Wach 3ndkom chi 7aja liha?"
+    },
+    {
+     "speaker": "Pharmacist",
+     "en": "Do you have a fever?",
+     "da": "Wach 3ndek sskhana?"
+    },
+    {
+     "speaker": "Laila",
+     "en": "No, I don't. But I feel very tired.",
+     "da": "La. Walakin 7assa b l3ya bzzaf."
+    },
+    {
+     "speaker": "Pharmacist",
+     "en": "OK. This syrup is good for your cough. Take it three times a day, after meals.",
+     "da": "Wakha. Had ssirou mzyan l lko77a dyalek. Khoudih tlata d lmerrat f nhar, men ba3d lmakla."
+    },
+    {
+     "speaker": "Laila",
+     "en": "Three times a day. And for my throat?",
+     "da": "Tlata d lmerrat f nhar. W l 7el9i?"
+    },
+    {
+     "speaker": "Pharmacist",
+     "en": "These tablets. One tablet twice a day. And you should drink warm water with honey.",
+     "da": "Had l7bob. 7abba wa7da jouj merrat f nhar. W khassek tcherbi lma dafi b l3sel."
+    },
+    {
+     "speaker": "Laila",
+     "en": "Thank you. How much is it?",
+     "da": "Choukran. Ch7al ttaman?"
+    },
+    {
+     "speaker": "Pharmacist",
+     "en": "Sixty-five dirhams, please. Get well soon!",
+     "da": "Khemsa w settin derhem, 3afak. Allah ychafik!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chno kaydorr Laila?",
+     "options": [
+      "Lko77a w l7el9",
+      "Rras w lkerch",
+      "Rrjel",
+      "Ddher"
+     ],
+     "answer": 0,
+     "explain_da": "`I have a cough and a sore throat.`"
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Laila has a fever.",
+     "statement_da": "Laila 3ndha sskhana.",
+     "answer": false,
+     "explain_da": "Ghalet: `No, I don't.` — ma 3ndhach sskhana, walakin 3yyana."
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "Take it three times a day, after meals.",
+     "question_da": "Sem3i. Ch7al men merra, w fo9ach?",
+     "options": [
+      "Tlata d lmerrat f nhar, men ba3d lmakla",
+      "Jouj merrat f nhar, 9bel lmakla",
+      "Merra f nhar, f lil",
+      "Tlata d lmerrat f ssimana"
+     ],
+     "answer": 0,
+     "explain_da": "`three times a day` = tlata d lmerrat f nhar. `after meals` = men ba3d lmakla."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Ch7al khellsat Laila?",
+     "options": [
+      "65 derhem",
+      "56 derhem",
+      "75 derhem",
+      "25 derhem"
+     ],
+     "answer": 0,
+     "explain_da": "`Sixty-five dirhams` = 65 derhem. (Rdi lbal: `sixty` = 60, `sixteen` = 16!)"
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "What's the matter?",
+     "da": "Malek?",
+     "pron": "wats the ma-teur"
+    },
+    {
+     "target_en": "I have a headache.",
+     "da": "Rasi kaydorrni.",
+     "pron": "aï hav a héd-éyk"
+    },
+    {
+     "target_en": "My stomach hurts.",
+     "da": "Kerchi kaddorrni.",
+     "pron": "maï steu-meuk heurts"
+    },
+    {
+     "target_en": "I feel sick and tired.",
+     "da": "7assa b rasi mrida w 3yyana.",
+     "pron": "aï fil sik and taï-eurd"
+    },
+    {
+     "target_en": "You should rest and drink water.",
+     "da": "Khassek trta7i w tcherbi lma.",
+     "pron": "you choud rést and drink wo-teur"
+    },
+    {
+     "target_en": "Take one tablet twice a day.",
+     "da": "Khoudi 7abba wa7da jouj merrat f nhar.",
+     "pron": "téyk wan tab-lit twaïs a déy"
+    }
+   ],
+   "roleplay": {
+    "title_da": "3nd tbib",
+    "context_da": "Nti mrida w mchiti 3nd tbib. Howa ghadi ysewlek. Jawbi b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+    "turns": [
+     {
+      "bot_en": "Good morning. What's the matter?",
+      "bot_da": "Sbah lkhir. Malek?",
+      "expect_keywords": [
+       "i have",
+       "hurts",
+       "hurt",
+       "i feel",
+       "headache",
+       "cold",
+       "throat",
+       "fever",
+       "stomach",
+       "sick",
+       "tired",
+       "cough"
+      ],
+      "sample_en": "I have a headache and a sore throat."
+     },
+     {
+      "bot_en": "I see. Do you have a fever?",
+      "bot_da": "Fhemt. Wach 3ndek sskhana?",
+      "expect_keywords": [
+       "yes",
+       "no",
+       "i think",
+       "i don't",
+       "a little"
+      ],
+      "sample_en": "Yes, I think so."
+     },
+     {
+      "bot_en": "How do you feel today?",
+      "bot_da": "Kifach 7assa lyouma?",
+      "expect_keywords": [
+       "tired",
+       "sick",
+       "bad",
+       "not well",
+       "not good",
+       "terrible",
+       "weak",
+       "better",
+       "i feel"
+      ],
+      "sample_en": "I feel very tired."
+     },
+     {
+      "bot_en": "You have a cold. You should rest and drink water. Do you have any questions?",
+      "bot_da": "3ndek rrwa7. Khassek trta7i w tcherbi lma. Wach 3ndek chi so2al?",
+      "expect_keywords": [
+       "should i",
+       "medicine",
+       "tablets",
+       "tablet",
+       "how many",
+       "how often",
+       "no",
+       "thank",
+       "work"
+      ],
+      "sample_en": "Should I take any medicine?"
+     },
+     {
+      "bot_en": "Yes, take one tablet twice a day. Get well soon!",
+      "bot_da": "Ah, khoudi 7abba wa7da jouj merrat f nhar. Allah ychafik!",
+      "expect_keywords": [
+       "thank",
+       "thanks",
+       "ok",
+       "okay",
+       "goodbye",
+       "bye",
+       "twice"
+      ],
+      "sample_en": "Thank you, doctor. Goodbye!"
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "Message l sa7btek lmrida",
+   "prompt_da": "Sa7btek Sarah mrida: 3ndha rrwa7 w sskhana. Ktbi liha message b lingliziya: sewliha kifach 7assa, 9oli liha `I'm sorry…`, 3tiha 3 nasa2i7 b `should` / `shouldn't`, w sali b `Get well soon!`.",
+   "helper_en": [
+    "Hi Sarah, how do you feel today?",
+    "I'm sorry you have a cold.",
+    "You should ...",
+    "You shouldn't ...",
+    "Get well soon!"
+   ],
+   "min_words": 40,
+   "keywords": [
+    "should",
+    "soon"
+   ],
+   "model_en": "Hi Sarah, how do you feel today? I'm sorry you have a cold and a fever. You should stay in bed and rest. You should drink a lot of warm water with lemon and honey. You shouldn't go to work tomorrow, and you shouldn't drink cold drinks. If you still feel sick on Monday, you should see a doctor. Do you need anything from the pharmacy? I can bring it to you. Get well soon! Nouha"
+  }
+ },
+ {
+  "id": "l19",
+  "order": 19,
+  "level": "A2.2",
+  "emoji": "🔮",
+  "title_en": "Plans: going to & will",
+  "title_da": "Lmokhattat: going to / will",
+  "goals_da": [
+   "Thedri 3la lmokhattat dyalek b `be going to`: `I'm going to visit my aunt.`",
+   "Tsta3mli `will` l 9arar f nefs lle7da, l 3ard dyal lmosa3ada w l lwa3d: `I'll help you.`",
+   "Ttwe99e3i lmosta9bal: `It will rain tomorrow.` / `It won't be cold.`",
+   "Tsewli w tjawbi: `What are you going to do this weekend?`"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "be going to — lmokhattat (plans)",
+    "body_da": "Melli 3ndna mokhattat (`a plan`), chi 7aja 9errernaha 9bel, kansta3mlo `be going to` + l fi3l. Had l9a3ida sahla bzzaf 7it bhal darija b ddebt: \"**ghadi** n9ra\" = `I'm **going to** study`. L fi3l `go` = mcha, w `going` = ghadi!\n\nLbina: `am` / `is` / `are` + `going to` + l fi3l (kat3rfi `am/is/are` + `-ing` men dars 13):\n\n- `I'm going to visit my aunt.` = Ghadi nzour khalti.\n- `She's going to buy a new phone.` = Ghadi tchri portable jdid.\n- `We're going to travel to Agadir.` = Ghadi nsafro l Agadir.\n- `They're going to get married in July.` = Ghadi ytzewjo f yolyouz.\n\nNnafy: `not` men ba3d `am/is/are`: `I'm not going to work tomorrow.` = Ma ghadich nkhdem ghedda.\n\nSo2al: n9elbo `am/is/are` m3a lfa3il: `Are you going to stay at home?` = Wach ghadi tb9ay f ddar? — `Yes, I am.` / `No, I'm not.` W b `What`: `What are you going to do this weekend?` = Chno ghadi tdiri had lweekend?",
+    "examples": [
+     {
+      "en": "I'm going to visit my grandmother on Friday.",
+      "da": "Ghadi nzour jeddti nhar jjem3a.",
+      "pron": "aïm go-ing tou vi-zit maï grand-meu-theur on fraï-déy"
+     },
+     {
+      "en": "He's going to study English in London.",
+      "da": "Ghadi y9ra lingliziya f London.",
+      "pron": "hiz go-ing tou steu-di in-glich in leun-deun"
+     },
+     {
+      "en": "We're not going to go out tonight.",
+      "da": "Ma ghadich nkhorjo had lila.",
+      "pron": "wir not go-ing tou go awt tou-naït"
+     },
+     {
+      "en": "Are you going to cook couscous on Friday?",
+      "da": "Wach ghadi ttiybi lkesksou nhar jjem3a?",
+      "pron": "ar you go-ing tou kouk kous-kous on fraï-déy"
+     },
+     {
+      "en": "What are you going to do this weekend?",
+      "da": "Chno ghadi tdiri had lweekend?",
+      "pron": "wat ar you go-ing tou dou this wik-énd"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "will — 9arar f nefs lle7da, 3ard, w wa3d",
+    "body_da": "`will` + l fi3l kansta3mlouh melli kan9errro **f nefs lle7da**, machi 9bel. `will` ma kaytbeddelch m3a `he/she` (bhal `can` w `should`), w f lhadra kan9essrouh: `I'll`, `you'll`, `he'll`, `she'll`, `we'll`, `they'll`.\n\n- **9arar daba:** Ttilifoun kaysonni → `I'll get it!` = Ana njaweb! / F l9ehwa: `I'll have a mint tea, please.` = Ghadi nakhod atay, 3afak.\n- **3ard dyal lmosa3ada:** `I'll help you with the bags.` = Ghadi n3awnek thezzi l9fef. / `I'll carry it.` = Ana nhezzo.\n- **Wa3d:** `I'll call you tonight, I promise.` = Ghadi n3eyyet lik had lila, wa3d. / `I won't be late.` = Ma ghadich nt3ettel.\n\nNnafy: `will not` = `won't` (nte9ha: wont): `I won't tell anyone.` = Ma ghadich n9oul l 7ed.\n\nLfar9 m3a `going to`: `I'm going to call Sarah tonight.` (9errert 9bel = mokhattat) / Sarah 3eyytat daba w mafta7tich: `I'll call her later!` (9errert daba, f nefs lle7da).",
+    "examples": [
+     {
+      "en": "The phone is ringing. I'll get it!",
+      "da": "Ttilifoun kaysonni. Ana njaweb!",
+      "pron": "the fon iz rin-guing. aïl guét it"
+     },
+     {
+      "en": "Don't worry, I'll help you.",
+      "da": "Matkhafich, ghadi n3awnek.",
+      "pron": "dont weu-ri, aïl hélp you"
+     },
+     {
+      "en": "I'll call you tonight, I promise.",
+      "da": "Ghadi n3eyyet lik had lila, wa3d.",
+      "pron": "aïl kol you tou-naït, aï pro-mis"
+     },
+     {
+      "en": "I won't be late.",
+      "da": "Ma ghadich nt3ettel.",
+      "pron": "aï wont bi léyt"
+     },
+     {
+      "en": "It's hot in here. I'll open the window.",
+      "da": "Sskhana hna. Ghadi n7el cherjem.",
+      "pron": "its hot in hir. aïl o-peun the win-do"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "will — tawa99o3 (predictions): It will rain tomorrow",
+    "body_da": "Kansta3mlo `will` 7ta melli kan**twe99e3o** lmosta9bal (chno kandenno ghadi yw9e3), khossosan m3a `I think` (kandenn) w `I'm sure` (ana mt2ekkda):\n\n- `It will rain tomorrow.` = Ghadi ttih chta ghedda.\n- `I think Morocco will win the match.` = Kandenn lmeghrib ghadi yrbe7 lmatch.\n- `You'll love Marrakech!` = Ghadi t3jbek Marrakech!\n- `She'll be a great doctor.` = Ghadi tkoun tbiba kbira.\n\nSo2al: `Will it rain tomorrow?` = Wach ghadi ttih chta ghedda? — `Yes, it will.` / `No, it won't.`\n\nMelli kanchoufo chi 3alama 9eddamna daba, kansta3mlo `going to`: `Look at the clouds! It's going to rain.` = Chofi ss7ab! Ghadi ttih chta. (kanchoufo ss7ab daba, lmosta9bal bayn).\n\nMachi mochkil ila khlatti bin `will` w `going to` f ttawa99o3 — bjouj kayfehmouk. Lmohim: ma tsta3mlich `will` l mokhattat 9errertihom 9bel.",
+    "examples": [
+     {
+      "en": "I think it will be sunny tomorrow.",
+      "da": "Kandenn ghadi tkoun chems ghedda.",
+      "pron": "aï think it wil bi seu-ni tou-mo-ro"
+     },
+     {
+      "en": "You'll love this restaurant!",
+      "da": "Ghadi y3jbek had rristora!",
+      "pron": "youl leuv this rés-teu-ront"
+     },
+     {
+      "en": "Will you be at home tonight? — Yes, I will.",
+      "da": "Wach ghadi tkouni f ddar had lila? — Ah.",
+      "pron": "wil you bi at hom tou-naït? yès, aï wil"
+     },
+     {
+      "en": "Look at the clouds! It's going to rain.",
+      "da": "Chofi ss7ab! Ghadi ttih chta.",
+      "pron": "louk at the klawdz. its go-ing tou réyn"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Kelmat lwa9t dyal lmosta9bal",
+    "body_da": "Had lkelmat kaybeyno lwa9t f lmosta9bal. Kayjiw f l'akhir dyal ljomla (wla f lbdaya):\n\n- `tomorrow` = ghedda; `tomorrow morning` = ghedda f sbah\n- `tonight` = had lila / lyouma f lil\n- `this weekend` = had lweekend; `this summer` = had sseif\n- `next week` = ssimana jjaya; `next month` = chher jjay; `next year` = l3am jjay\n- `soon` = 9rib; `later` = men ba3d\n- `in two days` = men ba3d yomayn; `on Friday` = nhar jjem3a; `at 8 o'clock` = f tmenya\n\nRdi lbal: m3a `next` w `this` ma kanzidouch `on` wla `in`: `next week` (machi \"on next week\"), `this weekend`. Bhal darija: \"ssimana jjaya\" bla \"f\".\n\nSo2al lmohim dyal had dars: `What are you going to do this weekend?` — jawbi: `I'm going to…` wla `I don't know yet.` (= mazal ma3reftch) wla `Nothing special.` (= walou khass).",
+    "examples": [
+     {
+      "en": "I'm going to see the doctor tomorrow morning.",
+      "da": "Ghadi nchouf tbib ghedda f sbah.",
+      "pron": "aïm go-ing tou si the dok-teur tou-mo-ro mor-ning"
+     },
+     {
+      "en": "They're going to get married next month.",
+      "da": "Ghadi ytzewjo chher jjay.",
+      "pron": "thér go-ing tou guét ma-rid nékst meunth"
+     },
+     {
+      "en": "See you soon!",
+      "da": "Nchoufouk 9rib!",
+      "pron": "si you soun"
+     },
+     {
+      "en": "What are you going to do tonight? — Nothing special.",
+      "da": "Chno ghadi tdiri had lila? — Walou khass.",
+      "pron": "wat ar you go-ing tou dou tou-naït? neu-thing spé-cheul"
+     },
+     {
+      "en": "I'll finish this work in two days.",
+      "da": "Ghadi nkemmel had lkhedma men ba3d yomayn.",
+      "pron": "aïl fi-nich this weurk in tou déyz"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "tomorrow",
+      "da": "ghedda",
+      "emoji": "📅",
+      "pron": "tou-mo-ro",
+      "example_en": "See you tomorrow!",
+      "example_da": "Nchoufouk ghedda!"
+     },
+     {
+      "en": "tonight",
+      "da": "had lila",
+      "emoji": "🌙",
+      "pron": "tou-naït",
+      "example_en": "I'll call you tonight.",
+      "example_da": "Ghadi n3eyyet lik had lila."
+     },
+     {
+      "en": "this weekend",
+      "da": "had lweekend",
+      "emoji": "🎉",
+      "pron": "this wik-énd",
+      "example_en": "What are you going to do this weekend?",
+      "example_da": "Chno ghadi tdiri had lweekend?"
+     },
+     {
+      "en": "next week",
+      "da": "ssimana jjaya",
+      "emoji": "📆",
+      "pron": "nékst wik",
+      "example_en": "I'm going to start a new job next week.",
+      "example_da": "Ghadi nbda khedma jdida ssimana jjaya."
+     },
+     {
+      "en": "next month",
+      "da": "chher jjay",
+      "emoji": "🗓️",
+      "pron": "nékst meunth",
+      "example_en": "They're going to get married next month.",
+      "example_da": "Ghadi ytzewjo chher jjay."
+     },
+     {
+      "en": "soon",
+      "da": "9rib",
+      "emoji": "⏳",
+      "pron": "soun",
+      "example_en": "I'll be home soon.",
+      "example_da": "Ghadi nkoun f ddar 9rib."
+     },
+     {
+      "en": "plan",
+      "da": "mokhattat / bernamej",
+      "emoji": "📝",
+      "pron": "plan",
+      "example_en": "Do you have any plans for Sunday?",
+      "example_da": "Wach 3ndek chi bernamej l nhar l7edd?"
+     },
+     {
+      "en": "visit",
+      "da": "zar (ghadi nzour)",
+      "emoji": "🏡",
+      "pron": "vi-zit",
+      "example_en": "We're going to visit my uncle.",
+      "example_da": "Ghadi nzouro 3emmi."
+     },
+     {
+      "en": "travel",
+      "da": "safer",
+      "emoji": "✈️",
+      "pron": "tra-veul",
+      "example_en": "She's going to travel to Spain.",
+      "example_da": "Ghadi tsafer l Sbanya."
+     },
+     {
+      "en": "stay",
+      "da": "b9a",
+      "emoji": "🏠",
+      "pron": "stéy",
+      "example_en": "I'm going to stay at home tonight.",
+      "example_da": "Ghadi nb9a f ddar had lila."
+     },
+     {
+      "en": "rain",
+      "da": "chta (kattih)",
+      "emoji": "🌧️",
+      "pron": "réyn",
+      "example_en": "It will rain tomorrow.",
+      "example_da": "Ghadi ttih chta ghedda."
+     },
+     {
+      "en": "help",
+      "da": "3awen",
+      "emoji": "🤲",
+      "pron": "hélp",
+      "example_en": "I'll help you with the bags.",
+      "example_da": "Ghadi n3awnek thezzi l9fef."
+     },
+     {
+      "en": "call",
+      "da": "3eyyet (f ttilifoun)",
+      "emoji": "📞",
+      "pron": "kol",
+      "example_en": "Call me when you arrive.",
+      "example_da": "3eyyet liya melli twesli."
+     },
+     {
+      "en": "promise",
+      "da": "wa3d / wa3ed",
+      "emoji": "🤞",
+      "pron": "pro-mis",
+      "example_en": "I promise I won't be late.",
+      "example_da": "Kanwa3dek ma ghadich nt3ettel."
+     },
+     {
+      "en": "wedding",
+      "da": "l3ers",
+      "emoji": "💍",
+      "pron": "wé-ding",
+      "example_en": "The wedding is next Saturday.",
+      "example_da": "L3ers ssebt jjay."
+     },
+     {
+      "en": "party",
+      "da": "7efla",
+      "emoji": "🎈",
+      "pron": "par-ti",
+      "example_en": "Are you going to come to the party?",
+      "example_da": "Wach ghadi tji l l7efla?"
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "Chno ghadi tdiri had lweekend?",
+    "context_da": "Nhar lkhmis f l9ehwa. Sarah katsewwel Nouha 3la lmokhattat dyalha l lweekend.",
+    "lines": [
+     {
+      "speaker": "Sarah",
+      "en": "Hi Nouha! What are you going to do this weekend?",
+      "da": "Ahlan Nouha! Chno ghadi tdiri had lweekend?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "I'm going to visit my family in Fes. My cousin's wedding is on Saturday.",
+      "da": "Ghadi nzour l3a2ila dyali f Fes. L3ers dyal bent khalti nhar ssebt."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "Oh, nice! Are you going to take the train?",
+      "da": "Wah, zwin! Wach ghadi takhdi ttran?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "No, I'm not. I'm going to go by bus with my sister. It's cheaper.",
+      "da": "La. Ghadi nmchi b lkar m3a khti. Rkhes."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "What's the weather going to be like in Fes?",
+      "da": "Kifach ghadi ykoun ljow f Fes?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "I think it will be hot. And you? What are your plans?",
+      "da": "Kandenn ghadi tkoun sskhana. W nti? Chno lbernamej dyalek?"
+     },
+     {
+      "speaker": "Sarah",
+      "en": "Nothing special. I'm going to stay at home and study. Oh no, it's late! I have a class at five.",
+      "da": "Walou khass. Ghadi nb9a f ddar w n9ra. Wah la, t3ettelt! 3ndi 7essa f lkhemsa."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Don't worry, I'll drive you there.",
+      "da": "Matkhafich, ghadi nwesslek b tomobil."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "Thank you, Nouha! Have a great weekend, and bring me some sweets from Fes!",
+      "da": "Choukran, Nouha! Weekend sa3id, w jibi liya chi 7elwa men Fes!"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "I will, I promise!",
+      "da": "Ghadi njib, wa3d!"
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "`going to` = mokhattat 9errertih 9bel (bhal \"ghadi\" f darija). `will` = 9arar f nefs lle7da, 3ard wla wa3d. F lhadra ssari3a, l'ingliz kay9oulo `gonna` bdal `going to` (`I'm gonna go`) — fehmiha melli tsem3iha, walakin ma tktbihach. W tfekkri: men ba3d `will` w `going to`, l fi3l kayb9a bhal ma howa: `she will go`, `she's going to go` (bla `-s`, bla `-ing`)."
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "Kifach kan9oulo \"ghedda\" b lingliziya?",
+    "options": [
+     "tomorrow",
+     "tonight",
+     "yesterday",
+     "soon"
+    ],
+    "answer": 0,
+    "explain_da": "`tomorrow` = ghedda. `tonight` = had lila. `yesterday` = lbare7. `soon` = 9rib."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "I'm going to visit my aunt this weekend.",
+    "question_da": "Sem3i w khtari lma3na.",
+    "options": [
+     "Ghadi nzour khalti had lweekend",
+     "Zert khalti lweekend li fat",
+     "Kanzour khalti kol weekend",
+     "Ghadi nzour jeddti ghedda"
+    ],
+    "answer": 0,
+    "explain_da": "`I'm going to visit` = ghadi nzour (mosta9bal, mokhattat). `my aunt` = khalti / 3emmti. `this weekend` = had lweekend."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "She ___ going to buy a new phone.",
+    "options": [
+     "is",
+     "am",
+     "are"
+    ],
+    "answer": "is",
+    "hint_da": "`She` → ?",
+    "explain_da": "M3a `she` kansta3mlo `is`: `She is going to…` / `She's going to…`"
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli kelmat lwa9t b lingliziya m3a lma3na dyalha.",
+    "pairs": [
+     {
+      "en": "tomorrow",
+      "da": "ghedda",
+      "emoji": "📅"
+     },
+     {
+      "en": "tonight",
+      "da": "had lila",
+      "emoji": "🌙"
+     },
+     {
+      "en": "next week",
+      "da": "ssimana jjaya",
+      "emoji": "📆"
+     },
+     {
+      "en": "soon",
+      "da": "9rib",
+      "emoji": "⏳"
+     },
+     {
+      "en": "this weekend",
+      "da": "had lweekend",
+      "emoji": "🎉"
+     }
+    ]
+   },
+   {
+    "type": "order",
+    "words": [
+     "going",
+     "tomorrow?",
+     "What",
+     "do",
+     "you",
+     "to",
+     "are"
+    ],
+    "answer": "What are you going to do tomorrow?",
+    "da": "Chno ghadi tdiri ghedda?"
+   },
+   {
+    "type": "mcq",
+    "question_da": "Ttilifoun kaysonni daba. 9errerti f nefs lle7da bach tjawbi. Chno kat9oli?",
+    "options": [
+     "I'll get it!",
+     "I'm going to get it!",
+     "I will to get it!",
+     "I getting it!"
+    ],
+    "answer": 0,
+    "explain_da": "9arar f nefs lle7da → `will`: `I'll get it!` = ana njaweb! `going to` dyal mokhattat 9errertih 9bel. `will to` w `I getting` ghalat."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "Don't worry, I'll help you.",
+    "question_da": "Sem3i. Chno 9al lik?",
+    "options": [
+     "Matkhafich, ghadi n3awnek",
+     "Sme7 liya, ma ghadich n3awnek",
+     "3awnni, 3afak",
+     "Ghadi n3eyyet lik ghedda"
+    ],
+    "answer": 0,
+    "explain_da": "`Don't worry` = matkhafich. `I'll help you` = ghadi n3awnek (3ard dyal lmosa3ada b `will`)."
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "\"Won't\" means \"will not\".",
+    "statement_da": "`won't` kat3ni `will not`.",
+    "answer": true,
+    "explain_da": "S7i7! `will not` → `won't` (nte9ha: wont). `I won't be late.` = ma ghadich nt3ettel."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Look at the clouds! It ___ rain.",
+    "options": [
+     "is going to",
+     "will to",
+     "going to"
+    ],
+    "answer": "is going to",
+    "hint_da": "Kanchoufo ss7ab daba → ?",
+    "explain_da": "Melli kanchoufo chi 3alama daba, kansta3mlo `be going to`: `It is going to rain.` `will to` ghalat, w `going to` bo7dha bla `is` ghalat."
+   },
+   {
+    "type": "translate",
+    "da": "Ghadi nsafer l Agadir ssimana jjaya.",
+    "answers": [
+     "I'm going to travel to Agadir next week.",
+     "I am going to travel to Agadir next week.",
+     "I'm going to go to Agadir next week.",
+     "I am going to go to Agadir next week."
+    ],
+    "hint_en": "I'm going to ... to Agadir ... week.",
+    "explain_da": "Mokhattat → `I'm going to travel`. `next week` = ssimana jjaya (bla `in` wla `on`)."
+   },
+   {
+    "type": "dictation",
+    "say_en": "I'll call you tonight.",
+    "da": "Ghadi n3eyyet lik had lila.",
+    "explain_da": "`I'll` = `I will` (m9essra). `call` = 3eyyet. `tonight` = had lila."
+   },
+   {
+    "type": "order",
+    "words": [
+     "stay",
+     "Are",
+     "to",
+     "home?",
+     "going",
+     "at",
+     "you"
+    ],
+    "answer": "Are you going to stay at home?",
+    "da": "Wach ghadi tb9ay f ddar?"
+   },
+   {
+    "type": "mcq",
+    "question_en": "Are they going to come to the wedding?",
+    "question_da": "Achmen jawab 9sir s7i7?",
+    "options": [
+     "Yes, they are.",
+     "Yes, they is.",
+     "Yes, they going.",
+     "Yes, they do."
+    ],
+    "answer": 0,
+    "explain_da": "So2al b `Are they going to…?` → ljawab 9sir b `are`: `Yes, they are.` / `No, they aren't.`"
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Don't worry, I ___ forget your birthday. I promise!",
+    "answers": [
+     "won't",
+     "will not",
+     "wont"
+    ],
+    "hint_da": "Nnafy dyal `will` (ma ghadich nensa).",
+    "explain_da": "`I won't forget` = ma ghadich nensa. `won't` = `will not`. Wa3d → `will`."
+   },
+   {
+    "type": "translate",
+    "da": "Ghadi ttih chta ghedda.",
+    "answers": [
+     "It will rain tomorrow.",
+     "It'll rain tomorrow.",
+     "It is going to rain tomorrow.",
+     "It's going to rain tomorrow."
+    ],
+    "hint_en": "It ... rain tomorrow.",
+    "explain_da": "Tawa99o3 → `It will rain tomorrow.` (7ta `It's going to rain tomorrow.` s7i7a). `rain` = chta (kattih)."
+   },
+   {
+    "type": "speak",
+    "target_en": "This weekend I'm going to visit my family in Fes.",
+    "da": "Had lweekend ghadi nzour l3a2ila dyali f Fes.",
+    "pron": "this wik-énd aïm go-ing tou vi-zit maï fa-mi-li in fés"
+   }
+  ],
+  "reading": {
+   "title_en": "Nouha's summer plans",
+   "title_da": "Lmokhattat dyal Nouha l sseif",
+   "emoji": "☀️",
+   "text_en": "Summer is coming, and Nouha has a lot of plans. In July, she is going to visit her grandmother in Agadir with her sister. They are going to stay there for two weeks. \"We're going to swim every morning and eat fish every day!\" she says. Her grandmother is seventy-five, so Nouha is going to help her in the kitchen and in the garden. In August, Nouha is going to go to her cousin's wedding in Fes. She isn't going to buy a new dress; she is going to wear her blue caftan. After the wedding, she is going to start a new English course online. \"I think it will be difficult, but I'll study every evening,\" she says. \"And next year, I'll travel to London. I promise!\" What about the weather? Nouha is sure: \"It will be very hot in Agadir, but I won't stay inside!\"",
+   "text_da": "Sseif 9rib, w Nouha 3ndha bzzaf dyal lmokhattat. F yolyouz, ghadi tzour jeddtha f Agadir m3a khtha. Ghadi yb9aw temma jouj simanat. \"Ghadi n3oumo kol sbah w nakolo l7out kol nhar!\" kat9oul. Jeddtha 3ndha khemsa w seb3in 3am, dakchi 3lach Nouha ghadi t3awnha f lkouzina w f jjerda. F ghocht, Nouha ghadi tmchi l 3ers bent khalha f Fes. Ma ghadich tchri keswa jdida; ghadi tlbes l9eftan zzre9 dyalha. Men ba3d l3ers, ghadi tbda dawra jdida dyal lingliziya 3la l'internet. \"Kandenn ghadi tkoun s3iba, walakin ghadi n9ra kol 3chiya,\" kat9oul. \"W l3am jjay, ghadi nsafer l London. Wa3d!\" W ljow? Nouha mt2ekkda: \"Ghadi tkoun sskhana bzzaf f Agadir, walakin ma ghadich nb9a ldakhel!\"",
+   "glossary": [
+    {
+     "en": "is coming",
+     "da": "jay / 9rib"
+    },
+    {
+     "en": "plans",
+     "da": "mokhattat"
+    },
+    {
+     "en": "swim",
+     "da": "3am (kan3oum)"
+    },
+    {
+     "en": "wedding",
+     "da": "l3ers"
+    },
+    {
+     "en": "dress",
+     "da": "keswa"
+    },
+    {
+     "en": "wear",
+     "da": "lbes"
+    },
+    {
+     "en": "online",
+     "da": "3la l'internet"
+    },
+    {
+     "en": "difficult",
+     "da": "s3ib / s3iba"
+    },
+    {
+     "en": "inside",
+     "da": "ldakhel"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Fin ghadi tmchi Nouha f yolyouz?",
+     "options": [
+      "L Agadir, 3nd jeddtha",
+      "L Fes, l l3ers",
+      "L London",
+      "L Casa"
+     ],
+     "answer": 0,
+     "explain_da": "`In July, she is going to visit her grandmother in Agadir.`"
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Nouha is going to buy a new dress for the wedding.",
+     "statement_da": "Nouha ghadi tchri keswa jdida l l3ers.",
+     "answer": false,
+     "explain_da": "Ghalet: `She isn't going to buy a new dress` — ghadi tlbes l9eftan zzre9 dyalha."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chno ghadi tdir Nouha men ba3d l3ers?",
+     "options": [
+      "Ghadi tbda dawra dyal lingliziya 3la l'internet",
+      "Ghadi tsafer l London",
+      "Ghadi tkhdem f Agadir",
+      "Ghadi tchri keswa"
+     ],
+     "answer": 0,
+     "explain_da": "`After the wedding, she is going to start a new English course online.`"
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chno kat9oul Nouha 3la ljow f Agadir?",
+     "options": [
+      "Ghadi tkoun sskhana bzzaf",
+      "Ghadi ttih chta",
+      "Ghadi ykoun lberd",
+      "Ma3arfach"
+     ],
+     "answer": 0,
+     "explain_da": "`It will be very hot in Agadir.`"
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "Lmokhattat dyal lweekend",
+   "emoji": "🎧",
+   "pre_da": "Sem3i Omar w Laila. Rekkzi 3la: chno ghadi ydir Omar nhar ssebt? W chno ghadi tdir Laila nhar l7edd?",
+   "lines": [
+    {
+     "speaker": "Omar",
+     "en": "Laila, what are you going to do this weekend?",
+     "da": "Laila, chno ghadi tdiri had lweekend?"
+    },
+    {
+     "speaker": "Laila",
+     "en": "On Saturday, I'm going to clean the house and cook for my parents. And you?",
+     "da": "Nhar ssebt, ghadi nne99i ddar w ntiyeb l waldiya. W nta?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "I'm going to play football with my friends on Saturday morning. In the afternoon, I'm going to watch the match at a café.",
+     "da": "Ghadi nl3eb lkoura m3a s7abi ssebt f sbah. F l3chiya, ghadi ntferrej f lmatch f l9ehwa."
+    },
+    {
+     "speaker": "Laila",
+     "en": "Who do you think will win?",
+     "da": "Chkoun kaddenn ghadi yrbe7?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "Raja will win, I'm sure! And on Sunday? Any plans?",
+     "da": "Rraja ghadi trbe7, ana mt2ekked! W nhar l7edd? Chi bernamej?"
+    },
+    {
+     "speaker": "Laila",
+     "en": "Yes, I'm going to visit my grandmother in Mohammedia. She's not very well.",
+     "da": "Ah, ghadi nzour jeddti f lmo7ammadiya. Machi labas bzzaf."
+    },
+    {
+     "speaker": "Omar",
+     "en": "I'm sorry to hear that. I'll drive you there if you want.",
+     "da": "Ana mt2essef. Ghadi nwesslek b tomobil ila bghiti."
+    },
+    {
+     "speaker": "Laila",
+     "en": "Really? Thank you, Omar! I'll call you on Sunday morning.",
+     "da": "Bsse7? Choukran, Omar! Ghadi n3eyyet lik l7edd f sbah."
+    },
+    {
+     "speaker": "Omar",
+     "en": "OK. See you on Sunday!",
+     "da": "Wakha. Nchoufouk nhar l7edd!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chno ghadi ydir Omar nhar ssebt f sbah?",
+     "options": [
+      "Ghadi yl3eb lkoura",
+      "Ghadi yne99i ddar",
+      "Ghadi yzour jeddto",
+      "Ghadi ytferrej f lmatch"
+     ],
+     "answer": 0,
+     "explain_da": "`I'm going to play football with my friends on Saturday morning.`"
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Laila is going to visit her grandmother on Saturday.",
+     "statement_da": "Laila ghadi tzour jeddtha nhar ssebt.",
+     "answer": false,
+     "explain_da": "Ghalet: nhar l7edd (`on Sunday`), machi ssebt."
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "I'll drive you there if you want.",
+     "question_da": "Sem3i. Chno 3red Omar 3la Laila?",
+     "options": [
+      "Ghadi ywesselha b tomobil",
+      "Ghadi y3eyyet liha",
+      "Ghadi yzour jeddtha bo7do",
+      "Ghadi ychri liha tomobil"
+     ],
+     "answer": 0,
+     "explain_da": "`I'll drive you there` = ghadi nwesslek b tomobil (3ard b `will`). `if you want` = ila bghiti."
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chkoun kaddenn Omar ghadi yrbe7 lmatch?",
+     "options": [
+      "Rraja",
+      "Lwidad",
+      "Lmeghrib",
+      "Ma3arfch"
+     ],
+     "answer": 0,
+     "explain_da": "`Raja will win, I'm sure!` — tawa99o3 b `will`."
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "What are you going to do this weekend?",
+     "da": "Chno ghadi tdiri had lweekend?",
+     "pron": "wat ar you go-ing tou dou this wik-énd"
+    },
+    {
+     "target_en": "I'm going to visit my grandmother.",
+     "da": "Ghadi nzour jeddti.",
+     "pron": "aïm go-ing tou vi-zit maï grand-meu-theur"
+    },
+    {
+     "target_en": "I'll help you with the bags.",
+     "da": "Ghadi n3awnek thezzi l9fef.",
+     "pron": "aïl hélp you with the bagz"
+    },
+    {
+     "target_en": "It will be sunny tomorrow.",
+     "da": "Ghadi tkoun chems ghedda.",
+     "pron": "it wil bi seu-ni tou-mo-ro"
+    },
+    {
+     "target_en": "I won't be late, I promise.",
+     "da": "Ma ghadich nt3ettel, wa3d.",
+     "pron": "aï wont bi léyt, aï pro-mis"
+    },
+    {
+     "target_en": "See you next week!",
+     "da": "Nchoufouk ssimana jjaya!",
+     "pron": "si you nékst wik"
+    }
+   ],
+   "roleplay": {
+    "title_da": "Sarah katsewlek 3la lmokhattat dyalek",
+    "context_da": "Sa7btek Sarah 3eyytat lik. Katsewlek 3la lweekend w 3la lmokhattat dyalek. Jawbi b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+    "turns": [
+     {
+      "bot_en": "Hi Nouha! What are you going to do this weekend?",
+      "bot_da": "Ahlan Nouha! Chno ghadi tdiri had lweekend?",
+      "expect_keywords": [
+       "going to",
+       "gonna",
+       "i'm going",
+       "i am going",
+       "visit",
+       "stay",
+       "nothing special",
+       "don't know"
+      ],
+      "sample_en": "I'm going to visit my family."
+     },
+     {
+      "bot_en": "Nice! Are you going to travel by train or by bus?",
+      "bot_da": "Zwin! Wach ghadi tsafri b ttran wla b lkar?",
+      "expect_keywords": [
+       "train",
+       "bus",
+       "car",
+       "taxi",
+       "going to",
+       "i'm not"
+      ],
+      "sample_en": "I'm going to take the train."
+     },
+     {
+      "bot_en": "What's the weather going to be like?",
+      "bot_da": "Kifach ghadi ykoun ljow?",
+      "expect_keywords": [
+       "sunny",
+       "hot",
+       "cold",
+       "rain",
+       "will",
+       "going to be",
+       "nice",
+       "windy",
+       "cloudy",
+       "i think"
+      ],
+      "sample_en": "I think it will be sunny."
+     },
+     {
+      "bot_en": "I need some help with my English homework tomorrow...",
+      "bot_da": "M7taja chi mosa3ada f lwajib dyal lingliziya ghedda…",
+      "expect_keywords": [
+       "i'll help",
+       "i will help",
+       "help you",
+       "don't worry",
+       "no problem",
+       "of course",
+       "sure"
+      ],
+      "sample_en": "Don't worry, I'll help you tomorrow."
+     },
+     {
+      "bot_en": "Thank you! Will you call me tonight?",
+      "bot_da": "Choukran! Wach ghadi t3eyti liya had lila?",
+      "expect_keywords": [
+       "yes",
+       "i will",
+       "i'll call",
+       "sure",
+       "of course",
+       "promise"
+      ],
+      "sample_en": "Yes, I will. I promise!"
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "Lmokhattat dyali",
+   "prompt_da": "Ktbi 5 wla 6 jomal 3la lmokhattat dyalek l ssimana jjaya wla l had lweekend: chno ghadi tdiri, m3a men, w fo9ach. Sta3mli `going to` l lmokhattat, w zidi jomla wa7da 3la l'a9all b `will` (wa3d wla tawa99o3).",
+   "helper_en": [
+    "Next week I'm going to ...",
+    "On Saturday, my friend and I are going to ...",
+    "I'm not going to ...",
+    "I think it will be ...",
+    "I'll ..., I promise!"
+   ],
+   "min_words": 40,
+   "keywords": [
+    "going to",
+    "will"
+   ],
+   "model_en": "Next week I'm going to be very busy. On Monday, I'm going to start a new English course in the evening. On Wednesday, my sister and I are going to visit our aunt in Mohammedia. This weekend, we're going to go to a wedding in Fes. I'm not going to buy a new dress; I'm going to wear my caftan. I think the weather will be hot. I'll take lots of photos, I promise!"
+  }
+ },
+ {
+  "id": "l20",
+  "order": 20,
+  "level": "A2.2",
+  "emoji": "⚖️",
+  "title_en": "Comparatives & superlatives",
+  "title_da": "Lmo9arana: bigger, the biggest",
+  "goals_da": [
+   "T9arni bin jouj 7wayj: `Casablanca is bigger than Rabat.`",
+   "T9oli l'a7san wla l'akbar f majmou3a: `the biggest`, `the most expensive`",
+   "T7efdi lkelmat li makaytbb3ouch l9a3ida: `better`, `worse`, `further`",
+   "Tsta3mli `than` w `as … as`: `The bus is not as fast as the train.`"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "Ssifat l9sira: bigger, the biggest",
+    "body_da": "Bach n9arno (`compare`) bin jouj 7wayj, kanzido `-er` l ssifa (`adjective` = lkelma li katwsef, bhal `big`, `small`) w men ba3dha `than` (= men):\n\n- `big` → `bigger than` (kber men): `Casablanca is bigger than Rabat.` = Casa kber men Rabat.\n- `small` → `smaller`, `cheap` → `cheaper` (rkhes), `old` → `older` (9dem), `young` → `younger` (sgher f l3mer), `tall` → `taller` (twel), `fast` → `faster` (sra3), `cold` → `colder` (bred)\n\nBach n9oulo l'akbar f majmou3a (`superlative`), kanzido `the … -est`:\n\n- `the biggest` (l'akbar / kber wa7ed): `Casablanca is the biggest city in Morocco.` = Casa hiya akbar mdina f lmeghrib.\n- `the cheapest`, `the oldest`, `the tallest`, `the fastest`\n\n**Lktaba:**\n\n- ssifa 9sira kattsali b 7arf wa7ed men ba3d 7arf 3illa (a, e, i, o, u) → kan3awdo l7arf l'akhir: `big` → `bigger` → `the biggest`, `hot` → `hotter` → `the hottest`, `thin` → `thinner`\n- kattsali b `-e` → kanzido ghir `-r` / `-st`: `nice` → `nicer` → `the nicest`, `large` → `larger`\n- kattsali b `-y` → `-y` katwelli `-i`: `easy` → `easier` → `the easiest`, `happy` → `happier`, `busy` → `busier`\n\nF darija 3ndna chi 7aja bhal hadi: kbir → **kber** men, rkhis → **rkhes** men, 9dim → **9dem** men. F lingliziya, l9a3ida wa7da l kolchi: `-er` + `than`.",
+    "examples": [
+     {
+      "en": "Casablanca is bigger than Rabat.",
+      "da": "Casa kber men Rabat.",
+      "pron": "ka-sa-blan-ka iz bi-geur than ra-bat"
+     },
+     {
+      "en": "This bag is cheaper than that one.",
+      "da": "Had ssak rkhes men hadak.",
+      "pron": "this bag iz tchi-peur than that wan"
+     },
+     {
+      "en": "Marrakech is hotter than Tangier in summer.",
+      "da": "Marrakech skhona kter men Tanja f sseif.",
+      "pron": "ma-ra-kéch iz ho-teur than tan-djir in seu-meur"
+     },
+     {
+      "en": "This exercise is easier than the first one.",
+      "da": "Had ttamrin shel men l'awwal.",
+      "pron": "this ék-seur-saïz iz i-zi-eur than the feurst wan"
+     },
+     {
+      "en": "My brother is the tallest in the family.",
+      "da": "Khouya howa twel wa7ed f l3a2ila.",
+      "pron": "maï breu-theur iz the to-list in the fa-mi-li"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Ssifat ttwila: more / the most",
+    "body_da": "Ila kanet ssifa twila (jouj ma9ati3 wla kter, bhal `expensive`: ik-spén-siv, 3ndha 3 ma9ati3), **ma** kanzidouch `-er`. Kanzido `more` 9belha:\n\n- `expensive` → `more expensive than` (ghla men): `The train is more expensive than the bus.`\n- `beautiful` → `more beautiful` (zwen men), `interesting` → `more interesting` (momti3 kter), `difficult` → `more difficult` (s3eb men), `important` → `more important` (mohim kter), `comfortable` → `more comfortable` (mrye7 kter)\n\nW l superlative: `the most` + ssifa:\n\n- `the most expensive` (l'aghla / ghla wa7ed): `This is the most expensive hotel in Agadir.`\n- `the most beautiful`, `the most interesting`, `the most difficult`\n\nNasi7a bach t3erfi: ssifa 9sira (`big`, `hot`, `old`) → `-er` / `-est`. Ssifa twila (`expensive`, `beautiful`) → `more` / `the most`. W ma tkhelltich bjouj: \"more bigger\" ghalat!",
+    "examples": [
+     {
+      "en": "The train is more expensive than the bus.",
+      "da": "Ttran ghla men lkar.",
+      "pron": "the tréyn iz mor ik-spén-siv than the beus"
+     },
+     {
+      "en": "For me, Fes is more interesting than Casablanca.",
+      "da": "Bnnesba liya, Fes momti3a kter men Casa.",
+      "pron": "for mi, fés iz mor in-tris-ting than ka-sa-blan-ka"
+     },
+     {
+      "en": "English is more difficult than Darija for me.",
+      "da": "Lingliziya s3eb men ddarija bnnesba liya.",
+      "pron": "in-glich iz mor di-fi-keult than da-ri-ja for mi"
+     },
+     {
+      "en": "This is the most beautiful beach in Morocco.",
+      "da": "Hadi hiya a7san plaj f lmeghrib.",
+      "pron": "this iz the most biou-ti-foul bi-tch in mo-ro-ko"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Li makaytbb3ouch l9a3ida: better, worse, further",
+    "body_da": "Chi ssifat 9lal makaytbb3ouch l9a3ida — khassek t7efdihom b l9elb (bhal l'af3al li machi 3adiya f dars 16):\n\n- `good` (mzyan) → `better` (7sen) → `the best` (l'a7san / 7sen wa7ed)\n- `bad` (khayb) → `worse` (khyeb) → `the worst` (l'akhyeb)\n- `far` (b3id) → `further` (b3ed) → `the furthest` (l'ab3ad)\n- `much` / `many` (bzzaf) → `more` (kter) → `the most`\n- `little` (chwiya) → `less` (9ell) → `the least`\n\nMat9oulich \"gooder\" wla \"more good\"! `better` kat3rfiha déja men `I feel better` (dars 18).\n\n- `Mint tea is better than coffee.` = Atay 7sen men l9ehwa.\n- `My English is better now.` = Lingliziya dyali 7sen daba.\n- `This is the worst restaurant in town!` = Hada akhyeb rristora f lmdina!\n- `Agadir is further than Marrakech.` = Agadir b3ed men Marrakech.",
+    "examples": [
+     {
+      "en": "Mint tea is better than coffee.",
+      "da": "Atay 7sen men l9ehwa.",
+      "pron": "mint ti iz bé-teur than ko-fi"
+     },
+     {
+      "en": "Couscous is the best dish in Morocco.",
+      "da": "Lkesksou howa a7san makla f lmeghrib.",
+      "pron": "kous-kous iz the bést dich in mo-ro-ko"
+     },
+     {
+      "en": "The traffic in Casablanca is worse than in Rabat.",
+      "da": "Zz7am f Casa khyeb men Rabat.",
+      "pron": "the tra-fik in ka-sa-blan-ka iz weurs than in ra-bat"
+     },
+     {
+      "en": "Monday is the worst day of the week!",
+      "da": "Ttnin howa akhyeb nhar f ssimana!",
+      "pron": "meun-déy iz the weurst déy ov the wik"
+     },
+     {
+      "en": "Agadir is further from Casablanca than Marrakech.",
+      "da": "Agadir b3ed 3la Casa men Marrakech.",
+      "pron": "a-ga-dir iz feur-theur from ka-sa-blan-ka than ma-ra-kéch"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "than / as … as — kifach n9arno",
+    "body_da": "**`than`** (= men) kayji dima men ba3d lmo9aran: `bigger than`, `more expensive than`, `better than`. Rdi lbal l lktaba: `than` (b `a`), machi `then` (= men ba3d).\n\nMelli kan9arno m3a `me`, `him`, `her`: `She is taller than me.` = Hiya twel menni.\n\n**`as … as`** (= bhal / 9edd) melli jouj 7wayj metsawyin:\n\n- `Rabat is as beautiful as Casablanca.` = Rabat zwina bhal Casa.\n- `This bag is as cheap as that one.` = Had ssak rkhis bhal hadak.\n\n**`not as … as`** (= machi … bhal) melli l'awwal 9ell men ttani:\n\n- `The bus is not as fast as the train.` = Lkar machi sri3 bhal ttran. (ya3ni ttran sra3)\n- `Rabat is not as big as Casablanca.` = Rabat machi kbira bhal Casa.\n\nBach n9ewwiw lmo9arana: `much` (bzzaf) wla `a little` (chwiya) 9bel lmo9aran: `Marrakech is much hotter than Tangier.` = Marrakech skhona bzzaf kter men Tanja. / `This one is a little cheaper.` = Hada rkhes chwiya.\n\nSo2al: `Which is bigger, Casablanca or Rabat?` = Achmen wa7da kber, Casa wla Rabat?",
+    "examples": [
+     {
+      "en": "My sister is taller than me.",
+      "da": "Khti twel menni.",
+      "pron": "maï sis-teur iz to-leur than mi"
+     },
+     {
+      "en": "Rabat is as beautiful as Casablanca.",
+      "da": "Rabat zwina bhal Casa.",
+      "pron": "ra-bat iz az biou-ti-foul az ka-sa-blan-ka"
+     },
+     {
+      "en": "The bus is not as fast as the train.",
+      "da": "Lkar machi sri3 bhal ttran.",
+      "pron": "the beus iz not az fast az the tréyn"
+     },
+     {
+      "en": "Marrakech is much hotter than Tangier.",
+      "da": "Marrakech skhona bzzaf kter men Tanja.",
+      "pron": "ma-ra-kéch iz meutch ho-teur than tan-djir"
+     },
+     {
+      "en": "Which is cheaper, the bus or the train?",
+      "da": "Achmen wa7ed rkhes, lkar wla ttran?",
+      "pron": "witch iz tchi-peur, the beus or the tréyn"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "big",
+      "da": "kbir (`bigger` = kber men)",
+      "emoji": "🐘",
+      "pron": "big",
+      "example_en": "Casablanca is bigger than Fes.",
+      "example_da": "Casa kber men Fes."
+     },
+     {
+      "en": "small",
+      "da": "sghir (`smaller` = sgher men)",
+      "emoji": "🐜",
+      "pron": "smol",
+      "example_en": "My flat is smaller than yours.",
+      "example_da": "Ddar dyali sgher men dyalek."
+     },
+     {
+      "en": "tall",
+      "da": "twil (`taller` = twel men)",
+      "emoji": "🦒",
+      "pron": "tol",
+      "example_en": "Omar is taller than his father.",
+      "example_da": "Omar twel men bbah."
+     },
+     {
+      "en": "cheap",
+      "da": "rkhis (`cheaper` = rkhes men)",
+      "emoji": "💸",
+      "pron": "tchip",
+      "example_en": "The bus is cheaper than the train.",
+      "example_da": "Lkar rkhes men ttran."
+     },
+     {
+      "en": "expensive",
+      "da": "ghali (`more expensive` = ghla men)",
+      "emoji": "💎",
+      "pron": "ik-spén-siv",
+      "example_en": "This hotel is the most expensive in town.",
+      "example_da": "Had lotil howa l'aghla f lmdina."
+     },
+     {
+      "en": "hot",
+      "da": "skhon (`hotter` = skhon kter)",
+      "emoji": "🔥",
+      "pron": "hot",
+      "example_en": "July is hotter than May.",
+      "example_da": "Yolyouz skhon kter men may."
+     },
+     {
+      "en": "cold",
+      "da": "bared (`colder` = bred men)",
+      "emoji": "❄️",
+      "pron": "kold",
+      "example_en": "Ifrane is the coldest city in Morocco.",
+      "example_da": "Ifran hiya abred mdina f lmeghrib."
+     },
+     {
+      "en": "old",
+      "da": "9dim / kbir f l3mer (`older` = 9dem, kber men)",
+      "emoji": "🏛️",
+      "pron": "old",
+      "example_en": "Fes is older than Casablanca.",
+      "example_da": "Fes 9dem men Casa."
+     },
+     {
+      "en": "young",
+      "da": "sghir f l3mer (`younger` = sgher men)",
+      "emoji": "👶",
+      "pron": "yeung",
+      "example_en": "My sister is younger than me.",
+      "example_da": "Khti sgher menni."
+     },
+     {
+      "en": "easy",
+      "da": "sahl (`easier` = shel men)",
+      "emoji": "👍",
+      "pron": "i-zi",
+      "example_en": "This lesson is easier than lesson 19.",
+      "example_da": "Had dars shel men dars 19."
+     },
+     {
+      "en": "difficult",
+      "da": "s3ib (`more difficult` = s3eb men)",
+      "emoji": "🧗‍♀️",
+      "pron": "di-fi-keult",
+      "example_en": "Grammar is more difficult than vocabulary.",
+      "example_da": "L9awa3id s3eb men lkelmat."
+     },
+     {
+      "en": "beautiful",
+      "da": "zwin (`more beautiful` = zwen men)",
+      "emoji": "🌸",
+      "pron": "biou-ti-foul",
+      "example_en": "Chefchaouen is the most beautiful town in Morocco.",
+      "example_da": "Chefchawen hiya a7san mdina f lmeghrib."
+     },
+     {
+      "en": "interesting",
+      "da": "momti3, fih lfa2ida (`more interesting` = momti3 kter)",
+      "emoji": "🤔",
+      "pron": "in-tris-ting",
+      "example_en": "History is more interesting than maths for me.",
+      "example_da": "Ttarikh momti3 kter men l7sab bnnesba liya."
+     },
+     {
+      "en": "fast",
+      "da": "sri3 (`faster` = sra3 men)",
+      "emoji": "🚄",
+      "pron": "fast",
+      "example_en": "A taxi is faster than a bus.",
+      "example_da": "Taxi sra3 men tobis."
+     },
+     {
+      "en": "slow",
+      "da": "bti2, m3ettel (`slower` = m3ettel kter)",
+      "emoji": "🐢",
+      "pron": "slo",
+      "example_en": "The old bus is slower than the new one.",
+      "example_da": "Lkar l9dim m3ettel kter men jjdid."
+     },
+     {
+      "en": "far",
+      "da": "b3id (`further` = b3ed men)",
+      "emoji": "📏",
+      "pron": "far",
+      "example_en": "Agadir is further than Marrakech.",
+      "example_da": "Agadir b3ed men Marrakech."
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "Agadir wla Marrakech?",
+    "context_da": "Nouha w sa7bha Omar kaykhettto l 3otla dyal sseif. Kay9arno bin Agadir w Marrakech.",
+    "lines": [
+     {
+      "speaker": "Omar",
+      "en": "Where are we going to go this summer? Agadir or Marrakech?",
+      "da": "Fin ghadi nmchiw had sseif? Agadir wla Marrakech?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "I think Agadir is more beautiful. It has the beach and the sea.",
+      "da": "Kandenn Agadir zwina kter. Fiha lplaj w lb7er."
+     },
+     {
+      "speaker": "Omar",
+      "en": "But Marrakech is more interesting. The medina is older and bigger.",
+      "da": "Walakin Marrakech momti3a kter. Lmdina l9dima dyalha 9dem w kber."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Yes, but Marrakech is much hotter than Agadir in summer!",
+      "da": "Ah, walakin Marrakech skhona bzzaf kter men Agadir f sseif!"
+     },
+     {
+      "speaker": "Omar",
+      "en": "That's true. Is Agadir more expensive?",
+      "da": "Hadchi s7i7. Wach Agadir ghla?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "The hotels are a little more expensive, but the fish is cheaper and fresher.",
+      "da": "Lotilat ghla chwiya, walakin l7out rkhes w tri kter."
+     },
+     {
+      "speaker": "Omar",
+      "en": "And which city is further from Casablanca?",
+      "da": "W achmen mdina b3ed 3la Casa?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Agadir. It takes about seven hours by bus. The train to Marrakech is faster.",
+      "da": "Agadir. Kaykhod ta9riban seb3 swaye3 b lkar. Ttran l Marrakech sra3."
+     },
+     {
+      "speaker": "Omar",
+      "en": "OK, you win! Agadir is the best choice for the summer.",
+      "da": "Wakha, rbe7ti! Agadir hiya a7san khtiyar l sseif."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Great! It's the nicest city in Morocco!",
+      "da": "Mzyan! Hiya a7san mdina f lmeghrib!"
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "Tlata d l'aghlat li kaydirouhom bzzaf — tjennbihom: 1) \"more bigger\" ✗ → `bigger` ✓ (ya `-er` ya `more`, machi bjouj). 2) \"then\" ✗ → `than` ✓ (`then` = men ba3d). 3) \"gooder\" ✗ → `better` ✓. W tfekkri: l superlative kayakhod dima `the`: `the best`, `the biggest`. Melli kat9arni, ma t3eyyi rassek: b `-er than` w `the -est` t9edri t9oli l'aghlabiya dyal lmo9aranat!"
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "Chno howa lmo9aran (`comparative`) dyal `big`?",
+    "options": [
+     "bigger",
+     "biger",
+     "more big",
+     "biggest"
+    ],
+    "answer": 0,
+    "explain_da": "`big` → `bigger` (kan3awdo l `g`: b-i-g-g-e-r). `biggest` howa l superlative. `more big` ghalat."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Casablanca is ___ than Rabat.",
+    "options": [
+     "bigger",
+     "biggest",
+     "more big"
+    ],
+    "answer": "bigger",
+    "hint_da": "Casa kber men Rabat.",
+    "explain_da": "M3a `than` kansta3mlo lmo9aran: `bigger than`. `the biggest` kayji bla `than`."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "The train is faster than the bus.",
+    "question_da": "Sem3i w khtari lma3na.",
+    "options": [
+     "Ttran sra3 men lkar",
+     "Lkar sra3 men ttran",
+     "Ttran w lkar bjouj sra3 bhal bhal",
+     "Ttran ghla men lkar"
+    ],
+    "answer": 0,
+    "explain_da": "`faster than` = sra3 men. Lli 9bel `than` howa li sra3: `The train is faster than the bus` = ttran sra3."
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli lmo9aran b lingliziya m3a lma3na dyalo b darija.",
+    "pairs": [
+     {
+      "en": "bigger",
+      "da": "kber (men)",
+      "emoji": "🐘"
+     },
+     {
+      "en": "cheaper",
+      "da": "rkhes (men)",
+      "emoji": "💸"
+     },
+     {
+      "en": "better",
+      "da": "7sen (men)",
+      "emoji": "😊"
+     },
+     {
+      "en": "worse",
+      "da": "khyeb (men)",
+      "emoji": "👎"
+     },
+     {
+      "en": "more expensive",
+      "da": "ghla (men)",
+      "emoji": "💎"
+     },
+     {
+      "en": "further",
+      "da": "b3ed (men)",
+      "emoji": "📏"
+     }
+    ]
+   },
+   {
+    "type": "order",
+    "words": [
+     "than",
+     "Marrakech",
+     "Tangier.",
+     "hotter",
+     "is"
+    ],
+    "answer": "Marrakech is hotter than Tangier.",
+    "da": "Marrakech skhona kter men Tanja."
+   },
+   {
+    "type": "mcq",
+    "question_da": "Khtari ljomla ss7i7a:",
+    "options": [
+     "This is the most expensive hotel in Agadir.",
+     "This is the expensivest hotel in Agadir.",
+     "This is the more expensive hotel in Agadir.",
+     "This is the most expensiver hotel in Agadir."
+    ],
+    "answer": 0,
+    "explain_da": "`expensive` ssifa twila → `the most expensive`. Ma kanzidouch `-er` wla `-est` l ssifat ttwila."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "My sister is younger than me.",
+    "question_da": "Sem3i. Chno 9alt?",
+    "options": [
+     "Khti sgher menni f l3mer",
+     "Khti kber menni f l3mer",
+     "Khti twel menni",
+     "Khti 9ser menni"
+    ],
+    "answer": 0,
+    "explain_da": "`younger than me` = sgher menni f l3mer. `young` = sghir f l3mer, `old` = kbir f l3mer."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Couscous is the ___ dish in Morocco.",
+    "options": [
+     "most famous",
+     "famousest",
+     "more famous"
+    ],
+    "answer": "most famous",
+    "hint_da": "`famous` = mchhour (ssifa twila). L superlative b `the`…",
+    "explain_da": "`famous` twila → `the most famous` (l'akter chohra). `more famous` kayji m3a `than`, machi m3a `the`."
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "\"More better\" is correct English.",
+    "statement_da": "`More better` s7i7a f lingliziya.",
+    "answer": false,
+    "explain_da": "Ghalet! `better` howa déja lmo9aran dyal `good`. Kan9oulo `better than`, bla `more`."
+   },
+   {
+    "type": "translate",
+    "da": "Atay 7sen men l9ehwa.",
+    "answers": [
+     "Tea is better than coffee.",
+     "Mint tea is better than coffee.",
+     "Tea's better than coffee.",
+     "The tea is better than the coffee."
+    ],
+    "hint_en": "Tea is ... than coffee.",
+    "explain_da": "`good` → `better than` = 7sen men. Machi \"gooder\"!"
+   },
+   {
+    "type": "dictation",
+    "say_en": "The bus is not as fast as the train.",
+    "da": "Lkar machi sri3 bhal ttran.",
+    "explain_da": "`not as fast as` = machi sri3 bhal. `as … as` kat9arn bin jouj 7wayj metsawyin, w `not as … as` melli l'awwal 9ell."
+   },
+   {
+    "type": "order",
+    "words": [
+     "the",
+     "shop.",
+     "cheapest",
+     "This",
+     "in",
+     "is",
+     "the",
+     "phone"
+    ],
+    "answer": "This phone is the cheapest in the shop.",
+    "da": "Had lportable howa rkhes wa7ed f l7anout."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Today is ___ than yesterday. (hot)",
+    "answers": [
+     "hotter"
+    ],
+    "hint_da": "`hot` kattsali b 7arf wa7ed men ba3d 7arf 3illa → kan3awdo l7arf l'akhir.",
+    "explain_da": "`hot` → `hotter` (b jouj `t`). Bhal `big` → `bigger`."
+   },
+   {
+    "type": "mcq",
+    "question_da": "Lkelma `worse` hiya lmo9aran dyal:",
+    "options": [
+     "bad",
+     "good",
+     "far",
+     "big"
+    ],
+    "answer": 0,
+    "explain_da": "`bad` → `worse` → `the worst`. `good` → `better`. `far` → `further`. `big` → `bigger`."
+   },
+   {
+    "type": "translate",
+    "da": "Had lkhedma s3eb men lkhedma l9dima dyali.",
+    "answers": [
+     "This job is more difficult than my old job.",
+     "This job is harder than my old job.",
+     "This work is more difficult than my old work.",
+     "This job is more difficult than my old one."
+    ],
+    "hint_en": "This job is more ... than my old job.",
+    "explain_da": "`difficult` ssifa twila → `more difficult than`. (`harder` 7ta hiya s7i7a: `hard` = s3ib, 9sira → `-er`.)"
+   },
+   {
+    "type": "speak",
+    "target_en": "Marrakech is hotter than Casablanca, but Agadir is the most beautiful.",
+    "da": "Marrakech skhona kter men Casa, walakin Agadir hiya a7san wa7da.",
+    "pron": "ma-ra-kéch iz ho-teur than ka-sa-blan-ka, beut a-ga-dir iz the most biou-ti-foul"
+   }
+  ],
+  "reading": {
+   "title_en": "Three cities",
+   "title_da": "Tlata d lmdon",
+   "emoji": "🏙️",
+   "text_en": "Morocco has many beautiful cities, but which one is the best? Casablanca is the biggest city in the country. It is bigger than Rabat and more modern than Fes. Life in Casablanca is faster and more expensive than in other cities, and the traffic is the worst in Morocco! Marrakech is smaller than Casablanca, but it is more popular with tourists. It is also much hotter: in summer, it is one of the hottest cities in the country. The medina of Marrakech is older and more interesting than the new city. Agadir is further south. It is not as old as Marrakech, because an earthquake destroyed the old city in 1960. But Agadir has the best beach and the freshest fish. For many Moroccans, Agadir is the most relaxing city in Morocco. And for Nouha? \"Casablanca is my home, but Agadir is the most beautiful!\"",
+   "text_da": "Lmeghrib fih bzzaf dyal lmdon zwinin, walakin achmen wa7da hiya l'a7san? Casa hiya akbar mdina f lblad. Kber men Rabat w 3asriya kter men Fes. L7ayat f Casa sri3a kter w ghalya kter men lmdon l'okhra, w zz7am dyal ttomobilat howa l'akhyeb f lmeghrib! Marrakech sgher men Casa, walakin ssiya7 kaybghiwha kter. W hiya skhona bzzaf kter: f sseif, hiya men askhen lmdon f lblad. Lmdina l9dima dyal Marrakech 9dem w momti3a kter men lmdina jjdida. Agadir b3ida kter f jjanoub. Machi 9dima bhal Marrakech, 7it zelzal heddem lmdina l9dima f 1960. Walakin Agadir 3ndha a7san plaj w tra l7out. Bnnesba l bzzaf dyal lmgharba, Agadir hiya l'akter mdina mrye7a f lmeghrib. W Nouha? \"Casa hiya dari, walakin Agadir hiya a7san wa7da!\"",
+   "glossary": [
+    {
+     "en": "country",
+     "da": "lblad"
+    },
+    {
+     "en": "modern",
+     "da": "3asri / 3asriya"
+    },
+    {
+     "en": "traffic",
+     "da": "zz7am (dyal ttomobilat)"
+    },
+    {
+     "en": "popular",
+     "da": "m7boub / nnas kaybghiwh"
+    },
+    {
+     "en": "tourists",
+     "da": "ssiya7"
+    },
+    {
+     "en": "south",
+     "da": "jjanoub"
+    },
+    {
+     "en": "earthquake",
+     "da": "zelzal"
+    },
+    {
+     "en": "destroyed",
+     "da": "heddem"
+    },
+    {
+     "en": "fresh",
+     "da": "tri / triya"
+    },
+    {
+     "en": "relaxing",
+     "da": "mrye7 / kayrye7"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Achmen mdina hiya l'akbar f lmeghrib?",
+     "options": [
+      "Casablanca",
+      "Marrakech",
+      "Agadir",
+      "Rabat"
+     ],
+     "answer": 0,
+     "explain_da": "`Casablanca is the biggest city in the country.`"
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Marrakech is bigger than Casablanca.",
+     "statement_da": "Marrakech kber men Casa.",
+     "answer": false,
+     "explain_da": "Ghalet: `Marrakech is smaller than Casablanca.`"
+    },
+    {
+     "type": "mcq",
+     "question_da": "3lach Agadir machi 9dima bhal Marrakech?",
+     "options": [
+      "7it zelzal heddem lmdina l9dima f 1960",
+      "7it hiya f jjanoub",
+      "7it 3ndha lplaj",
+      "7it ssiya7 kaybghiwha"
+     ],
+     "answer": 0,
+     "explain_da": "`An earthquake destroyed the old city in 1960.`"
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chno kat9oul Nouha 3la Agadir?",
+     "options": [
+      "Hiya a7san wa7da (zwina kter men kolchi)",
+      "Hiya l'akbar",
+      "Hiya l'aghla",
+      "Zz7am dyalha khayb"
+     ],
+     "answer": 0,
+     "explain_da": "`Agadir is the most beautiful!` = a7san wa7da / zwina kter men kolchi."
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "Achmen portable?",
+   "emoji": "🎧",
+   "pre_da": "Sarah baghya tchri portable. Sem3i: achmen portable rkhes? W achmen wa7ed khtarat f l'akhir, w 3lach?",
+   "lines": [
+    {
+     "speaker": "Omar",
+     "en": "Good morning! Can I help you?",
+     "da": "Sbah lkhir! Wach n9der n3awnek?"
+    },
+    {
+     "speaker": "Sarah",
+     "en": "Yes, please. I'm looking for a phone. Which one is better, the black one or the white one?",
+     "da": "Ah, 3afak. Kan9elleb 3la portable. Achmen wa7ed 7sen, lk7el wla lbyed?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "The black one is newer and has a bigger screen. But the white one is cheaper.",
+     "da": "Lk7el jdid kter w 3ndo chacha kber. Walakin lbyed rkhes."
+    },
+    {
+     "speaker": "Sarah",
+     "en": "How much is the black one?",
+     "da": "Ch7al lk7el?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "It's three thousand dirhams. The white one is two thousand.",
+     "da": "Tlat alaf derhem. Lbyed b alfayn."
+    },
+    {
+     "speaker": "Sarah",
+     "en": "Hmm, the black one is much more expensive. Is the camera better?",
+     "da": "Hmm, lk7el ghla bzzaf. Wach lkamira 7sen?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "Yes, it's the best camera in the shop. But the white phone is lighter and easier to use.",
+     "da": "Ah, hiya a7san kamira f l7anout. Walakin lportable lbyed khfif kter w shel f l'isti3mal."
+    },
+    {
+     "speaker": "Sarah",
+     "en": "I think the white one is better for me. I'll take it.",
+     "da": "Kandenn lbyed 7sen liya. Ghadi nakhdo."
+    },
+    {
+     "speaker": "Omar",
+     "en": "Good choice! It's the most popular phone this year.",
+     "da": "Khtiyar mzyan! Howa lportable li kaytchra kter had l3am."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Achmen portable rkhes?",
+     "options": [
+      "Lbyed",
+      "Lk7el",
+      "Bjouj nefs ttaman",
+      "Ma9alch"
+     ],
+     "answer": 0,
+     "explain_da": "`The white one is cheaper.` — lbyed b 2000 derhem, lk7el b 3000."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "The black phone has a smaller screen.",
+     "statement_da": "Lportable lk7el 3ndo chacha sgher.",
+     "answer": false,
+     "explain_da": "Ghalet: `The black one… has a bigger screen.` = chacha kber."
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "It's the best camera in the shop.",
+     "question_da": "Sem3i. Chno 9al Omar 3la lkamira?",
+     "options": [
+      "Hiya a7san kamira f l7anout",
+      "Hiya akhyeb kamira f l7anout",
+      "Hiya aghla kamira f l7anout",
+      "Hiya kamira 9dima"
+     ],
+     "answer": 0,
+     "explain_da": "`the best` = l'a7san (superlative dyal `good`)."
+    },
+    {
+     "type": "mcq",
+     "question_da": "F l'akhir, achmen portable khtarat Sarah, w 3lach?",
+     "options": [
+      "Lbyed, 7it 7sen liha w rkhes",
+      "Lk7el, 7it 3ndo a7san kamira",
+      "Bjouj",
+      "7ta wa7ed, mchat bla ma tchri"
+     ],
+     "answer": 0,
+     "explain_da": "`I think the white one is better for me. I'll take it.`"
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "Casablanca is bigger than Rabat.",
+     "da": "Casa kber men Rabat.",
+     "pron": "ka-sa-blan-ka iz bi-geur than ra-bat"
+    },
+    {
+     "target_en": "This bag is cheaper than that one.",
+     "da": "Had ssak rkhes men hadak.",
+     "pron": "this bag iz tchi-peur than that wan"
+    },
+    {
+     "target_en": "Marrakech is the hottest city in summer.",
+     "da": "Marrakech hiya askhen mdina f sseif.",
+     "pron": "ma-ra-kéch iz the ho-tist si-ti in seu-meur"
+    },
+    {
+     "target_en": "This exercise is easier than the first one.",
+     "da": "Had ttamrin shel men l'awwal.",
+     "pron": "this ék-seur-saïz iz i-zi-eur than the feurst wan"
+    },
+    {
+     "target_en": "Mint tea is the best drink in the world.",
+     "da": "Atay howa a7san mechroub f l3alam.",
+     "pron": "mint ti iz the bést drink in the weurld"
+    },
+    {
+     "target_en": "The bus is not as fast as the train.",
+     "da": "Lkar machi sri3 bhal ttran.",
+     "pron": "the beus iz not az fast az the tréyn"
+    }
+   ],
+   "roleplay": {
+    "title_da": "Sarah katsewlek 3la lmdon dyal lmeghrib",
+    "context_da": "Sa7btek Sarah baghya t3ref lmeghrib kter. Katsewlek w nti kat9arni liha. Jawbi b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+    "turns": [
+     {
+      "bot_en": "Nouha, which city is bigger, Casablanca or Rabat?",
+      "bot_da": "Nouha, achmen mdina kber, Casa wla Rabat?",
+      "expect_keywords": [
+       "casablanca",
+       "casa",
+       "bigger"
+      ],
+      "sample_en": "Casablanca is bigger than Rabat."
+     },
+     {
+      "bot_en": "And which city is hotter in summer, Marrakech or Tangier?",
+      "bot_da": "W achmen mdina skhona kter f sseif, Marrakech wla Tanja?",
+      "expect_keywords": [
+       "marrakech",
+       "marrakesh",
+       "hotter"
+      ],
+      "sample_en": "Marrakech is much hotter than Tangier."
+     },
+     {
+      "bot_en": "Is the train more expensive than the bus?",
+      "bot_da": "Wach ttran ghla men lkar?",
+      "expect_keywords": [
+       "yes",
+       "more expensive",
+       "no",
+       "cheaper",
+       "but",
+       "faster",
+       "it is"
+      ],
+      "sample_en": "Yes, it's more expensive, but it's faster."
+     },
+     {
+      "bot_en": "What's the best food in Morocco, in your opinion?",
+      "bot_da": "Chno hiya a7san makla f lmeghrib, f ra2yek?",
+      "expect_keywords": [
+       "couscous",
+       "tagine",
+       "tajine",
+       "the best",
+       "best",
+       "pastilla",
+       "harira",
+       "is the"
+      ],
+      "sample_en": "Couscous is the best food in Morocco!"
+     },
+     {
+      "bot_en": "Last question: is English easier than Darija for you?",
+      "bot_da": "Akhir so2al: wach lingliziya shel men ddarija bnnesba lik?",
+      "expect_keywords": [
+       "easier",
+       "more difficult",
+       "harder",
+       "no",
+       "yes",
+       "as easy as",
+       "difficult",
+       "interesting"
+      ],
+      "sample_en": "No! Darija is easier for me, but English is more interesting."
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "9arni bin jouj mdon",
+   "prompt_da": "Ktbi 5 wla 6 jomal kat9arni fihom bin jouj mdon f lmeghrib (matalan Casa w Marrakech): lkobr, ljow, ttaman, lmakla, nnas. Sta3mli `-er than`, `more … than`, w `the …est` / `the most …`. W 9oli achmen wa7da hiya `the best` bnnesba lik, w 3lach.",
+   "helper_en": [
+    "... is bigger than ...",
+    "... is more beautiful than ...",
+    "The food in ... is cheaper.",
+    "... is the hottest city in summer.",
+    "I think ... is the best city because ..."
+   ],
+   "min_words": 40,
+   "keywords": [
+    "than",
+    "more",
+    "best"
+   ],
+   "model_en": "I live in Casablanca, but I love Marrakech. Casablanca is bigger and more modern than Marrakech. It has more jobs, but life is more expensive and the traffic is worse. Marrakech is smaller, hotter and more beautiful. The medina is older and more interesting than the centre of Casablanca. The food in Marrakech is cheaper, and the people are friendlier. For me, Casablanca is the best city for work, but Marrakech is the best city for holidays!"
+  }
+ }
+]

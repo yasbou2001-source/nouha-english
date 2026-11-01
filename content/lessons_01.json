@@ -1,0 +1,190 @@
+[
+{
+  "id": "l01",
+  "order": 1,
+  "level": "A1.1",
+  "emoji": "👋",
+  "title_en": "Hello! Greetings & introductions",
+  "title_da": "Salam! Tte7iyat w tta3arof",
+  "goals_da": [
+    "Tsellmi 3la nnas b lingliziya f sbah, f l3chiya w f lil",
+    "T9eddmi rassek: smiytek w mnin nti",
+    "Tfehmi `How are you?` w tjawbi 3liha",
+    "T9oli `Thank you`, `Please` w `Goodbye`"
+  ],
+  "sections": [
+    {
+      "type": "explain",
+      "title_da": "Kifach nsellmo",
+      "body_da": "F lingliziya, melli kanchoufo chi wa7ed kan9oulo `Hello` wla `Hi`. `Hi` m3a s7ab w nnas li kan3erfouhom, `Hello` kadkhol f kolchi (f lkhedma, f l'idara, m3a nnas li makan3erfouhomch).\n\nF sbah kan9oulo `Good morning`, men ba3d 12h kan9oulo `Good afternoon`, w f l3chiya wla f lil `Good evening`. Melli kanmchiw kan9oulo `Goodbye` wla `Bye`.\n\n- `Hello` / `Hi` = Salam / Ahlan\n- `Good morning` = Sbah lkhir (7ta l 12h)\n- `Good afternoon` = Msa lkhir (men 12h 7ta l 18h)\n- `Good evening` = Msa lkhir (f l3chiya w f lil)\n- `Good night` = Layla sa3ida (ghir melli ghadi tn3si wla tmchi f lil)\n- `Goodbye` / `Bye` = Bslama\n\n**Nasi7a:** `Good night` machi bhal `Good evening`! `Good night` kat9al ghir f l'akhir, melli ghadi tmchi tn3si.",
+      "examples": [
+        {"en": "Hello! Good morning.", "da": "Salam! Sbah lkhir.", "pron": "hé-lo! goud mor-ning"},
+        {"en": "Hi, Sarah!", "da": "Ahlan, Sarah!", "pron": "haï, sé-ra"},
+        {"en": "Good evening, everyone.", "da": "Msa lkhir 3la ljami3.", "pron": "goud iv-ning, év-ri-wan"},
+        {"en": "Goodbye! See you tomorrow.", "da": "Bslama! Nchoufouk ghedda.", "pron": "goud-baï! si you tou-mo-ro"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "Smiyti… — kifach t9eddmi rassek",
+      "body_da": "Bach t9oli smiytek, kayn jouj tari9at, bjouj s7a7:\n\n- `My name is Nouha.` = Smiyti Nouha.\n- `I am Nouha.` = Ana Nouha.\n\n`I am` kat9der tt9esser w twelli `I'm` — nefs lma3na, walakin kat9al bzzaf f lhadra: `I'm Nouha.`\n\nBach tsewli chi wa7ed 3la smiyto: `What is your name?` wla m9essra: `What's your name?`\n\nMelli kat3erfi chi wa7ed l'awwal merra, kan9oulo `Nice to meet you` (= metcherfa b m3erftek). Howa ghadi yjawbek `Nice to meet you too` (= ana 7ta ana). Lkelma `too` hna kat3ni \"7ta ana / b7alek\".",
+      "examples": [
+        {"en": "What's your name?", "da": "Chno smiytek?", "pron": "wats your néym"},
+        {"en": "My name is Nouha.", "da": "Smiyti Nouha.", "pron": "maï néym iz nou-ha"},
+        {"en": "I'm Nouha.", "da": "Ana Nouha.", "pron": "aïm nou-ha"},
+        {"en": "Nice to meet you!", "da": "Metcherfa b m3erftek!", "pron": "naïs tou mit you"},
+        {"en": "Nice to meet you too.", "da": "Ana 7ta ana.", "pron": "naïs tou mit you tou"}
+      ]
+    },
+    {
+      "type": "explain",
+      "title_da": "How are you? — Kidayra?",
+      "body_da": "`How are you?` = Kidayra? / Labas 3lik? Had so2al kaytsewwel dima men ba3d ssalam.\n\nLjawab:\n\n- `I'm fine, thank you.` = Labas, lhamdollah. (7arfiyan: ana mzyana, choukran)\n- `I'm good.` / `I'm great!` = Ana mzyana / Bikhir bzzaf!\n- `I'm OK.` = Labas, 3adi.\n- `Not bad.` = Machi khayb.\n\nMen ba3d kanzido `And you?` (= w nti? / w nta?) bach nsewlo l'akhor 7ta howa. Bhal f darija: \"Labas, lhamdollah, w nta?\"\n\n`Thank you` w `Thanks` bjouj kay3niw \"choukran\". `Thanks` khfifa chwiya, m3a s7ab.",
+      "examples": [
+        {"en": "How are you?", "da": "Kidayra? / Labas?", "pron": "haw ar you"},
+        {"en": "I'm fine, thank you. And you?", "da": "Labas, choukran. W nta?", "pron": "aïm faïn, thank you. and you"},
+        {"en": "I'm great, thanks!", "da": "Bikhir bzzaf, choukran!", "pron": "aïm gréyt, thanks"},
+        {"en": "Not bad, thanks.", "da": "Machi khayb, choukran.", "pron": "not bad, thanks"}
+      ]
+    },
+    {
+      "type": "vocab",
+      "title_da": "Lkelmat dyal dars",
+      "items": [
+        {"en": "hello", "da": "salam", "emoji": "👋", "pron": "hé-lo", "example_en": "Hello, Sarah!", "example_da": "Salam, Sarah!"},
+        {"en": "hi", "da": "ahlan (m3a s7ab)", "emoji": "🙂", "pron": "haï", "example_en": "Hi! How are you?", "example_da": "Ahlan! Kidayra?"},
+        {"en": "good morning", "da": "sbah lkhir", "emoji": "🌅", "pron": "goud mor-ning", "example_en": "Good morning, everyone!", "example_da": "Sbah lkhir 3la ljami3!"},
+        {"en": "good afternoon", "da": "msa lkhir (men 12h 7ta l 18h)", "emoji": "☀️", "pron": "goud af-teur-noun", "example_en": "Good afternoon, Mr. Brown.", "example_da": "Msa lkhir, a ssi Brown."},
+        {"en": "good evening", "da": "msa lkhir (f l3chiya)", "emoji": "🌆", "pron": "goud iv-ning", "example_en": "Good evening! Welcome.", "example_da": "Msa lkhir! Mer7ba."},
+        {"en": "good night", "da": "layla sa3ida", "emoji": "🌙", "pron": "goud naït", "example_en": "Good night, see you tomorrow.", "example_da": "Layla sa3ida, nchoufouk ghedda."},
+        {"en": "goodbye", "da": "bslama", "emoji": "🚶‍♀️", "pron": "goud-baï", "example_en": "Goodbye, Omar!", "example_da": "Bslama, Omar!"},
+        {"en": "thank you", "da": "choukran", "emoji": "🙏", "pron": "thank you", "example_en": "Thank you very much!", "example_da": "Choukran bzzaf!"},
+        {"en": "please", "da": "3afak", "emoji": "🤲", "pron": "pliz", "example_en": "Repeat, please.", "example_da": "3awed, 3afak."},
+        {"en": "yes", "da": "ah / iyeh", "emoji": "✅", "pron": "yès", "example_en": "Yes, I'm Nouha.", "example_da": "Ah, ana Nouha."},
+        {"en": "no", "da": "la", "emoji": "❌", "pron": "no", "example_en": "No, I'm not Sarah.", "example_da": "La, ana machi Sarah."},
+        {"en": "sorry", "da": "sme7 liya / sma7 liya", "emoji": "😔", "pron": "so-ri", "example_en": "Sorry, I'm late.", "example_da": "Sme7 liya, t3ettelt."},
+        {"en": "excuse me", "da": "sme7 liya (bach tsewli wla tdouz)", "emoji": "🙋‍♀️", "pron": "ik-skiouz mi", "example_en": "Excuse me, what's your name?", "example_da": "Sme7 liya, chno smiytek?"},
+        {"en": "name", "da": "smiya / l'ism", "emoji": "🏷️", "pron": "néym", "example_en": "My name is Nouha.", "example_da": "Smiyti Nouha."},
+        {"en": "nice to meet you", "da": "metcherfa b m3erftek", "emoji": "🤝", "pron": "naïs tou mit you", "example_en": "Nice to meet you, Tom.", "example_da": "Metcherfa b m3erftek, Tom."},
+        {"en": "you're welcome", "da": "bla jmil / la choukr 3la wajib", "emoji": "😊", "pron": "your wél-keum", "example_en": "Thank you! — You're welcome.", "example_da": "Choukran! — Bla jmil."}
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title_da": "Awwal li9a2 f dawra dyal lingliziya",
+      "context_da": "Nouha dkhlat l dawra jdida dyal lingliziya f Casa. Tla9at m3a Sarah, wa7ed lkanadiya kat9ra m3aha.",
+      "lines": [
+        {"speaker": "Sarah", "en": "Hello! I'm Sarah. What's your name?", "da": "Salam! Ana Sarah. Chno smiytek?"},
+        {"speaker": "Nouha", "en": "Hi, Sarah. My name is Nouha.", "da": "Ahlan, Sarah. Smiyti Nouha."},
+        {"speaker": "Sarah", "en": "Nice to meet you, Nouha!", "da": "Metcherfa b m3erftek, Nouha!"},
+        {"speaker": "Nouha", "en": "Nice to meet you too. How are you?", "da": "Ana 7ta ana. Kidayra?"},
+        {"speaker": "Sarah", "en": "I'm fine, thank you. And you?", "da": "Labas, choukran. W nti?"},
+        {"speaker": "Nouha", "en": "I'm good, thanks.", "da": "Ana mzyana, choukran."},
+        {"speaker": "Sarah", "en": "Where are you from?", "da": "Mnin nti?"},
+        {"speaker": "Nouha", "en": "I'm from Morocco. I live in Casablanca.", "da": "Ana men lmeghrib. Kanskon f Casa."},
+        {"speaker": "Sarah", "en": "Oh, nice! I'm from Canada.", "da": "Wah, zwin! Ana men Canada."},
+        {"speaker": "Nouha", "en": "Welcome to Morocco, Sarah!", "da": "Mer7ba bik f lmeghrib, Sarah!"}
+      ]
+    },
+    {
+      "type": "tip",
+      "title_da": "Nasi7a",
+      "body_da": "`Hi` w `Hello` bjouj mzyanin. M3a chi wa7ed makat3rfihch (f lkhedma, f l'idara) khtari `Hello` wla `Good morning`. M3a s7abek, `Hi` kafya. W dima zidi `please` w `thank you` — l'ingliz kaysta3mlouhom bzzaf, kter men 7na!"
+    }
+  ],
+  "exercises": [
+    {"type": "mcq", "question_da": "Kifach kan9oulo \"salam\" b lingliziya?", "options": ["Hello", "Goodbye", "Thank you", "Please"], "answer": 0, "explain_da": "`Hello` = salam. `Goodbye` = bslama. `Thank you` = choukran. `Please` = 3afak."},
+    {"type": "listen_mcq", "say_en": "Good morning!", "question_da": "Sem3i w khtari lma3na.", "options": ["Sbah lkhir", "Msa lkhir", "Bslama", "Choukran"], "answer": 0, "explain_da": "`Good morning` = sbah lkhir. Kat9al f sbah 7ta l 12h."},
+    {"type": "match", "instruction_da": "Wessli lkelma b lingliziya m3a lma3na dyalha b darija.", "pairs": [
+      {"en": "Thank you", "da": "Choukran", "emoji": "🙏"},
+      {"en": "Goodbye", "da": "Bslama", "emoji": "👋"},
+      {"en": "Please", "da": "3afak", "emoji": "🤲"},
+      {"en": "Sorry", "da": "Sme7 liya", "emoji": "😔"},
+      {"en": "Yes", "da": "Ah / Iyeh", "emoji": "✅"}
+    ]},
+    {"type": "fill", "sentence_en": "My ___ is Nouha.", "options": ["name", "is", "hello"], "answer": "name", "hint_da": "Smiyti = My name", "explain_da": "`My name is Nouha.` = Smiyti Nouha."},
+    {"type": "order", "words": ["name", "My", "is", "Sarah."], "answer": "My name is Sarah.", "da": "Smiyti Sarah."},
+    {"type": "mcq", "question_en": "How are you?", "question_da": "Achmen jawab mzyan 3la had so2al?", "options": ["I'm fine, thank you.", "My name is Ali.", "Goodbye!", "I'm from Morocco."], "answer": 0, "explain_da": "`How are you?` = kidayra? Ljawab: `I'm fine, thank you.` = labas, choukran."},
+    {"type": "fill", "sentence_en": "Nice to ___ you.", "options": ["meet", "name", "fine"], "answer": "meet", "hint_da": "Metcherfa b m3erftek.", "explain_da": "`Nice to meet you.` = metcherfa b m3erftek. `meet` = tla9a / t3erref."},
+    {"type": "listen_mcq", "say_en": "What's your name?", "question_da": "Sem3i. 3la ach kaysewwel?", "options": ["3la smiytek", "3la ss7a dyalek", "mnin nti", "3la l3mer dyalek"], "answer": 0, "explain_da": "`What's your name?` = chno smiytek?"},
+    {"type": "translate", "da": "Ana men lmeghrib.", "answers": ["I am from Morocco.", "I'm from Morocco."], "hint_en": "I ... from ...", "explain_da": "`I'm from Morocco.` — `from` = men."},
+    {"type": "dictation", "say_en": "Nice to meet you.", "da": "Metcherfa b m3erftek.", "explain_da": "Sem3i mzyan: `Nice` – `to` – `meet` – `you`."},
+    {"type": "order", "words": ["are", "How", "you?"], "answer": "How are you?", "da": "Kidayra?"},
+    {"type": "mcq", "question_da": "F lil, 9bel ma tn3si, kat9oli:", "options": ["Good night", "Good morning", "Good afternoon", "Hello"], "answer": 0, "explain_da": "`Good night` kat9al ghir melli ghadi tn3si wla tmchi f lil."},
+    {"type": "truefalse", "statement_en": "\"Hi\" is more formal than \"Hello\".", "statement_da": "`Hi` rasmiya kter men `Hello`.", "answer": false, "explain_da": "La! `Hello` hiya li rasmiya kter. `Hi` m3a s7ab."},
+    {"type": "speak", "target_en": "Hello, my name is Nouha. Nice to meet you.", "da": "Salam, smiyti Nouha. Metcherfa b m3erftek.", "pron": "hé-lo, maï néym iz nou-ha. naïs tou mit you"},
+    {"type": "translate", "da": "Choukran bzzaf!", "answers": ["Thank you very much!", "Thanks a lot!", "Thank you so much!", "Thanks very much!"], "hint_en": "Thank you ... ...", "explain_da": "`Thank you very much!` = choukran bzzaf. `very much` = bzzaf."}
+  ],
+  "reading": {
+    "title_en": "A new friend",
+    "title_da": "Sa7ba jdida",
+    "emoji": "👭",
+    "text_en": "Hello! My name is Nouha. I am from Morocco. I live in Casablanca. This is my friend Sarah. She is from Canada. She is a nurse. Sarah is very nice. We are students in an English class. Our teacher is Mr. Brown. He is from London. Nice to meet you!",
+    "text_da": "Salam! Smiyti Nouha. Ana men lmeghrib. Kanskon f Casa. Hadi sa7bti Sarah. Hiya men Canada. Hiya fermliya. Sarah zwina bzzaf (dérifa). 7na tlamed f 9ism dyal lingliziya. L'oustad dyalna howa ssi Brown. Howa men London. Metcherfa b m3erftkom!",
+    "glossary": [
+      {"en": "friend", "da": "sa7eb / sa7ba"},
+      {"en": "live", "da": "kanskon"},
+      {"en": "nurse", "da": "fermliya"},
+      {"en": "very", "da": "bzzaf"},
+      {"en": "nice", "da": "zwin / dérif"},
+      {"en": "students", "da": "tlamed"},
+      {"en": "class", "da": "9ism / dawra"},
+      {"en": "teacher", "da": "oustad / oustada"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Mnin Nouha?", "options": ["Men lmeghrib", "Men Canada", "Men London", "Men Fransa"], "answer": 0, "explain_da": "\"I am from Morocco\" = ana men lmeghrib."},
+      {"type": "truefalse", "statement_en": "Sarah is from Canada.", "answer": true, "explain_da": "S7i7: \"She is from Canada.\""},
+      {"type": "mcq", "question_da": "Chno khedmet Sarah?", "options": ["Nurse (fermliya)", "Teacher (oustada)", "Doctor (tbiba)", "Student (taliba)"], "answer": 0, "explain_da": "\"She is a nurse.\" = hiya fermliya."},
+      {"type": "mcq", "question_da": "Mnin l'oustad Mr. Brown?", "options": ["Men London", "Men Casablanca", "Men Canada", "Men Rabat"], "answer": 0, "explain_da": "\"He is from London.\""}
+    ]
+  },
+  "listening": {
+    "title_da": "F l9ism dyal lingliziya",
+    "emoji": "🏫",
+    "pre_da": "Sem3i l7iwar mzyan. Rekkzi 3la: chno smiyt ttalib? w mnin howa?",
+    "lines": [
+      {"speaker": "Mr. Brown", "en": "Good morning, everyone! I'm Mr. Brown. What's your name?", "da": "Sbah lkhir 3la ljami3! Ana ssi Brown. Chno smiytek?"},
+      {"speaker": "Omar", "en": "Good morning. My name is Omar.", "da": "Sbah lkhir. Smiyti Omar."},
+      {"speaker": "Mr. Brown", "en": "Nice to meet you, Omar. Where are you from?", "da": "Metcherref b m3erftek, Omar. Mnin nta?"},
+      {"speaker": "Omar", "en": "I'm from Rabat, in Morocco.", "da": "Ana men Rabat, f lmeghrib."},
+      {"speaker": "Mr. Brown", "en": "Great! And how are you today?", "da": "Mzyan! W kidayer lyouma?"},
+      {"speaker": "Omar", "en": "I'm fine, thank you. And you?", "da": "Labas, choukran. W nta?"},
+      {"speaker": "Mr. Brown", "en": "I'm very well, thanks. Welcome to the class!", "da": "Ana bikhir bzzaf, choukran. Mer7ba bik f l9ism!"}
+    ],
+    "questions": [
+      {"type": "mcq", "question_da": "Chno smiyt l'oustad?", "options": ["Mr. Brown", "Mr. Omar", "Mr. Smith", "Mr. Green"], "answer": 0, "explain_da": "\"I'm Mr. Brown.\""},
+      {"type": "mcq", "question_da": "Mnin Omar?", "options": ["Men Rabat", "Men Casa", "Men Fes", "Men Tanja"], "answer": 0, "explain_da": "\"I'm from Rabat, in Morocco.\""},
+      {"type": "truefalse", "statement_en": "Omar is not fine today.", "statement_da": "Omar machi labas lyouma.", "answer": false, "explain_da": "Ghalet: Omar 9al \"I'm fine, thank you.\""},
+      {"type": "listen_mcq", "say_en": "Welcome to the class!", "question_da": "Sem3i. Chno kat3ni had ljomla?", "options": ["Mer7ba bik f l9ism", "Bslama", "Smiyti Omar", "Kidayrin"], "answer": 0, "explain_da": "`Welcome` = mer7ba. `class` = l9ism."}
+    ]
+  },
+  "speaking": {
+    "pronunciation": [
+      {"target_en": "Hello! How are you?", "da": "Salam! Kidayra?", "pron": "hé-lo! haw ar you"},
+      {"target_en": "I'm fine, thank you.", "da": "Labas, choukran.", "pron": "aïm faïn, thank you"},
+      {"target_en": "My name is Nouha.", "da": "Smiyti Nouha.", "pron": "maï néym iz nou-ha"},
+      {"target_en": "Nice to meet you.", "da": "Metcherfa b m3erftek.", "pron": "naïs tou mit you"},
+      {"target_en": "Good morning! Have a nice day.", "da": "Sbah lkhir! Nhar zwin.", "pron": "goud mor-ning! hav a naïs déy"},
+      {"target_en": "Goodbye! See you tomorrow.", "da": "Bslama! Nchoufouk ghedda.", "pron": "goud-baï! si you tou-mo-ro"}
+    ],
+    "roleplay": {
+      "title_da": "Awwal li9a2 m3a l'oustad",
+      "context_da": "Nti f dawra dyal lingliziya. L'oustad ghadi yhder m3ak. Jawbi b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+      "turns": [
+        {"bot_en": "Hello! Good morning. What's your name?", "bot_da": "Salam! Sbah lkhir. Chno smiytek?", "expect_keywords": ["my name is", "i am", "i'm", "name"], "sample_en": "My name is Nouha."},
+        {"bot_en": "Nice to meet you! How are you today?", "bot_da": "Metcherref! Kidayra lyouma?", "expect_keywords": ["fine", "good", "great", "ok", "okay", "well", "not bad"], "sample_en": "I'm fine, thank you. And you?"},
+        {"bot_en": "I'm very well, thanks. Where are you from?", "bot_da": "Ana bikhir, choukran. Mnin nti?", "expect_keywords": ["from", "morocco", "casablanca", "rabat", "moroccan"], "sample_en": "I'm from Morocco."},
+        {"bot_en": "Wonderful! Welcome to the class. Goodbye for now!", "bot_da": "Ra2i3! Mer7ba bik f l9ism. Bslama daba!", "expect_keywords": ["bye", "goodbye", "see you", "thank"], "sample_en": "Thank you! Goodbye!"}
+      ]
+    }
+  },
+  "writing": {
+    "title_da": "9eddmi rassek",
+    "prompt_da": "Ktbi 3 wla 4 jomal 3la rassek b lingliziya: smiytek, mnin nti, fin kattskni, w sellmi 3la l9ari. Sta3mli ljomal li t3ellemti f had dars.",
+    "helper_en": ["Hello! My name is ...", "I am from ...", "I live in ...", "Nice to meet you!"],
+    "min_words": 15,
+    "keywords": ["name", "from"],
+    "model_en": "Hello! My name is Nouha. I am from Morocco. I live in Casablanca. Nice to meet you!"
+  }
+}
+]

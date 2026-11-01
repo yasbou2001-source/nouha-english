@@ -1,0 +1,2573 @@
+[
+ {
+  "id": "l02",
+  "order": 2,
+  "level": "A1.1",
+  "emoji": "🔤",
+  "title_en": "The alphabet, spelling & numbers 0–20",
+  "title_da": "L7orouf, ttehjiya w l'ar9am 0–20",
+  "goals_da": [
+   "T3erfi l7orouf dyal lingliziya w kifach kayt9raw",
+   "Tsewli `How do you spell…?` w tthejjay smiytek 7erf b 7erf",
+   "T7esbi men 0 7ta l 20",
+   "Tsta3mli ljomal dyal l9ism: `Can you repeat, please?`, `I don't understand`"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "L7orouf dyal lingliziya (the alphabet)",
+    "body_da": "`The alphabet` = l7orouf. F lingliziya kaynin **26 7erf**. Houma nefs l7orouf li katktbi bihom darija f lportable (A, B, C…), walakin **smiyathom b lingliziya mkhtalfa**. Khassek t7efdihom mzyan, 7it ghadi t7tajihom bach tthejjay smiytek f lbanka, f lmatar, f ttilifoun…\n\nHa l7orouf w kifach kayt9raw (mktoubin b l7orouf dyal darija):\n\n- `A` = éy\n- `B` = bi\n- `C` = si\n- `D` = di\n- `E` = i\n- `F` = éf\n- `G` = dji\n- `H` = éytch\n- `I` = aï\n- `J` = djéy\n- `K` = kéy\n- `L` = él\n- `M` = ém\n- `N` = én\n- `O` = o\n- `P` = pi\n- `Q` = kiou\n- `R` = ar\n- `S` = és\n- `T` = ti\n- `U` = you\n- `V` = vi\n- `W` = da-beul-you\n- `X` = éks\n- `Y` = waï\n- `Z` = zéd (f Amérika kay9oulo: zi)\n\n**7ila bach t7efdihom:** jem3i l7orouf li kaysaliw b nefs ssot:\n\n- \"éy\": `A` `H` `J` `K`\n- \"i\": `B` `C` `D` `E` `G` `P` `T` `V`\n- \"é\": `F` `L` `M` `N` `S` `X`\n- \"aï\": `I` `Y`\n- \"ou\": `Q` `U` `W`\n\n**Redi lbal:** `E` kat9ra \"i\", w `I` kat9ra \"aï\" — hadi lghalta li kaydirouha bzzaf dyal nnas! W `G` (dji) machi bhal `J` (djéy). Jarrbi t9rayhom b sot 3ali.",
+    "examples": [
+     {
+      "en": "A, B, C, D, E, F, G.",
+      "da": "L7orouf lewwlin.",
+      "pron": "éy, bi, si, di, i, éf, dji"
+     },
+     {
+      "en": "N-O-U-H-A.",
+      "da": "Nouha, 7erf b 7erf.",
+      "pron": "én-o-you-éytch-éy"
+     },
+     {
+      "en": "C-A-S-A.",
+      "da": "Casa, 7erf b 7erf.",
+      "pron": "si-éy-és-éy"
+     },
+     {
+      "en": "W, X, Y, Z.",
+      "da": "L7orouf l'akhira.",
+      "pron": "da-beul-you, éks, waï, zéd"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "How do you spell…? — kifach katktbiha?",
+    "body_da": "Melli chi wa7ed ma 3refch kifach katkteb smiytek, kaysewlek: `How do you spell your name?` = kifach katktbi smiytek? (7erf b 7erf). Bhal melli lmowaddaf f l'idara kay9oul lik: \"ktebha liya 7erf b 7erf\".\n\nLjawab: kat9oli l7orouf wa7ed b wa7ed: `It's N-O-U-H-A.`\n\nJomal mohimma:\n\n- `How do you spell it?` = kifach katktbiha?\n- `Can you spell that, please?` = wach t9der tthejja liya hadik, 3afak?\n- `It's N-O-U-H-A.` = hiya N-O-U-H-A.\n- `Double L` = jouj L mtab3in (bhal f `Ella`: E, double L, A)\n- `Capital N` = N kbira (7erf kbir)\n\n`First name` = smiya (l'ism lewwel). `Last name` wla `family name` = lknya (l'ism l3a2ili). `Your full name` = smiytek kamla. F lmeghrib kanktbo lknya lewwla f lwra9, walakin f lingliziya `first name` dima lewwel!",
+    "examples": [
+     {
+      "en": "How do you spell your name?",
+      "da": "Kifach katktbi smiytek?",
+      "pron": "haw dou you spél your néym"
+     },
+     {
+      "en": "It's N-O-U-H-A.",
+      "da": "Hiya N-O-U-H-A.",
+      "pron": "its én-o-you-éytch-éy"
+     },
+     {
+      "en": "Can you spell that, please?",
+      "da": "Wach t9der tthejja liya hadik, 3afak?",
+      "pron": "kan you spél that, pliz"
+     },
+     {
+      "en": "My last name is Alami: A-L-A-M-I.",
+      "da": "Lknya dyali Alami: A-L-A-M-I.",
+      "pron": "maï last néym iz a-la-mi: éy-él-éy-ém-aï"
+     },
+     {
+      "en": "Sorry, is it one L or double L?",
+      "da": "Sme7 liya, wach L we7da wla jouj?",
+      "pron": "so-ri, iz it wan él or da-beul él"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "L'ar9am men 0 7ta l 20",
+    "body_da": "Ha l'ar9am men 0 7ta l 20. 9rayhom b sot 3ali bzzaf dyal lmerrat:\n\n- 0 `zero` = zi-ro\n- 1 `one` = wan\n- 2 `two` = tou\n- 3 `three` = thri\n- 4 `four` = for\n- 5 `five` = faïv\n- 6 `six` = siks\n- 7 `seven` = sé-ven\n- 8 `eight` = éyt\n- 9 `nine` = naïn\n- 10 `ten` = tén\n- 11 `eleven` = i-lé-ven\n- 12 `twelve` = twélv\n- 13 `thirteen` = theur-tin\n- 14 `fourteen` = for-tin\n- 15 `fifteen` = fif-tin\n- 16 `sixteen` = siks-tin\n- 17 `seventeen` = sé-ven-tin\n- 18 `eighteen` = éy-tin\n- 19 `nineteen` = naïn-tin\n- 20 `twenty` = twén-ti\n\n**Lmola7ada:** men 13 7ta 19 kolhom kaysaliw b `-teen` — bhal f darija melli kan9oulo tlettach, rb3tach, khemstach… kolhom kaysaliw b \"-tach\"! Walakin redi lbal: `thirteen` (machi \"threeteen\") w `fifteen` (machi \"fiveteen\"). W `eleven` w `twelve` khassin, bhal 7dach w tnach f darija.\n\n**Ssot \"th\":** f `three` w `thirteen`, 7etti lsanek bin ssnan w nef7i — ssot bin \"t\" w \"s\". Jarrbi: `three`, `thirteen`, `thank you`.",
+    "examples": [
+     {
+      "en": "Page ten, please.",
+      "da": "Ssef7a 3achra, 3afak.",
+      "pron": "péydj tén, pliz"
+     },
+     {
+      "en": "One, two, three, go!",
+      "da": "Wa7ed, jouj, tlata, yallah!",
+      "pron": "wan, tou, thri, go"
+     },
+     {
+      "en": "Number fifteen.",
+      "da": "Nnemra khemstach.",
+      "pron": "nam-beur fif-tin"
+     },
+     {
+      "en": "Twelve dirhams, please.",
+      "da": "Tnach derhem, 3afak.",
+      "pron": "twélv di-ramz, pliz"
+     },
+     {
+      "en": "I'm in room twenty.",
+      "da": "Ana f lbit 3echrin.",
+      "pron": "aïm in roum twén-ti"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Ljomal dyal l9ism (classroom language)",
+    "body_da": "F l9ism, ila ma fhemtich wla ma sme3tich mzyan, **ma t7echmich!** Hadi hiya ljomal li ghadi tn9dek:\n\n- `Can you repeat, please?` = wach t9der t3awed, 3afak?\n- `Slowly, please.` = bchwiya, 3afak.\n- `I don't understand.` = ma fhemtch.\n- `What does \"open\" mean?` = chno kat3ni `open`?\n- `How do you say \"khobz\" in English?` = kifach kan9oulo \"khobz\" b lingliziya?\n- `How do you write it?` = kifach katktbiha?\n- `Sorry?` / `Pardon?` = chno? (3awed, ma sme3tch)\n- `I have a question.` = 3ndi so2al.\n- `I know!` / `I don't know.` = 3reft! / ma 3reftch.\n\n`Can you…?` = wach t9der / t9edri…? — tari9a mo2addaba (b l'adab) bach ttelbi chi 7aja. W `please` dima f l'akhir!\n\nL'oustad ghadi y9oul likom: `Open your books.` (7ellou lktouba), `Listen.` (sem3ou), `Repeat.` (3awdou), `Read.` (9raw), `Write.` (ktbou), `Good job!` (mzyan!).",
+    "examples": [
+     {
+      "en": "Can you repeat, please?",
+      "da": "Wach t9der t3awed, 3afak?",
+      "pron": "kan you ri-pit, pliz"
+     },
+     {
+      "en": "Sorry, I don't understand.",
+      "da": "Sme7 liya, ma fhemtch.",
+      "pron": "so-ri, aï dont an-deur-stand"
+     },
+     {
+      "en": "What does \"page\" mean?",
+      "da": "Chno kat3ni `page`?",
+      "pron": "wat daz péydj min"
+     },
+     {
+      "en": "How do you say \"khobz\" in English?",
+      "da": "Kifach kan9oulo \"khobz\" b lingliziya?",
+      "pron": "haw dou you séy khobz in in-glich"
+     },
+     {
+      "en": "Slowly, please. I have a question.",
+      "da": "Bchwiya, 3afak. 3ndi so2al.",
+      "pron": "slo-li, pliz. aï hav a kwés-tcheun"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "letter",
+      "da": "7erf",
+      "emoji": "🔤",
+      "pron": "lé-teur",
+      "example_en": "The letter A.",
+      "example_da": "L7erf A."
+     },
+     {
+      "en": "number",
+      "da": "ra9m / nemra",
+      "emoji": "🔢",
+      "pron": "nam-beur",
+      "example_en": "Number seven, please.",
+      "example_da": "Nnemra sb3a, 3afak."
+     },
+     {
+      "en": "spell",
+      "da": "thejja (9oli l7orouf wa7ed b wa7ed)",
+      "emoji": "🔡",
+      "pron": "spél",
+      "example_en": "Spell your name, please.",
+      "example_da": "Thejjay smiytek, 3afak."
+     },
+     {
+      "en": "repeat",
+      "da": "3awed",
+      "emoji": "🔁",
+      "pron": "ri-pit",
+      "example_en": "Can you repeat the number?",
+      "example_da": "Wach t9der t3awed nnemra?"
+     },
+     {
+      "en": "understand",
+      "da": "fhem",
+      "emoji": "💡",
+      "pron": "an-deur-stand",
+      "example_en": "I understand now, thank you.",
+      "example_da": "Fhemt daba, choukran."
+     },
+     {
+      "en": "mean",
+      "da": "3na (kat3ni)",
+      "emoji": "🤔",
+      "pron": "min",
+      "example_en": "What does \"letter\" mean?",
+      "example_da": "Chno kat3ni `letter`?"
+     },
+     {
+      "en": "say",
+      "da": "9al / goul",
+      "emoji": "🗣️",
+      "pron": "séy",
+      "example_en": "How do you say \"atay\" in English?",
+      "example_da": "Kifach kan9oulo \"atay\" b lingliziya?"
+     },
+     {
+      "en": "slowly",
+      "da": "bchwiya",
+      "emoji": "🐢",
+      "pron": "slo-li",
+      "example_en": "Speak slowly, please.",
+      "example_da": "Hder bchwiya, 3afak."
+     },
+     {
+      "en": "question",
+      "da": "so2al",
+      "emoji": "❓",
+      "pron": "kwés-tcheun",
+      "example_en": "I have a question.",
+      "example_da": "3ndi so2al."
+     },
+     {
+      "en": "answer",
+      "da": "jawab",
+      "emoji": "💬",
+      "pron": "an-seur",
+      "example_en": "Good answer, Nouha!",
+      "example_da": "Jawab mzyan, Nouha!"
+     },
+     {
+      "en": "word",
+      "da": "kelma",
+      "emoji": "📝",
+      "pron": "weurd",
+      "example_en": "\"Hello\" is an English word.",
+      "example_da": "`Hello` kelma ngliziya."
+     },
+     {
+      "en": "page",
+      "da": "ssef7a",
+      "emoji": "📄",
+      "pron": "péydj",
+      "example_en": "Open your book, page five.",
+      "example_da": "7elli lktab dyalek, ssef7a khemsa."
+     },
+     {
+      "en": "book",
+      "da": "ktab",
+      "emoji": "📘",
+      "pron": "bouk",
+      "example_en": "This is my English book.",
+      "example_da": "Hada lktab dyali dyal lingliziya."
+     },
+     {
+      "en": "first name",
+      "da": "smiya (l'ism lewwel)",
+      "emoji": "🪪",
+      "pron": "feurst néym",
+      "example_en": "My first name is Nouha.",
+      "example_da": "Smiyti Nouha."
+     },
+     {
+      "en": "last name",
+      "da": "knya (l'ism l3a2ili)",
+      "emoji": "👪",
+      "pron": "last néym",
+      "example_en": "What's your last name?",
+      "example_da": "Chno lknya dyalek?"
+     },
+     {
+      "en": "teacher",
+      "da": "oustad / oustada",
+      "emoji": "👩‍🏫",
+      "pron": "ti-tcheur",
+      "example_en": "Our teacher is Mr. Brown.",
+      "example_da": "L'oustad dyalna howa ssi Brown."
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "Kifach katktbi smiytek?",
+    "context_da": "F l9ism, l'oustad Mr. Brown kaykteb smiyat ttlamed. Kaysewwel Nouha 3la smiytha, w Nouha kattleb menno y3awed.",
+    "lines": [
+     {
+      "speaker": "Mr. Brown",
+      "en": "Good morning, Nouha. How do you spell your name?",
+      "da": "Sbah lkhir, Nouha. Kifach katktbi smiytek?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Sorry, can you repeat, please? Slowly.",
+      "da": "Sme7 liya, wach t9der t3awed, 3afak? Bchwiya."
+     },
+     {
+      "speaker": "Mr. Brown",
+      "en": "Of course. How do you spell \"Nouha\"?",
+      "da": "Wakha. Kifach katktbi \"Nouha\"?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Ah, OK! It's N-O-U-H-A.",
+      "da": "Ah, wakha! Hiya N-O-U-H-A."
+     },
+     {
+      "speaker": "Mr. Brown",
+      "en": "Thank you. And your last name?",
+      "da": "Choukran. W lknya dyalek?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Alami. A-L-A-M-I.",
+      "da": "Alami. A-L-A-M-I."
+     },
+     {
+      "speaker": "Mr. Brown",
+      "en": "Great. Now open your books, page twelve.",
+      "da": "Mzyan. Daba 7ellou lktouba dyalkom, ssef7a tnach."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Sorry, what does \"open\" mean?",
+      "da": "Sme7 liya, chno kat3ni `open`?"
+     },
+     {
+      "speaker": "Mr. Brown",
+      "en": "\"Open\" means… like this. Open the book!",
+      "da": "`Open` kat3ni… hakka. 7elli lktab!"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Ah, I understand. Thank you!",
+      "da": "Ah, fhemt. Choukran!"
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "Melli chi wa7ed kayhder bzer3a w ma fhemtich, ma tskotich w ma t7echmich! 9oli `Sorry, can you repeat, please?` wla `Slowly, please.` — l'ingliz kayfer7o melli kat7awli. W 7fedi smiytek 7erf b 7erf b lingliziya (`N-O-U-H-A`) 7ta twelli kat9oliha bla ma tfekkri: ghadi t7tajiha f lbanka, f lmatar, w f ttilifoun."
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "Kifach kayt9ra l7erf `H` b lingliziya?",
+    "options": [
+     "éytch",
+     "ach",
+     "aï",
+     "éy"
+    ],
+    "answer": 0,
+    "explain_da": "`H` = éytch. `I` = aï. `A` = éy. Redi lbal: machi \"ach\" bhal f ttilifoun!"
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "Seven.",
+    "question_da": "Sem3i. Achmen ra9m?",
+    "options": [
+     "7",
+     "17",
+     "6",
+     "11"
+    ],
+    "answer": 0,
+    "explain_da": "`seven` = sb3a (7). `seventeen` = sb3tach (17). `six` = setta (6). `eleven` = 7dach (11)."
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli rra9m b lingliziya m3a lma3na dyalo.",
+    "pairs": [
+     {
+      "en": "three",
+      "da": "tlata",
+      "emoji": "3️⃣"
+     },
+     {
+      "en": "five",
+      "da": "khemsa",
+      "emoji": "5️⃣"
+     },
+     {
+      "en": "eight",
+      "da": "tmenya",
+      "emoji": "8️⃣"
+     },
+     {
+      "en": "ten",
+      "da": "3achra",
+      "emoji": "🔟"
+     },
+     {
+      "en": "twelve",
+      "da": "tnach",
+      "emoji": "1️⃣2️⃣"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "sentence_en": "How do you ___ your name?",
+    "options": [
+     "spell",
+     "say",
+     "repeat"
+    ],
+    "answer": "spell",
+    "hint_da": "7erf b 7erf…",
+    "explain_da": "`spell` = thejja (9oli l7orouf wa7ed b wa7ed). `How do you spell your name?` = kifach katktbi smiytek?"
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Ten, eleven, ___, thirteen.",
+    "options": [
+     "twelve",
+     "twenty",
+     "two"
+    ],
+    "answer": "twelve",
+    "hint_da": "10, 11, …, 13",
+    "explain_da": "`twelve` = tnach (12). `twenty` = 3echrin (20). `two` = jouj (2)."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "B-R-O-W-N.",
+    "question_da": "Sem3i l7orouf. Achmen smiya?",
+    "options": [
+     "Brown",
+     "Bruno",
+     "Brian",
+     "Boran"
+    ],
+    "answer": 0,
+    "explain_da": "`B-R-O-W-N` = Brown. `O` kat9ra \"o\" w `W` kat9ra \"da-beul-you\"."
+   },
+   {
+    "type": "mcq",
+    "question_en": "What does \"book\" mean?",
+    "question_da": "Chno kat3ni `book`?",
+    "options": [
+     "ktab",
+     "ssef7a",
+     "kelma",
+     "so2al"
+    ],
+    "answer": 0,
+    "explain_da": "`book` = ktab. `page` = ssef7a. `word` = kelma. `question` = so2al."
+   },
+   {
+    "type": "order",
+    "words": [
+     "you",
+     "Can",
+     "repeat,",
+     "please?"
+    ],
+    "answer": "Can you repeat, please?",
+    "da": "Wach t9der t3awed, 3afak?"
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "\"Fifteen\" is 50.",
+    "statement_da": "`Fifteen` = khemsin (50).",
+    "answer": false,
+    "explain_da": "La! `fifteen` = khemstach (15). Khemsin (50) hiya `fifty` — ghadi nchoufouha f dars 5."
+   },
+   {
+    "type": "dictation",
+    "say_en": "Slowly, please.",
+    "da": "Bchwiya, 3afak.",
+    "explain_da": "`Slowly` = bchwiya. Redi lbal l `-ly` f l'akhir: slo-li."
+   },
+   {
+    "type": "translate",
+    "da": "Chno kat3ni `teacher`?",
+    "answers": [
+     "What does teacher mean?",
+     "What does \"teacher\" mean?",
+     "What does 'teacher' mean?"
+    ],
+    "hint_en": "What does ... mean?",
+    "explain_da": "`What does … mean?` = chno kat3ni…? Lkelma kadkhol f lwest, bin `does` w `mean`."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "Open your books, page eighteen.",
+    "question_da": "Sem3i. Achmen ssef7a?",
+    "options": [
+     "18",
+     "8",
+     "80",
+     "13"
+    ],
+    "answer": 0,
+    "explain_da": "`eighteen` = tmentach (18). `eight` = tmenya (8). `thirteen` = tlettach (13)."
+   },
+   {
+    "type": "order",
+    "words": [
+     "do",
+     "How",
+     "you",
+     "say",
+     "\"choukran\"",
+     "in",
+     "English?"
+    ],
+    "answer": "How do you say \"choukran\" in English?",
+    "da": "Kifach kan9oulo \"choukran\" b lingliziya?"
+   },
+   {
+    "type": "translate",
+    "da": "Sme7 liya, ma fhemtch.",
+    "answers": [
+     "Sorry, I don't understand.",
+     "Sorry, I do not understand.",
+     "Excuse me, I don't understand."
+    ],
+    "hint_en": "Sorry, I ... ...",
+    "explain_da": "`I don't understand.` = ma fhemtch. `don't` = ma…ch (nnafi)."
+   },
+   {
+    "type": "mcq",
+    "question_da": "L'oustad kayhder bzer3a bzzaf. Chno kat9oli lih?",
+    "options": [
+     "Slowly, please.",
+     "Good night.",
+     "Nice to meet you.",
+     "Page ten, please."
+    ],
+    "answer": 0,
+    "explain_da": "`Slowly, please.` = bchwiya, 3afak. Kat9oliha melli chi wa7ed kayhder bzer3a."
+   },
+   {
+    "type": "speak",
+    "target_en": "My name is Nouha: N-O-U-H-A.",
+    "da": "Smiyti Nouha: N-O-U-H-A.",
+    "pron": "maï néym iz nou-ha: én-o-you-éytch-éy"
+   }
+  ],
+  "reading": {
+   "title_en": "My English class",
+   "title_da": "L9ism dyali dyal lingliziya",
+   "emoji": "🏫",
+   "text_en": "Hello! My name is Nouha. I am a student in an English class in Casablanca. My teacher is Mr. Brown. He is from London. In the class, we are twelve students: seven women and five men. Our book is \"English for Life\". Every day, Mr. Brown says: \"Open your books, please.\" Sometimes I don't understand, so I say: \"Can you repeat, please? Slowly, please.\" Mr. Brown is very nice. He repeats, and I understand. In the class, I spell my name: N-O-U-H-A. English is not easy, but it is fun!",
+   "text_da": "Salam! Smiyti Nouha. Ana taliba f 9ism dyal lingliziya f Casa. L'oustad dyali howa ssi Brown. Howa men London. F l9ism, 7na tnach dyal ttlamed: sb3a dyal l3yalat w khemsa dyal rrjal. Lktab dyalna smiyto `English for Life`. Kol nhar, ssi Brown kay9oul: \"7ellou lktouba dyalkom, 3afak.\" Chi merrat makanfhemch, 3ad kan9oul: \"Wach t9der t3awed, 3afak? Bchwiya, 3afak.\" Ssi Brown dérif bzzaf. Kay3awed, w kanfhem. F l9ism, kanthejja smiyti: N-O-U-H-A. Lingliziya machi sahla, walakin momti3a (kat3jeb)!",
+   "glossary": [
+    {
+     "en": "student",
+     "da": "talib / taliba"
+    },
+    {
+     "en": "women",
+     "da": "3yalat (we7da: `woman` = mra)"
+    },
+    {
+     "en": "men",
+     "da": "rjal (wa7ed: `man` = rajel)"
+    },
+    {
+     "en": "every day",
+     "da": "kol nhar"
+    },
+    {
+     "en": "sometimes",
+     "da": "chi merrat / b3d lmerrat"
+    },
+    {
+     "en": "so",
+     "da": "3ad / dakchi 3lach"
+    },
+    {
+     "en": "easy",
+     "da": "sahl / sahla"
+    },
+    {
+     "en": "fun",
+     "da": "momti3 / kay3jeb"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Ch7al men talib kayn f l9ism?",
+     "options": [
+      "12",
+      "7",
+      "5",
+      "20"
+     ],
+     "answer": 0,
+     "explain_da": "\"We are twelve students.\" = 7na tnach dyal ttlamed."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Mr. Brown is from London.",
+     "answer": true,
+     "explain_da": "S7i7: \"He is from London.\""
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chno kat9oul Nouha melli makatfhemch?",
+     "options": [
+      "Can you repeat, please?",
+      "Good night!",
+      "Nice to meet you.",
+      "My name is Nouha."
+     ],
+     "answer": 0,
+     "explain_da": "\"Sometimes I don't understand, so I say: Can you repeat, please?\""
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "English is easy for Nouha.",
+     "statement_da": "Lingliziya sahla 3la Nouha.",
+     "answer": false,
+     "explain_da": "Ghalet: \"English is not easy, but it is fun!\""
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "Ttasjil f lmadrasa dyal lingliziya",
+   "emoji": "📝",
+   "pre_da": "Omar kaytsejjel f lmadrasa dyal lingliziya. Sem3i mzyan. Rekkzi 3la: kifach katkteb lknya dyal Omar, w achmen nemra dyal lbit (l9ism) ghadi ymchi liha.",
+   "lines": [
+    {
+     "speaker": "Laila",
+     "en": "Good afternoon! What's your name, please?",
+     "da": "Msa lkhir! Chno smiytek, 3afak?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "Hello. My name is Omar Tazi.",
+     "da": "Salam. Smiyti Omar Tazi."
+    },
+    {
+     "speaker": "Laila",
+     "en": "How do you spell your last name?",
+     "da": "Kifach katkteb lknya dyalek?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "T-A-Z-I.",
+     "da": "T-A-Z-I."
+    },
+    {
+     "speaker": "Laila",
+     "en": "Sorry, can you repeat, please? Slowly.",
+     "da": "Sme7 liya, wach t9der t3awed, 3afak? Bchwiya."
+    },
+    {
+     "speaker": "Omar",
+     "en": "Of course: T-A-Z-I. Tazi.",
+     "da": "Wakha: T-A-Z-I. Tazi."
+    },
+    {
+     "speaker": "Laila",
+     "en": "Thank you, Omar. Your class is room eleven, with Mr. Brown.",
+     "da": "Choukran, Omar. L9ism dyalek f lbit nemra 7dach, m3a ssi Brown."
+    },
+    {
+     "speaker": "Omar",
+     "en": "Room eleven. What does \"room\" mean?",
+     "da": "Lbit 7dach. Chno kat3ni `room`?"
+    },
+    {
+     "speaker": "Laila",
+     "en": "\"Room\" means the place, the class. Number eleven.",
+     "da": "`Room` kat3ni lbit, lblasa fin kayn l9ism. Nnemra 7dach."
+    },
+    {
+     "speaker": "Omar",
+     "en": "Ah, I understand. Thank you very much!",
+     "da": "Ah, fhemt. Choukran bzzaf!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chno lknya dyal Omar (`last name`)?",
+     "options": [
+      "Tazi",
+      "Tali",
+      "Fazi",
+      "Taza"
+     ],
+     "answer": 0,
+     "explain_da": "\"T-A-Z-I. Tazi.\""
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "Your class is room eleven.",
+     "question_da": "Sem3i. Achmen nemra dyal lbit?",
+     "options": [
+      "11",
+      "7",
+      "17",
+      "1"
+     ],
+     "answer": 0,
+     "explain_da": "`eleven` = 7dach (11). `seven` = 7, `seventeen` = 17, `one` = 1."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "The teacher is Mr. Brown.",
+     "answer": true,
+     "explain_da": "S7i7: \"Your class is room eleven, with Mr. Brown.\""
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chno sewwel Omar f l'akhir?",
+     "options": [
+      "Chno kat3ni `room`",
+      "Chno smiytek",
+      "Kidayra",
+      "Mnin nti"
+     ],
+     "answer": 0,
+     "explain_da": "\"What does room mean?\" = chno kat3ni `room`?"
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "A, B, C, D, E, F, G.",
+     "da": "L7orouf men A 7ta G.",
+     "pron": "éy, bi, si, di, i, éf, dji"
+    },
+    {
+     "target_en": "How do you spell your name?",
+     "da": "Kifach katktbi smiytek?",
+     "pron": "haw dou you spél your néym"
+    },
+    {
+     "target_en": "Can you repeat, please?",
+     "da": "Wach t9der t3awed, 3afak?",
+     "pron": "kan you ri-pit, pliz"
+    },
+    {
+     "target_en": "I don't understand.",
+     "da": "Ma fhemtch.",
+     "pron": "aï dont an-deur-stand"
+    },
+    {
+     "target_en": "One, two, three, four, five, six, seven, eight, nine, ten.",
+     "da": "Men wa7ed 7ta l 3achra.",
+     "pron": "wan, tou, thri, for, faïv, siks, sé-ven, éyt, naïn, tén"
+    },
+    {
+     "target_en": "Thirteen, fourteen, fifteen, twenty.",
+     "da": "Tlettach, rb3tach, khemstach, 3echrin.",
+     "pron": "theur-tin, for-tin, fif-tin, twén-ti"
+    }
+   ],
+   "roleplay": {
+    "title_da": "Ttasjil f lmadrasa",
+    "context_da": "Nti f lbiro dyal madrasa dyal lingliziya. Lkatiba ghadi tsewlek 3la smiytek w kifach katktbiha. Jawbi b sot 3ali w wade7! Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+    "turns": [
+     {
+      "bot_en": "Good morning! What's your name, please?",
+      "bot_da": "Sbah lkhir! Chno smiytek, 3afak?",
+      "expect_keywords": [
+       "my name is",
+       "i am",
+       "i'm",
+       "nouha",
+       "name"
+      ],
+      "sample_en": "My name is Nouha."
+     },
+     {
+      "bot_en": "How do you spell your name?",
+      "bot_da": "Kifach katktbi smiytek?",
+      "expect_keywords": [
+       "n o u h a",
+       "n-o-u-h-a",
+       "nouha",
+       "en oh",
+       "n o",
+       "it's",
+       "it is"
+      ],
+      "sample_en": "It's N-O-U-H-A."
+     },
+     {
+      "bot_en": "Sorry, can you repeat that, please? Slowly.",
+      "bot_da": "Sme7 liya, wach t9edri t3awdi, 3afak? Bchwiya.",
+      "expect_keywords": [
+       "n o u h a",
+       "n-o-u-h-a",
+       "nouha",
+       "n o",
+       "yes",
+       "of course",
+       "ok",
+       "okay"
+      ],
+      "sample_en": "Of course. N-O-U-H-A."
+     },
+     {
+      "bot_en": "Thank you. Your class is room fifteen. Do you understand?",
+      "bot_da": "Choukran. L9ism dyalek f lbit khemstach. Fhemti?",
+      "expect_keywords": [
+       "yes",
+       "understand",
+       "fifteen",
+       "15",
+       "ok",
+       "okay",
+       "thank"
+      ],
+      "sample_en": "Yes, I understand. Room fifteen. Thank you!"
+     },
+     {
+      "bot_en": "Perfect! See you tomorrow at nine. Goodbye!",
+      "bot_da": "Mzyan! Nchoufouk ghedda f tts3oud. Bslama!",
+      "expect_keywords": [
+       "bye",
+       "goodbye",
+       "see you",
+       "thank",
+       "nine",
+       "ok",
+       "okay"
+      ],
+      "sample_en": "Thank you! See you tomorrow. Goodbye!"
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "Smiytek 7erf b 7erf",
+   "prompt_da": "Ktbi 3 wla 4 jomal b lingliziya: smiytek w lknya dyalek, kifach katktbi smiytek 7erf b 7erf, mnin nti, w jomla we7da dyal l9ism (bhal `I don't understand` wla `Can you repeat, please?`).",
+   "helper_en": [
+    "My first name is ...",
+    "My last name is ...",
+    "I spell my name: ...",
+    "I am from ...",
+    "Can you repeat, please?"
+   ],
+   "min_words": 15,
+   "keywords": [
+    "name",
+    "spell",
+    "from"
+   ],
+   "model_en": "Hello! My first name is Nouha. My last name is Alami. I spell my name: N-O-U-H-A. I am from Morocco. In class, I say: \"Can you repeat, please?\""
+  }
+ },
+ {
+  "id": "l03",
+  "order": 3,
+  "level": "A1.1",
+  "emoji": "🌍",
+  "title_en": "Where are you from? The verb \"to be\"",
+  "title_da": "Mnin nti? L fi3l \"to be\"",
+  "goals_da": [
+   "Tsta3mli `am`, `is`, `are` m3a `I`, `you`, `he`, `she`, `it`, `we`, `they`",
+   "Tnfi: `I'm not`, `isn't`, `aren't`",
+   "Tsewli w tjawbi b jawab 9sir: `Are you…?` — `Yes, I am.` / `No, I'm not.`",
+   "T9oli mnin nti, chno jinsiytek w achmen logha kathedri"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "Ddamayer: I, you, he, she, it, we, they",
+    "body_da": "Ddamir (`pronoun`) = lkelma li kan9oulouha f blast l'ism: ana, nti, howa… Ha ddamayer dyal lingliziya:\n\n- `I` = ana (dima b 7erf kbir, 7ta f west ljomla!)\n- `you` = nti / nta / ntouma — kelma we7da l kolchi: l lmra w rrajel, l lwa7ed w l bzzaf\n- `he` = howa (rajel wla weld)\n- `she` = hiya (mra wla bent)\n- `it` = howa / hiya l l7wayj w l7ayawanat (tomobil, ktab, mdina…) — machi l nnas\n- `we` = 7na\n- `they` = houma (nnas, w 7ta l7wayj)\n\n**Lfar9 m3a darija:** f darija kan9oulo \"nti\" l lmra w \"nta\" l rrajel. F lingliziya `you` l bjouj — sahla! Walakin f lingliziya kaynin `he` w `she` l nnas, w `it` l l7wayj: \"tomobil\" = `it`, machi `she`.",
+    "examples": [
+     {
+      "en": "I am Nouha. I am from Morocco.",
+      "da": "Ana Nouha. Ana men lmeghrib.",
+      "pron": "aï am nou-ha. aï am from mo-ro-ko"
+     },
+     {
+      "en": "You are my friend.",
+      "da": "Nti sa7bti.",
+      "pron": "you ar maï frénd"
+     },
+     {
+      "en": "He is Omar and she is Sarah.",
+      "da": "Howa Omar w hiya Sarah.",
+      "pron": "hi iz o-mar and chi iz sé-ra"
+     },
+     {
+      "en": "Casablanca? It is a big city.",
+      "da": "Casa? Hiya mdina kbira.",
+      "pron": "ka-sa-blan-ka? it iz a big si-ti"
+     },
+     {
+      "en": "We are students and they are teachers.",
+      "da": "7na tlamed w houma asatida.",
+      "pron": "wi ar stiou-dents and théy ar ti-tcheurz"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "L fi3l \"to be\": am / is / are",
+    "body_da": "F darija melli kan9oulo \"ana men Casa\" wla \"hiya oustada\", ma kaynch fi3l (`verb`) bin lkelmat. F lingliziya **khass dima fi3l**: `I am from Casablanca.` — had l fi3l howa `to be` (bhal \"kan / howa / hiya / kayn\").\n\nL fi3l `to be` kaytbeddel 3la 7sab ddamir — 3ndo ghir tlata dyal l'achkal: `am`, `is`, `are`:\n\n- `I am` → m9essra: `I'm`\n- `you are` → `you're`\n- `he is` → `he's`\n- `she is` → `she's`\n- `it is` → `it's`\n- `we are` → `we're`\n- `they are` → `they're`\n\n**Lmokhtassar (m9essra):** f lhadra, l'ingliz kay9oulo dima `I'm`, `she's`, `we're`… Chkel ttwil (`I am`) kaytkteb f lwra9 rrasmiya wla melli bghina n2ekkdo.\n\n**Kifach t7efdiha:** `am` ghir m3a `I`. `is` m3a wa7ed (`he`, `she`, `it`, Sarah, lktab…). `are` m3a `you` w m3a bzzaf (`we`, `they`, Omar w Ali…).",
+    "examples": [
+     {
+      "en": "I am from Morocco.",
+      "da": "Ana men lmeghrib.",
+      "pron": "aï am from mo-ro-ko"
+     },
+     {
+      "en": "She's from Agadir.",
+      "da": "Hiya men Agadir.",
+      "pron": "chiz from a-ga-dir"
+     },
+     {
+      "en": "We're students.",
+      "da": "7na tlamed.",
+      "pron": "wir stiou-dents"
+     },
+     {
+      "en": "They're Moroccan.",
+      "da": "Houma mgharba.",
+      "pron": "thér mo-ro-kan"
+     },
+     {
+      "en": "Rabat is a city in Morocco.",
+      "da": "Rabat mdina f lmeghrib.",
+      "pron": "ra-bat iz a si-ti in mo-ro-ko"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Nnafi: I'm not, isn't, aren't",
+    "body_da": "Bach tnfi (t9oli \"machi\"), zidi `not` **men ba3d** l fi3l — bhal \"machi\" f darija: \"ana machi men Rabat\" = `I am not from Rabat.`\n\n- `I am not` → `I'm not`\n- `you are not` → `you aren't` wla `you're not`\n- `he is not` → `he isn't` wla `he's not`\n- `she is not` → `she isn't`\n- `it is not` → `it isn't`\n- `we are not` → `we aren't`\n- `they are not` → `they aren't`\n\n**Redi lbal:** m3a `I` ma kaynach \"amn't\"! Kan9oulo ghir `I'm not`.\n\nNnot9: `isn't` kat9ra \"i-zent\", `aren't` kat9ra \"arnt\".",
+    "examples": [
+     {
+      "en": "I'm not from Rabat, I'm from Casablanca.",
+      "da": "Ana machi men Rabat, ana men Casa.",
+      "pron": "aïm not from ra-bat, aïm from ka-sa-blan-ka"
+     },
+     {
+      "en": "She isn't Spanish, she's Moroccan.",
+      "da": "Hiya machi sbenyouliya, hiya meghribiya.",
+      "pron": "chi i-zent spa-nich, chiz mo-ro-kan"
+     },
+     {
+      "en": "We aren't teachers, we're students.",
+      "da": "7na machi asatida, 7na tlamed.",
+      "pron": "wi arnt ti-tcheurz, wir stiou-dents"
+     },
+     {
+      "en": "Omar isn't here today.",
+      "da": "Omar machi hna lyouma.",
+      "pron": "o-mar i-zent hir tou-déy"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "So2al w jawab 9sir: Are you…? Yes, I am. / No, I'm not.",
+    "body_da": "Bach tsewli, **9elbi**: l fi3l kayji 9bel ddamir. F darija kanzido ghir \"wach\" f lewwel; f lingliziya kan9elbo:\n\n- `You are from Fes.` → `Are you from Fes?` = wach nti men Fes?\n- `She is a teacher.` → `Is she a teacher?` = wach hiya oustada?\n- `They are here.` → `Are they here?` = wach houma hna?\n\n**Ljawab l9sir** (`short answer`): ma kan3awdouch ljomla kamla, kan9oulo ghir:\n\n- `Yes, I am.` / `No, I'm not.`\n- `Yes, she is.` / `No, she isn't.`\n- `Yes, they are.` / `No, they aren't.`\n\n**Redi lbal:** f ljawab b `Yes`, ma kan9essrouch l fi3l: `Yes, I am.` (machi \"Yes, I'm.\") w `Yes, she is.` (machi \"Yes, she's.\").\n\n**So2al b `Where`** (= fin / mnin): `Where are you from?` = mnin nti? `Where is she from?` = mnin hiya? Ljawab: `I'm from Tangier.` / `She's from Fes.`",
+    "examples": [
+     {
+      "en": "Are you from Morocco? — Yes, I am.",
+      "da": "Wach nti men lmeghrib? — Ah.",
+      "pron": "ar you from mo-ro-ko? yès, aï am"
+     },
+     {
+      "en": "Is he from Spain? — No, he isn't. He's from Italy.",
+      "da": "Wach howa men Sbanya? — La. Howa men Italya.",
+      "pron": "iz hi from spéyn? no, hi i-zent. hiz from i-ta-li"
+     },
+     {
+      "en": "Where are you from? — I'm from Tangier.",
+      "da": "Mnin nti? — Ana men Tanja.",
+      "pron": "wér ar you from? aïm from tan-djir"
+     },
+     {
+      "en": "Where is Sarah from? — She's from Canada.",
+      "da": "Mnin Sarah? — Hiya men Canada.",
+      "pron": "wér iz sé-ra from? chiz from ka-na-da"
+     },
+     {
+      "en": "Are they students? — Yes, they are.",
+      "da": "Wach houma tlamed? — Ah, tlamed.",
+      "pron": "ar théy stiou-dents? yès, théy ar"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Lbouldan, ljinsiyat w llughat",
+    "body_da": "Smiyt lblad (`country`) w ljinsiya (`nationality`) mkhtalfin — bhal \"lmeghrib\" w \"meghribi\". F lingliziya, **ljinsiya ma katbeddelch** bin rrajel w lmra: `Moroccan` l bjouj! W lblad, ljinsiya w llugha (`language`) kolhom kaytketbo b **7erf kbir**.\n\nLblad → ljinsiya → llugha:\n\n- `Morocco` → `Moroccan` → `Arabic`\n- `Egypt` → `Egyptian` → `Arabic`\n- `Spain` → `Spanish` → `Spanish`\n- `France` → `French` → `French`\n- `England` → `English` → `English`\n- `the USA` (Amérika) → `American` → `English`\n- `Canada` → `Canadian` → `English` w `French`\n- `Italy` → `Italian` → `Italian`\n- `Germany` → `German` → `German`\n- `Turkey` → `Turkish` → `Turkish`\n- `China` → `Chinese` → `Chinese`\n\nBach t9oli achmen logha kathedri: `I speak Arabic.` = kanhder l3arbiya (ddarija). `I speak a little English.` = kanhder chwiya dyal lingliziya. (`speak` = hder / tkellem.)\n\nLmdina (`city`): `I'm from Casablanca.` = ana men Casa. `I live in Rabat.` = kanskon f Rabat (`live` = skon).",
+    "examples": [
+     {
+      "en": "I'm Moroccan. I speak Arabic.",
+      "da": "Ana meghribiya. Kanhder l3arbiya.",
+      "pron": "aïm mo-ro-kan. aï spik a-ra-bik"
+     },
+     {
+      "en": "Mr. Brown is English. He's from London.",
+      "da": "Ssi Brown ngliz. Howa men London.",
+      "pron": "mis-teur brawn iz in-glich. hiz from lan-deun"
+     },
+     {
+      "en": "Are you French? — No, I'm not. I'm Moroccan.",
+      "da": "Wach nti fransawiya? — La. Ana meghribiya.",
+      "pron": "ar you fréntch? no, aïm not. aïm mo-ro-kan"
+     },
+     {
+      "en": "Carlos is from Spain. He's Spanish.",
+      "da": "Carlos men Sbanya. Howa sbenyouli.",
+      "pron": "kar-los iz from spéyn. hiz spa-nich"
+     },
+     {
+      "en": "I speak a little English.",
+      "da": "Kanhder chwiya dyal lingliziya.",
+      "pron": "aï spik a li-teul in-glich"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "country",
+      "da": "blad",
+      "emoji": "🌍",
+      "pron": "kan-tri",
+      "example_en": "Morocco is my country.",
+      "example_da": "Lmeghrib howa bladi."
+     },
+     {
+      "en": "city",
+      "da": "mdina",
+      "emoji": "🏙️",
+      "pron": "si-ti",
+      "example_en": "Marrakech is a city in Morocco.",
+      "example_da": "Marrakech mdina f lmeghrib."
+     },
+     {
+      "en": "language",
+      "da": "logha",
+      "emoji": "🗣️",
+      "pron": "lan-gwidj",
+      "example_en": "Arabic is my language.",
+      "example_da": "L3arbiya hiya loghti."
+     },
+     {
+      "en": "speak",
+      "da": "hder / tkellem",
+      "emoji": "💬",
+      "pron": "spik",
+      "example_en": "I speak Arabic and a little English.",
+      "example_da": "Kanhder l3arbiya w chwiya dyal lingliziya."
+     },
+     {
+      "en": "from",
+      "da": "men",
+      "emoji": "📍",
+      "pron": "from",
+      "example_en": "Where are you from?",
+      "example_da": "Mnin nti?"
+     },
+     {
+      "en": "here",
+      "da": "hna",
+      "emoji": "👇",
+      "pron": "hir",
+      "example_en": "Sarah is here today.",
+      "example_da": "Sarah hna lyouma."
+     },
+     {
+      "en": "Morocco",
+      "da": "lmeghrib",
+      "emoji": "🇲🇦",
+      "pron": "mo-ro-ko",
+      "example_en": "I live in Morocco.",
+      "example_da": "Kanskon f lmeghrib."
+     },
+     {
+      "en": "Moroccan",
+      "da": "meghribi / meghribiya",
+      "emoji": "🇲🇦",
+      "pron": "mo-ro-kan",
+      "example_en": "We are Moroccan.",
+      "example_da": "7na mgharba."
+     },
+     {
+      "en": "Arabic",
+      "da": "l3arbiya",
+      "emoji": "📖",
+      "pron": "a-ra-bik",
+      "example_en": "Arabic is not easy!",
+      "example_da": "L3arbiya machi sahla!"
+     },
+     {
+      "en": "England",
+      "da": "Ingeltera (blad l'ingliz)",
+      "emoji": "🇬🇧",
+      "pron": "in-gland",
+      "example_en": "London is in England.",
+      "example_da": "London f Ingeltera."
+     },
+     {
+      "en": "English",
+      "da": "lingliziya / ngliz, ngliziya",
+      "emoji": "🇬🇧",
+      "pron": "in-glich",
+      "example_en": "My English teacher is from London.",
+      "example_da": "L'oustad dyali dyal lingliziya men London."
+     },
+     {
+      "en": "Spain",
+      "da": "Sbanya",
+      "emoji": "🇪🇸",
+      "pron": "spéyn",
+      "example_en": "Madrid is in Spain.",
+      "example_da": "Madrid f Sbanya."
+     },
+     {
+      "en": "Spanish",
+      "da": "sbenyouli / sbenyouliya",
+      "emoji": "🇪🇸",
+      "pron": "spa-nich",
+      "example_en": "Carlos and Ana are Spanish.",
+      "example_da": "Carlos w Ana sbenyouliyin."
+     },
+     {
+      "en": "France",
+      "da": "Fransa",
+      "emoji": "🇫🇷",
+      "pron": "frans",
+      "example_en": "Paris is in France.",
+      "example_da": "Paris f Fransa."
+     },
+     {
+      "en": "French",
+      "da": "fransawi / fransawiya",
+      "emoji": "🇫🇷",
+      "pron": "fréntch",
+      "example_en": "Marie is French. She's from Lyon.",
+      "example_da": "Marie fransawiya. Hiya men Lyon."
+     },
+     {
+      "en": "American",
+      "da": "amiriki / amirikiya",
+      "emoji": "🇺🇸",
+      "pron": "a-mé-ri-kan",
+      "example_en": "Tom is American. He's from Chicago.",
+      "example_da": "Tom amiriki. Howa men Chicago."
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "Mnin nti?",
+    "context_da": "F l'istira7a (lpause), Nouha kathder m3a Tom, talib jdid f l9ism.",
+    "lines": [
+     {
+      "speaker": "Tom",
+      "en": "Hi! I'm Tom. Are you a new student?",
+      "da": "Ahlan! Ana Tom. Wach nti taliba jdida?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Hi, Tom. Yes, I am. I'm Nouha.",
+      "da": "Ahlan, Tom. Ah, ana jdida. Ana Nouha."
+     },
+     {
+      "speaker": "Tom",
+      "en": "Nice to meet you. Where are you from, Nouha?",
+      "da": "Metcherref. Mnin nti, Nouha?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "I'm from Morocco. I'm Moroccan. And you? Are you English?",
+      "da": "Ana men lmeghrib. Ana meghribiya. W nta? Wach nta ngliz?"
+     },
+     {
+      "speaker": "Tom",
+      "en": "No, I'm not. I'm American. I'm from Chicago.",
+      "da": "La. Ana amiriki. Ana men Chicago."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Oh, nice! Is Chicago a big city?",
+      "da": "Wah, zwin! Wach Chicago mdina kbira?"
+     },
+     {
+      "speaker": "Tom",
+      "en": "Yes, it is. It's very big. And you, are you from Casablanca?",
+      "da": "Ah. Kbira bzzaf. W nti, wach nti men Casa?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Yes, I am. Casablanca is a big city too!",
+      "da": "Ah. Casa 7ta hiya mdina kbira!"
+     },
+     {
+      "speaker": "Tom",
+      "en": "Great. Sorry, my Arabic isn't good.",
+      "da": "Mzyan. Sme7 liya, l3arbiya dyali machi mzyana."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "No problem! My English isn't very good, but I'm a good student!",
+      "da": "Machi mochkil! Lingliziya dyali machi mzyana bzzaf, walakin ana taliba mzyana!"
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "`I` dima kaytkteb b 7erf kbir, 7ta f west ljomla: `Sarah and I are students.` W ljinsiyat w llughat 7ta houma b 7erf kbir: `Moroccan`, `Arabic`, `English`. W tfekri: f lingliziya ma kaynch jomla bla fi3l — \"ana men Casa\" = `I am from Casablanca`, dima b `am`!"
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "\"Hiya\" b lingliziya = ?",
+    "options": [
+     "she",
+     "he",
+     "we",
+     "they"
+    ],
+    "answer": 0,
+    "explain_da": "`she` = hiya. `he` = howa. `we` = 7na. `they` = houma."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "I ___ from Morocco.",
+    "options": [
+     "am",
+     "is",
+     "are"
+    ],
+    "answer": "am",
+    "hint_da": "M3a `I` dima…",
+    "explain_da": "`I am from Morocco.` (wla `I'm`). M3a `I` dima `am`."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "She is from Spain.",
+    "question_da": "Sem3i. Mnin hiya?",
+    "options": [
+     "Men Sbanya",
+     "Men Fransa",
+     "Men Masr",
+     "Men Ingeltera"
+    ],
+    "answer": 0,
+    "explain_da": "`Spain` = Sbanya. `France` = Fransa. `Egypt` = Masr. `England` = Ingeltera."
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli lblad b lingliziya m3a smiytha b darija.",
+    "pairs": [
+     {
+      "en": "Spain",
+      "da": "Sbanya",
+      "emoji": "🇪🇸"
+     },
+     {
+      "en": "France",
+      "da": "Fransa",
+      "emoji": "🇫🇷"
+     },
+     {
+      "en": "England",
+      "da": "Ingeltera",
+      "emoji": "🇬🇧"
+     },
+     {
+      "en": "Egypt",
+      "da": "Masr",
+      "emoji": "🇪🇬"
+     },
+     {
+      "en": "Morocco",
+      "da": "Lmeghrib",
+      "emoji": "🇲🇦"
+     }
+    ]
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Omar and Ali ___ students.",
+    "options": [
+     "are",
+     "is",
+     "am"
+    ],
+    "answer": "are",
+    "hint_da": "Omar w Ali = houma (`they`).",
+    "explain_da": "Jouj dyal nnas = `they` → `are`. `Omar and Ali are students.`"
+   },
+   {
+    "type": "mcq",
+    "question_en": "Where ___ you from?",
+    "question_da": "Kemmli so2al.",
+    "options": [
+     "are",
+     "is",
+     "am",
+     "be"
+    ],
+    "answer": 0,
+    "explain_da": "`Where are you from?` = mnin nti? M3a `you` dima `are`."
+   },
+   {
+    "type": "order",
+    "words": [
+     "is",
+     "Where",
+     "she",
+     "from?"
+    ],
+    "answer": "Where is she from?",
+    "da": "Mnin hiya?"
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "We aren't from Rabat. We're from Fes.",
+    "question_da": "Sem3i. Mnin houma?",
+    "options": [
+     "Men Fes",
+     "Men Rabat",
+     "Men Casa",
+     "Men Marrakech"
+    ],
+    "answer": 0,
+    "explain_da": "`We aren't from Rabat` = 7na machi men Rabat. `We're from Fes` = 7na men Fes."
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "\"Yes, I'm.\" is a correct short answer.",
+    "statement_da": "`Yes, I'm.` jawab 9sir s7i7.",
+    "answer": false,
+    "explain_da": "Ghalet! F ljawab b `Yes` ma kan9essrouch l fi3l: `Yes, I am.`"
+   },
+   {
+    "type": "dictation",
+    "say_en": "Are you Moroccan?",
+    "da": "Wach nti meghribiya?",
+    "explain_da": "So2al: l fi3l `Are` f lewwel, men ba3d `you`. `Moroccan` kaytkteb b 7erf kbir."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Tom isn't English. He ___ American.",
+    "answers": [
+     "is"
+    ],
+    "hint_da": "Howa = `he` → achmen fi3l?",
+    "explain_da": "`He is American.` M3a `he`, `she`, `it` → `is`."
+   },
+   {
+    "type": "translate",
+    "da": "Howa machi men Fransa.",
+    "answers": [
+     "He isn't from France.",
+     "He is not from France.",
+     "He's not from France."
+    ],
+    "hint_en": "He ... from ...",
+    "explain_da": "`He isn't from France.` — `isn't` = `is not` = machi."
+   },
+   {
+    "type": "mcq",
+    "question_en": "Is Sarah from Canada?",
+    "question_da": "Sarah men Canada. Khtari ljawab l9sir ss7i7.",
+    "options": [
+     "Yes, she is.",
+     "Yes, she are.",
+     "Yes, I am.",
+     "Yes, she's."
+    ],
+    "answer": 0,
+    "explain_da": "Sarah = `she` → `Yes, she is.` Ma kan9essrouch f ljawab b `Yes`."
+   },
+   {
+    "type": "order",
+    "words": [
+     "not",
+     "I'm",
+     "Moroccan.",
+     "Spanish,",
+     "I'm"
+    ],
+    "answer": "I'm not Spanish, I'm Moroccan.",
+    "da": "Ana machi sbenyouliya, ana meghribiya."
+   },
+   {
+    "type": "translate",
+    "da": "7na machi men Marrakech.",
+    "answers": [
+     "We aren't from Marrakech.",
+     "We are not from Marrakech.",
+     "We're not from Marrakech."
+    ],
+    "hint_en": "We ... from ...",
+    "explain_da": "`We aren't` = `we are not` = 7na machi."
+   },
+   {
+    "type": "speak",
+    "target_en": "I'm Moroccan. I'm from Casablanca and I speak Arabic.",
+    "da": "Ana meghribiya. Ana men Casa w kanhder l3arbiya.",
+    "pron": "aïm mo-ro-kan. aïm from ka-sa-blan-ka and aï spik a-ra-bik"
+   }
+  ],
+  "reading": {
+   "title_en": "Students from many countries",
+   "title_da": "Tlamed men bzzaf dyal lbouldan",
+   "emoji": "🌍",
+   "text_en": "Hello! My name is Nouha and I'm from Morocco. I'm a student in an English class in Casablanca. The students in my class are from many countries. Sarah is from Canada. She's Canadian and she speaks English and French. Tom is American. He's from Chicago. Carlos and Ana are from Spain. They're Spanish. Our teacher, Mr. Brown, is English. He's from London. We are not from the same country, but we are friends. I'm Moroccan and I speak Arabic. My English is not very good, but I am a good student!",
+   "text_da": "Salam! Smiyti Nouha w ana men lmeghrib. Ana taliba f 9ism dyal lingliziya f Casa. Ttlamed f l9ism dyali men bzzaf dyal lbouldan. Sarah men Canada. Hiya kanadiya w kathder lingliziya w lfransawiya. Tom amiriki. Howa men Chicago. Carlos w Ana men Sbanya. Houma sbenyouliyin. L'oustad dyalna, ssi Brown, ngliz. Howa men London. 7na machi men nefs lblad, walakin 7na s7ab. Ana meghribiya w kanhder l3arbiya. Lingliziya dyali machi mzyana bzzaf, walakin ana taliba mzyana!",
+   "glossary": [
+    {
+     "en": "many",
+     "da": "bzzaf dyal"
+    },
+    {
+     "en": "countries",
+     "da": "bouldan (we7da: `country` = blad)"
+    },
+    {
+     "en": "Canadian",
+     "da": "kanadi / kanadiya"
+    },
+    {
+     "en": "speaks",
+     "da": "kathder / kayhder"
+    },
+    {
+     "en": "the same",
+     "da": "nefs"
+    },
+    {
+     "en": "friends",
+     "da": "s7ab"
+    },
+    {
+     "en": "very",
+     "da": "bzzaf"
+    },
+    {
+     "en": "good",
+     "da": "mzyan / mzyana"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Mnin Tom?",
+     "options": [
+      "Men Amérika (Chicago)",
+      "Men Canada",
+      "Men Sbanya",
+      "Men London"
+     ],
+     "answer": 0,
+     "explain_da": "\"Tom is American. He's from Chicago.\""
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Carlos and Ana are Spanish.",
+     "answer": true,
+     "explain_da": "S7i7: \"Carlos and Ana are from Spain. They're Spanish.\""
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chkoun kayhder lfransawiya?",
+     "options": [
+      "Sarah",
+      "Tom",
+      "Carlos",
+      "Mr. Brown"
+     ],
+     "answer": 0,
+     "explain_da": "\"She's Canadian and she speaks English and French.\""
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Mr. Brown is American.",
+     "statement_da": "Ssi Brown amiriki.",
+     "answer": false,
+     "explain_da": "Ghalet: \"Our teacher, Mr. Brown, is English. He's from London.\""
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "F lotil f Marrakech",
+   "emoji": "🏨",
+   "pre_da": "Amina khddama f lotil f Marrakech. Wa7ed ssiyed jdid wsel. Sem3i mzyan. Rekkzi 3la: mnin ssi Rossi? W mnin Amina?",
+   "lines": [
+    {
+     "speaker": "Amina",
+     "en": "Good evening, sir. Welcome to Hotel Atlas. What's your name, please?",
+     "da": "Msa lkhir, a ssi. Mer7ba bik f lotil Atlas. Chno smiytek, 3afak?"
+    },
+    {
+     "speaker": "Mr. Rossi",
+     "en": "Good evening. I'm Marco Rossi.",
+     "da": "Msa lkhir. Ana Marco Rossi."
+    },
+    {
+     "speaker": "Amina",
+     "en": "Thank you. Are you Spanish, Mr. Rossi?",
+     "da": "Choukran. Wach nta sbenyouli, a ssi Rossi?"
+    },
+    {
+     "speaker": "Mr. Rossi",
+     "en": "No, I'm not. I'm Italian. I'm from Rome.",
+     "da": "La. Ana talyani. Ana men Roma."
+    },
+    {
+     "speaker": "Amina",
+     "en": "Oh, Rome is a beautiful city! Is this your first time in Morocco?",
+     "da": "Wah, Roma mdina zwina! Wach hadi awwel merra lik f lmeghrib?"
+    },
+    {
+     "speaker": "Mr. Rossi",
+     "en": "No, it isn't. I'm here every year.",
+     "da": "La. Ana kanji hna kol 3am."
+    },
+    {
+     "speaker": "Amina",
+     "en": "Wonderful! Your English is very good.",
+     "da": "Ra2i3! Lingliziya dyalek mzyana bzzaf."
+    },
+    {
+     "speaker": "Mr. Rossi",
+     "en": "Thank you. And you? Are you from Marrakech?",
+     "da": "Choukran. W nti? Wach nti men Marrakech?"
+    },
+    {
+     "speaker": "Amina",
+     "en": "No, I'm not. I'm from Agadir, but I'm here for work.",
+     "da": "La. Ana men Agadir, walakin ana hna 3la 9bel lkhedma."
+    },
+    {
+     "speaker": "Mr. Rossi",
+     "en": "Nice! Thank you, Amina. Good night.",
+     "da": "Zwin! Choukran, Amina. Layla sa3ida."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chno jinsiyat ssi Rossi?",
+     "options": [
+      "Talyani",
+      "Sbenyouli",
+      "Fransawi",
+      "Meghribi"
+     ],
+     "answer": 0,
+     "explain_da": "\"No, I'm not. I'm Italian. I'm from Rome.\""
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "I'm from Agadir, but I'm here for work.",
+     "question_da": "Sem3i. Mnin Amina?",
+     "options": [
+      "Men Agadir",
+      "Men Marrakech",
+      "Men Roma",
+      "Men Casa"
+     ],
+     "answer": 0,
+     "explain_da": "`I'm from Agadir` = ana men Agadir. Hiya f Marrakech ghir 3la 9bel lkhedma (`for work`)."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "This is the first time in Morocco for Mr. Rossi.",
+     "statement_da": "Hadi awwel merra l ssi Rossi f lmeghrib.",
+     "answer": false,
+     "explain_da": "Ghalet: \"No, it isn't. I'm here every year.\" = kanji kol 3am."
+    },
+    {
+     "type": "mcq",
+     "question_da": "3lach Amina f Marrakech?",
+     "options": [
+      "3la 9bel lkhedma",
+      "3la 9bel l9raya",
+      "3la 9bel l3otla",
+      "3la 9bel l3a2ila"
+     ],
+     "answer": 0,
+     "explain_da": "\"I'm here for work.\" — `work` = lkhedma."
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "Where are you from?",
+     "da": "Mnin nti?",
+     "pron": "wér ar you from"
+    },
+    {
+     "target_en": "I'm from Morocco. I'm Moroccan.",
+     "da": "Ana men lmeghrib. Ana meghribiya.",
+     "pron": "aïm from mo-ro-ko. aïm mo-ro-kan"
+    },
+    {
+     "target_en": "She's from Spain. She isn't French.",
+     "da": "Hiya men Sbanya. Machi fransawiya.",
+     "pron": "chiz from spéyn. chi i-zent fréntch"
+    },
+    {
+     "target_en": "Are you a student? Yes, I am.",
+     "da": "Wach nti taliba? Ah.",
+     "pron": "ar you a stiou-dent? yès, aï am"
+    },
+    {
+     "target_en": "We aren't from Rabat.",
+     "da": "7na machi men Rabat.",
+     "pron": "wi arnt from ra-bat"
+    },
+    {
+     "target_en": "I speak Arabic and a little English.",
+     "da": "Kanhder l3arbiya w chwiya dyal lingliziya.",
+     "pron": "aï spik a-ra-bik and a li-teul in-glich"
+    }
+   ],
+   "roleplay": {
+    "title_da": "F lmatar",
+    "context_da": "Nti f lmatar f London. Lboulisi dyal l7odoud ghadi ysewlek chi as2ila. Jawbi b jomal 9sira w wad7a. Ila ma3reftich, chofi ljawab lmo9tara7 w 3awdih.",
+    "turns": [
+     {
+      "bot_en": "Good morning. Passport, please. What's your name?",
+      "bot_da": "Sbah lkhir. Lpaspor, 3afak. Chno smiytek?",
+      "expect_keywords": [
+       "my name is",
+       "i am",
+       "i'm",
+       "nouha"
+      ],
+      "sample_en": "My name is Nouha Alami."
+     },
+     {
+      "bot_en": "Where are you from?",
+      "bot_da": "Mnin nti?",
+      "expect_keywords": [
+       "from",
+       "morocco",
+       "moroccan",
+       "casablanca",
+       "rabat"
+      ],
+      "sample_en": "I'm from Morocco. I'm Moroccan."
+     },
+     {
+      "bot_en": "Are you a student or a tourist?",
+      "bot_da": "Wach nti taliba wla sayi7a (`tourist`)?",
+      "expect_keywords": [
+       "student",
+       "tourist",
+       "i am",
+       "i'm"
+      ],
+      "sample_en": "I'm a tourist."
+     },
+     {
+      "bot_en": "Is this your first time in England?",
+      "bot_da": "Wach hadi awwel merra lik f Ingeltera?",
+      "expect_keywords": [
+       "yes",
+       "no",
+       "it is",
+       "it isn't",
+       "first time"
+      ],
+      "sample_en": "Yes, it is. It's my first time."
+     },
+     {
+      "bot_en": "OK. Welcome to England! Have a nice day.",
+      "bot_da": "Wakha. Mer7ba bik f Ingeltera! Nhar zwin.",
+      "expect_keywords": [
+       "thank",
+       "thanks",
+       "bye",
+       "goodbye",
+       "you too"
+      ],
+      "sample_en": "Thank you very much! Goodbye."
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "Ana w sa7bti",
+   "prompt_da": "Ktbi 4 wla 5 jomal b lingliziya: mnin nti, chno jinsiytek, achmen logha kathedri. Men ba3d ktbi 3la sa7ba wla sa7eb (wla chi wa7ed men l3a2ila): mnin howa wla hiya, w achmen logha kayhder. Sta3mli `am`, `is`, `are` w `isn't`.",
+   "helper_en": [
+    "I am from ...",
+    "I'm Moroccan.",
+    "I speak ...",
+    "My friend ... is from ...",
+    "He/She is ..."
+   ],
+   "min_words": 20,
+   "keywords": [
+    "from",
+    "moroccan",
+    "speak"
+   ],
+   "model_en": "My name is Nouha. I'm from Casablanca, in Morocco. I'm Moroccan and I speak Arabic and a little English. My friend Sarah is from Canada. She's Canadian. She isn't a student, she is a nurse. We are friends."
+  }
+ },
+ {
+  "id": "l04",
+  "order": 4,
+  "level": "A1.1",
+  "emoji": "👨‍👩‍👧",
+  "title_en": "My family",
+  "title_da": "L3a2ila dyali",
+  "goals_da": [
+   "Tsemmi l'afrad dyal l3a2ila: `mother`, `father`, `brother`, `sister`…",
+   "Tsta3mli `my`, `your`, `his`, `her`, `our`, `their` w `'s` (`Sara's brother`)",
+   "T9eddmi nnas: `This is my brother.` / `These are my parents.` w tsewli `Who is this?`",
+   "Tsewli w tjawbi: `How many brothers do you have?` — `I have two.`"
+  ],
+  "sections": [
+   {
+    "type": "explain",
+    "title_da": "L'afrad dyal l3a2ila (family members)",
+    "body_da": "`Family` = l3a2ila. Ha l'afrad dyal l3a2ila b lingliziya:\n\n- `mother` (`mom`) = lwalida / mmi\n- `father` (`dad`) = lwalid / bba\n- `parents` = lwalidin (mmi w bba bjouj)\n- `brother` = khou (khouya)\n- `sister` = khet (khti)\n- `son` = lweld (dyali)\n- `daughter` = lbent (dyali)\n- `children` = lwlad / ddrari (wa7ed: `child`)\n- `husband` = rrajel (dyal lmra)\n- `wife` = lmra (dyal rrajel)\n- `grandmother` = jedda / l7enna\n- `grandfather` = jedd\n- `uncle` = 3emm wla khal\n- `aunt` = 3emma wla khala\n- `cousin` = weld / bent 3emm wla khal\n\n**Lfar9 m3a darija:** 7na kanfer9o bin 3emmi w khali, w bin 3emmti w khalti. F lingliziya kelma we7da: `uncle` l rrajel, `aunt` l lmra — sahla! W `cousin` kadkhol l lweld w lbent bjouj.\n\n`Brothers and sisters` = lkhout (lwlad w lbnat). `My family is big.` = l3a2ila dyali kbira.\n\n**Nnot9:** `th` f `mother`, `father`, `brother` kat9ra b lsan bin ssnan, bhal `the` — ma kaynch \"z\" w ma kaynch \"d\".",
+    "examples": [
+     {
+      "en": "This is my mother.",
+      "da": "Hadi mmi.",
+      "pron": "this iz maï ma-theur"
+     },
+     {
+      "en": "My father is from Fes.",
+      "da": "Bba men Fes.",
+      "pron": "maï fa-theur iz from fés"
+     },
+     {
+      "en": "I have two brothers and one sister.",
+      "da": "3ndi jouj khout w khet we7da.",
+      "pron": "aï hav tou bra-theurz and wan sis-teur"
+     },
+     {
+      "en": "My grandmother is in Marrakech.",
+      "da": "Jeddti f Marrakech.",
+      "pron": "maï grand-ma-theur iz in ma-ra-kéch"
+     },
+     {
+      "en": "Our children are students.",
+      "da": "Wladna tlamed.",
+      "pron": "awr tchil-dren ar stiou-dents"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "my, your, his, her, our, their — dyali, dyalek, dyalo…",
+    "body_da": "F darija kan9oulo \"khouya\" wla \"lkhou dyali\", \"ddar dyalek\", \"lwlad dyalhom\". F lingliziya, lkelma dyal lmilkiya (dyali, dyalek…) **kadji 9bel l'ism**, w ma katbeddelch m3a lwa7ed w lbzzaf:\n\n- `my` = dyali → `my brother` = khouya\n- `your` = dyalek / dyalkom → `your sister` = khtek\n- `his` = dyalo (dyal rajel) → `his wife` = mrato\n- `her` = dyalha (dyal mra) → `her husband` = rajelha\n- `its` = dyalo / dyalha (dyal 7aja) → `its name` = smiyto\n- `our` = dyalna → `our house` = darna\n- `their` = dyalhom → `their children` = wladhom\n\n**Redi lbal l `his` / `her`:** khtari 3la 7sab **lmalik** (li 3ndo l7aja), machi 3la 7sab l7aja. Khou Omar → Omar rajel → `his brother`. Khou Sara → Sara mra → `her brother`. (F darija 7ta 7na: khouh / khouha!)\n\n**Ma tkheltich:** `your` (dyalek) w `you're` (= `you are`) kaytsem3o b7al b7al, walakin lma3na mkhtalef. W `his` (dyalo) machi `he's` (= `he is`).",
+    "examples": [
+     {
+      "en": "My mother is a teacher.",
+      "da": "Mmi oustada.",
+      "pron": "maï ma-theur iz a ti-tcheur"
+     },
+     {
+      "en": "Her name is Fatima.",
+      "da": "Smiytha Fatima.",
+      "pron": "heur néym iz fa-ti-ma"
+     },
+     {
+      "en": "His brother is in Rabat.",
+      "da": "Khouh f Rabat.",
+      "pron": "hiz bra-theur iz in ra-bat"
+     },
+     {
+      "en": "Our house is in Casablanca.",
+      "da": "Darna f Casa.",
+      "pron": "awr haws iz in ka-sa-blan-ka"
+     },
+     {
+      "en": "Their children are young.",
+      "da": "Wladhom sghar.",
+      "pron": "thér tchil-dren ar yang"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Lmilkiya b 's: Sara's brother",
+    "body_da": "Bach n9oulo \"khou Sara\" (lkhou dyal Sara), kanzido **`'s`** l smiyt lmalik: `Sara's brother`.\n\nRedi lbal l **ttartib**: f darija kan9oulo \"khou **Sara**\" (l7aja lewwla, lmalik men ba3d). F lingliziya l3eks: \"**Sara's** brother\" (lmalik lewwel, l7aja men ba3d).\n\n- `Omar's wife` = mrat Omar\n- `my mother's name` = smiyt mmi\n- `Nouha's family` = 3a2ilt Nouha\n- `my sister's children` = wlad khti\n\nHad `'s` kaytkteb b7al `is` m9essra (`She's`), walakin lma3na mkhtalef: `Sara's brother` = khou Sara (dyal) / `Sara's a teacher` = `Sara is a teacher`. Lkelma li men ba3d hiya li katbyen: ila men ba3d `'s` kayn ism (`brother`, `wife`, `name`…) → ma3naha \"dyal\".",
+    "examples": [
+     {
+      "en": "This is Sara's brother.",
+      "da": "Hada khou Sara.",
+      "pron": "this iz sa-raz bra-theur"
+     },
+     {
+      "en": "My mother's name is Khadija.",
+      "da": "Smiyt mmi Khadija.",
+      "pron": "maï ma-theurz néym iz kha-di-ja"
+     },
+     {
+      "en": "Omar's wife is from Tangier.",
+      "da": "Mrat Omar men Tanja.",
+      "pron": "o-marz waïf iz from tan-djir"
+     },
+     {
+      "en": "Where is Nouha's family from?",
+      "da": "Mnin l3a2ila dyal Nouha?",
+      "pron": "wér iz nou-haz fa-mi-li from"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "This is… / These are… — Who is this? — How many…?",
+    "body_da": "Bach t9eddmi chi wa7ed l nnas: `This is my sister Meryem.` = hadi khti Meryem. `This` l wa7ed (hada / hadi), `these` l bzzaf (hadou): `These are my parents.` = hadou lwalidin dyali.\n\nBach tsewli 3la chi wa7ed (f tswira matalan): `Who is this?` = chkoun hada / hadi? (`who` = chkoun). Ljawab: `This is my uncle.` wla `It's my uncle.`\n\nBach tsewli ch7al: `How many brothers do you have?` = ch7al 3ndek men khout? (`how many` = ch7al, `have` = 3nd). Ljawab:\n\n- `I have two brothers.` = 3ndi jouj khout.\n- `I have one sister.` = 3ndi khet we7da.\n- `I don't have any brothers.` = ma 3ndich khout. (`any` hna ma katterjemch)\n\n7efdi had ljomal b7al ma homa — l fi3l `have` ghadi nfehmouh mzyan f ddrous jayin.",
+    "examples": [
+     {
+      "en": "This is my father, Hassan.",
+      "da": "Hada bba, Hassan.",
+      "pron": "this iz maï fa-theur, ha-san"
+     },
+     {
+      "en": "These are my children, Adam and Lina.",
+      "da": "Hadou wladi, Adam w Lina.",
+      "pron": "thiz ar maï tchil-dren, a-dam and li-na"
+     },
+     {
+      "en": "Who is this? — It's my aunt.",
+      "da": "Chkoun hadi? — Hadi khalti.",
+      "pron": "hou iz this? its maï ant"
+     },
+     {
+      "en": "How many sisters do you have? — I have one sister.",
+      "da": "Ch7al 3ndek men khwatat? — 3ndi khet we7da.",
+      "pron": "haw mé-ni sis-teurz dou you hav? aï hav wan sis-teur"
+     },
+     {
+      "en": "This is Sara's husband, Karim.",
+      "da": "Hada rajel Sara, Karim.",
+      "pron": "this iz sa-raz haz-band, ka-rim"
+     }
+    ]
+   },
+   {
+    "type": "explain",
+    "title_da": "Wasfi nnas chwiya: tall, young, old, married, single",
+    "body_da": "Bach twesfi nnas chwiya, kansta3mlo `to be` + ssifa (`adjective` = lkelma li katwsef):\n\n- `tall` = twil / twila — `short` = 9sir / 9sira\n- `young` = sghir / sghira f l3mer — `old` = kbir / kbira f l3mer\n- `married` = mzewwej / mzewwja — `single` = 3azeb / 3azba (machi mzewwj)\n- `nice` = dérif / dérifa\n\nMatalan: `My brother is tall.` = khouya twil. `My grandmother is old.` = jeddti kbira f l3mer.\n\n**Lfar9 m3a darija:** ssifa f lingliziya **ma katbeddelch** m3a rrajel w lmra, wla m3a lwa7ed w lbzzaf: `tall` l khouya, l khti, w l khouti kamlin! (F darija: twil, twila, twal.)\n\nSo2al: `Are you married?` = wach nti mzewwja? → `Yes, I am.` / `No, I'm not. I'm single.`",
+    "examples": [
+     {
+      "en": "My sister is young. She's a student.",
+      "da": "Khti sghira. Hiya taliba.",
+      "pron": "maï sis-teur iz yang. chiz a stiou-dent"
+     },
+     {
+      "en": "My grandfather is old.",
+      "da": "Jeddi kbir f l3mer.",
+      "pron": "maï grand-fa-theur iz old"
+     },
+     {
+      "en": "Is your brother married? — No, he's single.",
+      "da": "Wach khouk mzewwej? — La, howa 3azeb.",
+      "pron": "iz your bra-theur ma-rid? no, hiz sin-geul"
+     },
+     {
+      "en": "Omar's father is tall.",
+      "da": "Bba Omar twil.",
+      "pron": "o-marz fa-theur iz tol"
+     },
+     {
+      "en": "Her parents are very nice.",
+      "da": "Lwalidin dyalha drraf bzzaf.",
+      "pron": "heur pé-rents ar vé-ri naïs"
+     }
+    ]
+   },
+   {
+    "type": "vocab",
+    "title_da": "Lkelmat dyal dars",
+    "items": [
+     {
+      "en": "mother",
+      "da": "lwalida / mmi",
+      "emoji": "👩",
+      "pron": "ma-theur",
+      "example_en": "My mother is from Fes.",
+      "example_da": "Mmi men Fes."
+     },
+     {
+      "en": "father",
+      "da": "lwalid / bba",
+      "emoji": "👨",
+      "pron": "fa-theur",
+      "example_en": "My father is tall.",
+      "example_da": "Bba twil."
+     },
+     {
+      "en": "parents",
+      "da": "lwalidin",
+      "emoji": "👫",
+      "pron": "pé-rents",
+      "example_en": "My parents are in Marrakech.",
+      "example_da": "Lwalidin dyali f Marrakech."
+     },
+     {
+      "en": "brother",
+      "da": "khou (khouya)",
+      "emoji": "👦",
+      "pron": "bra-theur",
+      "example_en": "This is my brother Adam.",
+      "example_da": "Hada khouya Adam."
+     },
+     {
+      "en": "sister",
+      "da": "khet (khti)",
+      "emoji": "👧",
+      "pron": "sis-teur",
+      "example_en": "Her sister is a nurse.",
+      "example_da": "Khetha fermliya."
+     },
+     {
+      "en": "husband",
+      "da": "rrajel (dyal lmra)",
+      "emoji": "🤵",
+      "pron": "haz-band",
+      "example_en": "Sara's husband is a doctor.",
+      "example_da": "Rajel Sara tbib."
+     },
+     {
+      "en": "wife",
+      "da": "lmra (dyal rrajel)",
+      "emoji": "👰",
+      "pron": "waïf",
+      "example_en": "His wife is Moroccan.",
+      "example_da": "Mrato meghribiya."
+     },
+     {
+      "en": "son",
+      "da": "lweld (dyali)",
+      "emoji": "🧒",
+      "pron": "san",
+      "example_en": "Their son is a student.",
+      "example_da": "Weldhom talib."
+     },
+     {
+      "en": "daughter",
+      "da": "lbent (dyali)",
+      "emoji": "👧🏻",
+      "pron": "do-teur",
+      "example_en": "Our daughter is young.",
+      "example_da": "Bentna sghira."
+     },
+     {
+      "en": "children",
+      "da": "lwlad / ddrari",
+      "emoji": "👶",
+      "pron": "tchil-dren",
+      "example_en": "How many children do you have?",
+      "example_da": "Ch7al 3ndek men wlad?"
+     },
+     {
+      "en": "grandmother",
+      "da": "jedda / l7enna",
+      "emoji": "👵",
+      "pron": "grand-ma-theur",
+      "example_en": "My grandmother is old.",
+      "example_da": "Jeddti kbira f l3mer."
+     },
+     {
+      "en": "grandfather",
+      "da": "jedd",
+      "emoji": "👴",
+      "pron": "grand-fa-theur",
+      "example_en": "Omar's grandfather is from Tangier.",
+      "example_da": "Jedd Omar men Tanja."
+     },
+     {
+      "en": "uncle",
+      "da": "3emm / khal",
+      "emoji": "🧔",
+      "pron": "an-keul",
+      "example_en": "My uncle is in Spain.",
+      "example_da": "3emmi f Sbanya."
+     },
+     {
+      "en": "aunt",
+      "da": "3emma / khala",
+      "emoji": "👩‍🦱",
+      "pron": "ant",
+      "example_en": "Her aunt is a teacher.",
+      "example_da": "Khaltha oustada."
+     },
+     {
+      "en": "cousin",
+      "da": "weld / bent 3emm wla khal",
+      "emoji": "🧑",
+      "pron": "ka-zin",
+      "example_en": "This is my cousin Yassine.",
+      "example_da": "Hada weld 3emmi Yassine."
+     },
+     {
+      "en": "married",
+      "da": "mzewwej / mzewwja",
+      "emoji": "💍",
+      "pron": "ma-rid",
+      "example_en": "Is your sister married? — Yes, she is.",
+      "example_da": "Wach khtek mzewwja? — Ah."
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "title_da": "Tswira dyal l3a2ila",
+    "context_da": "Nouha kaywerri l Sarah tswira dyal l3a2ila dyalha f lportable.",
+    "lines": [
+     {
+      "speaker": "Sarah",
+      "en": "Oh, is this a photo of your family?",
+      "da": "Wah, wach hadi tswira dyal l3a2ila dyalek?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Yes, it is. This is my mother, Khadija, and this is my father, Hassan.",
+      "da": "Ah. Hadi mmi, Khadija, w hada bba, Hassan."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "Your mother is very nice! And who is this?",
+      "da": "Mmek dérifa bzzaf! W chkoun hada?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "This is my brother Youssef. He's a student in Rabat.",
+      "da": "Hada khouya Youssef. Howa talib f Rabat."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "How many brothers do you have?",
+      "da": "Ch7al 3ndek men khout?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "I have two brothers and one sister. This is my sister Meryem.",
+      "da": "3ndi jouj khout w khet we7da. Hadi khti Meryem."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "Is she married?",
+      "da": "Wach hiya mzewwja?"
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Yes, she is. This is her husband, Karim, and these are their children, Adam and Lina.",
+      "da": "Ah. Hada rajelha, Karim, w hadou wladhom, Adam w Lina."
+     },
+     {
+      "speaker": "Sarah",
+      "en": "What a nice family! I have one sister. Her name is Emma. She's in Canada with our parents.",
+      "da": "Ya 3a2ila zwina! Ana 3ndi khet we7da. Smiytha Emma. Hiya f Canada m3a lwalidin dyalna."
+     },
+     {
+      "speaker": "Nouha",
+      "en": "Oh, nice! Your parents are in Canada, and you are here in Morocco!",
+      "da": "Wah, zwin! Lwalidin dyalek f Canada, w nti hna f lmeghrib!"
+     }
+    ]
+   },
+   {
+    "type": "tip",
+    "title_da": "Nasi7a",
+    "body_da": "`his` wla `her`? Choufi chkoun **lmalik** (li 3ndo l7aja): ila rajel → `his`, ila mra → `her`. \"Mrat Omar\" = `Omar's wife` = `his wife`. \"Rajel Sara\" = `Sara's husband` = `her husband`. W ma tkheltich `your` (dyalek) m3a `you're` (`you are`): `Your sister is nice.` / `You're nice.`"
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "question_da": "\"Khti\" b lingliziya = ?",
+    "options": [
+     "my sister",
+     "my brother",
+     "my mother",
+     "my aunt"
+    ],
+    "answer": 0,
+    "explain_da": "`sister` = khet → `my sister` = khti. `brother` = khou, `mother` = lwalida, `aunt` = 3emma / khala."
+   },
+   {
+    "type": "match",
+    "instruction_da": "Wessli lkelma b lingliziya m3a lma3na dyalha.",
+    "pairs": [
+     {
+      "en": "mother",
+      "da": "lwalida",
+      "emoji": "👩"
+     },
+     {
+      "en": "father",
+      "da": "lwalid",
+      "emoji": "👨"
+     },
+     {
+      "en": "brother",
+      "da": "khou",
+      "emoji": "👦"
+     },
+     {
+      "en": "grandmother",
+      "da": "jedda",
+      "emoji": "👵"
+     },
+     {
+      "en": "uncle",
+      "da": "3emm / khal",
+      "emoji": "🧔"
+     }
+    ]
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "This is my father.",
+    "question_da": "Sem3i. Chkoun hada?",
+    "options": [
+     "Bba (lwalid)",
+     "Mmi (lwalida)",
+     "Khouya",
+     "3emmi"
+    ],
+    "answer": 0,
+    "explain_da": "`father` = lwalid / bba. `mother` = lwalida. `brother` = khou. `uncle` = 3emm."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "This is my sister. ___ name is Meryem.",
+    "options": [
+     "Her",
+     "His",
+     "Their"
+    ],
+    "answer": "Her",
+    "hint_da": "Khti = mra → ?",
+    "explain_da": "Khti mra → `her` (dyalha). `his` l rajel, `their` l bzzaf dyal nnas."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Omar and Ali are brothers. ___ father is a doctor.",
+    "options": [
+     "Their",
+     "His",
+     "Our"
+    ],
+    "answer": "Their",
+    "hint_da": "Omar w Ali = houma → dyalhom.",
+    "explain_da": "Omar w Ali = `they` → `their` (dyalhom). `Their father` = bbahom."
+   },
+   {
+    "type": "mcq",
+    "question_en": "Who is this? — ___ my uncle.",
+    "question_da": "Kemmli ljawab.",
+    "options": [
+     "This is",
+     "These are",
+     "This are",
+     "These is"
+    ],
+    "answer": 0,
+    "explain_da": "Wa7ed → `This is`. Bzzaf → `These are`."
+   },
+   {
+    "type": "order",
+    "words": [
+     "are",
+     "These",
+     "my",
+     "parents."
+    ],
+    "answer": "These are my parents.",
+    "da": "Hadou lwalidin dyali."
+   },
+   {
+    "type": "listen_mcq",
+    "say_en": "I have two brothers and one sister.",
+    "question_da": "Sem3i. Ch7al 3ndo men khout (wlad)?",
+    "options": [
+     "2",
+     "1",
+     "3",
+     "4"
+    ],
+    "answer": 0,
+    "explain_da": "`two brothers` = jouj khout (wlad). `one sister` = khet we7da."
+   },
+   {
+    "type": "truefalse",
+    "statement_en": "\"Sara's brother\" means: Sara is a brother.",
+    "statement_da": "`Sara's brother` kat3ni: Sara hiya lkhou.",
+    "answer": false,
+    "explain_da": "Ghalet! `Sara's brother` = khou Sara (lkhou dyal Sara). `'s` hna = dyal."
+   },
+   {
+    "type": "translate",
+    "da": "Hada rajel Meryem.",
+    "answers": [
+     "This is Meryem's husband.",
+     "It's Meryem's husband.",
+     "This is the husband of Meryem."
+    ],
+    "hint_en": "This is ...'s ...",
+    "explain_da": "`Meryem's husband` = rajel Meryem. Lmalik (Meryem) lewwel, men ba3d `'s`, men ba3d l7aja (`husband`)."
+   },
+   {
+    "type": "dictation",
+    "say_en": "How many sisters do you have?",
+    "da": "Ch7al 3ndek men khwatat?",
+    "explain_da": "Sem3i: `How` – `many` – `sisters` – `do` – `you` – `have`. `How many` = ch7al."
+   },
+   {
+    "type": "mcq",
+    "question_da": "Khadija mzewwja w 3ndha tlata dyal lwlad. Achmen jomla s7i7a?",
+    "options": [
+     "She is married.",
+     "She is single.",
+     "He is married.",
+     "She are married."
+    ],
+    "answer": 0,
+    "explain_da": "Khadija mra → `she`. Mzewwja = `married`. `single` = 3azba. M3a `she` → `is`."
+   },
+   {
+    "type": "order",
+    "words": [
+     "brother",
+     "Her",
+     "is",
+     "tall",
+     "and",
+     "young."
+    ],
+    "answer": "Her brother is tall and young.",
+    "da": "Khouha twil w sghir f l3mer."
+   },
+   {
+    "type": "fill",
+    "sentence_en": "Omar is married. ___ wife is from Fes.",
+    "answers": [
+     "His",
+     "his"
+    ],
+    "hint_da": "Omar rajel → dyalo = ?",
+    "explain_da": "Omar rajel → `his` (dyalo). `His wife` = mrato. Redi lbal: machi `he's`!"
+   },
+   {
+    "type": "translate",
+    "da": "Lwalidin dyali men Fes.",
+    "answers": [
+     "My parents are from Fes.",
+     "My parents are from Fez."
+    ],
+    "hint_en": "My ... are from ...",
+    "explain_da": "`parents` = lwalidin (bzzaf) → `are`. `My parents are from Fes.`"
+   },
+   {
+    "type": "speak",
+    "target_en": "This is my family. These are my parents and this is my brother.",
+    "da": "Hadi l3a2ila dyali. Hadou lwalidin dyali w hada khouya.",
+    "pron": "this iz maï fa-mi-li. thiz ar maï pé-rents and this iz maï bra-theur"
+   }
+  ],
+  "reading": {
+   "title_en": "Sarah's family",
+   "title_da": "L3a2ila dyal Sarah",
+   "emoji": "👨‍👩‍👧‍👦",
+   "text_en": "My friend Sarah is from Canada. This is her family. Her father's name is David. He's from Toronto and he's a teacher. Her mother, Anna, is a doctor. She isn't Canadian, she's Italian! Sarah's sister is Emma. Emma is young: she is nineteen. She is tall and very nice. Emma isn't married, she's single. Sarah's grandmother and grandfather are in Italy. They're old, but they're strong. Sarah's family is small, but they are very happy!",
+   "text_da": "Sa7bti Sarah men Canada. Hadi l3a2ila dyalha. Smiyt bbaha David. Howa men Toronto w howa oustad. Mmha, Anna, tbiba. Hiya machi kanadiya, hiya talyaniya! Khet Sarah hiya Emma. Emma sghira: 3ndha ts3tach l3am. Hiya twila w dérifa bzzaf. Emma machi mzewwja, hiya 3azba. Jedda w jedd Sarah f Italya. Houma kbar f l3mer, walakin houma 9wiyin. L3a2ila dyal Sarah sghira, walakin houma fer7anin bzzaf!",
+   "glossary": [
+    {
+     "en": "friend",
+     "da": "sa7eb / sa7ba"
+    },
+    {
+     "en": "doctor",
+     "da": "tbib / tbiba"
+    },
+    {
+     "en": "Italian",
+     "da": "talyani / talyaniya"
+    },
+    {
+     "en": "nineteen",
+     "da": "ts3tach (19)"
+    },
+    {
+     "en": "Italy",
+     "da": "Italya"
+    },
+    {
+     "en": "strong",
+     "da": "9wi / 9wiya"
+    },
+    {
+     "en": "small",
+     "da": "sghir / sghira"
+    },
+    {
+     "en": "happy",
+     "da": "fer7an / fer7ana"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chno khedmet mmi Sarah (Anna)?",
+     "options": [
+      "Tbiba",
+      "Oustada",
+      "Fermliya",
+      "Taliba"
+     ],
+     "answer": 0,
+     "explain_da": "\"Her mother, Anna, is a doctor.\" = mmha tbiba."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Anna is Italian.",
+     "answer": true,
+     "explain_da": "S7i7: \"She isn't Canadian, she's Italian!\""
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chkoun Emma?",
+     "options": [
+      "Khet Sarah",
+      "Mmi Sarah",
+      "Bent Sarah",
+      "Khalt Sarah"
+     ],
+     "answer": 0,
+     "explain_da": "\"Sarah's sister is Emma.\" = khet Sarah hiya Emma."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Emma is married.",
+     "statement_da": "Emma mzewwja.",
+     "answer": false,
+     "explain_da": "Ghalet: \"Emma isn't married, she's single.\""
+    }
+   ]
+  },
+  "listening": {
+   "title_da": "F l3ers",
+   "emoji": "💒",
+   "pre_da": "Omar 3red Tom l l3ers dyal khto. Sem3i mzyan. Rekkzi 3la: chkoun kay9eddem Omar l Tom? W ch7al 3nd Omar men khout?",
+   "lines": [
+    {
+     "speaker": "Omar",
+     "en": "Tom, welcome! This is my father, Ahmed, and this is my mother, Fatima.",
+     "da": "Tom, mer7ba! Hada bba, Ahmed, w hadi mmi, Fatima."
+    },
+    {
+     "speaker": "Tom",
+     "en": "Nice to meet you! Omar, who is this?",
+     "da": "Metcherref b m3erftkom! Omar, chkoun hadi?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "This is my sister Salma. It's her wedding today!",
+     "da": "Hadi khti Salma. Lyouma l3ers dyalha!"
+    },
+    {
+     "speaker": "Tom",
+     "en": "She's beautiful! And is this her husband?",
+     "da": "Zwina! W wach hada rajelha?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "Yes, it is. His name is Hamza. He's from Agadir.",
+     "da": "Ah. Smiyto Hamza. Howa men Agadir."
+    },
+    {
+     "speaker": "Tom",
+     "en": "How many brothers and sisters do you have, Omar?",
+     "da": "Ch7al 3ndek men khout, Omar?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "I have one sister, Salma, and three brothers. Look, these are my brothers: Ali, Mehdi and Sami.",
+     "da": "3ndi khet we7da, Salma, w tlata dyal lkhout. Chof, hadou khouti: Ali, Mehdi w Sami."
+    },
+    {
+     "speaker": "Tom",
+     "en": "Wow, a big family! Are they married?",
+     "da": "Wow, 3a2ila kbira! Wach houma mzewwjin?"
+    },
+    {
+     "speaker": "Omar",
+     "en": "Ali is married. His wife is the tall woman with the children. Mehdi and Sami are single.",
+     "da": "Ali mzewwej. Mrato hiya dik lmra ttwila li m3a ddrari. Mehdi w Sami 3azbin."
+    },
+    {
+     "speaker": "Tom",
+     "en": "Thank you for the invitation, Omar. Your family is very nice!",
+     "da": "Choukran 3la l3rada, Omar. L3a2ila dyalek dérifa bzzaf!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "question_da": "Chkoun Salma?",
+     "options": [
+      "Khet Omar",
+      "Mrat Omar",
+      "Mmi Omar",
+      "Bent Omar"
+     ],
+     "answer": 0,
+     "explain_da": "\"This is my sister Salma.\" = hadi khti Salma."
+    },
+    {
+     "type": "listen_mcq",
+     "say_en": "I have one sister and three brothers.",
+     "question_da": "Sem3i. Ch7al 3nd Omar men khout (wlad)?",
+     "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+     ],
+     "answer": 0,
+     "explain_da": "`three brothers` = tlata dyal lkhout. `one sister` = khet we7da."
+    },
+    {
+     "type": "truefalse",
+     "statement_en": "Hamza is from Agadir.",
+     "answer": true,
+     "explain_da": "S7i7: \"His name is Hamza. He's from Agadir.\""
+    },
+    {
+     "type": "mcq",
+     "question_da": "Chkoun mzewwej men khout Omar?",
+     "options": [
+      "Ali",
+      "Mehdi",
+      "Sami",
+      "Tom"
+     ],
+     "answer": 0,
+     "explain_da": "\"Ali is married. Mehdi and Sami are single.\""
+    }
+   ]
+  },
+  "speaking": {
+   "pronunciation": [
+    {
+     "target_en": "This is my mother and this is my father.",
+     "da": "Hadi mmi w hada bba.",
+     "pron": "this iz maï ma-theur and this iz maï fa-theur"
+    },
+    {
+     "target_en": "These are my parents.",
+     "da": "Hadou lwalidin dyali.",
+     "pron": "thiz ar maï pé-rents"
+    },
+    {
+     "target_en": "I have two brothers and one sister.",
+     "da": "3ndi jouj khout w khet we7da.",
+     "pron": "aï hav tou bra-theurz and wan sis-teur"
+    },
+    {
+     "target_en": "Her husband is a doctor.",
+     "da": "Rajelha tbib.",
+     "pron": "heur haz-band iz a dok-teur"
+    },
+    {
+     "target_en": "Who is this? It's my uncle.",
+     "da": "Chkoun hada? Hada 3emmi.",
+     "pron": "hou iz this? its maï an-keul"
+    },
+    {
+     "target_en": "Is your sister married? Yes, she is.",
+     "da": "Wach khtek mzewwja? Ah.",
+     "pron": "iz your sis-teur ma-rid? yès, chi iz"
+    }
+   ],
+   "roleplay": {
+    "title_da": "Sarah kattsewwel 3la l3a2ila dyalek",
+    "context_da": "Sa7btek Sarah bghat t3ref l3a2ila dyalek. Jawbi 3la l'as2ila dyalha b jomal 9sira. 9oli l7a9i9a wla khtar3i — lmohim thedri b lingliziya!",
+    "turns": [
+     {
+      "bot_en": "Nouha, tell me about your family. How many brothers do you have?",
+      "bot_da": "Nouha, hedri liya 3la l3a2ila dyalek. Ch7al 3ndek men khout?",
+      "expect_keywords": [
+       "i have",
+       "brother",
+       "brothers",
+       "one",
+       "two",
+       "three",
+       "don't have",
+       "no brothers"
+      ],
+      "sample_en": "I have two brothers."
+     },
+     {
+      "bot_en": "And how many sisters do you have?",
+      "bot_da": "W ch7al 3ndek men khwatat?",
+      "expect_keywords": [
+       "i have",
+       "sister",
+       "sisters",
+       "one",
+       "two",
+       "three",
+       "don't have",
+       "no sisters"
+      ],
+      "sample_en": "I have one sister."
+     },
+     {
+      "bot_en": "What's your mother's name?",
+      "bot_da": "Chno smiyt mmek?",
+      "expect_keywords": [
+       "her name is",
+       "my mother's name",
+       "name",
+       "she is",
+       "she's",
+       "my mother is"
+      ],
+      "sample_en": "Her name is Khadija."
+     },
+     {
+      "bot_en": "Where is your father from?",
+      "bot_da": "Mnin bbak?",
+      "expect_keywords": [
+       "he is from",
+       "he's from",
+       "from",
+       "my father is"
+      ],
+      "sample_en": "He's from Fes."
+     },
+     {
+      "bot_en": "Is your family in Casablanca?",
+      "bot_da": "Wach l3a2ila dyalek f Casa?",
+      "expect_keywords": [
+       "yes",
+       "no",
+       "it is",
+       "it isn't",
+       "they are",
+       "in"
+      ],
+      "sample_en": "Yes, it is. My parents are in Casablanca."
+     }
+    ]
+   }
+  },
+  "writing": {
+   "title_da": "L3a2ila dyali",
+   "prompt_da": "Ktbi 5 wla 6 jomal 3la l3a2ila dyalek b lingliziya: ch7al 3ndek men khout w khwatat, smiyt mmek w bbak, mnin houma, w wesfi wa7ed menhom (`tall`, `young`, `married`…). Sta3mli `my`, `his`, `her` w `their`.",
+   "helper_en": [
+    "I have ... brothers and ... sisters.",
+    "My mother's name is ...",
+    "My father is from ...",
+    "My brother is ...",
+    "This is my family!"
+   ],
+   "min_words": 25,
+   "keywords": [
+    "my",
+    "mother",
+    "father"
+   ],
+   "model_en": "This is my family. I have two brothers and one sister. My mother's name is Khadija. She is from Casablanca. My father, Hassan, is from Fes. He is a teacher. My brother Youssef is tall and young. My sister Meryem is married. Her husband is a doctor."
+  }
+ }
+]

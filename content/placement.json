@@ -1,0 +1,21 @@
+[
+  {"level":"A1.1","type":"mcq","question_da":"Kifach kan9oulo \"choukran\" b lingliziya?","options":["Thank you","Please","Sorry","Hello"],"answer":0},
+  {"level":"A1.1","type":"mcq","question_en":"I ___ Nouha.","question_da":"Khtari lkelma s7i7a.","options":["am","is","are","be"],"answer":0},
+  {"level":"A1.1","type":"mcq","question_en":"What's your name?","question_da":"Achmen jawab s7i7?","options":["My name is Sara.","I'm fine, thanks.","I'm twenty.","Yes, please."],"answer":0},
+  {"level":"A1.1","type":"mcq","question_da":"Achmen kelma kat3ni \"ktab\"?","options":["book","table","car","door"],"answer":0},
+
+  {"level":"A1.2","type":"mcq","question_en":"She ___ to work every day.","question_da":"Khtari lkelma s7i7a.","options":["goes","go","going","is go"],"answer":0},
+  {"level":"A1.2","type":"mcq","question_en":"___ you like coffee?","question_da":"Khtari lkelma s7i7a.","options":["Do","Does","Are","Is"],"answer":0},
+  {"level":"A1.2","type":"mcq","question_en":"There ___ two chairs in the room.","question_da":"Khtari lkelma s7i7a.","options":["are","is","am","be"],"answer":0},
+  {"level":"A1.2","type":"mcq","question_en":"What time is it? (7:30)","question_da":"Khtari ljawab s7i7.","options":["It's half past seven.","It's seven and half.","It's thirty seven.","It's seven past half."],"answer":0},
+
+  {"level":"A2.1","type":"mcq","question_en":"Look! She ___ a book now.","question_da":"Khtari lkelma s7i7a.","options":["is reading","reads","read","reading"],"answer":0},
+  {"level":"A2.1","type":"mcq","question_en":"I ___ to Marrakech last year.","question_da":"Khtari lkelma s7i7a.","options":["went","go","goed","going"],"answer":0},
+  {"level":"A2.1","type":"mcq","question_en":"___ you swim?","question_da":"Khtari lkelma s7i7a.","options":["Can","Do","Are","Is"],"answer":0},
+  {"level":"A2.1","type":"mcq","question_en":"They ___ at home yesterday.","question_da":"Khtari lkelma s7i7a.","options":["were","was","are","be"],"answer":0},
+
+  {"level":"A2.2","type":"mcq","question_en":"Casablanca is ___ than Rabat.","question_da":"Khtari lkelma s7i7a.","options":["bigger","more big","biggest","big"],"answer":0},
+  {"level":"A2.2","type":"mcq","question_en":"Tomorrow I ___ visit my grandmother.","question_da":"Khtari lkelma s7i7a.","options":["am going to","go to","going","goes to"],"answer":0},
+  {"level":"A2.2","type":"mcq","question_en":"Have you ever ___ to London?","question_da":"Khtari lkelma s7i7a.","options":["been","be","went","go"],"answer":0},
+  {"level":"A2.2","type":"mcq","question_en":"You ___ wear a seatbelt. It's the law.","question_da":"Khtari lkelma s7i7a.","options":["must","can","should not","might"],"answer":0}
+]
