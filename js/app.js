@@ -56,5 +56,6 @@ function boot() {
   window.addEventListener('hashchange', route);
   if (!location.hash) location.hash = '#/home';
   route();
+  if (Store.state.seedJustApplied) { delete Store.state.seedJustApplied; Store.save(); toast(`Mar7ba ${Store.state.name}! Ttaqaddom dyalek rje3 ✓`); }
 }
 document.addEventListener('DOMContentLoaded', boot);

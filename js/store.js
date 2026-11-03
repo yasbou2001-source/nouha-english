@@ -13,13 +13,35 @@ const Store = (() => {
   let state = defaults();
   const INTERVALS = [0, 1, 3, 7, 14, 30];
 
+  function hydrate(s) { const st = Object.assign(defaults(), s); st.settings = Object.assign(defaults().settings, s.settings || {}); return st; }
   function load() {
     try {
       const raw = localStorage.getItem(KEY);
-      if (raw) { const s = JSON.parse(raw); state = Object.assign(defaults(), s); state.settings = Object.assign(defaults().settings, s.settings || {}); }
+      if (raw) state = hydrate(JSON.parse(raw));
     } catch (e) { console.warn('load failed', e); }
+    // Published progress (data/seed.js): adopted automatically on a PC where nothing has been done yet.
+    const seed = seedInfo();
+    if (seed && isUntouched(state) && state.seedApplied !== seed.published) { applySeed({ keepLocalVoice: true }); state.seedJustApplied = true; }
     return state;
   }
+  function isUntouched(s) {
+    return !s.placementDone && (s.xp || 0) === 0 && !Object.keys(s.lessons || {}).length && !(s.history || []).length && !Object.keys(s.vocab || {}).length && !(s.writing || []).length && !((s.speaking || {}).attempts);
+  }
+  function seedInfo() {
+    const sd = window.NOUHA_SEED;
+    if (!sd || !sd.state || typeof sd.state !== 'object' || !('lessons' in sd.state)) return null;
+    const st = sd.state;
+    return { published: sd.published || '', xp: st.xp || 0, level: st.level || 0, lessonsDone: Object.values(st.lessons || {}).filter(l => l && l.done).length, name: st.name || 'Nouha' };
+  }
+  function applySeed(o = {}) {
+    const sd = window.NOUHA_SEED; if (!sd || !sd.state) return false;
+    const voice = state.settings && state.settings.voice;
+    state = hydrate(JSON.parse(JSON.stringify(sd.state)));
+    if (o.keepLocalVoice) state.settings.voice = voice || state.settings.voice;
+    state.seedApplied = sd.published || ''; state.seedDismissed = null;
+    delete state.seedJustApplied; save(); return true;
+  }
+  function summary(s) { s = s || state; return { xp: s.xp || 0, level: s.level || 0, lessonsDone: Object.values(s.lessons || {}).filter(l => l && l.done).length, vocab: Object.keys(s.vocab || {}).length, writing: (s.writing || []).length }; }
   function save() { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { console.warn('save failed', e); } }
   function touchDay() {
     const t = todayKey(); const last = state.streak.last;
@@ -66,7 +88,29 @@ const Store = (() => {
   function deleteWriting(t) { state.writing = state.writing.filter(w => w.t !== t); save(); }
   function recordSpeaking(score) { state.speaking.attempts++; state.speaking.sum += score; addXp(score >= 70 ? 3 : 1); save(); }
   function exportJson() { return JSON.stringify(state, null, 2); }
-  function importJson(txt) { const s = JSON.parse(txt); if (!s || typeof s !== 'object' || !('lessons' in s)) throw new Error('bad file'); state = Object.assign(defaults(), s); state.settings = Object.assign(defaults().settings, s.settings || {}); save(); }
-  function reset() { state = defaults(); save(); }
-  return { get state() { return state; }, load, save, touchDay, addXp, lesson, markStep, recordAnswer, recentAccuracy, evaluateLevel, setLevel, vocabEntry, reviewVocab, isDue, isSeen, saveWriting, deleteWriting, recordSpeaking, exportJson, importJson, reset, INTERVALS };
+  function parseState(txt) { const s = JSON.parse(txt); if (!s || typeof s !== 'object' || !('lessons' in s)) throw new Error('bad file'); return s; }
+  function importJson(txt) { state = hydrate(parseState(txt)); save(); }
+  function reset() { const sa = state.seedApplied; state = defaults(); if (sa) state.seedApplied = sa; save(); }
+  return { get state() { return state; }, load, save, touchDay, addXp, lesson, markStep, recordAnswer, recentAccuracy, evaluateLevel, setLevel, vocabEntry, reviewVocab, isDue, isSeen, saveWriting, deleteWriting, recordSpeaking, exportJson, importJson, parseState, reset, seedInfo, applySeed, isUntouched, summary, INTERVALS };
+})();
+
+/* ---- progress share links: #/import/<z|j><base64url> ---- */
+const Transfer = (() => {
+  const b64u = bytes => btoa(String.fromCharCode(...bytes)).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  const unb64u = s => { s = s.replace(/-/g, '+').replace(/_/g, '/'); while (s.length % 4) s += '='; return Uint8Array.from(atob(s), c => c.charCodeAt(0)); };
+  async function pipe(bytes, stream) { const r = new Blob([bytes]).stream().pipeThrough(stream); return new Uint8Array(await new Response(r).arrayBuffer()); }
+  async function encode(obj) {
+    const raw = new TextEncoder().encode(JSON.stringify(obj));
+    if (typeof CompressionStream === 'function') { try { return 'z' + b64u(await pipe(raw, new CompressionStream('deflate-raw'))); } catch (e) { /* fall through */ } }
+    return 'j' + b64u(raw);
+  }
+  async function decode(str) {
+    const kind = str[0]; let bytes = unb64u(str.slice(1));
+    if (kind === 'z') bytes = await pipe(bytes, new DecompressionStream('deflate-raw'));
+    else if (kind !== 'j') throw new Error('bad link');
+    return new TextDecoder().decode(bytes);
+  }
+  function baseUrl() { return location.origin === 'null' || location.protocol === 'file:' ? 'https://yasbou2001-source.github.io/nouha-english/' : location.origin + location.pathname; }
+  async function link(state) { return baseUrl() + '#/import/' + await encode(state); }
+  return { encode, decode, link, baseUrl };
 })();
